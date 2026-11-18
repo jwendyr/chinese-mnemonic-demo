@@ -7,6 +7,7 @@ import json
 import math
 import re
 import subprocess
+import sys
 import wave
 from pathlib import Path
 from PIL import Image, ImageChops, ImageDraw, ImageFont, ImageFilter
@@ -271,7 +272,24 @@ def draw_tone_pill(
         gy = int(dy0 + (dy1 - dy0) * frac)
         draw.line([(dx0, gy), (dx1, gy)], fill=guide_col, width=2)
 
-    if tone == 3:
+    if tone == 1:
+        y_top = dy0 + 4
+        p1 = (dx0 + 5, y_top)
+        p2 = (dx1 - 7, y_top)
+        draw.line([p1, p2], fill=color, width=5)
+        draw.polygon(
+            [(p2[0] + 7, y_top), (p2[0] - 4, y_top - 6), (p2[0] - 4, y_top + 6)],
+            fill=color,
+        )
+    elif tone == 2:
+        p1 = (dx0 + 6, dy1 - 2)
+        p2 = (dx1 - 6, dy0 + 3)
+        draw.line([p1, p2], fill=color, width=5)
+        draw.polygon(
+            [(p2[0] + 4, p2[1] - 2), (p2[0] - 11, p2[1] - 1), (p2[0] - 2, p2[1] + 10)],
+            fill=color,
+        )
+    elif tone == 3:
         p1 = (dx0 + 4, int(dy0 + (dy1 - dy0) * 0.58))
         p2 = (dx0 + diag_w // 2 - 2, dy1 - 2)
         p3 = (dx1 - 6, dy0 + 5)
@@ -369,10 +387,26 @@ BRUSH_SPECS = {
     "看": {
         "crop_boxes": {
             "comp1": (129, 617, 849, 1337),    # 720x720 centered on 手 (hand shading brow)
-            "comp2": (368, 882, 748, 1262),    # 380x380 centered on 目 (eye frame)
+            "comp2": (368, 872, 768, 1272),    # 400x400 centered on 目 (upright eye + lashes)
             "combined": (129, 617, 849, 1337), # 720x720 centered on 看 illustration + strokes
         },
         "comp_colors": [TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, NAVY, NAVY, NAVY, NAVY, NAVY],
+    },
+    "明": {
+        "crop_boxes": {
+            "comp1": (44, 602, 644, 1202),     # 600x600 centered on 日 (sun + beams)
+            "comp2": (384, 628, 1024, 1268),   # 640x640 centered on 月 (crescent moon + stars)
+            "combined": (91, 466, 1011, 1386), # 920x920 centered on 明 (sun + moon + stars)
+        },
+        "comp_colors": [TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, NAVY, NAVY, NAVY, NAVY],
+    },
+    "休": {
+        "crop_boxes": {
+            "comp1": (28, 555, 698, 1225),     # 670x670 centered on 亻 (person resting)
+            "comp2": (271, 576, 951, 1256),    # 680x680 centered on 木 (tree + canopy)
+            "combined": (184, 549, 894, 1259), # 710x710 centered on 休 (person + tree)
+        },
+        "comp_colors": [TERRACOTTA, TERRACOTTA, NAVY, NAVY, NAVY, NAVY],
     },
 }
 
@@ -542,23 +576,43 @@ def _normalize_cream_bg(img: Image.Image) -> Image.Image:
     return out
 
 
+def _build_canvas_stroke_mask(char: str, indices: list[int]) -> Image.Image:
+    """Render combined polygon mask on `(W, H)` canvas for stripping baked-in duplicate strokes."""
+    data = load_stroke_json(char)
+    m = Image.new("L", (W, H), 0)
+    md = ImageDraw.Draw(m)
+    for idx in indices:
+        for poly in parse_svg_stroke_polys(data["strokes"][idx], TMPL_SCALE, TMPL_OX, TMPL_OY):
+            md.polygon(poly, fill=255)
+    return m
+
+
 def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
-    """Extract 1:1 aligned brush-style AI illustrations cropped identically to `BRUSH_SPECS[char]`."""
+    """Extract 1:1 aligned brush-style AI illustrations stripped of baked-in duplicate stroke shadows."""
     spec = BRUSH_SPECS[char]
     src_raw = Image.open(ILLUS_DIR / f"{char}.jpg").convert("RGB").resize((W, H), Image.Resampling.LANCZOS)
     src = _normalize_cream_bg(src_raw)
     px = src.load()
 
-    def build_masked_canvas(keep_fn) -> Image.Image:
+    def build_masked_canvas(keep_fn, source_px=px) -> Image.Image:
         out = Image.new("RGB", (W, H), BG_COLOR)
         opx = out.load()
         for y in range(H):
             for x in range(W):
-                if px[x, y] != BG_COLOR and keep_fn(x, y, px[x, y]):
-                    opx[x, y] = px[x, y]
+                if source_px[x, y] != BG_COLOR and keep_fn(x, y, source_px[x, y]):
+                    opx[x, y] = source_px[x, y]
         return out
 
     if char == "好":
+        # Strip any baked-in AI navy stroke pixels around 女 torso (y=775..1075) outside 女 foreground mask
+        nu_keep = _build_canvas_stroke_mask("好", [0, 1, 2]).filter(ImageFilter.MaxFilter(5)).load()
+        for y in range(775, 1076):
+            for x in range(250, 560):
+                r, g, b = px[x, y]
+                is_navy = (b > r + 8) or (r < 95 and g < 100)
+                if is_navy and nu_keep[x, y] == 0:
+                    px[x, y] = BG_COLOR
+
         def keep_c1(x, y, rgb):
             r, g, b = rgb
             is_navy = (b > r + 8) or (r < 95 and g < 100)
@@ -582,15 +636,84 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
         c1_full = build_masked_canvas(keep_c1)
         c2_full = build_masked_canvas(keep_c2)
     elif char == "看":
+        # illustrations/看.jpg now contains clean terracotta 手 + zero-ghost upright eye strictly inside 目
+        def keep_c1(x, y, rgb):
+            return (y < 960) or (x < 460)
+
+        def keep_c2(x, y, rgb):
+            return (y >= 960) and (x >= 460)
+
+        c1_full = build_masked_canvas(keep_c1)
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "明":
+        sun_yellow = (230, 174, 77)
+        moon_slate = (176, 192, 212)
+        yue_keep = _build_canvas_stroke_mask("明", [4, 5, 6, 7]).filter(ImageFilter.MaxFilter(3)).load()
+
+        # Strip baked-in 日 strokes inside sun disc and stray baked-in 月 dark-navy fringes outside foreground mask
+        for y in range(620, 1230):
+            for x in range(110, 995):
+                r, g, b = px[x, y]
+                if r - g > 35 and x < 500 and ((x - 385) ** 2 + (y - 880) ** 2 <= 174 ** 2):
+                    px[x, y] = sun_yellow
+                elif (r < 110 and g < 115 and b < 140) and x < 740 and yue_keep[x, y] == 0:
+                    # Only strip dark-navy baked-in 月 stroke edges; leave slate crescent moon intact
+                    px[x, y] = moon_slate if (x >= 550 and 700 <= y <= 1190) else BG_COLOR
+
         def keep_c1(x, y, rgb):
             r, g, b = rgb
-            is_terracotta = (r - b > 20 and r > 125)
-            return is_terracotta or (y < 932)
+            is_navy = (b > r + 4) or (r < 95 and g < 105 and b < 130)
+            is_slate = (b >= r + 4) and (r < 220)
+            return (not is_navy) and (not is_slate) and (x < 680)
 
         def keep_c2(x, y, rgb):
             r, g, b = rgb
-            is_terracotta = (r - b > 20 and r > 125)
-            return (y >= 932) and (x >= 440) and not is_terracotta
+            is_navy = (b > r + 4) or (r < 95 and g < 105 and b < 130)
+            is_slate = (b >= r + 4) and (r < 220)
+            return is_navy or is_slate or (x >= 740)
+
+        c1_full = build_masked_canvas(keep_c1)
+        c1_px = c1_full.load()
+        for y in range(700, 1060):
+            for x in range(505, 565):
+                if c1_px[x, y] == BG_COLOR and (x - 385) ** 2 + (y - 880) ** 2 <= 174 ** 2:
+                    c1_px[x, y] = sun_yellow
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "休":
+        # Strip any baked-in terracotta 亻 or dark navy 木 stroke fringes outside foreground masks
+        ren_keep = _build_canvas_stroke_mask("休", [0, 1]).filter(ImageFilter.MaxFilter(3)).load()
+        mu_keep = _build_canvas_stroke_mask("休", [2, 3, 4, 5]).filter(ImageFilter.MaxFilter(3)).load()
+        sage_canopy = (171, 192, 180)
+
+        def is_sage(r: int, g: int, b: int) -> bool:
+            if r > 235 and g > 230 and r >= g:
+                return False
+            return (g >= r - 2) and (g >= 105) and (b < g + 6)
+
+        for y in range(580, 1240):
+            for x in range(240, 840):
+                r, g, b = px[x, y]
+                if (r, g, b) == BG_COLOR:
+                    continue
+                if r - g > 65 and g < 130 and ren_keep[x, y] == 0:
+                    px[x, y] = BG_COLOR
+                elif (r < 105 and g < 115 and b < 140) and y >= 735 and x >= 415 and mu_keep[x, y] == 0:
+                    px[x, y] = sage_canopy if (740 <= y <= 1045 and 435 <= x <= 770) else BG_COLOR
+
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            if is_sage(r, g, b):
+                return False
+            if y >= 735:
+                return x < 460 and (r - g > 30)
+            return x < 480
+
+        def keep_c2(x, y, rgb):
+            if x < 480 and y < 745:
+                return False
+            r, g, b = rgb
+            is_dark_navy = (r < 115 and g < 125 and b < 150)
+            return x >= 428 and (is_sage(r, g, b) or (is_dark_navy and y >= 735))
 
         c1_full = build_masked_canvas(keep_c1)
         c2_full = build_masked_canvas(keep_c2)
@@ -830,7 +953,7 @@ def _composite_strokes_over_art(
     illus_alpha: float,
     show_badges_alpha: float = 0.0,
     border_width: int = 3,
-    halo_filter_size: int = 7,
+    halo_filter_size: int = 3,
     corner_radius: int | None = None,
 ) -> Image.Image:
     """Keep rounded brush strokes permanently ON TOP while the AI illustration fades in behind."""
@@ -859,13 +982,13 @@ def _composite_strokes_over_art(
 
     tile_rgba = base_tile.convert("RGBA")
 
-    # Layer 3: Warm-cream halo around the stroke union so foreground ink pops cleanly over matching hues
+    # Layer 3: Subtle warm-cream halo around the stroke union so foreground ink separates cleanly
     if alpha_i > 0.01 and sdata["n"] > 0:
         union_mask = sdata["masks"][0].copy()
         for m in sdata["masks"][1:]:
             union_mask = ImageChops.lighter(union_mask, m)
-        halo_mask = union_mask.filter(ImageFilter.MaxFilter(halo_filter_size)).filter(ImageFilter.GaussianBlur(1.2))
-        halo_scale = 0.80 * alpha_i
+        halo_mask = union_mask.filter(ImageFilter.MaxFilter(halo_filter_size)).filter(ImageFilter.GaussianBlur(0.8))
+        halo_scale = 0.45 * alpha_i
         halo_scaled = halo_mask.point(lambda v: int(v * halo_scale))
         halo_layer = Image.new("RGBA", (size, size), BG_COLOR + (255,))
         tile_rgba.paste(halo_layer, (0, 0), halo_scaled)
@@ -879,9 +1002,9 @@ def _composite_strokes_over_art(
         ink_col = _lerp_rgb(base_col, target_col, alpha_i)
 
         stroke_mask = sdata["masks"][idx]
-        # Slightly lighten 目's two inner horizontal bars (6, 7 in 看) so iris behind stays legible
+        # Keep 目's two inner horizontal bars crisp above the centered iris of the upright eye
         if char == "看" and stroke_ids[idx] in (6, 7) and alpha_i > 0.01:
-            dim_factor = 1.0 - 0.14 * alpha_i
+            dim_factor = 1.0 - 0.06 * alpha_i
             stroke_mask = stroke_mask.point(lambda v: int(v * dim_factor))
 
         col_layer = Image.new("RGBA", (size, size), ink_col + (255,))
@@ -1129,7 +1252,7 @@ EXEMPLARS = {
                 "meaning_short": "Mata  ·  Nada 4",
                 "meaning_full": "Arti:  Mata",
                 "origin_pill": "DARI GAMBAR KE HURUF",
-                "mini_origin": "Mata manusia lengkap dengan bola mata",
+                "mini_origin": "Mata manusia yang diputar tegak",
                 "scene_origin": "Berasal dari mata manusia yang diputar tegak.",
                 "audio_part_a": [
                     (VOICE_ZH, "目。", 80),
@@ -1226,6 +1349,304 @@ EXEMPLARS = {
             ],
         },
     },
+    "明": {
+        "target_pinyin": "míng",
+        "target_tone": 2,
+        "stroke_split": 4,
+        "c1_indices": [0, 1, 2, 3],
+        "c2_indices": [4, 5, 6, 7],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 2  ·  Naik",
+            "combined_pill": "GABUNGAN:  日  +  月  =  明",
+            "meaning": "Arti:  Terang / Cerah / Besok",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Saat matahari (日) dan bulan (月) bersinar,",
+                "dunia menjadi terang dan cerah (明)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "日",
+                "pinyin": "rì",
+                "tone": 4,
+                "tone_label": "Nada 4  ·  Turun Tegas",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Matahari  ·  Nada 4",
+                "meaning_full": "Arti:  Matahari",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Matahari bulat yang bersinar terik",
+                "scene_origin": "Berasal dari gambar matahari yang bersinar.",
+                "audio_part_a": [
+                    (VOICE_ZH, "日。", 80),
+                    (VOICE_ID, "Artinya matahari.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar matahari yang bersinar.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "月",
+                "pinyin": "yuè",
+                "tone": 4,
+                "tone_label": "Nada 4  ·  Turun Tegas",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Bulan  ·  Nada 4",
+                "meaning_full": "Arti:  Bulan",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Bulan sabit di langit malam",
+                "scene_origin": "Berasal dari gambar bulan sabit yang melengkung.",
+                "audio_part_a": [
+                    (VOICE_ZH, "月。", 80),
+                    (VOICE_ID, "Artinya bulan.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar bulan sabit yang melengkung.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Saat matahari,", 60),
+                (VOICE_ZH, "日，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "dan bulan bersinar,", 60),
+                (VOICE_ZH, "月，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "dunia menjadi terang,", 70),
+                (VOICE_ZH, "明。", 140),
+                (VOICE_ID, "Artinya terang, cerah, atau besok.", 120),
+                (VOICE_ZH, "明。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 2  ·  Rising",
+            "combined_pill": "COMBINED:  日  +  月  =  明",
+            "meaning": "Meaning:  Bright / Clear / Tomorrow",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "When the sun (日) and moon (月) shine,",
+                "everything is bright and clear (明)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "日",
+                "pinyin": "rì",
+                "tone": 4,
+                "tone_label": "Tone 4  ·  Sharp Falling",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Sun  ·  Tone 4",
+                "meaning_full": "Meaning:  Sun",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Glowing sun radiating warm light",
+                "scene_origin": "Coming from the glowing sun.",
+                "audio_part_a": [
+                    (VOICE_ZH, "日。", 80),
+                    (VOICE_EN, "Means sun.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from the glowing sun.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "月",
+                "pinyin": "yuè",
+                "tone": 4,
+                "tone_label": "Tone 4  ·  Sharp Falling",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Moon  ·  Tone 4",
+                "meaning_full": "Meaning:  Moon",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Curved crescent moon in night sky",
+                "scene_origin": "Coming from a curved crescent moon.",
+                "audio_part_a": [
+                    (VOICE_ZH, "月。", 80),
+                    (VOICE_EN, "Means moon.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a curved crescent moon.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "When the sun,", 60),
+                (VOICE_ZH, "日，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "and moon shine,", 60),
+                (VOICE_ZH, "月，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "everything turns bright,", 70),
+                (VOICE_ZH, "明。", 140),
+                (VOICE_EN, "Meaning bright, clear, or tomorrow.", 120),
+                (VOICE_ZH, "明。", 0),
+            ],
+        },
+    },
+    "休": {
+        "target_pinyin": "xiū",
+        "target_tone": 1,
+        "stroke_split": 2,
+        "c1_indices": [0, 1],
+        "c2_indices": [2, 3, 4, 5],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 1  ·  Datar Tinggi",
+            "combined_pill": "GABUNGAN:  人  +  木  =  休",
+            "meaning": "Arti:  Istirahat / Bersantai",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Saat orang (人) bersandar di pohon (木),",
+                "ia bisa beristirahat tenang (休)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "人",
+                "pinyin": "rén",
+                "tone": 2,
+                "tone_label": "Nada 2  ·  Naik",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Orang / Manusia  ·  Nada 2",
+                "meaning_full": "Arti:  Orang / Manusia",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Sosok orang yang berdiri tenang",
+                "scene_origin": "Berasal dari sosok orang yang sedang berdiri.",
+                "audio_part_a": [
+                    (VOICE_ZH, "人。", 80),
+                    (VOICE_ID, "Artinya orang atau manusia.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari sosok orang yang sedang berdiri.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "木",
+                "pinyin": "mù",
+                "tone": 4,
+                "tone_label": "Nada 4  ·  Turun Tegas",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Pohon / Kayu  ·  Nada 4",
+                "meaning_full": "Arti:  Pohon / Kayu",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Pohon rindang dengan dahan dan akar",
+                "scene_origin": "Berasal dari gambar pohon lengkap dengan dahan dan akarnya.",
+                "audio_part_a": [
+                    (VOICE_ZH, "木。", 80),
+                    (VOICE_ID, "Artinya pohon atau kayu.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar pohon lengkap dengan dahan dan akarnya.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Saat orang,", 60),
+                (VOICE_ZH, "人，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "bersandar di pohon,", 60),
+                (VOICE_ZH, "木，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "ia beristirahat tenang,", 70),
+                (VOICE_ZH, "休。", 140),
+                (VOICE_ID, "Artinya istirahat atau bersantai.", 120),
+                (VOICE_ZH, "休。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 1  ·  High Level",
+            "combined_pill": "COMBINED:  人  +  木  =  休",
+            "meaning": "Meaning:  Rest / Relax",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "When a person (人) leans by a tree (木),",
+                "they rest peacefully (休)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "人",
+                "pinyin": "rén",
+                "tone": 2,
+                "tone_label": "Tone 2  ·  Rising",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Person / Human  ·  Tone 2",
+                "meaning_full": "Meaning:  Person / Human",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Person standing calmly at rest",
+                "scene_origin": "Coming from a person standing calmly.",
+                "audio_part_a": [
+                    (VOICE_ZH, "人。", 80),
+                    (VOICE_EN, "Means person.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a person standing calmly.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "木",
+                "pinyin": "mù",
+                "tone": 4,
+                "tone_label": "Tone 4  ·  Sharp Falling",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Tree / Wood  ·  Tone 4",
+                "meaning_full": "Meaning:  Tree / Wood",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Shady tree with branches and roots",
+                "scene_origin": "Coming from a tree with branches and roots.",
+                "audio_part_a": [
+                    (VOICE_ZH, "木。", 80),
+                    (VOICE_EN, "Means tree or wood.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a tree with branches and roots.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "When a person,", 60),
+                (VOICE_ZH, "人，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "leans by a tree,", 60),
+                (VOICE_ZH, "木，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "they rest peacefully,", 70),
+                (VOICE_ZH, "休。", 140),
+                (VOICE_EN, "Meaning to rest or relax.", 120),
+                (VOICE_ZH, "休。", 0),
+            ],
+        },
+    },
 }
 
 
@@ -1260,7 +1681,7 @@ def _draw_mini_origin_card(
     thumb_sdata = build_brush_stroke_masks(glyph_source_char, crop_key, thumb_side, stroke_indices=stroke_indices)
     thumb_tile = _composite_strokes_over_art(
         thumb_sdata, art_comp, illus_alpha=1.0, show_badges_alpha=0.0,
-        border_width=2, halo_filter_size=5, corner_radius=20,
+        border_width=2, halo_filter_size=3, corner_radius=20,
     )
     canvas.paste(thumb_tile, (thumb_x0, thumb_y0))
 
@@ -1842,7 +2263,8 @@ def build_exemplar_for_char(char: str, lang: str, artworks: dict[str, Image.Imag
 
 
 def main() -> None:
-    for char in ("好", "看"):
+    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休")
+    for char in targets:
         artworks = build_aligned_ai_artworks(char)
         for lang in ("id", "en"):
             res = build_exemplar_for_char(char, lang, artworks)

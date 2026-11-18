@@ -1,17 +1,17 @@
 # Dokumentasi Masalah, Akar Penyebab & Standar QC — Kartu & Video Mnemonik HSK 1
 
-Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipeline pembuatan kartu dan video 9:16 HSK 1, akar penyebab teknisnya, perbaikan yang sudah dibuktikan pada exemplar **`好 (hǎo)`** & **`看 (kàn)`**, serta aturan wajib sebelum menjalankan proses batch apa pun.
+Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipeline pembuatan kartu dan video 9:16 HSK 1, akar penyebab teknisnya, perbaikan yang sudah dibuktikan pada 4 exemplar lintas 4 nada Mandarin (**`休 (xiū, Nada 1)`**, **`明 (míng, Nada 2)`**, **`好 (hǎo, Nada 3)`**, **`看 (kàn, Nada 4)`**), serta aturan wajib sebelum menjalankan proses batch apa pun.
 
 **Implementasi acuan yang sudah terverifikasi (Gaya Kaligrafi Kuas Bulat / Kaiti Seragam):**
 - Skrip exemplar: [`build_one_exemplar.py`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/build_one_exemplar.py)
-- Ilustrasi AI referensi (gaya coretan kuas bulat): [`好.jpg`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/illustrations/好.jpg) & [`看.jpg`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/illustrations/看.jpg) (`768×1376`)
-- Template goresan kuas & data vektor SVG (`hanzi-writer-data`): [`templates/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates/好.png), [`templates/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates/看.png), [`stroke_data/`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/stroke_data/)
+- Ilustrasi AI referensi (gaya coretan kuas bulat): [`好.jpg`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/illustrations/好.jpg), [`看.jpg`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/illustrations/看.jpg), [`明.jpg`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/illustrations/明.jpg), [`休.jpg`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/illustrations/休.jpg) (`1080×1920`)
+- Template goresan kuas & data vektor SVG (`hanzi-writer-data`): [`templates/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates/好.png), [`templates/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates/看.png), [`templates/明.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates/明.png), [`templates/休.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates/休.png), [`stroke_data/`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/stroke_data/)
 - Kartu hasil QC:
-  - Indonesia: [`cards/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/好.png), [`cards/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/看.png)
-  - Inggris: [`cards_en/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/好.png), [`cards_en/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/看.png)
-- Video 9:16 hasil QC (`1080×1920`, `30fps`, `20.5s – 21.7s`):
-  - Indonesia: [`char_videos/好.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/好.mp4), [`char_videos/看.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/看.mp4)
-  - Inggris: [`char_videos_en/好.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/好.mp4), [`char_videos_en/看.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/看.mp4)
+  - Indonesia: [`cards/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/好.png), [`cards/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/看.png), [`cards/明.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/明.png), [`cards/休.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/休.png)
+  - Inggris: [`cards_en/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/好.png), [`cards_en/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/看.png), [`cards_en/明.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/明.png), [`cards_en/休.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/休.png)
+- Video 9:16 hasil QC (`1080×1920`, `30fps`, `20.5s – 23.0s`):
+  - Indonesia: [`char_videos/好.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/好.mp4), [`char_videos/看.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/看.mp4), [`char_videos/明.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/明.mp4), [`char_videos/休.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/休.mp4)
+  - Inggris: [`char_videos_en/好.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/好.mp4), [`char_videos_en/看.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/看.mp4), [`char_videos_en/明.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/明.mp4), [`char_videos_en/休.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/休.mp4)
 
 ---
 
@@ -178,3 +178,15 @@ Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipel
   - **Karakter selalu menimpa gambar (lapisan teratas permanen):** Setelah ditulis pada fase `a_*`, guratan kaligrafi kuas (`masks[0..N-1]`) **tidak pernah menghilang** — ilustrasilah yang muncul perlahan di **belakang karakter** (`illus_alpha = 0.0 → 1.0` pada opasitas halus maksimal `76%` di atas latar `#F9F5EC`).
   - **Halo pemisah & tinta kontras tinggi:** Sisipkan halo krem `#F9F5EC` tipis (`MaxFilter(7)` untuk kotak utama, `MaxFilter(5)` untuk mini-thumbnail) di antara ilustrasi dan guratan, lalu render guratan huruf di lapisan paling atas memakai tinta kontras tinggi (`#14203A` biru tua dan `#A52622` merah-terakota tua; dua batang dalam `目` sedikit diredam ke `86%` agar iris mata teal di belakangnya tetap terbaca).
   - **Konsisten di seluruh kartu & mini-card:** Babak 1, Babak 2, Babak 3, thumbnail mini-card ① & ②, dan seluruh kartu statis (`cards/` & `cards_en/`) menerapkan komposisi karakter-di-atas-ilustrasi ini.
+
+---
+
+### 17. Penghapusan Bayangan Ganda Bawaan Gambar AI & Mata Diputar Tegak (`Anti Bayangan Karakter`)
+- **Gejala:**
+  1. Pada `看` (`手 + 目`), ilustrasi awal mata manusia tergambar mendatar di samping bingkai huruf daripada tegak mengikuti batang vertikal `目`, serta sempat muncul bayangan pinggir guratan `目` yang sedikit bergeser (*ghost stroke shadow / bayangan karakter*) saat model AI mengedit gambar langsung.
+  2. Pada ilustrasi komponen lain (`休`, `明`), sisa piksel guratan terakota/navy tipis di luar mask vektor resmi atau piksel pinggir bertempo rendah dapat memunculkan pinggiran ganda (*halo kotor*) atau celah titik saat dipotong ke mini-card.
+- **Akar Penyebab:** Generator gambar AI sering meninggalkan *baked-in stroke outline* yang sedikit bergeser dari koordinat poligon kuas resmi (`hanzi-writer-data`), atau piksel warna tepi (*dark rim* / *anti-aliased fringe*) tidak tercakup di filter mask komponen.
+- **Solusi & Aturan Wajib:**
+  - **Bersihkan seluruh bayangan karakter bawaan AI di luar mask resmi (`_build_canvas_stroke_mask` + `MaxFilter(3)`):** Goresan kaligrafi final berasal tunggal dari mask poligon resmi di lapisan paling atas (`_composite_strokes_over_art(..., halo_filter_size=3)`).
+  - **Mata manusia di `看` wajib diputar 90° tegak (`Mata manusia yang diputar tegak`):** Digambar presisi *4× supersampled* tepat di dalam bingkai kuas `目` (`x=478..634, y=966..1154`) dengan iris teal terpusat di antara dua palang horizontal `目` (guratan 7 & 8) — nol bayangan karakter ganda.
+  - **Pemisahan warna komponen akurat:** Pada `明`, ambang batas warna biru bulan sabit (`(r < 110 and g < 115 and b < 140)`) melindungi gradasi biru muda bulan `月`; pada `休`, filter `is_sage` mencakup piksel rim daun hijau gelap (`121, 154, 137`) maupun pinggiran anti-aliased tanpa titik bolong dan bebas goresan rambut liar di luar kepala.
