@@ -168,3 +168,13 @@ Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipel
     3. **Animasi guratan 30fps (`米字格`) & Strip urutan guratan (`1..N`)**: dirender 2× *supersampled* dari data poligon & median kuas yang sama (`build_brush_stroke_masks`).
     4. **Judul Hero Hanzi (Babak 1, 2, 3) & Mini-Card Komponen**: dirender dari poligon vektor kuas yang sama persis (`render_brush_glyph_rgba` / `draw_brush_hero_with_pinyin`).
     5. **Teks CJK sebaris** (*formula `女 + 子 = 好`, kalimat mnemonik*): memakai font kaligrafi Kaiti bawaan macOS (`Kaiti.ttc`, `index=3` = `Kaiti SC Bold`).
+
+---
+
+### 16. Layering Wajib: Goresan Karakter Menimpa Gambar Ilustrasi (`Karakter di Atas, Ilustrasi di Belakang`)
+- **Gejala:** Ketika transisi akhir memakai `Image.blend(completed_strokes_tile, art_tile, alpha)` dari `0.0 → 1.0`, ilustrasi AI justru menimpa dan menutupi penuh goresan karakter (terutama komponen bayi terakota `子` di `好` dan tangan merah `手` di `看`), sehingga huruf Mandarin-nya tidak lagi terbaca di kartu maupun akhir setiap babak.
+- **Akar Penyebab:** Transisi *crossfade* menggantikan layer guratan huruf dengan gambar ilustrasi rata (`opacity = 1.0`) tanpa mempertahankan layer guratan karakter di lapisan teratas.
+- **Solusi & Aturan Wajib (`_composite_strokes_over_art`):**
+  - **Karakter selalu menimpa gambar (lapisan teratas permanen):** Setelah ditulis pada fase `a_*`, guratan kaligrafi kuas (`masks[0..N-1]`) **tidak pernah menghilang** — ilustrasilah yang muncul perlahan di **belakang karakter** (`illus_alpha = 0.0 → 1.0` pada opasitas halus maksimal `76%` di atas latar `#F9F5EC`).
+  - **Halo pemisah & tinta kontras tinggi:** Sisipkan halo krem `#F9F5EC` tipis (`MaxFilter(7)` untuk kotak utama, `MaxFilter(5)` untuk mini-thumbnail) di antara ilustrasi dan guratan, lalu render guratan huruf di lapisan paling atas memakai tinta kontras tinggi (`#14203A` biru tua dan `#A52622` merah-terakota tua; dua batang dalam `目` sedikit diredam ke `86%` agar iris mata teal di belakangnya tetap terbaca).
+  - **Konsisten di seluruh kartu & mini-card:** Babak 1, Babak 2, Babak 3, thumbnail mini-card ① & ②, dan seluruh kartu statis (`cards/` & `cards_en/`) menerapkan komposisi karakter-di-atas-ilustrasi ini.

@@ -59,7 +59,9 @@ GHOST_STROKE = (229, 223, 213)    # #E5DFD5
 DIVIDER = (237, 230, 218)         # #EDE6DA
 CHARCOAL = (43, 45, 66)           # #2B2D42
 NAVY = (31, 46, 77)               # #1F2E4D
+FG_NAVY = (20, 32, 58)            # High-contrast ink ON TOP of illustration
 TERRACOTTA = (217, 83, 79)        # #D9534F
+FG_TERRACOTTA = (165, 38, 34)     # High-contrast ink ON TOP of terracotta illustration
 SOFT_TERRACOTTA = (252, 237, 235) # #FCEDEB
 FOREST = (46, 111, 94)            # #2E6F5E
 SOFT_FOREST = (234, 244, 240)     # #EAF4F0
@@ -672,6 +674,8 @@ def build_brush_stroke_masks(
         medians.append(med_px)
 
     return {
+        "char": char,
+        "stroke_ids": sel,
         "n": len(masks),
         "masks": masks,
         "medians": medians,
@@ -810,6 +814,96 @@ def _build_aligned_illustration_tile(artwork: Image.Image, size: int) -> Image.I
     tile.paste(scaled, (0, 0), mask)
     ImageDraw.Draw(tile).rounded_rectangle([0, 0, size - 1, size - 1], radius=max(24, size // 16), outline=CARD_BORDER, width=3)
     return tile
+
+
+def _lerp_rgb(c0: tuple[int, int, int], c1: tuple[int, int, int], t: float) -> tuple[int, int, int]:
+    return (
+        int(round(c0[0] + (c1[0] - c0[0]) * t)),
+        int(round(c0[1] + (c1[1] - c0[1]) * t)),
+        int(round(c0[2] + (c1[2] - c0[2]) * t)),
+    )
+
+
+def _composite_strokes_over_art(
+    sdata: dict,
+    art_img: Image.Image,
+    illus_alpha: float,
+    show_badges_alpha: float = 0.0,
+    border_width: int = 3,
+    halo_filter_size: int = 7,
+    corner_radius: int | None = None,
+) -> Image.Image:
+    """Keep rounded brush strokes permanently ON TOP while the AI illustration fades in behind."""
+    size = sdata["size"]
+    radius = corner_radius if corner_radius is not None else max(10, size // 16)
+    alpha_i = max(0.0, min(1.0, illus_alpha))
+    alpha_b = max(0.0, min(1.0, show_badges_alpha))
+
+    # Layer 1: Mi-Zi-Ge background fading softly to clean cream as illustration appears
+    grid_tile = Image.new("RGB", (size, size), BG_COLOR)
+    gd = ImageDraw.Draw(grid_tile)
+    _draw_mizige_box(gd, 0, 0, size, fill=BG_COLOR, outline=CARD_BORDER, outline_w=border_width)
+
+    plain_tile = Image.new("RGB", (size, size), BG_COLOR)
+    base_tile = Image.blend(grid_tile, plain_tile, alpha_i)
+
+    # Layer 2: Softened AI illustration behind the character strokes (max 76% over #F9F5EC)
+    if alpha_i > 0.005:
+        art_scaled = art_img.resize((size, size), Image.Resampling.LANCZOS).filter(
+            ImageFilter.UnsharpMask(radius=0.8, percent=75, threshold=3)
+        )
+        art_soft = Image.blend(plain_tile, art_scaled, 0.76 * alpha_i)
+        clip_mask = Image.new("L", (size, size), 0)
+        ImageDraw.Draw(clip_mask).rounded_rectangle([0, 0, size, size], radius=radius, fill=255)
+        base_tile.paste(art_soft, (0, 0), clip_mask)
+
+    tile_rgba = base_tile.convert("RGBA")
+
+    # Layer 3: Warm-cream halo around the stroke union so foreground ink pops cleanly over matching hues
+    if alpha_i > 0.01 and sdata["n"] > 0:
+        union_mask = sdata["masks"][0].copy()
+        for m in sdata["masks"][1:]:
+            union_mask = ImageChops.lighter(union_mask, m)
+        halo_mask = union_mask.filter(ImageFilter.MaxFilter(halo_filter_size)).filter(ImageFilter.GaussianBlur(1.2))
+        halo_scale = 0.80 * alpha_i
+        halo_scaled = halo_mask.point(lambda v: int(v * halo_scale))
+        halo_layer = Image.new("RGBA", (size, size), BG_COLOR + (255,))
+        tile_rgba.paste(halo_layer, (0, 0), halo_scaled)
+
+    # Layer 4: Brush strokes permanently ON TOP in high-contrast foreground ink
+    char = sdata.get("char", "")
+    stroke_ids = sdata.get("stroke_ids", list(range(sdata["n"])))
+    for idx in range(sdata["n"]):
+        base_col = sdata["colors"][idx]
+        target_col = FG_NAVY if base_col == NAVY else FG_TERRACOTTA
+        ink_col = _lerp_rgb(base_col, target_col, alpha_i)
+
+        stroke_mask = sdata["masks"][idx]
+        # Slightly lighten 目's two inner horizontal bars (6, 7 in 看) so iris behind stays legible
+        if char == "看" and stroke_ids[idx] in (6, 7) and alpha_i > 0.01:
+            dim_factor = 1.0 - 0.14 * alpha_i
+            stroke_mask = stroke_mask.point(lambda v: int(v * dim_factor))
+
+        col_layer = Image.new("RGBA", (size, size), ink_col + (255,))
+        tile_rgba.paste(col_layer, (0, 0), stroke_mask)
+
+    # Layer 5: Fading stroke-order badges (visible during write, smoothly fading out on reveal)
+    if alpha_b > 0.05:
+        badge_layer = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+        bd = ImageDraw.Draw(badge_layer)
+        badge_r = max(12, int(size * 0.024))
+        for idx in range(sdata["n"]):
+            bx, by = sdata["badge_pts"][idx]
+            draw_step_badge(bd, bx, by, badge_r, idx + 1, CHARCOAL, (255, 255, 255))
+        if alpha_b < 0.995:
+            r_ch, g_ch, b_ch, a_ch = badge_layer.split()
+            a_ch = a_ch.point(lambda v: int(v * alpha_b))
+            badge_layer = Image.merge("RGBA", (r_ch, g_ch, b_ch, a_ch))
+        tile_rgba = Image.alpha_composite(tile_rgba, badge_layer)
+
+    out = tile_rgba.convert("RGB")
+    ImageDraw.Draw(out).rounded_rectangle([0, 0, size - 1, size - 1], radius=radius, outline=CARD_BORDER, width=border_width)
+    return out
 
 
 def paste_thumbnail_frame(
@@ -1145,6 +1239,7 @@ def _draw_mini_origin_card(
     comp_cfg: dict,
     art_comp: Image.Image,
     glyph_source_char: str,
+    crop_key: str,
     stroke_indices: list[int],
 ) -> None:
     x0, y0, x1, y1 = box
@@ -1160,8 +1255,14 @@ def _draw_mini_origin_card(
         pad_x=16, pad_y=5, step_num=comp_cfg["step"],
     )
 
-    thumb_box = (x0 + 18, y0 + 70, x0 + 180, y0 + 232)
-    paste_thumbnail_frame(canvas, art_comp, box=thumb_box, radius=20)
+    thumb_x0, thumb_y0, thumb_x1, thumb_y1 = x0 + 18, y0 + 70, x0 + 180, y0 + 232
+    thumb_side = thumb_x1 - thumb_x0
+    thumb_sdata = build_brush_stroke_masks(glyph_source_char, crop_key, thumb_side, stroke_indices=stroke_indices)
+    thumb_tile = _composite_strokes_over_art(
+        thumb_sdata, art_comp, illus_alpha=1.0, show_badges_alpha=0.0,
+        border_width=2, halo_filter_size=5, corner_radius=20,
+    )
+    canvas.paste(thumb_tile, (thumb_x0, thumb_y0))
 
     right_cx = (x0 + 186 + x1 - 12) // 2
     f_comp_hanzi = load_cjk(60)
@@ -1425,7 +1526,9 @@ def render_component_synced_scene(
     for f_idx in range(n_fade_frames):
         alpha = _smoothstep((f_idx + 1) / n_fade_frames)
         frame = base.copy()
-        blended = Image.blend(completed_strokes_tile, art_tile, alpha)
+        blended = _composite_strokes_over_art(
+            sdata, art_comp, illus_alpha=alpha, show_badges_alpha=1.0 - alpha,
+        )
         frame.paste(blended, (mx0, my0))
         fd = ImageDraw.Draw(frame)
         for bx, by in mini_boxes:
@@ -1438,8 +1541,11 @@ def render_component_synced_scene(
             frame.save(preview_dir / f"{char}_{tag}_morph.png")
             frame.save(EXEMPLARS_DIR / f"{char}_{tag}_morph_{lang}.png")
 
+    final_art_over_tile = _composite_strokes_over_art(
+        sdata, art_comp, illus_alpha=1.0, show_badges_alpha=0.0,
+    )
     final_frame = base.copy()
-    final_frame.paste(art_tile, (mx0, my0))
+    final_frame.paste(final_art_over_tile, (mx0, my0))
     fd = ImageDraw.Draw(final_frame)
     for bx, by in mini_boxes:
         fd.rounded_rectangle([bx, by, bx + mini_size, by + mini_size], radius=12, outline=comp_cfg["color"], width=2)
@@ -1512,8 +1618,8 @@ def render_combined_synced_scene(
     tone_bg = SOFT_TERRACOTTA if spec["target_tone"] == 4 else SOFT_FOREST
     draw_tone_pill(d, 260, lcfg["tone_label"], spec["target_tone"], tone_col, tone_bg, f_tone)
 
-    _draw_mini_origin_card(base, (54, 304, 512, 638), lcfg["c1"], artworks["comp1"], char, spec["c1_indices"])
-    _draw_mini_origin_card(base, (568, 304, 1026, 638), lcfg["c2"], artworks["comp2"], char, spec["c2_indices"])
+    _draw_mini_origin_card(base, (54, 304, 512, 638), lcfg["c1"], artworks["comp1"], char, "comp1", spec["c1_indices"])
+    _draw_mini_origin_card(base, (568, 304, 1026, 638), lcfg["c2"], artworks["comp2"], char, "comp2", spec["c2_indices"])
     d = ImageDraw.Draw(base)
 
     d.ellipse([516, 446, 564, 494], fill=CHARCOAL)
@@ -1596,7 +1702,9 @@ def render_combined_synced_scene(
     for f_idx in range(n_fade):
         alpha = _smoothstep((f_idx + 1) / n_fade)
         frame = base.copy()
-        blended = Image.blend(completed_strokes_tile, art_tile, alpha)
+        blended = _composite_strokes_over_art(
+            sdata, artworks["combined"], illus_alpha=alpha, show_badges_alpha=1.0 - alpha,
+        )
         frame.paste(blended, (mx0, my0))
         fd = ImageDraw.Draw(frame)
         for idx_b, (bx, by) in enumerate(mini_boxes):
@@ -1609,8 +1717,11 @@ def render_combined_synced_scene(
             frame.save(preview_dir / f"{char}_s3_morph.png")
             frame.save(EXEMPLARS_DIR / f"{char}_s3_morph_{lang}.png")
 
+    final_art_over_tile = _composite_strokes_over_art(
+        sdata, artworks["combined"], illus_alpha=1.0, show_badges_alpha=0.0,
+    )
     final_frame = base.copy()
-    final_frame.paste(art_tile, (mx0, my0))
+    final_frame.paste(final_art_over_tile, (mx0, my0))
     fd = ImageDraw.Draw(final_frame)
     for idx_b, (bx, by) in enumerate(mini_boxes):
         fd.rounded_rectangle([bx, by, bx + mini_size, by + mini_size], radius=10, outline=sdata["colors"][idx_b], width=2)

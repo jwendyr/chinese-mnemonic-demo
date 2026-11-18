@@ -567,6 +567,42 @@
       color: var(--muted);
       font-weight: 600;
     }
+
+    .btn-speak {
+      border: 1px solid var(--ochre);
+      background: transparent;
+      color: var(--ochre);
+      font: inherit;
+      font-weight: 700;
+      font-size: 0.95rem;
+      padding: 0.65rem 1.1rem;
+      border-radius: 999px;
+      cursor: pointer;
+    }
+
+    .btn-speak:hover {
+      background: var(--ochre);
+      color: #fff;
+    }
+
+    /* ── Lightbox prev/next ────────────────────────────────── */
+    .dlg-nav-btn {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--ink);
+      inline-size: 36px;
+      block-size: 36px;
+      border-radius: 999px;
+      font-size: 1.05rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    .dlg-nav-btn:hover {
+      background: var(--ink);
+      color: #fff;
+      border-color: var(--ink);
+    }
   </style>
 </head>
 <body>
@@ -650,7 +686,12 @@
         <span class="dlg-meaning" id="lightboxMeaning">beristirahat</span>
       </div>
       <form method="dialog">
-        <button type="submit" class="dlg-close" aria-label="Tutup dialog">&times;</button>
+        <div style="display:flex; gap:0.45rem; align-items:center;">
+          <button type="button" class="dlg-nav-btn" id="dlgPrev" aria-label="Sebelumnya">&larr;</button>
+          <button type="button" class="dlg-nav-btn" id="dlgNext" aria-label="Berikutnya">&rarr;</button>
+          <button type="button" class="btn-speak" id="dlgSpeak" style="inline-size:auto; padding:0.3rem 0.8rem; font-size:0.8rem;">🔊</button>
+          <button type="submit" class="dlg-close" aria-label="Tutup dialog">&times;</button>
+        </div>
       </form>
     </div>
     <div class="dlg-body">
@@ -676,6 +717,19 @@
     let activeMode = "vocab";
     let activeCategory = "ALL";
     let searchQuery = "";
+    let currentItems = [];
+    let currentLightboxIdx = -1;
+
+    function speakZh(text) {
+      if (!("speechSynthesis" in window) || !text) return;
+      window.speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = "zh-CN";
+      u.rate = 0.85;
+      const zhVoice = window.speechSynthesis.getVoices().find((v) => v.lang.replace("_", "-").startsWith("zh"));
+      if (zhVoice) u.voice = zhVoice;
+      window.speechSynthesis.speak(u);
+    }
 
     function updateStats() {
       const vSet = activeLang === "en" ? videoSetEn : videoSetId;
@@ -834,6 +888,7 @@
     }
 
     function openLightbox(item) {
+      currentLightboxIdx = currentItems.indexOf(item);
       const isEn = activeLang === "en";
       const cardsDir = isEn ? "cards_en" : "cards";
       const charVideosDir = isEn ? "char_videos_en" : "char_videos";
@@ -974,10 +1029,28 @@
       lightbox.showModal();
     }
 
+    function stepLightbox(delta) {
+      if (!currentItems.length) return;
+      const next = (currentLightboxIdx + delta + currentItems.length) % currentItems.length;
+      openLightbox(currentItems[next]);
+    }
+
+    document.getElementById("dlgPrev").addEventListener("click", () => stepLightbox(-1));
+    document.getElementById("dlgNext").addEventListener("click", () => stepLightbox(1));
+    document.getElementById("dlgSpeak").addEventListener("click", () => {
+      const item = currentItems[currentLightboxIdx];
+      if (item) speakZh(item.title);
+    });
+    lightbox.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowLeft") stepLightbox(-1);
+      if (e.key === "ArrowRight") stepLightbox(1);
+    });
+
     function render() {
       const items = getItems();
       galleryEl.innerHTML = "";
       catRow.hidden = activeMode !== "vocab";
+      currentItems = items;
 
       if (items.length === 0) {
         emptyEl.hidden = false;

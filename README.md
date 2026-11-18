@@ -34,11 +34,13 @@ Seluruh komponen huruf (`女`, `子`, `好`, `手`, `目`, `看`) — termasuk j
 
 ---
 
-## Alur Koreografi Video 3 Babak (Tulis Guratan → Morph Ilustrasi AI)
+## Alur Koreografi Video 3 Babak & Layering (`Karakter Menimpa Gambar`)
 
-1. **Babak 1 (`Asal Karakter 1`):** Menggambar guratan resmi (`hanzi-writer-data`) di kotak `米字格` saat karakter dan artinya diucapkan, lalu *smoothstep crossfade* gradual menjadi ilustrasi AI komponen pertama saat asal piktograf disebut (`女` ibu bersimpuh / `手` tangan menaungi).
-2. **Babak 2 (`Asal Karakter 2`):** Menggambar guratan komponen kedua secara berurutan lalu bertransisi gradual menjadi ilustrasi AI komponen kedua (`子` bayi dibedong / `目` mata manusia).
-3. **Babak 3 (`Mnemonik 3 Karakter + Menulis Utuh`):** Menggambar guratan komponen 1 → komponen 2 secara presisi sinkron mengikuti narasi mnemonik 3 karakter (`Arti → Hanzi`), lalu bertransisi gradual memunculkan ilustrasi AI gabungan serta kartu ringkasan dan strip urutan guratan `1..N`.
+- **Karakter Selalu di Lapisan Teratas (100% Terbaca):** Begitu guratan kuas selesai ditulis, **goresan huruf tetap menimpa di atas gambar ilustrasi** (dengan halo pemisah `#F9F5EC` tipis dan tinta kaligrafi kontras tinggi), sementara ilustrasi AI muncul perlahan di **lapisan belakang**.
+
+1. **Babak 1 (`Asal Karakter 1`):** Menggambar guratan resmi (`hanzi-writer-data`) di kotak `米字格` saat karakter dan artinya diucapkan, lalu ilustrasi AI komponen pertama muncul perlahan **di belakang goresan kuas** saat asal piktograf disebut (`女` ibu bersimpuh / `手` tangan menaungi).
+2. **Babak 2 (`Asal Karakter 2`):** Menggambar guratan komponen kedua secara berurutan lalu ilustrasi AI komponen kedua muncul **di belakang karakter** (`子` bayi dibedong / `目` mata manusia).
+3. **Babak 3 (`Mnemonik 3 Karakter + Menulis Utuh`):** Menggambar guratan komponen 1 → komponen 2 secara presisi sinkron mengikuti narasi mnemonik 3 karakter (`Arti → Hanzi`), lalu ilustrasi AI gabungan muncul di belakang goresan kuas bersama kartu ringkasan dan strip urutan guratan `1..N`.
 
 ### Preview Keyframe Babak 1–3
 
