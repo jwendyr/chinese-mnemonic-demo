@@ -1,0 +1,3231 @@
+[
+  {
+    "id": 1,
+    "char": "爱",
+    "pinyin": "ài",
+    "meaning_en": "love",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 宀 / 冖 / 广 (Roof) + 心 / 忄 (Heart)",
+    "actor_ids": [
+      "shou_hand",
+      "mian_roof",
+      "xin_heart"
+    ],
+    "mnemonic_en": "Caring hand and roof sheltering a friend. Consistent actors: Action Hand (手 / 扌 / 又) and House Roof (宀 / 冖 / 广) and Feeling Heart (心 / 忄).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/爱.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/爱.png` into a Chineasy flat-vector visual mnemonic for 爱 (ài — love) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Caring hand and roof sheltering a friend. Consistent actors: Action Hand (手 / 扌 / 又) and House Roof (宀 / 冖 / 广) and Feeling Heart (心 / 忄).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 宀 / 冖 / 广 (Roof) + 心 / 忄 (Heart). Caring hand and roof sheltering a friend. Consistent actors: Action Hand (手 / 扌 / 又) and House Roof (宀 / 冖 / 广) and Feeling Heart (心 / 忄).",
+    "voiceover_meaning_en": "This character means love.",
+    "voiceover_zh": "爱。爱。"
+  },
+  {
+    "id": 2,
+    "char": "八",
+    "pinyin": "bā",
+    "meaning_en": "eight",
+    "layout_en": "Single Structure",
+    "radicals_en": "八 / 几 (Split)",
+    "actor_ids": [
+      "ba_divide"
+    ],
+    "mnemonic_en": "Two symmetrical parted strokes dividing into eight. Consistent actors: Balanced Split (八 / 几).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/八.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/八.png` into a Chineasy flat-vector visual mnemonic for 八 (bā — eight) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two symmetrical parted strokes dividing into eight. Consistent actors: Balanced Split (八 / 几).",
+    "voiceover_intro_en": "八 / 几 (Split). Two symmetrical parted strokes dividing into eight. Consistent actors: Balanced Split (八 / 几).",
+    "voiceover_meaning_en": "This character means eight.",
+    "voiceover_zh": "八。八。"
+  },
+  {
+    "id": 3,
+    "char": "爸",
+    "pinyin": "bà",
+    "meaning_en": "dad",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "父 / 老 (Elder)",
+    "actor_ids": [
+      "fu_father"
+    ],
+    "mnemonic_en": "Crossed fatherly arms sheltering below. Consistent actors: Wise Elder (父 / 老).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/爸.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/爸.png` into a Chineasy flat-vector visual mnemonic for 爸 (bà — dad) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Crossed fatherly arms sheltering below. Consistent actors: Wise Elder (父 / 老).",
+    "voiceover_intro_en": "父 / 老 (Elder). Crossed fatherly arms sheltering below. Consistent actors: Wise Elder (父 / 老).",
+    "voiceover_meaning_en": "This character means dad.",
+    "voiceover_zh": "爸。爸。"
+  },
+  {
+    "id": 4,
+    "char": "杯",
+    "pinyin": "bēi",
+    "meaning_en": "cup; trophy cup",
+    "layout_en": "Left + Right",
+    "radicals_en": "木 (Tree) + 一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "mu_tree",
+      "yi_one"
+    ],
+    "mnemonic_en": "Wooden cup shape beside solid frame. Consistent actors: Timber Tree (木) and Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/杯.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/杯.png` into a Chineasy flat-vector visual mnemonic for 杯 (bēi — cup; trophy cup) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Wooden cup shape beside solid frame. Consistent actors: Timber Tree (木) and Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "木 (Tree) + 一 / 二 / 三 (Line). Wooden cup shape beside solid frame. Consistent actors: Timber Tree (木) and Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means cup; trophy cup.",
+    "voiceover_zh": "杯。杯。"
+  },
+  {
+    "id": 5,
+    "char": "北",
+    "pinyin": "běi",
+    "meaning_en": "north",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person)",
+    "actor_ids": [
+      "ren_person"
+    ],
+    "mnemonic_en": "Two people sitting back-to-back facing away. Consistent actors: Person Actor (人 / 亻).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/北.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/北.png` into a Chineasy flat-vector visual mnemonic for 北 (běi — north) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two people sitting back-to-back facing away. Consistent actors: Person Actor (人 / 亻).",
+    "voiceover_intro_en": "人 / 亻 (Person). Two people sitting back-to-back facing away. Consistent actors: Person Actor (人 / 亻).",
+    "voiceover_meaning_en": "This character means north.",
+    "voiceover_zh": "北。北。"
+  },
+  {
+    "id": 6,
+    "char": "本",
+    "pinyin": "běn",
+    "meaning_en": "measure word for books",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "木 (Tree) + 一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "mu_tree",
+      "yi_one"
+    ],
+    "mnemonic_en": "Tree trunk marked with a horizontal bar at its roots. Consistent actors: Timber Tree (木) and Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/本.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/本.png` into a Chineasy flat-vector visual mnemonic for 本 (běn — measure word for books) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Tree trunk marked with a horizontal bar at its roots. Consistent actors: Timber Tree (木) and Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "木 (Tree) + 一 / 二 / 三 (Line). Tree trunk marked with a horizontal bar at its roots. Consistent actors: Timber Tree (木) and Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means measure word for books.",
+    "voiceover_zh": "本。本。"
+  },
+  {
+    "id": 7,
+    "char": "不",
+    "pinyin": "bù",
+    "meaning_en": "not / no",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "一 / 二 / 三 (Line) + 隹 / 羽 / 飞 (Bird/Wing)",
+    "actor_ids": [
+      "yi_one",
+      "zhui_bird"
+    ],
+    "mnemonic_en": "Bird hitting a horizontal ceiling barrier. Consistent actors: Counting Bar (一 / 二 / 三) and Flying Bird (隹 / 羽 / 飞).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/不.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/不.png` into a Chineasy flat-vector visual mnemonic for 不 (bù — not / no) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Bird hitting a horizontal ceiling barrier. Consistent actors: Counting Bar (一 / 二 / 三) and Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 隹 / 羽 / 飞 (Bird/Wing). Bird hitting a horizontal ceiling barrier. Consistent actors: Counting Bar (一 / 二 / 三) and Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_meaning_en": "This character means not / no.",
+    "voiceover_zh": "不。不。"
+  },
+  {
+    "id": 8,
+    "char": "菜",
+    "pinyin": "cài",
+    "meaning_en": "dish / vegetable",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "艹 / 生 (Sprout) + 手 / 扌 / 又 (Hand) + 木 (Tree)",
+    "actor_ids": [
+      "cao_grass",
+      "shou_hand",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Hand plucking fresh green leafy vegetables. Consistent actors: Green Sprout (艹 / 生) and Action Hand (手 / 扌 / 又) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/菜.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/菜.png` into a Chineasy flat-vector visual mnemonic for 菜 (cài — dish / vegetable) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Hand plucking fresh green leafy vegetables. Consistent actors: Green Sprout (艹 / 生) and Action Hand (手 / 扌 / 又) and Timber Tree (木).",
+    "voiceover_intro_en": "艹 / 生 (Sprout) + 手 / 扌 / 又 (Hand) + 木 (Tree). Hand plucking fresh green leafy vegetables. Consistent actors: Green Sprout (艹 / 生) and Action Hand (手 / 扌 / 又) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means dish / vegetable.",
+    "voiceover_zh": "菜。菜。"
+  },
+  {
+    "id": 9,
+    "char": "茶",
+    "pinyin": "chá",
+    "meaning_en": "tea",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "艹 / 生 (Sprout) + 人 / 亻 (Person) + 木 (Tree)",
+    "actor_ids": [
+      "cao_grass",
+      "ren_person",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Grass leaves above person and tree — brewing tea. Consistent actors: Green Sprout (艹 / 生) and Person Actor (人 / 亻) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/茶.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/茶.png` into a Chineasy flat-vector visual mnemonic for 茶 (chá — tea) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Grass leaves above person and tree — brewing tea. Consistent actors: Green Sprout (艹 / 生) and Person Actor (人 / 亻) and Timber Tree (木).",
+    "voiceover_intro_en": "艹 / 生 (Sprout) + 人 / 亻 (Person) + 木 (Tree). Grass leaves above person and tree — brewing tea. Consistent actors: Green Sprout (艹 / 生) and Person Actor (人 / 亻) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means tea.",
+    "voiceover_zh": "茶。茶。"
+  },
+  {
+    "id": 10,
+    "char": "车",
+    "pinyin": "chē",
+    "meaning_en": "vehicle / car",
+    "layout_en": "Single Structure",
+    "radicals_en": "车 (Vehicle)",
+    "actor_ids": [
+      "che_vehicle"
+    ],
+    "mnemonic_en": "Top-down axle and wheels of a rolling carriage. Consistent actors: Rolling Wheel (车).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/车.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/车.png` into a Chineasy flat-vector visual mnemonic for 车 (chē — vehicle / car) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Top-down axle and wheels of a rolling carriage. Consistent actors: Rolling Wheel (车).",
+    "voiceover_intro_en": "车 (Vehicle). Top-down axle and wheels of a rolling carriage. Consistent actors: Rolling Wheel (车).",
+    "voiceover_meaning_en": "This character means vehicle / car.",
+    "voiceover_zh": "车。车。"
+  },
+  {
+    "id": 11,
+    "char": "吃",
+    "pinyin": "chī",
+    "meaning_en": "to eat",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 气 (Air)",
+    "actor_ids": [
+      "kou_mouth",
+      "qi_steam"
+    ],
+    "mnemonic_en": "Open mouth happily eating. Consistent actors: Speaking Mouth (口) and Rising Steam (气).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/吃.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/吃.png` into a Chineasy flat-vector visual mnemonic for 吃 (chī — to eat) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Open mouth happily eating. Consistent actors: Speaking Mouth (口) and Rising Steam (气).",
+    "voiceover_intro_en": "口 (Mouth) + 气 (Air). Open mouth happily eating. Consistent actors: Speaking Mouth (口) and Rising Steam (气).",
+    "voiceover_meaning_en": "This character means to eat.",
+    "voiceover_zh": "吃。吃。"
+  },
+  {
+    "id": 12,
+    "char": "出",
+    "pinyin": "chū",
+    "meaning_en": "to go out; to come out",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "山 (Mountain)",
+    "actor_ids": [
+      "shan_mountain"
+    ],
+    "mnemonic_en": "Sprouting peak pushing up and out of a box. Consistent actors: Mountain Peaks (山).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/出.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/出.png` into a Chineasy flat-vector visual mnemonic for 出 (chū — to go out; to come out) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sprouting peak pushing up and out of a box. Consistent actors: Mountain Peaks (山).",
+    "voiceover_intro_en": "山 (Mountain). Sprouting peak pushing up and out of a box. Consistent actors: Mountain Peaks (山).",
+    "voiceover_meaning_en": "This character means to go out; to come out.",
+    "voiceover_zh": "出。出。"
+  },
+  {
+    "id": 13,
+    "char": "打",
+    "pinyin": "dǎ",
+    "meaning_en": "hit / call",
+    "layout_en": "Left + Right",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "shou_hand",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Hand tapping a nail / phone keypad. Consistent actors: Action Hand (手 / 扌 / 又) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/打.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/打.png` into a Chineasy flat-vector visual mnemonic for 打 (dǎ — hit / call) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Hand tapping a nail / phone keypad. Consistent actors: Action Hand (手 / 扌 / 又) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 工 / 寸 (Tool). Hand tapping a nail / phone keypad. Consistent actors: Action Hand (手 / 扌 / 又) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means hit / call.",
+    "voiceover_zh": "打。打。"
+  },
+  {
+    "id": 14,
+    "char": "大",
+    "pinyin": "dà",
+    "meaning_en": "big / large",
+    "layout_en": "Single Structure",
+    "radicals_en": "大 / 天 / 太 (Big)",
+    "actor_ids": [
+      "da_big"
+    ],
+    "mnemonic_en": "Person stretching both arms wide to show BIG. Consistent actors: Wide Stretch (大 / 天 / 太).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/大.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/大.png` into a Chineasy flat-vector visual mnemonic for 大 (dà — big / large) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person stretching both arms wide to show BIG. Consistent actors: Wide Stretch (大 / 天 / 太).",
+    "voiceover_intro_en": "大 / 天 / 太 (Big). Person stretching both arms wide to show BIG. Consistent actors: Wide Stretch (大 / 天 / 太).",
+    "voiceover_meaning_en": "This character means big / large.",
+    "voiceover_zh": "大。大。"
+  },
+  {
+    "id": 15,
+    "char": "的",
+    "pinyin": "de",
+    "meaning_en": "possessive particle ('s)",
+    "layout_en": "Left + Right",
+    "radicals_en": "王 / 白 (Jewel) + 饣 / 米 (Food)",
+    "actor_ids": [
+      "gui_jade",
+      "shi_food"
+    ],
+    "mnemonic_en": "Crisp white ladle linking owner to item. Consistent actors: Precious Jade (王 / 白) and Rice Bowl (饣 / 米).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/的.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/的.png` into a Chineasy flat-vector visual mnemonic for 的 (de — possessive particle ('s)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Crisp white ladle linking owner to item. Consistent actors: Precious Jade (王 / 白) and Rice Bowl (饣 / 米).",
+    "voiceover_intro_en": "王 / 白 (Jewel) + 饣 / 米 (Food). Crisp white ladle linking owner to item. Consistent actors: Precious Jade (王 / 白) and Rice Bowl (饣 / 米).",
+    "voiceover_meaning_en": "This character means possessive particle ('s).",
+    "voiceover_zh": "的。的。"
+  },
+  {
+    "id": 16,
+    "char": "点",
+    "pinyin": "diǎn",
+    "meaning_en": "o'clock / dot",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "立 (Stand) + 火 / 灬 (Fire)",
+    "actor_ids": [
+      "li_stand",
+      "huo_fire"
+    ],
+    "mnemonic_en": "Four glowing ember dots beneath a marker post. Consistent actors: Standing Firm (立) and Blazing Fire (火 / 灬).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/点.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/点.png` into a Chineasy flat-vector visual mnemonic for 点 (diǎn — o'clock / dot) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Four glowing ember dots beneath a marker post. Consistent actors: Standing Firm (立) and Blazing Fire (火 / 灬).",
+    "voiceover_intro_en": "立 (Stand) + 火 / 灬 (Fire). Four glowing ember dots beneath a marker post. Consistent actors: Standing Firm (立) and Blazing Fire (火 / 灬).",
+    "voiceover_meaning_en": "This character means o'clock / dot.",
+    "voiceover_zh": "点。点。"
+  },
+  {
+    "id": 17,
+    "char": "店",
+    "pinyin": "diàn",
+    "meaning_en": "shop / inn",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 立 (Stand)",
+    "actor_ids": [
+      "mian_roof",
+      "li_stand"
+    ],
+    "mnemonic_en": "Shop awning roof sheltering a counter stall. Consistent actors: House Roof (宀 / 冖 / 广) and Standing Firm (立).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/店.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/店.png` into a Chineasy flat-vector visual mnemonic for 店 (diàn — shop / inn) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Shop awning roof sheltering a counter stall. Consistent actors: House Roof (宀 / 冖 / 广) and Standing Firm (立).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 立 (Stand). Shop awning roof sheltering a counter stall. Consistent actors: House Roof (宀 / 冖 / 广) and Standing Firm (立).",
+    "voiceover_meaning_en": "This character means shop / inn.",
+    "voiceover_zh": "店。店。"
+  },
+  {
+    "id": 18,
+    "char": "电",
+    "pinyin": "diàn",
+    "meaning_en": "electricity",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "日 / 白 (Sun) + 火 / 灬 (Fire)",
+    "actor_ids": [
+      "ri_sun",
+      "huo_fire"
+    ],
+    "mnemonic_en": "Lightning bolt tail sparking from a cloud box. Consistent actors: Shining Sun (日 / 白) and Blazing Fire (火 / 灬).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/电.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/电.png` into a Chineasy flat-vector visual mnemonic for 电 (diàn — electricity) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Lightning bolt tail sparking from a cloud box. Consistent actors: Shining Sun (日 / 白) and Blazing Fire (火 / 灬).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 火 / 灬 (Fire). Lightning bolt tail sparking from a cloud box. Consistent actors: Shining Sun (日 / 白) and Blazing Fire (火 / 灬).",
+    "voiceover_meaning_en": "This character means electricity.",
+    "voiceover_zh": "电。电。"
+  },
+  {
+    "id": 19,
+    "char": "东",
+    "pinyin": "dōng",
+    "meaning_en": "east; host",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "日 / 白 (Sun) + 木 (Tree)",
+    "actor_ids": [
+      "ri_sun",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Rising sun behind a simplified tree. Consistent actors: Shining Sun (日 / 白) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/东.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/东.png` into a Chineasy flat-vector visual mnemonic for 东 (dōng — east; host) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Rising sun behind a simplified tree. Consistent actors: Shining Sun (日 / 白) and Timber Tree (木).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 木 (Tree). Rising sun behind a simplified tree. Consistent actors: Shining Sun (日 / 白) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means east; host.",
+    "voiceover_zh": "东。东。"
+  },
+  {
+    "id": 20,
+    "char": "都",
+    "pinyin": "dōu",
+    "meaning_en": "all / both",
+    "layout_en": "Left + Right",
+    "radicals_en": "父 / 老 (Elder) + 日 / 白 (Sun) + 阝 (Wall)",
+    "actor_ids": [
+      "fu_father",
+      "ri_sun",
+      "fu_mound"
+    ],
+    "mnemonic_en": "All citizens gathered beside city wall. Consistent actors: Wise Elder (父 / 老) and Shining Sun (日 / 白) and City Wall (阝).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/都.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/都.png` into a Chineasy flat-vector visual mnemonic for 都 (dōu — all / both) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: All citizens gathered beside city wall. Consistent actors: Wise Elder (父 / 老) and Shining Sun (日 / 白) and City Wall (阝).",
+    "voiceover_intro_en": "父 / 老 (Elder) + 日 / 白 (Sun) + 阝 (Wall). All citizens gathered beside city wall. Consistent actors: Wise Elder (父 / 老) and Shining Sun (日 / 白) and City Wall (阝).",
+    "voiceover_meaning_en": "This character means all / both.",
+    "voiceover_zh": "都。都。"
+  },
+  {
+    "id": 21,
+    "char": "读",
+    "pinyin": "dú",
+    "meaning_en": "to read aloud",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 大 / 天 / 太 (Big)",
+    "actor_ids": [
+      "yan_speech",
+      "da_big"
+    ],
+    "mnemonic_en": "Speech waves reading aloud from open page. Consistent actors: Speech Wave (讠) and Wide Stretch (大 / 天 / 太).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/读.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/读.png` into a Chineasy flat-vector visual mnemonic for 读 (dú — to read aloud) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Speech waves reading aloud from open page. Consistent actors: Speech Wave (讠) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_intro_en": "讠 (Speech) + 大 / 天 / 太 (Big). Speech waves reading aloud from open page. Consistent actors: Speech Wave (讠) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_meaning_en": "This character means to read aloud.",
+    "voiceover_zh": "读。读。"
+  },
+  {
+    "id": 22,
+    "char": "对",
+    "pinyin": "duì",
+    "meaning_en": "right; correct",
+    "layout_en": "Left + Right",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "shou_hand",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Hand measuring precisely to check correctness. Consistent actors: Action Hand (手 / 扌 / 又) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/对.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/对.png` into a Chineasy flat-vector visual mnemonic for 对 (duì — right; correct) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Hand measuring precisely to check correctness. Consistent actors: Action Hand (手 / 扌 / 又) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 工 / 寸 (Tool). Hand measuring precisely to check correctness. Consistent actors: Action Hand (手 / 扌 / 又) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means right; correct.",
+    "voiceover_zh": "对。对。"
+  },
+  {
+    "id": 23,
+    "char": "多",
+    "pinyin": "duō",
+    "meaning_en": "many / much",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "夕 / 多 (Evening)",
+    "actor_ids": [
+      "xi_evening"
+    ],
+    "mnemonic_en": "Two stacked crescent moons multiplying. Consistent actors: Evening Moon (夕 / 多).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/多.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/多.png` into a Chineasy flat-vector visual mnemonic for 多 (duō — many / much) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two stacked crescent moons multiplying. Consistent actors: Evening Moon (夕 / 多).",
+    "voiceover_intro_en": "夕 / 多 (Evening). Two stacked crescent moons multiplying. Consistent actors: Evening Moon (夕 / 多).",
+    "voiceover_meaning_en": "This character means many / much.",
+    "voiceover_zh": "多。多。"
+  },
+  {
+    "id": 24,
+    "char": "儿",
+    "pinyin": "ér",
+    "meaning_en": "non-syllabic diminutive suffix; retroflex final",
+    "layout_en": "Single Structure",
+    "radicals_en": "子 / 儿 (Child)",
+    "actor_ids": [
+      "zi_child"
+    ],
+    "mnemonic_en": "Two playful little child legs. Consistent actors: Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/儿.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/儿.png` into a Chineasy flat-vector visual mnemonic for 儿 (ér — non-syllabic diminutive suffix; retroflex final) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two playful little child legs. Consistent actors: Little Child (子 / 儿).",
+    "voiceover_intro_en": "子 / 儿 (Child). Two playful little child legs. Consistent actors: Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means non-syllabic diminutive suffix; retroflex final.",
+    "voiceover_zh": "儿。儿。"
+  },
+  {
+    "id": 25,
+    "char": "二",
+    "pinyin": "èr",
+    "meaning_en": "two",
+    "layout_en": "Single Structure",
+    "radicals_en": "一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "yi_one"
+    ],
+    "mnemonic_en": "Two parallel balanced horizontal bars. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/二.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/二.png` into a Chineasy flat-vector visual mnemonic for 二 (èr — two) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two parallel balanced horizontal bars. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line). Two parallel balanced horizontal bars. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means two.",
+    "voiceover_zh": "二。二。"
+  },
+  {
+    "id": 26,
+    "char": "饭",
+    "pinyin": "fàn",
+    "meaning_en": "rice / meal",
+    "layout_en": "Left + Right",
+    "radicals_en": "饣 / 米 (Food) + 手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "shi_food",
+      "shou_hand"
+    ],
+    "mnemonic_en": "Food bowl paired with scooping hand. Consistent actors: Rice Bowl (饣 / 米) and Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/饭.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/饭.png` into a Chineasy flat-vector visual mnemonic for 饭 (fàn — rice / meal) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Food bowl paired with scooping hand. Consistent actors: Rice Bowl (饣 / 米) and Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "饣 / 米 (Food) + 手 / 扌 / 又 (Hand). Food bowl paired with scooping hand. Consistent actors: Rice Bowl (饣 / 米) and Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means rice / meal.",
+    "voiceover_zh": "饭。饭。"
+  },
+  {
+    "id": 27,
+    "char": "飞",
+    "pinyin": "fēi",
+    "meaning_en": "fly",
+    "layout_en": "Single Structure",
+    "radicals_en": "隹 / 羽 / 飞 (Bird/Wing)",
+    "actor_ids": [
+      "zhui_bird"
+    ],
+    "mnemonic_en": "Sleek bird wing sweeping upward in flight. Consistent actors: Flying Bird (隹 / 羽 / 飞).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/飞.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/飞.png` into a Chineasy flat-vector visual mnemonic for 飞 (fēi — fly) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sleek bird wing sweeping upward in flight. Consistent actors: Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_intro_en": "隹 / 羽 / 飞 (Bird/Wing). Sleek bird wing sweeping upward in flight. Consistent actors: Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_meaning_en": "This character means fly.",
+    "voiceover_zh": "飞。飞。"
+  },
+  {
+    "id": 28,
+    "char": "分",
+    "pinyin": "fēn",
+    "meaning_en": "minute / divide",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "八 / 几 (Split) + 刀 / 刂 (Knife)",
+    "actor_ids": [
+      "ba_divide",
+      "dao_knife"
+    ],
+    "mnemonic_en": "Knife blade slicing an object neatly in half. Consistent actors: Balanced Split (八 / 几) and Sharp Knife (刀 / 刂).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/分.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/分.png` into a Chineasy flat-vector visual mnemonic for 分 (fēn — minute / divide) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Knife blade slicing an object neatly in half. Consistent actors: Balanced Split (八 / 几) and Sharp Knife (刀 / 刂).",
+    "voiceover_intro_en": "八 / 几 (Split) + 刀 / 刂 (Knife). Knife blade slicing an object neatly in half. Consistent actors: Balanced Split (八 / 几) and Sharp Knife (刀 / 刂).",
+    "voiceover_meaning_en": "This character means minute / divide.",
+    "voiceover_zh": "分。分。"
+  },
+  {
+    "id": 29,
+    "char": "服",
+    "pinyin": "fú",
+    "meaning_en": "clothes / serve",
+    "layout_en": "Left + Right",
+    "radicals_en": "月 (Moon) + 手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "yue_moon",
+      "shou_hand"
+    ],
+    "mnemonic_en": "Tailored fabric draped neatly beside a hand. Consistent actors: Crescent Moon (月) and Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/服.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/服.png` into a Chineasy flat-vector visual mnemonic for 服 (fú — clothes / serve) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Tailored fabric draped neatly beside a hand. Consistent actors: Crescent Moon (月) and Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "月 (Moon) + 手 / 扌 / 又 (Hand). Tailored fabric draped neatly beside a hand. Consistent actors: Crescent Moon (月) and Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means clothes / serve.",
+    "voiceover_zh": "服。服。"
+  },
+  {
+    "id": 30,
+    "char": "高",
+    "pinyin": "gāo",
+    "meaning_en": "tall / high",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "京 / 高 (Tower) + 口 (Mouth)",
+    "actor_ids": [
+      "jing_tower",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Tall multi-story pagoda tower reaching high. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/高.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/高.png` into a Chineasy flat-vector visual mnemonic for 高 (gāo — tall / high) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Tall multi-story pagoda tower reaching high. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口).",
+    "voiceover_intro_en": "京 / 高 (Tower) + 口 (Mouth). Tall multi-story pagoda tower reaching high. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means tall / high.",
+    "voiceover_zh": "高。高。"
+  },
+  {
+    "id": 31,
+    "char": "个",
+    "pinyin": "gè",
+    "meaning_en": "general measure word",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "人 / 亻 (Person) + 一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "ren_person",
+      "yi_one"
+    ],
+    "mnemonic_en": "Person roof sheltering a single vertical stick. Consistent actors: Person Actor (人 / 亻) and Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/个.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/个.png` into a Chineasy flat-vector visual mnemonic for 个 (gè — general measure word) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person roof sheltering a single vertical stick. Consistent actors: Person Actor (人 / 亻) and Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 一 / 二 / 三 (Line). Person roof sheltering a single vertical stick. Consistent actors: Person Actor (人 / 亻) and Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means general measure word.",
+    "voiceover_zh": "个。个。"
+  },
+  {
+    "id": 32,
+    "char": "工",
+    "pinyin": "gōng",
+    "meaning_en": "work; worker",
+    "layout_en": "Single Structure",
+    "radicals_en": "工 / 寸 (Tool)",
+    "actor_ids": [
+      "gong_tool"
+    ],
+    "mnemonic_en": "Carpenter's I-beam / T-square tool. Consistent actors: Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/工.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/工.png` into a Chineasy flat-vector visual mnemonic for 工 (gōng — work; worker) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Carpenter's I-beam / T-square tool. Consistent actors: Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "工 / 寸 (Tool). Carpenter's I-beam / T-square tool. Consistent actors: Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means work; worker.",
+    "voiceover_zh": "工。工。"
+  },
+  {
+    "id": 33,
+    "char": "狗",
+    "pinyin": "gǒu",
+    "meaning_en": "dog",
+    "layout_en": "Left + Right",
+    "radicals_en": "犭 (Animal) + 口 (Mouth)",
+    "actor_ids": [
+      "quan_animal",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Playful animal silhouette curling beside house. Consistent actors: Agile Animal (犭) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/狗.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/狗.png` into a Chineasy flat-vector visual mnemonic for 狗 (gǒu — dog) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Playful animal silhouette curling beside house. Consistent actors: Agile Animal (犭) and Speaking Mouth (口).",
+    "voiceover_intro_en": "犭 (Animal) + 口 (Mouth). Playful animal silhouette curling beside house. Consistent actors: Agile Animal (犭) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means dog.",
+    "voiceover_zh": "狗。狗。"
+  },
+  {
+    "id": 34,
+    "char": "关",
+    "pinyin": "guān",
+    "meaning_en": "to close; to shut",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "八 / 几 (Split) + 大 / 天 / 太 (Big)",
+    "actor_ids": [
+      "ba_divide",
+      "da_big"
+    ],
+    "mnemonic_en": "Two latch pins locking a gate shut. Consistent actors: Balanced Split (八 / 几) and Wide Stretch (大 / 天 / 太).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/关.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/关.png` into a Chineasy flat-vector visual mnemonic for 关 (guān — to close; to shut) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two latch pins locking a gate shut. Consistent actors: Balanced Split (八 / 几) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_intro_en": "八 / 几 (Split) + 大 / 天 / 太 (Big). Two latch pins locking a gate shut. Consistent actors: Balanced Split (八 / 几) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_meaning_en": "This character means to close; to shut.",
+    "voiceover_zh": "关。关。"
+  },
+  {
+    "id": 35,
+    "char": "馆",
+    "pinyin": "guǎn",
+    "meaning_en": "hall / restaurant",
+    "layout_en": "Left + Right",
+    "radicals_en": "饣 / 米 (Food) + 宀 / 冖 / 广 (Roof)",
+    "actor_ids": [
+      "shi_food",
+      "mian_roof"
+    ],
+    "mnemonic_en": "Food bowl served beneath a tall roof hall. Consistent actors: Rice Bowl (饣 / 米) and House Roof (宀 / 冖 / 广).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/馆.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/馆.png` into a Chineasy flat-vector visual mnemonic for 馆 (guǎn — hall / restaurant) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Food bowl served beneath a tall roof hall. Consistent actors: Rice Bowl (饣 / 米) and House Roof (宀 / 冖 / 广).",
+    "voiceover_intro_en": "饣 / 米 (Food) + 宀 / 冖 / 广 (Roof). Food bowl served beneath a tall roof hall. Consistent actors: Rice Bowl (饣 / 米) and House Roof (宀 / 冖 / 广).",
+    "voiceover_meaning_en": "This character means hall / restaurant.",
+    "voiceover_zh": "馆。馆。"
+  },
+  {
+    "id": 36,
+    "char": "国",
+    "pinyin": "guó",
+    "meaning_en": "country",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "囗 / 匚 (Border Box) + 王 / 白 (Jewel)",
+    "actor_ids": [
+      "wei_wall",
+      "gui_jade"
+    ],
+    "mnemonic_en": "Precious jade jewel protected inside city walls. Consistent actors: Border Wall (囗 / 匚) and Precious Jade (王 / 白).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/国.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/国.png` into a Chineasy flat-vector visual mnemonic for 国 (guó — country) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Precious jade jewel protected inside city walls. Consistent actors: Border Wall (囗 / 匚) and Precious Jade (王 / 白).",
+    "voiceover_intro_en": "囗 / 匚 (Border Box) + 王 / 白 (Jewel). Precious jade jewel protected inside city walls. Consistent actors: Border Wall (囗 / 匚) and Precious Jade (王 / 白).",
+    "voiceover_meaning_en": "This character means country.",
+    "voiceover_zh": "国。国。"
+  },
+  {
+    "id": 37,
+    "char": "果",
+    "pinyin": "guǒ",
+    "meaning_en": "fruit",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "田 (Field) + 木 (Tree)",
+    "actor_ids": [
+      "tian_field",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Round fruit hanging at the top of tree branches. Consistent actors: Rice Field (田) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/果.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/果.png` into a Chineasy flat-vector visual mnemonic for 果 (guǒ — fruit) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Round fruit hanging at the top of tree branches. Consistent actors: Rice Field (田) and Timber Tree (木).",
+    "voiceover_intro_en": "田 (Field) + 木 (Tree). Round fruit hanging at the top of tree branches. Consistent actors: Rice Field (田) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means fruit.",
+    "voiceover_zh": "果。果。"
+  },
+  {
+    "id": 38,
+    "char": "汉",
+    "pinyin": "hàn",
+    "meaning_en": "Chinese (Han)",
+    "layout_en": "Left + Right",
+    "radicals_en": "水 / 氵 (Water) + 手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "shui_water",
+      "shou_hand"
+    ],
+    "mnemonic_en": "Three water drops beside an outstretched hand. Consistent actors: Water Drops (水 / 氵) and Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/汉.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/汉.png` into a Chineasy flat-vector visual mnemonic for 汉 (hàn — Chinese (Han)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Three water drops beside an outstretched hand. Consistent actors: Water Drops (水 / 氵) and Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "水 / 氵 (Water) + 手 / 扌 / 又 (Hand). Three water drops beside an outstretched hand. Consistent actors: Water Drops (水 / 氵) and Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means Chinese (Han).",
+    "voiceover_zh": "汉。汉。"
+  },
+  {
+    "id": 39,
+    "char": "好",
+    "pinyin": "hǎo",
+    "meaning_en": "good / well",
+    "layout_en": "Left + Right",
+    "radicals_en": "女 (Woman) + 子 / 儿 (Child)",
+    "actor_ids": [
+      "nv_woman",
+      "zi_child"
+    ],
+    "mnemonic_en": "Mother embracing child gently. Consistent actors: Mother / Woman (女) and Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/好.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/好.png` into a Chineasy flat-vector visual mnemonic for 好 (hǎo — good / well) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Mother embracing child gently. Consistent actors: Mother / Woman (女) and Little Child (子 / 儿).",
+    "voiceover_intro_en": "女 (Woman) + 子 / 儿 (Child). Mother embracing child gently. Consistent actors: Mother / Woman (女) and Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means good / well.",
+    "voiceover_zh": "好。好。"
+  },
+  {
+    "id": 40,
+    "char": "号",
+    "pinyin": "hào",
+    "meaning_en": "date / number",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "口 (Mouth) + 气 (Air)",
+    "actor_ids": [
+      "kou_mouth",
+      "qi_steam"
+    ],
+    "mnemonic_en": "Mouth megaphone sounding a horn for number and date. Consistent actors: Speaking Mouth (口) and Rising Steam (气).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/号.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/号.png` into a Chineasy flat-vector visual mnemonic for 号 (hào — date / number) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Mouth megaphone sounding a horn for number and date. Consistent actors: Speaking Mouth (口) and Rising Steam (气).",
+    "voiceover_intro_en": "口 (Mouth) + 气 (Air). Mouth megaphone sounding a horn for number and date. Consistent actors: Speaking Mouth (口) and Rising Steam (气).",
+    "voiceover_meaning_en": "This character means date / number.",
+    "voiceover_zh": "号。号。"
+  },
+  {
+    "id": 41,
+    "char": "喝",
+    "pinyin": "hē",
+    "meaning_en": "to drink",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 日 / 白 (Sun)",
+    "actor_ids": [
+      "kou_mouth",
+      "ri_sun"
+    ],
+    "mnemonic_en": "Open mouth sipping cool water. Consistent actors: Speaking Mouth (口) and Shining Sun (日 / 白).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/喝.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/喝.png` into a Chineasy flat-vector visual mnemonic for 喝 (hē — to drink) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Open mouth sipping cool water. Consistent actors: Speaking Mouth (口) and Shining Sun (日 / 白).",
+    "voiceover_intro_en": "口 (Mouth) + 日 / 白 (Sun). Open mouth sipping cool water. Consistent actors: Speaking Mouth (口) and Shining Sun (日 / 白).",
+    "voiceover_meaning_en": "This character means to drink.",
+    "voiceover_zh": "喝。喝。"
+  },
+  {
+    "id": 42,
+    "char": "和",
+    "pinyin": "hé",
+    "meaning_en": "and / with",
+    "layout_en": "Left + Right",
+    "radicals_en": "禾 (Grain) + 口 (Mouth)",
+    "actor_ids": [
+      "he_grain",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Stalk of grain beside a satisfied mouth. Consistent actors: Grain Stalk (禾) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/和.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/和.png` into a Chineasy flat-vector visual mnemonic for 和 (hé — and / with) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Stalk of grain beside a satisfied mouth. Consistent actors: Grain Stalk (禾) and Speaking Mouth (口).",
+    "voiceover_intro_en": "禾 (Grain) + 口 (Mouth). Stalk of grain beside a satisfied mouth. Consistent actors: Grain Stalk (禾) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means and / with.",
+    "voiceover_zh": "和。和。"
+  },
+  {
+    "id": 43,
+    "char": "很",
+    "pinyin": "hěn",
+    "meaning_en": "very",
+    "layout_en": "Left + Right",
+    "radicals_en": "走 / 辶 / 止 (Step) + 目 / 见 (Eye)",
+    "actor_ids": [
+      "zu_foot",
+      "mu_eye"
+    ],
+    "mnemonic_en": "Double footsteps striding very firmly. Consistent actors: Walking Step (走 / 辶 / 止) and Watching Eye (目 / 见).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/很.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/很.png` into a Chineasy flat-vector visual mnemonic for 很 (hěn — very) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Double footsteps striding very firmly. Consistent actors: Walking Step (走 / 辶 / 止) and Watching Eye (目 / 见).",
+    "voiceover_intro_en": "走 / 辶 / 止 (Step) + 目 / 见 (Eye). Double footsteps striding very firmly. Consistent actors: Walking Step (走 / 辶 / 止) and Watching Eye (目 / 见).",
+    "voiceover_meaning_en": "This character means very.",
+    "voiceover_zh": "很。很。"
+  },
+  {
+    "id": 44,
+    "char": "候",
+    "pinyin": "hòu",
+    "meaning_en": "wait / time",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 矢 / 戈 (Arrow/Spear)",
+    "actor_ids": [
+      "ren_person",
+      "shi_arrow"
+    ],
+    "mnemonic_en": "Lookout person waiting by a post with an arrow. Consistent actors: Person Actor (人 / 亻) and Arrow & Spear (矢 / 戈).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/候.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/候.png` into a Chineasy flat-vector visual mnemonic for 候 (hòu — wait / time) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Lookout person waiting by a post with an arrow. Consistent actors: Person Actor (人 / 亻) and Arrow & Spear (矢 / 戈).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 矢 / 戈 (Arrow/Spear). Lookout person waiting by a post with an arrow. Consistent actors: Person Actor (人 / 亻) and Arrow & Spear (矢 / 戈).",
+    "voiceover_meaning_en": "This character means wait / time.",
+    "voiceover_zh": "候。候。"
+  },
+  {
+    "id": 45,
+    "char": "后",
+    "pinyin": "hòu",
+    "meaning_en": "back / after",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 口 (Mouth)",
+    "actor_ids": [
+      "mian_roof",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Shelter angle above a commanding mouth. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/后.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/后.png` into a Chineasy flat-vector visual mnemonic for 后 (hòu — back / after) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Shelter angle above a commanding mouth. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 口 (Mouth). Shelter angle above a commanding mouth. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means back / after.",
+    "voiceover_zh": "后。后。"
+  },
+  {
+    "id": 46,
+    "char": "话",
+    "pinyin": "huà",
+    "meaning_en": "speech / words",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 口 (Mouth)",
+    "actor_ids": [
+      "yan_speech",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Speech icon beside a talking tongue. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/话.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/话.png` into a Chineasy flat-vector visual mnemonic for 话 (huà — speech / words) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Speech icon beside a talking tongue. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_intro_en": "讠 (Speech) + 口 (Mouth). Speech icon beside a talking tongue. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means speech / words.",
+    "voiceover_zh": "话。话。"
+  },
+  {
+    "id": 47,
+    "char": "欢",
+    "pinyin": "huān",
+    "meaning_en": "joyous / happy",
+    "layout_en": "Left + Right",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 口 (Mouth)",
+    "actor_ids": [
+      "shou_hand",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Waving hand beside cheerful singing mouth. Consistent actors: Action Hand (手 / 扌 / 又) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/欢.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/欢.png` into a Chineasy flat-vector visual mnemonic for 欢 (huān — joyous / happy) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Waving hand beside cheerful singing mouth. Consistent actors: Action Hand (手 / 扌 / 又) and Speaking Mouth (口).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 口 (Mouth). Waving hand beside cheerful singing mouth. Consistent actors: Action Hand (手 / 扌 / 又) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means joyous / happy.",
+    "voiceover_zh": "欢。欢。"
+  },
+  {
+    "id": 48,
+    "char": "回",
+    "pinyin": "huí",
+    "meaning_en": "to return",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "囗 / 匚 (Border Box)",
+    "actor_ids": [
+      "wei_wall"
+    ],
+    "mnemonic_en": "Concentric square spiral returning home. Consistent actors: Border Wall (囗 / 匚).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/回.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/回.png` into a Chineasy flat-vector visual mnemonic for 回 (huí — to return) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Concentric square spiral returning home. Consistent actors: Border Wall (囗 / 匚).",
+    "voiceover_intro_en": "囗 / 匚 (Border Box). Concentric square spiral returning home. Consistent actors: Border Wall (囗 / 匚).",
+    "voiceover_meaning_en": "This character means to return.",
+    "voiceover_zh": "回。回。"
+  },
+  {
+    "id": 49,
+    "char": "会",
+    "pinyin": "huì",
+    "meaning_en": "can (learned) / will",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "人 / 亻 (Person) + 气 (Air)",
+    "actor_ids": [
+      "ren_person",
+      "qi_steam"
+    ],
+    "mnemonic_en": "Meeting roof over swirling cloud thoughts. Consistent actors: Person Actor (人 / 亻) and Rising Steam (气).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/会.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/会.png` into a Chineasy flat-vector visual mnemonic for 会 (huì — can (learned) / will) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Meeting roof over swirling cloud thoughts. Consistent actors: Person Actor (人 / 亻) and Rising Steam (气).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 气 (Air). Meeting roof over swirling cloud thoughts. Consistent actors: Person Actor (人 / 亻) and Rising Steam (气).",
+    "voiceover_meaning_en": "This character means can (learned) / will.",
+    "voiceover_zh": "会。会。"
+  },
+  {
+    "id": 50,
+    "char": "火",
+    "pinyin": "huǒ",
+    "meaning_en": "fire",
+    "layout_en": "Single Structure",
+    "radicals_en": "火 / 灬 (Fire)",
+    "actor_ids": [
+      "huo_fire"
+    ],
+    "mnemonic_en": "Dancing flame tongues rising from crossed firewood. Consistent actors: Blazing Fire (火 / 灬).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/火.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/火.png` into a Chineasy flat-vector visual mnemonic for 火 (huǒ — fire) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Dancing flame tongues rising from crossed firewood. Consistent actors: Blazing Fire (火 / 灬).",
+    "voiceover_intro_en": "火 / 灬 (Fire). Dancing flame tongues rising from crossed firewood. Consistent actors: Blazing Fire (火 / 灬).",
+    "voiceover_meaning_en": "This character means fire.",
+    "voiceover_zh": "火。火。"
+  },
+  {
+    "id": 51,
+    "char": "机",
+    "pinyin": "jī",
+    "meaning_en": "machine / plane",
+    "layout_en": "Left + Right",
+    "radicals_en": "木 (Tree) + 八 / 几 (Split)",
+    "actor_ids": [
+      "mu_tree",
+      "ba_divide"
+    ],
+    "mnemonic_en": "Wooden frame joined with sleek mechanical leg. Consistent actors: Timber Tree (木) and Balanced Split (八 / 几).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/机.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/机.png` into a Chineasy flat-vector visual mnemonic for 机 (jī — machine / plane) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Wooden frame joined with sleek mechanical leg. Consistent actors: Timber Tree (木) and Balanced Split (八 / 几).",
+    "voiceover_intro_en": "木 (Tree) + 八 / 几 (Split). Wooden frame joined with sleek mechanical leg. Consistent actors: Timber Tree (木) and Balanced Split (八 / 几).",
+    "voiceover_meaning_en": "This character means machine / plane.",
+    "voiceover_zh": "机。机。"
+  },
+  {
+    "id": 52,
+    "char": "几",
+    "pinyin": "jǐ",
+    "meaning_en": "how many (small)",
+    "layout_en": "Single Structure",
+    "radicals_en": "八 / 几 (Split)",
+    "actor_ids": [
+      "ba_divide"
+    ],
+    "mnemonic_en": "Small minimalist two-legged tea table. Consistent actors: Balanced Split (八 / 几).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/几.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/几.png` into a Chineasy flat-vector visual mnemonic for 几 (jǐ — how many (small)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Small minimalist two-legged tea table. Consistent actors: Balanced Split (八 / 几).",
+    "voiceover_intro_en": "八 / 几 (Split). Small minimalist two-legged tea table. Consistent actors: Balanced Split (八 / 几).",
+    "voiceover_meaning_en": "This character means how many (small).",
+    "voiceover_zh": "几。几。"
+  },
+  {
+    "id": 53,
+    "char": "家",
+    "pinyin": "jiā",
+    "meaning_en": "home / family",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 豕 / 羊 (Livestock)",
+    "actor_ids": [
+      "mian_roof",
+      "shi_pig"
+    ],
+    "mnemonic_en": "Cozy house roof sheltering a piglet underneath. Consistent actors: House Roof (宀 / 冖 / 广) and Home Livestock (豕 / 羊).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/家.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/家.png` into a Chineasy flat-vector visual mnemonic for 家 (jiā — home / family) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Cozy house roof sheltering a piglet underneath. Consistent actors: House Roof (宀 / 冖 / 广) and Home Livestock (豕 / 羊).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 豕 / 羊 (Livestock). Cozy house roof sheltering a piglet underneath. Consistent actors: House Roof (宀 / 冖 / 广) and Home Livestock (豕 / 羊).",
+    "voiceover_meaning_en": "This character means home / family.",
+    "voiceover_zh": "家。家。"
+  },
+  {
+    "id": 54,
+    "char": "见",
+    "pinyin": "jiàn",
+    "meaning_en": "see / meet",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "目 / 见 (Eye) + 子 / 儿 (Child)",
+    "actor_ids": [
+      "mu_eye",
+      "zi_child"
+    ],
+    "mnemonic_en": "Giant watchful eye standing on two legs. Consistent actors: Watching Eye (目 / 见) and Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/见.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/见.png` into a Chineasy flat-vector visual mnemonic for 见 (jiàn — see / meet) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Giant watchful eye standing on two legs. Consistent actors: Watching Eye (目 / 见) and Little Child (子 / 儿).",
+    "voiceover_intro_en": "目 / 见 (Eye) + 子 / 儿 (Child). Giant watchful eye standing on two legs. Consistent actors: Watching Eye (目 / 见) and Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means see / meet.",
+    "voiceover_zh": "见。见。"
+  },
+  {
+    "id": 55,
+    "char": "叫",
+    "pinyin": "jiào",
+    "meaning_en": "to call / be named",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "kou_mouth",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Open mouth megaphone calling out loud. Consistent actors: Speaking Mouth (口) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/叫.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/叫.png` into a Chineasy flat-vector visual mnemonic for 叫 (jiào — to call / be named) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Open mouth megaphone calling out loud. Consistent actors: Speaking Mouth (口) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "口 (Mouth) + 工 / 寸 (Tool). Open mouth megaphone calling out loud. Consistent actors: Speaking Mouth (口) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means to call / be named.",
+    "voiceover_zh": "叫。叫。"
+  },
+  {
+    "id": 56,
+    "char": "姐",
+    "pinyin": "jiě",
+    "meaning_en": "older sister",
+    "layout_en": "Left + Right",
+    "radicals_en": "女 (Woman) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "nv_woman",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Woman figure beside stacked shelves of elder sister. Consistent actors: Mother / Woman (女) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/姐.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/姐.png` into a Chineasy flat-vector visual mnemonic for 姐 (jiě — older sister) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Woman figure beside stacked shelves of elder sister. Consistent actors: Mother / Woman (女) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "女 (Woman) + 工 / 寸 (Tool). Woman figure beside stacked shelves of elder sister. Consistent actors: Mother / Woman (女) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means older sister.",
+    "voiceover_zh": "姐。姐。"
+  },
+  {
+    "id": 57,
+    "char": "今",
+    "pinyin": "jīn",
+    "meaning_en": "now / today",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "mian_roof",
+      "yi_one"
+    ],
+    "mnemonic_en": "Roof triangle enclosing the present moment. Consistent actors: House Roof (宀 / 冖 / 广) and Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/今.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/今.png` into a Chineasy flat-vector visual mnemonic for 今 (jīn — now / today) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Roof triangle enclosing the present moment. Consistent actors: House Roof (宀 / 冖 / 广) and Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 一 / 二 / 三 (Line). Roof triangle enclosing the present moment. Consistent actors: House Roof (宀 / 冖 / 广) and Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means now / today.",
+    "voiceover_zh": "今。今。"
+  },
+  {
+    "id": 58,
+    "char": "京",
+    "pinyin": "jīng",
+    "meaning_en": "capital city of a country; big",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "京 / 高 (Tower) + 口 (Mouth)",
+    "actor_ids": [
+      "jing_tower",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Tall palace gate tower with pitched roof and pillars. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/京.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/京.png` into a Chineasy flat-vector visual mnemonic for 京 (jīng — capital city of a country; big) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Tall palace gate tower with pitched roof and pillars. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口).",
+    "voiceover_intro_en": "京 / 高 (Tower) + 口 (Mouth). Tall palace gate tower with pitched roof and pillars. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means capital city of a country; big.",
+    "voiceover_zh": "京。京。"
+  },
+  {
+    "id": 59,
+    "char": "九",
+    "pinyin": "jiǔ",
+    "meaning_en": "nine",
+    "layout_en": "Single Structure",
+    "radicals_en": "手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "shou_hand"
+    ],
+    "mnemonic_en": "Bent arm flexing like a curved 9. Consistent actors: Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/九.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/九.png` into a Chineasy flat-vector visual mnemonic for 九 (jiǔ — nine) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Bent arm flexing like a curved 9. Consistent actors: Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand). Bent arm flexing like a curved 9. Consistent actors: Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means nine.",
+    "voiceover_zh": "九。九。"
+  },
+  {
+    "id": 60,
+    "char": "觉",
+    "pinyin": "jué",
+    "meaning_en": "sleep / feel",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "小 / 少 (Small) + 宀 / 冖 / 广 (Roof) + 目 / 见 (Eye)",
+    "actor_ids": [
+      "xiao_small",
+      "mian_roof",
+      "mu_eye"
+    ],
+    "mnemonic_en": "Dreamy eye resting beneath a cozy blanket roof. Consistent actors: Tiny Droplet (小 / 少) and House Roof (宀 / 冖 / 广) and Watching Eye (目 / 见).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/觉.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/觉.png` into a Chineasy flat-vector visual mnemonic for 觉 (jué — sleep / feel) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Dreamy eye resting beneath a cozy blanket roof. Consistent actors: Tiny Droplet (小 / 少) and House Roof (宀 / 冖 / 广) and Watching Eye (目 / 见).",
+    "voiceover_intro_en": "小 / 少 (Small) + 宀 / 冖 / 广 (Roof) + 目 / 见 (Eye). Dreamy eye resting beneath a cozy blanket roof. Consistent actors: Tiny Droplet (小 / 少) and House Roof (宀 / 冖 / 广) and Watching Eye (目 / 见).",
+    "voiceover_meaning_en": "This character means sleep / feel.",
+    "voiceover_zh": "觉。觉。"
+  },
+  {
+    "id": 61,
+    "char": "开",
+    "pinyin": "kāi",
+    "meaning_en": "to open / drive",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "一 / 二 / 三 (Line) + 手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "yi_one",
+      "shou_hand"
+    ],
+    "mnemonic_en": "Two hands pushing open double gate bars. Consistent actors: Counting Bar (一 / 二 / 三) and Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/开.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/开.png` into a Chineasy flat-vector visual mnemonic for 开 (kāi — to open / drive) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two hands pushing open double gate bars. Consistent actors: Counting Bar (一 / 二 / 三) and Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 手 / 扌 / 又 (Hand). Two hands pushing open double gate bars. Consistent actors: Counting Bar (一 / 二 / 三) and Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means to open / drive.",
+    "voiceover_zh": "开。开。"
+  },
+  {
+    "id": 62,
+    "char": "看",
+    "pinyin": "kàn",
+    "meaning_en": "to look / watch / read",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 目 / 见 (Eye)",
+    "actor_ids": [
+      "shou_hand",
+      "mu_eye"
+    ],
+    "mnemonic_en": "Hand shading above an eye peering into the distance. Consistent actors: Action Hand (手 / 扌 / 又) and Watching Eye (目 / 见).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/看.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/看.png` into a Chineasy flat-vector visual mnemonic for 看 (kàn — to look / watch / read) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Hand shading above an eye peering into the distance. Consistent actors: Action Hand (手 / 扌 / 又) and Watching Eye (目 / 见).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 目 / 见 (Eye). Hand shading above an eye peering into the distance. Consistent actors: Action Hand (手 / 扌 / 又) and Watching Eye (目 / 见).",
+    "voiceover_meaning_en": "This character means to look / watch / read.",
+    "voiceover_zh": "看。看。"
+  },
+  {
+    "id": 63,
+    "char": "客",
+    "pinyin": "kè",
+    "meaning_en": "guest",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 口 (Mouth)",
+    "actor_ids": [
+      "mian_roof",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Roof welcoming footsteps arriving as a guest. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/客.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/客.png` into a Chineasy flat-vector visual mnemonic for 客 (kè — guest) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Roof welcoming footsteps arriving as a guest. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 口 (Mouth). Roof welcoming footsteps arriving as a guest. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means guest.",
+    "voiceover_zh": "客。客。"
+  },
+  {
+    "id": 64,
+    "char": "块",
+    "pinyin": "kuài",
+    "meaning_en": "piece / yuan (currency)",
+    "layout_en": "Left + Right",
+    "radicals_en": "土 (Earth) + 刀 / 刂 (Knife)",
+    "actor_ids": [
+      "tu_earth",
+      "dao_knife"
+    ],
+    "mnemonic_en": "Chunky earth block sliced into a piece. Consistent actors: Earth Mound (土) and Sharp Knife (刀 / 刂).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/块.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/块.png` into a Chineasy flat-vector visual mnemonic for 块 (kuài — piece / yuan (currency)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Chunky earth block sliced into a piece. Consistent actors: Earth Mound (土) and Sharp Knife (刀 / 刂).",
+    "voiceover_intro_en": "土 (Earth) + 刀 / 刂 (Knife). Chunky earth block sliced into a piece. Consistent actors: Earth Mound (土) and Sharp Knife (刀 / 刂).",
+    "voiceover_meaning_en": "This character means piece / yuan (currency).",
+    "voiceover_zh": "块。块。"
+  },
+  {
+    "id": 65,
+    "char": "来",
+    "pinyin": "lái",
+    "meaning_en": "to come",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "禾 (Grain) + 木 (Tree)",
+    "actor_ids": [
+      "he_grain",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Wheat stalk laden with grain coming home. Consistent actors: Grain Stalk (禾) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/来.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/来.png` into a Chineasy flat-vector visual mnemonic for 来 (lái — to come) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Wheat stalk laden with grain coming home. Consistent actors: Grain Stalk (禾) and Timber Tree (木).",
+    "voiceover_intro_en": "禾 (Grain) + 木 (Tree). Wheat stalk laden with grain coming home. Consistent actors: Grain Stalk (禾) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means to come.",
+    "voiceover_zh": "来。来。"
+  },
+  {
+    "id": 66,
+    "char": "老",
+    "pinyin": "lǎo",
+    "meaning_en": "old / elder",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "父 / 老 (Elder) + 人 / 亻 (Person)",
+    "actor_ids": [
+      "fu_father",
+      "ren_person"
+    ],
+    "mnemonic_en": "Wise elder leaning gently on a walking cane. Consistent actors: Wise Elder (父 / 老) and Person Actor (人 / 亻).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/老.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/老.png` into a Chineasy flat-vector visual mnemonic for 老 (lǎo — old / elder) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Wise elder leaning gently on a walking cane. Consistent actors: Wise Elder (父 / 老) and Person Actor (人 / 亻).",
+    "voiceover_intro_en": "父 / 老 (Elder) + 人 / 亻 (Person). Wise elder leaning gently on a walking cane. Consistent actors: Wise Elder (父 / 老) and Person Actor (人 / 亻).",
+    "voiceover_meaning_en": "This character means old / elder.",
+    "voiceover_zh": "老。老。"
+  },
+  {
+    "id": 67,
+    "char": "了",
+    "pinyin": "le",
+    "meaning_en": "completed action particle",
+    "layout_en": "Single Structure",
+    "radicals_en": "子 / 儿 (Child)",
+    "actor_ids": [
+      "zi_child"
+    ],
+    "mnemonic_en": "Swaddled baby silhouette showing completion. Consistent actors: Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/了.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/了.png` into a Chineasy flat-vector visual mnemonic for 了 (le — completed action particle) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Swaddled baby silhouette showing completion. Consistent actors: Little Child (子 / 儿).",
+    "voiceover_intro_en": "子 / 儿 (Child). Swaddled baby silhouette showing completion. Consistent actors: Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means completed action particle.",
+    "voiceover_zh": "了。了。"
+  },
+  {
+    "id": 68,
+    "char": "冷",
+    "pinyin": "lěng",
+    "meaning_en": "cold",
+    "layout_en": "Left + Right",
+    "radicals_en": "冫 (Ice) + 人 / 亻 (Person)",
+    "actor_ids": [
+      "bing_ice",
+      "ren_person"
+    ],
+    "mnemonic_en": "Two ice crystals chilling the air. Consistent actors: Ice Crystal (冫) and Person Actor (人 / 亻).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/冷.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/冷.png` into a Chineasy flat-vector visual mnemonic for 冷 (lěng — cold) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two ice crystals chilling the air. Consistent actors: Ice Crystal (冫) and Person Actor (人 / 亻).",
+    "voiceover_intro_en": "冫 (Ice) + 人 / 亻 (Person). Two ice crystals chilling the air. Consistent actors: Ice Crystal (冫) and Person Actor (人 / 亻).",
+    "voiceover_meaning_en": "This character means cold.",
+    "voiceover_zh": "冷。冷。"
+  },
+  {
+    "id": 69,
+    "char": "里",
+    "pinyin": "lǐ",
+    "meaning_en": "inside / in",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "田 (Field) + 土 (Earth)",
+    "actor_ids": [
+      "tian_field",
+      "tu_earth"
+    ],
+    "mnemonic_en": "Grid field nestled safely over earth inside. Consistent actors: Rice Field (田) and Earth Mound (土).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/里.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/里.png` into a Chineasy flat-vector visual mnemonic for 里 (lǐ — inside / in) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Grid field nestled safely over earth inside. Consistent actors: Rice Field (田) and Earth Mound (土).",
+    "voiceover_intro_en": "田 (Field) + 土 (Earth). Grid field nestled safely over earth inside. Consistent actors: Rice Field (田) and Earth Mound (土).",
+    "voiceover_meaning_en": "This character means inside / in.",
+    "voiceover_zh": "里。里。"
+  },
+  {
+    "id": 70,
+    "char": "亮",
+    "pinyin": "liàng",
+    "meaning_en": "bright; clear",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "京 / 高 (Tower) + 口 (Mouth) + 八 / 几 (Split)",
+    "actor_ids": [
+      "jing_tower",
+      "kou_mouth",
+      "ba_divide"
+    ],
+    "mnemonic_en": "Glowing lantern atop a tall watchtower. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口) and Balanced Split (八 / 几).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/亮.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/亮.png` into a Chineasy flat-vector visual mnemonic for 亮 (liàng — bright; clear) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Glowing lantern atop a tall watchtower. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口) and Balanced Split (八 / 几).",
+    "voiceover_intro_en": "京 / 高 (Tower) + 口 (Mouth) + 八 / 几 (Split). Glowing lantern atop a tall watchtower. Consistent actors: Palace Tower (京 / 高) and Speaking Mouth (口) and Balanced Split (八 / 几).",
+    "voiceover_meaning_en": "This character means bright; clear.",
+    "voiceover_zh": "亮。亮。"
+  },
+  {
+    "id": 71,
+    "char": "六",
+    "pinyin": "liù",
+    "meaning_en": "six",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 八 / 几 (Split)",
+    "actor_ids": [
+      "mian_roof",
+      "ba_divide"
+    ],
+    "mnemonic_en": "Top hat / roof over two balanced legs. Consistent actors: House Roof (宀 / 冖 / 广) and Balanced Split (八 / 几).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/六.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/六.png` into a Chineasy flat-vector visual mnemonic for 六 (liù — six) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Top hat / roof over two balanced legs. Consistent actors: House Roof (宀 / 冖 / 广) and Balanced Split (八 / 几).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 八 / 几 (Split). Top hat / roof over two balanced legs. Consistent actors: House Roof (宀 / 冖 / 广) and Balanced Split (八 / 几).",
+    "voiceover_meaning_en": "This character means six.",
+    "voiceover_zh": "六。六。"
+  },
+  {
+    "id": 72,
+    "char": "妈",
+    "pinyin": "mā",
+    "meaning_en": "ma; mom",
+    "layout_en": "Left + Right",
+    "radicals_en": "女 (Woman) + 马 (Horse)",
+    "actor_ids": [
+      "nv_woman",
+      "ma_horse"
+    ],
+    "mnemonic_en": "Woman figure paired with horse shape for phonetic 'ma'. Consistent actors: Mother / Woman (女) and Swift Horse (马).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/妈.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/妈.png` into a Chineasy flat-vector visual mnemonic for 妈 (mā — ma; mom) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Woman figure paired with horse shape for phonetic 'ma'. Consistent actors: Mother / Woman (女) and Swift Horse (马).",
+    "voiceover_intro_en": "女 (Woman) + 马 (Horse). Woman figure paired with horse shape for phonetic 'ma'. Consistent actors: Mother / Woman (女) and Swift Horse (马).",
+    "voiceover_meaning_en": "This character means ma; mom.",
+    "voiceover_zh": "妈。妈。"
+  },
+  {
+    "id": 73,
+    "char": "吗",
+    "pinyin": "ma",
+    "meaning_en": "question particle (?)",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 马 (Horse)",
+    "actor_ids": [
+      "kou_mouth",
+      "ma_horse"
+    ],
+    "mnemonic_en": "Mouth speech bubble beside a stylized horse. Consistent actors: Speaking Mouth (口) and Swift Horse (马).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/吗.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/吗.png` into a Chineasy flat-vector visual mnemonic for 吗 (ma — question particle (?)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Mouth speech bubble beside a stylized horse. Consistent actors: Speaking Mouth (口) and Swift Horse (马).",
+    "voiceover_intro_en": "口 (Mouth) + 马 (Horse). Mouth speech bubble beside a stylized horse. Consistent actors: Speaking Mouth (口) and Swift Horse (马).",
+    "voiceover_meaning_en": "This character means question particle (?).",
+    "voiceover_zh": "吗。吗。"
+  },
+  {
+    "id": 74,
+    "char": "买",
+    "pinyin": "mǎi",
+    "meaning_en": "to buy",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "囗 / 匚 (Border Box) + 大 / 天 / 太 (Big)",
+    "actor_ids": [
+      "wei_wall",
+      "da_big"
+    ],
+    "mnemonic_en": "Open shopping basket above a person walking. Consistent actors: Border Wall (囗 / 匚) and Wide Stretch (大 / 天 / 太).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/买.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/买.png` into a Chineasy flat-vector visual mnemonic for 买 (mǎi — to buy) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Open shopping basket above a person walking. Consistent actors: Border Wall (囗 / 匚) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_intro_en": "囗 / 匚 (Border Box) + 大 / 天 / 太 (Big). Open shopping basket above a person walking. Consistent actors: Border Wall (囗 / 匚) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_meaning_en": "This character means to buy.",
+    "voiceover_zh": "买。买。"
+  },
+  {
+    "id": 75,
+    "char": "猫",
+    "pinyin": "māo",
+    "meaning_en": "cat",
+    "layout_en": "Left + Right",
+    "radicals_en": "犭 (Animal) + 艹 / 生 (Sprout) + 田 (Field)",
+    "actor_ids": [
+      "quan_animal",
+      "cao_grass",
+      "tian_field"
+    ],
+    "mnemonic_en": "Cat silhouette stalking near green rice sprouts. Consistent actors: Agile Animal (犭) and Green Sprout (艹 / 生) and Rice Field (田).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/猫.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/猫.png` into a Chineasy flat-vector visual mnemonic for 猫 (māo — cat) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Cat silhouette stalking near green rice sprouts. Consistent actors: Agile Animal (犭) and Green Sprout (艹 / 生) and Rice Field (田).",
+    "voiceover_intro_en": "犭 (Animal) + 艹 / 生 (Sprout) + 田 (Field). Cat silhouette stalking near green rice sprouts. Consistent actors: Agile Animal (犭) and Green Sprout (艹 / 生) and Rice Field (田).",
+    "voiceover_meaning_en": "This character means cat.",
+    "voiceover_zh": "猫。猫。"
+  },
+  {
+    "id": 76,
+    "char": "么",
+    "pinyin": "me",
+    "meaning_en": "suffix, used to form interrogative 什麼|什么[shen2 me5], what?, indefini",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "幺 / 系 (Thread)",
+    "actor_ids": [
+      "si_silk"
+    ],
+    "mnemonic_en": "Curled ribbon tail forming a small question mark. Consistent actors: Silk Thread (幺 / 系).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/么.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/么.png` into a Chineasy flat-vector visual mnemonic for 么 (me — suffix, used to form interrogative 什麼|什么[shen2 me5], what?, indefini) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Curled ribbon tail forming a small question mark. Consistent actors: Silk Thread (幺 / 系).",
+    "voiceover_intro_en": "幺 / 系 (Thread). Curled ribbon tail forming a small question mark. Consistent actors: Silk Thread (幺 / 系).",
+    "voiceover_meaning_en": "This character means suffix, used to form interrogative 什麼|什么[shen2 me5], what?, indefini.",
+    "voiceover_zh": "么。么。"
+  },
+  {
+    "id": 77,
+    "char": "没",
+    "pinyin": "méi",
+    "meaning_en": "not / have not",
+    "layout_en": "Left + Right",
+    "radicals_en": "水 / 氵 (Water) + 手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "shui_water",
+      "shou_hand"
+    ],
+    "mnemonic_en": "Three water drops beside hand diving into empty depth. Consistent actors: Water Drops (水 / 氵) and Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/没.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/没.png` into a Chineasy flat-vector visual mnemonic for 没 (méi — not / have not) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Three water drops beside hand diving into empty depth. Consistent actors: Water Drops (水 / 氵) and Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "水 / 氵 (Water) + 手 / 扌 / 又 (Hand). Three water drops beside hand diving into empty depth. Consistent actors: Water Drops (水 / 氵) and Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means not / have not.",
+    "voiceover_zh": "没。没。"
+  },
+  {
+    "id": 78,
+    "char": "们",
+    "pinyin": "men",
+    "meaning_en": "plural suffix",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 门 / 户 (Door)",
+    "actor_ids": [
+      "ren_person",
+      "men_door"
+    ],
+    "mnemonic_en": "Person standing beside a double saloon door. Consistent actors: Person Actor (人 / 亻) and Gateway Door (门 / 户).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/们.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/们.png` into a Chineasy flat-vector visual mnemonic for 们 (men — plural suffix) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person standing beside a double saloon door. Consistent actors: Person Actor (人 / 亻) and Gateway Door (门 / 户).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 门 / 户 (Door). Person standing beside a double saloon door. Consistent actors: Person Actor (人 / 亻) and Gateway Door (门 / 户).",
+    "voiceover_meaning_en": "This character means plural suffix.",
+    "voiceover_zh": "们。们。"
+  },
+  {
+    "id": 79,
+    "char": "米",
+    "pinyin": "mǐ",
+    "meaning_en": "rice",
+    "layout_en": "Single Structure",
+    "radicals_en": "饣 / 米 (Food)",
+    "actor_ids": [
+      "shi_food"
+    ],
+    "mnemonic_en": "Four crisp rice grains radiating around a cross. Consistent actors: Rice Bowl (饣 / 米).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/米.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/米.png` into a Chineasy flat-vector visual mnemonic for 米 (mǐ — rice) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Four crisp rice grains radiating around a cross. Consistent actors: Rice Bowl (饣 / 米).",
+    "voiceover_intro_en": "饣 / 米 (Food). Four crisp rice grains radiating around a cross. Consistent actors: Rice Bowl (饣 / 米).",
+    "voiceover_meaning_en": "This character means rice.",
+    "voiceover_zh": "米。米。"
+  },
+  {
+    "id": 80,
+    "char": "面",
+    "pinyin": "miàn",
+    "meaning_en": "face / side",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "囗 / 匚 (Border Box) + 目 / 见 (Eye)",
+    "actor_ids": [
+      "wei_wall",
+      "mu_eye"
+    ],
+    "mnemonic_en": "Framed face outline showing front side. Consistent actors: Border Wall (囗 / 匚) and Watching Eye (目 / 见).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/面.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/面.png` into a Chineasy flat-vector visual mnemonic for 面 (miàn — face / side) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Framed face outline showing front side. Consistent actors: Border Wall (囗 / 匚) and Watching Eye (目 / 见).",
+    "voiceover_intro_en": "囗 / 匚 (Border Box) + 目 / 见 (Eye). Framed face outline showing front side. Consistent actors: Border Wall (囗 / 匚) and Watching Eye (目 / 见).",
+    "voiceover_meaning_en": "This character means face / side.",
+    "voiceover_zh": "面。面。"
+  },
+  {
+    "id": 81,
+    "char": "名",
+    "pinyin": "míng",
+    "meaning_en": "name",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "夕 / 多 (Evening) + 口 (Mouth)",
+    "actor_ids": [
+      "xi_evening",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Crescent evening moon above a calling mouth. Consistent actors: Evening Moon (夕 / 多) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/名.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/名.png` into a Chineasy flat-vector visual mnemonic for 名 (míng — name) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Crescent evening moon above a calling mouth. Consistent actors: Evening Moon (夕 / 多) and Speaking Mouth (口).",
+    "voiceover_intro_en": "夕 / 多 (Evening) + 口 (Mouth). Crescent evening moon above a calling mouth. Consistent actors: Evening Moon (夕 / 多) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means name.",
+    "voiceover_zh": "名。名。"
+  },
+  {
+    "id": 82,
+    "char": "明",
+    "pinyin": "míng",
+    "meaning_en": "bright / tomorrow",
+    "layout_en": "Left + Right",
+    "radicals_en": "日 / 白 (Sun) + 月 (Moon)",
+    "actor_ids": [
+      "ri_sun",
+      "yue_moon"
+    ],
+    "mnemonic_en": "Bright sun beside crescent moon shining together. Consistent actors: Shining Sun (日 / 白) and Crescent Moon (月).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/明.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/明.png` into a Chineasy flat-vector visual mnemonic for 明 (míng — bright / tomorrow) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Bright sun beside crescent moon shining together. Consistent actors: Shining Sun (日 / 白) and Crescent Moon (月).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 月 (Moon). Bright sun beside crescent moon shining together. Consistent actors: Shining Sun (日 / 白) and Crescent Moon (月).",
+    "voiceover_meaning_en": "This character means bright / tomorrow.",
+    "voiceover_zh": "明。明。"
+  },
+  {
+    "id": 83,
+    "char": "哪",
+    "pinyin": "nǎ",
+    "meaning_en": "which",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 阝 (Wall)",
+    "actor_ids": [
+      "kou_mouth",
+      "fu_mound"
+    ],
+    "mnemonic_en": "Question mouth pointing at direction sign. Consistent actors: Speaking Mouth (口) and City Wall (阝).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/哪.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/哪.png` into a Chineasy flat-vector visual mnemonic for 哪 (nǎ — which) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Question mouth pointing at direction sign. Consistent actors: Speaking Mouth (口) and City Wall (阝).",
+    "voiceover_intro_en": "口 (Mouth) + 阝 (Wall). Question mouth pointing at direction sign. Consistent actors: Speaking Mouth (口) and City Wall (阝).",
+    "voiceover_meaning_en": "This character means which.",
+    "voiceover_zh": "哪。哪。"
+  },
+  {
+    "id": 84,
+    "char": "那",
+    "pinyin": "nà",
+    "meaning_en": "that",
+    "layout_en": "Left + Right",
+    "radicals_en": "阝 (Wall)",
+    "actor_ids": [
+      "fu_mound"
+    ],
+    "mnemonic_en": "Distant flag waving over hills far away. Consistent actors: City Wall (阝).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/那.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/那.png` into a Chineasy flat-vector visual mnemonic for 那 (nà — that) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Distant flag waving over hills far away. Consistent actors: City Wall (阝).",
+    "voiceover_intro_en": "阝 (Wall). Distant flag waving over hills far away. Consistent actors: City Wall (阝).",
+    "voiceover_meaning_en": "This character means that.",
+    "voiceover_zh": "那。那。"
+  },
+  {
+    "id": 85,
+    "char": "脑",
+    "pinyin": "nǎo",
+    "meaning_en": "brain",
+    "layout_en": "Left + Right",
+    "radicals_en": "月 (Moon) + 心 / 忄 (Heart)",
+    "actor_ids": [
+      "yue_moon",
+      "xin_heart"
+    ],
+    "mnemonic_en": "Organ shape housing bright neural sparks. Consistent actors: Crescent Moon (月) and Feeling Heart (心 / 忄).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/脑.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/脑.png` into a Chineasy flat-vector visual mnemonic for 脑 (nǎo — brain) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Organ shape housing bright neural sparks. Consistent actors: Crescent Moon (月) and Feeling Heart (心 / 忄).",
+    "voiceover_intro_en": "月 (Moon) + 心 / 忄 (Heart). Organ shape housing bright neural sparks. Consistent actors: Crescent Moon (月) and Feeling Heart (心 / 忄).",
+    "voiceover_meaning_en": "This character means brain.",
+    "voiceover_zh": "脑。脑。"
+  },
+  {
+    "id": 86,
+    "char": "呢",
+    "pinyin": "ne",
+    "meaning_en": "follow-up question particle",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 衣 / 礻 / 巾 (Cloth)",
+    "actor_ids": [
+      "kou_mouth",
+      "yi_cloth"
+    ],
+    "mnemonic_en": "Mouth speech icon with cozy tail. Consistent actors: Speaking Mouth (口) and Robe & Cloth (衣 / 礻 / 巾).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/呢.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/呢.png` into a Chineasy flat-vector visual mnemonic for 呢 (ne — follow-up question particle) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Mouth speech icon with cozy tail. Consistent actors: Speaking Mouth (口) and Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_intro_en": "口 (Mouth) + 衣 / 礻 / 巾 (Cloth). Mouth speech icon with cozy tail. Consistent actors: Speaking Mouth (口) and Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_meaning_en": "This character means follow-up question particle.",
+    "voiceover_zh": "呢。呢。"
+  },
+  {
+    "id": 87,
+    "char": "能",
+    "pinyin": "néng",
+    "meaning_en": "can / be able to",
+    "layout_en": "Left + Right",
+    "radicals_en": "月 (Moon) + 犭 (Animal)",
+    "actor_ids": [
+      "yue_moon",
+      "quan_animal"
+    ],
+    "mnemonic_en": "Strong bear silhouette flexing sturdy paws. Consistent actors: Crescent Moon (月) and Agile Animal (犭).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/能.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/能.png` into a Chineasy flat-vector visual mnemonic for 能 (néng — can / be able to) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Strong bear silhouette flexing sturdy paws. Consistent actors: Crescent Moon (月) and Agile Animal (犭).",
+    "voiceover_intro_en": "月 (Moon) + 犭 (Animal). Strong bear silhouette flexing sturdy paws. Consistent actors: Crescent Moon (月) and Agile Animal (犭).",
+    "voiceover_meaning_en": "This character means can / be able to.",
+    "voiceover_zh": "能。能。"
+  },
+  {
+    "id": 88,
+    "char": "你",
+    "pinyin": "nǐ",
+    "meaning_en": "you",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 小 / 少 (Small)",
+    "actor_ids": [
+      "ren_person",
+      "xiao_small"
+    ],
+    "mnemonic_en": "Person pointing forward toward 'you'. Consistent actors: Person Actor (人 / 亻) and Tiny Droplet (小 / 少).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/你.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/你.png` into a Chineasy flat-vector visual mnemonic for 你 (nǐ — you) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person pointing forward toward 'you'. Consistent actors: Person Actor (人 / 亻) and Tiny Droplet (小 / 少).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 小 / 少 (Small). Person pointing forward toward 'you'. Consistent actors: Person Actor (人 / 亻) and Tiny Droplet (小 / 少).",
+    "voiceover_meaning_en": "This character means you.",
+    "voiceover_zh": "你。你。"
+  },
+  {
+    "id": 89,
+    "char": "年",
+    "pinyin": "nián",
+    "meaning_en": "year",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "禾 (Grain)",
+    "actor_ids": [
+      "he_grain"
+    ],
+    "mnemonic_en": "Golden grain sheaf harvested once a year. Consistent actors: Grain Stalk (禾).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/年.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/年.png` into a Chineasy flat-vector visual mnemonic for 年 (nián — year) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Golden grain sheaf harvested once a year. Consistent actors: Grain Stalk (禾).",
+    "voiceover_intro_en": "禾 (Grain). Golden grain sheaf harvested once a year. Consistent actors: Grain Stalk (禾).",
+    "voiceover_meaning_en": "This character means year.",
+    "voiceover_zh": "年。年。"
+  },
+  {
+    "id": 90,
+    "char": "女",
+    "pinyin": "nǚ",
+    "meaning_en": "female; woman",
+    "layout_en": "Single Structure",
+    "radicals_en": "女 (Woman)",
+    "actor_ids": [
+      "nv_woman"
+    ],
+    "mnemonic_en": "Graceful kneeling/dancing female silhouette. Consistent actors: Mother / Woman (女).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/女.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/女.png` into a Chineasy flat-vector visual mnemonic for 女 (nǚ — female; woman) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Graceful kneeling/dancing female silhouette. Consistent actors: Mother / Woman (女).",
+    "voiceover_intro_en": "女 (Woman). Graceful kneeling/dancing female silhouette. Consistent actors: Mother / Woman (女).",
+    "voiceover_meaning_en": "This character means female; woman.",
+    "voiceover_zh": "女。女。"
+  },
+  {
+    "id": 91,
+    "char": "朋",
+    "pinyin": "péng",
+    "meaning_en": "friend",
+    "layout_en": "Left + Right",
+    "radicals_en": "月 (Moon)",
+    "actor_ids": [
+      "yue_moon"
+    ],
+    "mnemonic_en": "Two twin crescent moons side by side as buddies. Consistent actors: Crescent Moon (月).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/朋.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/朋.png` into a Chineasy flat-vector visual mnemonic for 朋 (péng — friend) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two twin crescent moons side by side as buddies. Consistent actors: Crescent Moon (月).",
+    "voiceover_intro_en": "月 (Moon). Two twin crescent moons side by side as buddies. Consistent actors: Crescent Moon (月).",
+    "voiceover_meaning_en": "This character means friend.",
+    "voiceover_zh": "朋。朋。"
+  },
+  {
+    "id": 92,
+    "char": "漂",
+    "pinyin": "piào",
+    "meaning_en": "pretty / float",
+    "layout_en": "Left + Right",
+    "radicals_en": "水 / 氵 (Water) + 饣 / 米 (Food)",
+    "actor_ids": [
+      "shui_water",
+      "shi_food"
+    ],
+    "mnemonic_en": "Water ripples reflecting floating colorful blossom. Consistent actors: Water Drops (水 / 氵) and Rice Bowl (饣 / 米).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/漂.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/漂.png` into a Chineasy flat-vector visual mnemonic for 漂 (piào — pretty / float) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Water ripples reflecting floating colorful blossom. Consistent actors: Water Drops (水 / 氵) and Rice Bowl (饣 / 米).",
+    "voiceover_intro_en": "水 / 氵 (Water) + 饣 / 米 (Food). Water ripples reflecting floating colorful blossom. Consistent actors: Water Drops (水 / 氵) and Rice Bowl (饣 / 米).",
+    "voiceover_meaning_en": "This character means pretty / float.",
+    "voiceover_zh": "漂。漂。"
+  },
+  {
+    "id": 93,
+    "char": "苹",
+    "pinyin": "píng",
+    "meaning_en": "apple",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "艹 / 生 (Sprout) + 木 (Tree)",
+    "actor_ids": [
+      "cao_grass",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Leafy grass crown above smooth balanced fruit. Consistent actors: Green Sprout (艹 / 生) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/苹.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/苹.png` into a Chineasy flat-vector visual mnemonic for 苹 (píng — apple) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Leafy grass crown above smooth balanced fruit. Consistent actors: Green Sprout (艹 / 生) and Timber Tree (木).",
+    "voiceover_intro_en": "艹 / 生 (Sprout) + 木 (Tree). Leafy grass crown above smooth balanced fruit. Consistent actors: Green Sprout (艹 / 生) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means apple.",
+    "voiceover_zh": "苹。苹。"
+  },
+  {
+    "id": 94,
+    "char": "七",
+    "pinyin": "qī",
+    "meaning_en": "seven",
+    "layout_en": "Single Structure",
+    "radicals_en": "一 / 二 / 三 (Line) + 十 / 午 (Cross)",
+    "actor_ids": [
+      "yi_one",
+      "shi_ten"
+    ],
+    "mnemonic_en": "Geometric bent hook forming figure 7. Consistent actors: Counting Bar (一 / 二 / 三) and Cross of Ten (十 / 午).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/七.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/七.png` into a Chineasy flat-vector visual mnemonic for 七 (qī — seven) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Geometric bent hook forming figure 7. Consistent actors: Counting Bar (一 / 二 / 三) and Cross of Ten (十 / 午).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 十 / 午 (Cross). Geometric bent hook forming figure 7. Consistent actors: Counting Bar (一 / 二 / 三) and Cross of Ten (十 / 午).",
+    "voiceover_meaning_en": "This character means seven.",
+    "voiceover_zh": "七。七。"
+  },
+  {
+    "id": 95,
+    "char": "期",
+    "pinyin": "qī",
+    "meaning_en": "period / week",
+    "layout_en": "Left + Right",
+    "radicals_en": "工 / 寸 (Tool) + 月 (Moon)",
+    "actor_ids": [
+      "gong_tool",
+      "yue_moon"
+    ],
+    "mnemonic_en": "Calendar grid next to a cycling crescent moon. Consistent actors: Measuring Tool (工 / 寸) and Crescent Moon (月).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/期.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/期.png` into a Chineasy flat-vector visual mnemonic for 期 (qī — period / week) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Calendar grid next to a cycling crescent moon. Consistent actors: Measuring Tool (工 / 寸) and Crescent Moon (月).",
+    "voiceover_intro_en": "工 / 寸 (Tool) + 月 (Moon). Calendar grid next to a cycling crescent moon. Consistent actors: Measuring Tool (工 / 寸) and Crescent Moon (月).",
+    "voiceover_meaning_en": "This character means period / week.",
+    "voiceover_zh": "期。期。"
+  },
+  {
+    "id": 96,
+    "char": "起",
+    "pinyin": "qǐ",
+    "meaning_en": "rise / get up",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "走 / 辶 / 止 (Step) + 子 / 儿 (Child)",
+    "actor_ids": [
+      "zu_foot",
+      "zi_child"
+    ],
+    "mnemonic_en": "Running feet lifting oneself up to rise. Consistent actors: Walking Step (走 / 辶 / 止) and Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/起.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/起.png` into a Chineasy flat-vector visual mnemonic for 起 (qǐ — rise / get up) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Running feet lifting oneself up to rise. Consistent actors: Walking Step (走 / 辶 / 止) and Little Child (子 / 儿).",
+    "voiceover_intro_en": "走 / 辶 / 止 (Step) + 子 / 儿 (Child). Running feet lifting oneself up to rise. Consistent actors: Walking Step (走 / 辶 / 止) and Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means rise / get up.",
+    "voiceover_zh": "起。起。"
+  },
+  {
+    "id": 97,
+    "char": "气",
+    "pinyin": "qì",
+    "meaning_en": "gas; air",
+    "layout_en": "Single Structure",
+    "radicals_en": "气 (Air)",
+    "actor_ids": [
+      "qi_steam"
+    ],
+    "mnemonic_en": "Three rising wispy steam currents in the air. Consistent actors: Rising Steam (气).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/气.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/气.png` into a Chineasy flat-vector visual mnemonic for 气 (qì — gas; air) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Three rising wispy steam currents in the air. Consistent actors: Rising Steam (气).",
+    "voiceover_intro_en": "气 (Air). Three rising wispy steam currents in the air. Consistent actors: Rising Steam (气).",
+    "voiceover_meaning_en": "This character means gas; air.",
+    "voiceover_zh": "气。气。"
+  },
+  {
+    "id": 98,
+    "char": "前",
+    "pinyin": "qián",
+    "meaning_en": "front / before",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "月 (Moon) + 刀 / 刂 (Knife)",
+    "actor_ids": [
+      "yue_moon",
+      "dao_knife"
+    ],
+    "mnemonic_en": "Boat prow slicing forward through water. Consistent actors: Crescent Moon (月) and Sharp Knife (刀 / 刂).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/前.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/前.png` into a Chineasy flat-vector visual mnemonic for 前 (qián — front / before) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Boat prow slicing forward through water. Consistent actors: Crescent Moon (月) and Sharp Knife (刀 / 刂).",
+    "voiceover_intro_en": "月 (Moon) + 刀 / 刂 (Knife). Boat prow slicing forward through water. Consistent actors: Crescent Moon (月) and Sharp Knife (刀 / 刂).",
+    "voiceover_meaning_en": "This character means front / before.",
+    "voiceover_zh": "前。前。"
+  },
+  {
+    "id": 99,
+    "char": "钱",
+    "pinyin": "qián",
+    "meaning_en": "money",
+    "layout_en": "Left + Right",
+    "radicals_en": "钅 (Metal) + 矢 / 戈 (Arrow/Spear)",
+    "actor_ids": [
+      "jin_metal",
+      "shi_arrow"
+    ],
+    "mnemonic_en": "Golden metal coins stacked carefully. Consistent actors: Gold Metal (钅) and Arrow & Spear (矢 / 戈).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/钱.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/钱.png` into a Chineasy flat-vector visual mnemonic for 钱 (qián — money) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Golden metal coins stacked carefully. Consistent actors: Gold Metal (钅) and Arrow & Spear (矢 / 戈).",
+    "voiceover_intro_en": "钅 (Metal) + 矢 / 戈 (Arrow/Spear). Golden metal coins stacked carefully. Consistent actors: Gold Metal (钅) and Arrow & Spear (矢 / 戈).",
+    "voiceover_meaning_en": "This character means money.",
+    "voiceover_zh": "钱。钱。"
+  },
+  {
+    "id": 100,
+    "char": "请",
+    "pinyin": "qǐng",
+    "meaning_en": "please / invite",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 月 (Moon)",
+    "actor_ids": [
+      "yan_speech",
+      "yue_moon"
+    ],
+    "mnemonic_en": "Polite speech bubble colored in calm sky teal. Consistent actors: Speech Wave (讠) and Crescent Moon (月).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/请.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/请.png` into a Chineasy flat-vector visual mnemonic for 请 (qǐng — please / invite) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Polite speech bubble colored in calm sky teal. Consistent actors: Speech Wave (讠) and Crescent Moon (月).",
+    "voiceover_intro_en": "讠 (Speech) + 月 (Moon). Polite speech bubble colored in calm sky teal. Consistent actors: Speech Wave (讠) and Crescent Moon (月).",
+    "voiceover_meaning_en": "This character means please / invite.",
+    "voiceover_zh": "请。请。"
+  },
+  {
+    "id": 101,
+    "char": "去",
+    "pinyin": "qù",
+    "meaning_en": "to go",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "土 (Earth) + 走 / 辶 / 止 (Step)",
+    "actor_ids": [
+      "tu_earth",
+      "zu_foot"
+    ],
+    "mnemonic_en": "Person stepping away from a mound of earth. Consistent actors: Earth Mound (土) and Walking Step (走 / 辶 / 止).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/去.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/去.png` into a Chineasy flat-vector visual mnemonic for 去 (qù — to go) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person stepping away from a mound of earth. Consistent actors: Earth Mound (土) and Walking Step (走 / 辶 / 止).",
+    "voiceover_intro_en": "土 (Earth) + 走 / 辶 / 止 (Step). Person stepping away from a mound of earth. Consistent actors: Earth Mound (土) and Walking Step (走 / 辶 / 止).",
+    "voiceover_meaning_en": "This character means to go.",
+    "voiceover_zh": "去。去。"
+  },
+  {
+    "id": 102,
+    "char": "热",
+    "pinyin": "rè",
+    "meaning_en": "hot",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 火 / 灬 (Fire)",
+    "actor_ids": [
+      "shou_hand",
+      "huo_fire"
+    ],
+    "mnemonic_en": "Hands warming over four bright fire embers. Consistent actors: Action Hand (手 / 扌 / 又) and Blazing Fire (火 / 灬).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/热.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/热.png` into a Chineasy flat-vector visual mnemonic for 热 (rè — hot) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Hands warming over four bright fire embers. Consistent actors: Action Hand (手 / 扌 / 又) and Blazing Fire (火 / 灬).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 火 / 灬 (Fire). Hands warming over four bright fire embers. Consistent actors: Action Hand (手 / 扌 / 又) and Blazing Fire (火 / 灬).",
+    "voiceover_meaning_en": "This character means hot.",
+    "voiceover_zh": "热。热。"
+  },
+  {
+    "id": 103,
+    "char": "人",
+    "pinyin": "rén",
+    "meaning_en": "person / people",
+    "layout_en": "Single Structure",
+    "radicals_en": "人 / 亻 (Person)",
+    "actor_ids": [
+      "ren_person"
+    ],
+    "mnemonic_en": "Minimalist walking person made of two splayed legs. Consistent actors: Person Actor (人 / 亻).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/人.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/人.png` into a Chineasy flat-vector visual mnemonic for 人 (rén — person / people) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Minimalist walking person made of two splayed legs. Consistent actors: Person Actor (人 / 亻).",
+    "voiceover_intro_en": "人 / 亻 (Person). Minimalist walking person made of two splayed legs. Consistent actors: Person Actor (人 / 亻).",
+    "voiceover_meaning_en": "This character means person / people.",
+    "voiceover_zh": "人。人。"
+  },
+  {
+    "id": 104,
+    "char": "认",
+    "pinyin": "rèn",
+    "meaning_en": "recognize",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 人 / 亻 (Person)",
+    "actor_ids": [
+      "yan_speech",
+      "ren_person"
+    ],
+    "mnemonic_en": "Speech waves greeting a person to get acquainted. Consistent actors: Speech Wave (讠) and Person Actor (人 / 亻).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/认.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/认.png` into a Chineasy flat-vector visual mnemonic for 认 (rèn — recognize) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Speech waves greeting a person to get acquainted. Consistent actors: Speech Wave (讠) and Person Actor (人 / 亻).",
+    "voiceover_intro_en": "讠 (Speech) + 人 / 亻 (Person). Speech waves greeting a person to get acquainted. Consistent actors: Speech Wave (讠) and Person Actor (人 / 亻).",
+    "voiceover_meaning_en": "This character means recognize.",
+    "voiceover_zh": "认。认。"
+  },
+  {
+    "id": 105,
+    "char": "日",
+    "pinyin": "rì",
+    "meaning_en": "day / sun",
+    "layout_en": "Single Structure",
+    "radicals_en": "日 / 白 (Sun)",
+    "actor_ids": [
+      "ri_sun"
+    ],
+    "mnemonic_en": "Warm glowing sun framed as a window box. Consistent actors: Shining Sun (日 / 白).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/日.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/日.png` into a Chineasy flat-vector visual mnemonic for 日 (rì — day / sun) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Warm glowing sun framed as a window box. Consistent actors: Shining Sun (日 / 白).",
+    "voiceover_intro_en": "日 / 白 (Sun). Warm glowing sun framed as a window box. Consistent actors: Shining Sun (日 / 白).",
+    "voiceover_meaning_en": "This character means day / sun.",
+    "voiceover_zh": "日。日。"
+  },
+  {
+    "id": 106,
+    "char": "三",
+    "pinyin": "sān",
+    "meaning_en": "three",
+    "layout_en": "Single Structure",
+    "radicals_en": "一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "yi_one"
+    ],
+    "mnemonic_en": "Three stacked horizontal bars: sky, earth, horizon. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/三.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/三.png` into a Chineasy flat-vector visual mnemonic for 三 (sān — three) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Three stacked horizontal bars: sky, earth, horizon. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line). Three stacked horizontal bars: sky, earth, horizon. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means three.",
+    "voiceover_zh": "三。三。"
+  },
+  {
+    "id": 107,
+    "char": "商",
+    "pinyin": "shāng",
+    "meaning_en": "commerce / shop",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "立 (Stand) + 宀 / 冖 / 广 (Roof) + 口 (Mouth)",
+    "actor_ids": [
+      "li_stand",
+      "mian_roof",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Market stall booth with merchant inside. Consistent actors: Standing Firm (立) and House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/商.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/商.png` into a Chineasy flat-vector visual mnemonic for 商 (shāng — commerce / shop) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Market stall booth with merchant inside. Consistent actors: Standing Firm (立) and House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_intro_en": "立 (Stand) + 宀 / 冖 / 广 (Roof) + 口 (Mouth). Market stall booth with merchant inside. Consistent actors: Standing Firm (立) and House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means commerce / shop.",
+    "voiceover_zh": "商。商。"
+  },
+  {
+    "id": 108,
+    "char": "上",
+    "pinyin": "shàng",
+    "meaning_en": "up / above / go up",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "一 / 二 / 三 (Line) + 立 (Stand)",
+    "actor_ids": [
+      "yi_one",
+      "li_stand"
+    ],
+    "mnemonic_en": "Arrow/sprout rising above the ground line. Consistent actors: Counting Bar (一 / 二 / 三) and Standing Firm (立).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/上.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/上.png` into a Chineasy flat-vector visual mnemonic for 上 (shàng — up / above / go up) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Arrow/sprout rising above the ground line. Consistent actors: Counting Bar (一 / 二 / 三) and Standing Firm (立).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 立 (Stand). Arrow/sprout rising above the ground line. Consistent actors: Counting Bar (一 / 二 / 三) and Standing Firm (立).",
+    "voiceover_meaning_en": "This character means up / above / go up.",
+    "voiceover_zh": "上。上。"
+  },
+  {
+    "id": 109,
+    "char": "少",
+    "pinyin": "shǎo",
+    "meaning_en": "few / little",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "小 / 少 (Small) + 刀 / 刂 (Knife)",
+    "actor_ids": [
+      "xiao_small",
+      "dao_knife"
+    ],
+    "mnemonic_en": "Tiny droplet sliced even smaller. Consistent actors: Tiny Droplet (小 / 少) and Sharp Knife (刀 / 刂).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/少.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/少.png` into a Chineasy flat-vector visual mnemonic for 少 (shǎo — few / little) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Tiny droplet sliced even smaller. Consistent actors: Tiny Droplet (小 / 少) and Sharp Knife (刀 / 刂).",
+    "voiceover_intro_en": "小 / 少 (Small) + 刀 / 刂 (Knife). Tiny droplet sliced even smaller. Consistent actors: Tiny Droplet (小 / 少) and Sharp Knife (刀 / 刂).",
+    "voiceover_meaning_en": "This character means few / little.",
+    "voiceover_zh": "少。少。"
+  },
+  {
+    "id": 110,
+    "char": "谁",
+    "pinyin": "shéi",
+    "meaning_en": "who",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 隹 / 羽 / 飞 (Bird/Wing)",
+    "actor_ids": [
+      "yan_speech",
+      "zhui_bird"
+    ],
+    "mnemonic_en": "Question speech bubble pointing at a perched bird. Consistent actors: Speech Wave (讠) and Flying Bird (隹 / 羽 / 飞).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/谁.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/谁.png` into a Chineasy flat-vector visual mnemonic for 谁 (shéi — who) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Question speech bubble pointing at a perched bird. Consistent actors: Speech Wave (讠) and Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_intro_en": "讠 (Speech) + 隹 / 羽 / 飞 (Bird/Wing). Question speech bubble pointing at a perched bird. Consistent actors: Speech Wave (讠) and Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_meaning_en": "This character means who.",
+    "voiceover_zh": "谁。谁。"
+  },
+  {
+    "id": 111,
+    "char": "什",
+    "pinyin": "shén",
+    "meaning_en": "what (in 什么)",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 十 / 午 (Cross)",
+    "actor_ids": [
+      "ren_person",
+      "shi_ten"
+    ],
+    "mnemonic_en": "Person standing beside a cross of ten. Consistent actors: Person Actor (人 / 亻) and Cross of Ten (十 / 午).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/什.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/什.png` into a Chineasy flat-vector visual mnemonic for 什 (shén — what (in 什么)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person standing beside a cross of ten. Consistent actors: Person Actor (人 / 亻) and Cross of Ten (十 / 午).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 十 / 午 (Cross). Person standing beside a cross of ten. Consistent actors: Person Actor (人 / 亻) and Cross of Ten (十 / 午).",
+    "voiceover_meaning_en": "This character means what (in 什么).",
+    "voiceover_zh": "什。什。"
+  },
+  {
+    "id": 112,
+    "char": "生",
+    "pinyin": "shēng",
+    "meaning_en": "life / student",
+    "layout_en": "Single Structure",
+    "radicals_en": "艹 / 生 (Sprout)",
+    "actor_ids": [
+      "cao_grass"
+    ],
+    "mnemonic_en": "Fresh green plant shoot sprouting out of soil. Consistent actors: Green Sprout (艹 / 生).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/生.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/生.png` into a Chineasy flat-vector visual mnemonic for 生 (shēng — life / student) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Fresh green plant shoot sprouting out of soil. Consistent actors: Green Sprout (艹 / 生).",
+    "voiceover_intro_en": "艹 / 生 (Sprout). Fresh green plant shoot sprouting out of soil. Consistent actors: Green Sprout (艹 / 生).",
+    "voiceover_meaning_en": "This character means life / student.",
+    "voiceover_zh": "生。生。"
+  },
+  {
+    "id": 113,
+    "char": "师",
+    "pinyin": "shī",
+    "meaning_en": "teacher / master",
+    "layout_en": "Left + Right",
+    "radicals_en": "刀 / 刂 (Knife) + 衣 / 礻 / 巾 (Cloth)",
+    "actor_ids": [
+      "dao_knife",
+      "yi_cloth"
+    ],
+    "mnemonic_en": "Vertical banner standard held by a master teacher. Consistent actors: Sharp Knife (刀 / 刂) and Robe & Cloth (衣 / 礻 / 巾).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/师.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/师.png` into a Chineasy flat-vector visual mnemonic for 师 (shī — teacher / master) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Vertical banner standard held by a master teacher. Consistent actors: Sharp Knife (刀 / 刂) and Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_intro_en": "刀 / 刂 (Knife) + 衣 / 礻 / 巾 (Cloth). Vertical banner standard held by a master teacher. Consistent actors: Sharp Knife (刀 / 刂) and Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_meaning_en": "This character means teacher / master.",
+    "voiceover_zh": "师。师。"
+  },
+  {
+    "id": 114,
+    "char": "十",
+    "pinyin": "shí",
+    "meaning_en": "ten",
+    "layout_en": "Single Structure",
+    "radicals_en": "十 / 午 (Cross)",
+    "actor_ids": [
+      "shi_ten"
+    ],
+    "mnemonic_en": "Simple crisp cross mark representing ten. Consistent actors: Cross of Ten (十 / 午).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/十.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/十.png` into a Chineasy flat-vector visual mnemonic for 十 (shí — ten) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Simple crisp cross mark representing ten. Consistent actors: Cross of Ten (十 / 午).",
+    "voiceover_intro_en": "十 / 午 (Cross). Simple crisp cross mark representing ten. Consistent actors: Cross of Ten (十 / 午).",
+    "voiceover_meaning_en": "This character means ten.",
+    "voiceover_zh": "十。十。"
+  },
+  {
+    "id": 115,
+    "char": "时",
+    "pinyin": "shí",
+    "meaning_en": "time / hour",
+    "layout_en": "Left + Right",
+    "radicals_en": "日 / 白 (Sun) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "ri_sun",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Sun moving across a sundial marker. Consistent actors: Shining Sun (日 / 白) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/时.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/时.png` into a Chineasy flat-vector visual mnemonic for 时 (shí — time / hour) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sun moving across a sundial marker. Consistent actors: Shining Sun (日 / 白) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 工 / 寸 (Tool). Sun moving across a sundial marker. Consistent actors: Shining Sun (日 / 白) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means time / hour.",
+    "voiceover_zh": "时。时。"
+  },
+  {
+    "id": 116,
+    "char": "识",
+    "pinyin": "shí",
+    "meaning_en": "know",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 口 (Mouth)",
+    "actor_ids": [
+      "yan_speech",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Speech mark beside attentive listener box. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/识.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/识.png` into a Chineasy flat-vector visual mnemonic for 识 (shí — know) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Speech mark beside attentive listener box. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_intro_en": "讠 (Speech) + 口 (Mouth). Speech mark beside attentive listener box. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means know.",
+    "voiceover_zh": "识。识。"
+  },
+  {
+    "id": 117,
+    "char": "是",
+    "pinyin": "shì",
+    "meaning_en": "to be (is/am/are)",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "日 / 白 (Sun) + 走 / 辶 / 止 (Step)",
+    "actor_ids": [
+      "ri_sun",
+      "zu_foot"
+    ],
+    "mnemonic_en": "Sun standing straight over upright feet. Consistent actors: Shining Sun (日 / 白) and Walking Step (走 / 辶 / 止).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/是.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/是.png` into a Chineasy flat-vector visual mnemonic for 是 (shì — to be (is/am/are)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sun standing straight over upright feet. Consistent actors: Shining Sun (日 / 白) and Walking Step (走 / 辶 / 止).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 走 / 辶 / 止 (Step). Sun standing straight over upright feet. Consistent actors: Shining Sun (日 / 白) and Walking Step (走 / 辶 / 止).",
+    "voiceover_meaning_en": "This character means to be (is/am/are).",
+    "voiceover_zh": "是。是。"
+  },
+  {
+    "id": 118,
+    "char": "视",
+    "pinyin": "shì",
+    "meaning_en": "look / view",
+    "layout_en": "Left + Right",
+    "radicals_en": "衣 / 礻 / 巾 (Cloth) + 目 / 见 (Eye)",
+    "actor_ids": [
+      "yi_cloth",
+      "mu_eye"
+    ],
+    "mnemonic_en": "Attentive eye icon paired with screen wave. Consistent actors: Robe & Cloth (衣 / 礻 / 巾) and Watching Eye (目 / 见).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/视.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/视.png` into a Chineasy flat-vector visual mnemonic for 视 (shì — look / view) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Attentive eye icon paired with screen wave. Consistent actors: Robe & Cloth (衣 / 礻 / 巾) and Watching Eye (目 / 见).",
+    "voiceover_intro_en": "衣 / 礻 / 巾 (Cloth) + 目 / 见 (Eye). Attentive eye icon paired with screen wave. Consistent actors: Robe & Cloth (衣 / 礻 / 巾) and Watching Eye (目 / 见).",
+    "voiceover_meaning_en": "This character means look / view.",
+    "voiceover_zh": "视。视。"
+  },
+  {
+    "id": 119,
+    "char": "书",
+    "pinyin": "shū",
+    "meaning_en": "book",
+    "layout_en": "Single Structure",
+    "radicals_en": "幺 / 系 (Thread) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "si_silk",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Open stacked pages bound by a spine. Consistent actors: Silk Thread (幺 / 系) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/书.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/书.png` into a Chineasy flat-vector visual mnemonic for 书 (shū — book) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Open stacked pages bound by a spine. Consistent actors: Silk Thread (幺 / 系) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "幺 / 系 (Thread) + 工 / 寸 (Tool). Open stacked pages bound by a spine. Consistent actors: Silk Thread (幺 / 系) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means book.",
+    "voiceover_zh": "书。书。"
+  },
+  {
+    "id": 120,
+    "char": "水",
+    "pinyin": "shuǐ",
+    "meaning_en": "water",
+    "layout_en": "Single Structure",
+    "radicals_en": "水 / 氵 (Water)",
+    "actor_ids": [
+      "shui_water"
+    ],
+    "mnemonic_en": "Flowing river stream with splashes on both sides. Consistent actors: Water Drops (水 / 氵).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/水.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/水.png` into a Chineasy flat-vector visual mnemonic for 水 (shuǐ — water) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Flowing river stream with splashes on both sides. Consistent actors: Water Drops (水 / 氵).",
+    "voiceover_intro_en": "水 / 氵 (Water). Flowing river stream with splashes on both sides. Consistent actors: Water Drops (水 / 氵).",
+    "voiceover_meaning_en": "This character means water.",
+    "voiceover_zh": "水。水。"
+  },
+  {
+    "id": 121,
+    "char": "睡",
+    "pinyin": "shuì",
+    "meaning_en": "sleep",
+    "layout_en": "Left + Right",
+    "radicals_en": "目 / 见 (Eye) + 艹 / 生 (Sprout)",
+    "actor_ids": [
+      "mu_eye",
+      "cao_grass"
+    ],
+    "mnemonic_en": "Drooping eyelids gently closing over an eye. Consistent actors: Watching Eye (目 / 见) and Green Sprout (艹 / 生).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/睡.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/睡.png` into a Chineasy flat-vector visual mnemonic for 睡 (shuì — sleep) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Drooping eyelids gently closing over an eye. Consistent actors: Watching Eye (目 / 见) and Green Sprout (艹 / 生).",
+    "voiceover_intro_en": "目 / 见 (Eye) + 艹 / 生 (Sprout). Drooping eyelids gently closing over an eye. Consistent actors: Watching Eye (目 / 见) and Green Sprout (艹 / 生).",
+    "voiceover_meaning_en": "This character means sleep.",
+    "voiceover_zh": "睡。睡。"
+  },
+  {
+    "id": 122,
+    "char": "说",
+    "pinyin": "shuō",
+    "meaning_en": "to speak / say",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 口 (Mouth)",
+    "actor_ids": [
+      "yan_speech",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Speech icon beside joyful talking speaker. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/说.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/说.png` into a Chineasy flat-vector visual mnemonic for 说 (shuō — to speak / say) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Speech icon beside joyful talking speaker. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_intro_en": "讠 (Speech) + 口 (Mouth). Speech icon beside joyful talking speaker. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means to speak / say.",
+    "voiceover_zh": "说。说。"
+  },
+  {
+    "id": 123,
+    "char": "四",
+    "pinyin": "sì",
+    "meaning_en": "four",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "囗 / 匚 (Border Box) + 子 / 儿 (Child)",
+    "actor_ids": [
+      "wei_wall",
+      "zi_child"
+    ],
+    "mnemonic_en": "Window frame with parted curtains showing 4 corners. Consistent actors: Border Wall (囗 / 匚) and Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/四.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/四.png` into a Chineasy flat-vector visual mnemonic for 四 (sì — four) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Window frame with parted curtains showing 4 corners. Consistent actors: Border Wall (囗 / 匚) and Little Child (子 / 儿).",
+    "voiceover_intro_en": "囗 / 匚 (Border Box) + 子 / 儿 (Child). Window frame with parted curtains showing 4 corners. Consistent actors: Border Wall (囗 / 匚) and Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means four.",
+    "voiceover_zh": "四。四。"
+  },
+  {
+    "id": 124,
+    "char": "岁",
+    "pinyin": "suì",
+    "meaning_en": "years old (age)",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "山 (Mountain) + 夕 / 多 (Evening)",
+    "actor_ids": [
+      "shan_mountain",
+      "xi_evening"
+    ],
+    "mnemonic_en": "Mountain peak towering over passing crescent moon. Consistent actors: Mountain Peaks (山) and Evening Moon (夕 / 多).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/岁.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/岁.png` into a Chineasy flat-vector visual mnemonic for 岁 (suì — years old (age)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Mountain peak towering over passing crescent moon. Consistent actors: Mountain Peaks (山) and Evening Moon (夕 / 多).",
+    "voiceover_intro_en": "山 (Mountain) + 夕 / 多 (Evening). Mountain peak towering over passing crescent moon. Consistent actors: Mountain Peaks (山) and Evening Moon (夕 / 多).",
+    "voiceover_meaning_en": "This character means years old (age).",
+    "voiceover_zh": "岁。岁。"
+  },
+  {
+    "id": 125,
+    "char": "他",
+    "pinyin": "tā",
+    "meaning_en": "he / him",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 土 (Earth)",
+    "actor_ids": [
+      "ren_person",
+      "tu_earth"
+    ],
+    "mnemonic_en": "Person leaning beside curved shape representing 'him'. Consistent actors: Person Actor (人 / 亻) and Earth Mound (土).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/他.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/他.png` into a Chineasy flat-vector visual mnemonic for 他 (tā — he / him) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person leaning beside curved shape representing 'him'. Consistent actors: Person Actor (人 / 亻) and Earth Mound (土).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 土 (Earth). Person leaning beside curved shape representing 'him'. Consistent actors: Person Actor (人 / 亻) and Earth Mound (土).",
+    "voiceover_meaning_en": "This character means he / him.",
+    "voiceover_zh": "他。他。"
+  },
+  {
+    "id": 126,
+    "char": "她",
+    "pinyin": "tā",
+    "meaning_en": "she / her",
+    "layout_en": "Left + Right",
+    "radicals_en": "女 (Woman) + 土 (Earth)",
+    "actor_ids": [
+      "nv_woman",
+      "tu_earth"
+    ],
+    "mnemonic_en": "Female silhouette representing 'she'. Consistent actors: Mother / Woman (女) and Earth Mound (土).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/她.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/她.png` into a Chineasy flat-vector visual mnemonic for 她 (tā — she / her) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Female silhouette representing 'she'. Consistent actors: Mother / Woman (女) and Earth Mound (土).",
+    "voiceover_intro_en": "女 (Woman) + 土 (Earth). Female silhouette representing 'she'. Consistent actors: Mother / Woman (女) and Earth Mound (土).",
+    "voiceover_meaning_en": "This character means she / her.",
+    "voiceover_zh": "她。她。"
+  },
+  {
+    "id": 127,
+    "char": "太",
+    "pinyin": "tài",
+    "meaning_en": "too / extremely",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "大 / 天 / 太 (Big) + 小 / 少 (Small)",
+    "actor_ids": [
+      "da_big",
+      "xiao_small"
+    ],
+    "mnemonic_en": "Big person with an extra drop showing 'too much'. Consistent actors: Wide Stretch (大 / 天 / 太) and Tiny Droplet (小 / 少).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/太.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/太.png` into a Chineasy flat-vector visual mnemonic for 太 (tài — too / extremely) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Big person with an extra drop showing 'too much'. Consistent actors: Wide Stretch (大 / 天 / 太) and Tiny Droplet (小 / 少).",
+    "voiceover_intro_en": "大 / 天 / 太 (Big) + 小 / 少 (Small). Big person with an extra drop showing 'too much'. Consistent actors: Wide Stretch (大 / 天 / 太) and Tiny Droplet (小 / 少).",
+    "voiceover_meaning_en": "This character means too / extremely.",
+    "voiceover_zh": "太。太。"
+  },
+  {
+    "id": 128,
+    "char": "天",
+    "pinyin": "tiān",
+    "meaning_en": "day; sky",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "一 / 二 / 三 (Line) + 大 / 天 / 太 (Big)",
+    "actor_ids": [
+      "yi_one",
+      "da_big"
+    ],
+    "mnemonic_en": "Sky horizon line hovering above a wide-armed person. Consistent actors: Counting Bar (一 / 二 / 三) and Wide Stretch (大 / 天 / 太).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/天.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/天.png` into a Chineasy flat-vector visual mnemonic for 天 (tiān — day; sky) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sky horizon line hovering above a wide-armed person. Consistent actors: Counting Bar (一 / 二 / 三) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 大 / 天 / 太 (Big). Sky horizon line hovering above a wide-armed person. Consistent actors: Counting Bar (一 / 二 / 三) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_meaning_en": "This character means day; sky.",
+    "voiceover_zh": "天。天。"
+  },
+  {
+    "id": 129,
+    "char": "听",
+    "pinyin": "tīng",
+    "meaning_en": "to listen / hear",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 刀 / 刂 (Knife)",
+    "actor_ids": [
+      "kou_mouth",
+      "dao_knife"
+    ],
+    "mnemonic_en": "Mouth whispering near an attentive ear/axe shape. Consistent actors: Speaking Mouth (口) and Sharp Knife (刀 / 刂).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/听.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/听.png` into a Chineasy flat-vector visual mnemonic for 听 (tīng — to listen / hear) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Mouth whispering near an attentive ear/axe shape. Consistent actors: Speaking Mouth (口) and Sharp Knife (刀 / 刂).",
+    "voiceover_intro_en": "口 (Mouth) + 刀 / 刂 (Knife). Mouth whispering near an attentive ear/axe shape. Consistent actors: Speaking Mouth (口) and Sharp Knife (刀 / 刂).",
+    "voiceover_meaning_en": "This character means to listen / hear.",
+    "voiceover_zh": "听。听。"
+  },
+  {
+    "id": 130,
+    "char": "同",
+    "pinyin": "tóng",
+    "meaning_en": "same / together",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 口 (Mouth)",
+    "actor_ids": [
+      "mian_roof",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Single roof covering unified voice. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/同.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/同.png` into a Chineasy flat-vector visual mnemonic for 同 (tóng — same / together) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Single roof covering unified voice. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 口 (Mouth). Single roof covering unified voice. Consistent actors: House Roof (宀 / 冖 / 广) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means same / together.",
+    "voiceover_zh": "同。同。"
+  },
+  {
+    "id": 131,
+    "char": "喂",
+    "pinyin": "wèi",
+    "meaning_en": "hello (on phone)",
+    "layout_en": "Left + Right",
+    "radicals_en": "口 (Mouth) + 田 (Field)",
+    "actor_ids": [
+      "kou_mouth",
+      "tian_field"
+    ],
+    "mnemonic_en": "Mouth speaking into a telephone receiver. Consistent actors: Speaking Mouth (口) and Rice Field (田).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/喂.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/喂.png` into a Chineasy flat-vector visual mnemonic for 喂 (wèi — hello (on phone)) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Mouth speaking into a telephone receiver. Consistent actors: Speaking Mouth (口) and Rice Field (田).",
+    "voiceover_intro_en": "口 (Mouth) + 田 (Field). Mouth speaking into a telephone receiver. Consistent actors: Speaking Mouth (口) and Rice Field (田).",
+    "voiceover_meaning_en": "This character means hello (on phone).",
+    "voiceover_zh": "喂。喂。"
+  },
+  {
+    "id": 132,
+    "char": "我",
+    "pinyin": "wǒ",
+    "meaning_en": "I / me",
+    "layout_en": "Left + Right",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 矢 / 戈 (Arrow/Spear)",
+    "actor_ids": [
+      "shou_hand",
+      "shi_arrow"
+    ],
+    "mnemonic_en": "Hand gripping a protective halberd spear. Consistent actors: Action Hand (手 / 扌 / 又) and Arrow & Spear (矢 / 戈).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/我.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/我.png` into a Chineasy flat-vector visual mnemonic for 我 (wǒ — I / me) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Hand gripping a protective halberd spear. Consistent actors: Action Hand (手 / 扌 / 又) and Arrow & Spear (矢 / 戈).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 矢 / 戈 (Arrow/Spear). Hand gripping a protective halberd spear. Consistent actors: Action Hand (手 / 扌 / 又) and Arrow & Spear (矢 / 戈).",
+    "voiceover_meaning_en": "This character means I / me.",
+    "voiceover_zh": "我。我。"
+  },
+  {
+    "id": 133,
+    "char": "五",
+    "pinyin": "wǔ",
+    "meaning_en": "five",
+    "layout_en": "Single Structure",
+    "radicals_en": "一 / 二 / 三 (Line) + 十 / 午 (Cross)",
+    "actor_ids": [
+      "yi_one",
+      "shi_ten"
+    ],
+    "mnemonic_en": "Crossed hourglass lines inside top and bottom bars. Consistent actors: Counting Bar (一 / 二 / 三) and Cross of Ten (十 / 午).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/五.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/五.png` into a Chineasy flat-vector visual mnemonic for 五 (wǔ — five) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Crossed hourglass lines inside top and bottom bars. Consistent actors: Counting Bar (一 / 二 / 三) and Cross of Ten (十 / 午).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 十 / 午 (Cross). Crossed hourglass lines inside top and bottom bars. Consistent actors: Counting Bar (一 / 二 / 三) and Cross of Ten (十 / 午).",
+    "voiceover_meaning_en": "This character means five.",
+    "voiceover_zh": "五。五。"
+  },
+  {
+    "id": 134,
+    "char": "午",
+    "pinyin": "wǔ",
+    "meaning_en": "noon",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "十 / 午 (Cross)",
+    "actor_ids": [
+      "shi_ten"
+    ],
+    "mnemonic_en": "Vertical pestle pointing straight up at noon. Consistent actors: Cross of Ten (十 / 午).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/午.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/午.png` into a Chineasy flat-vector visual mnemonic for 午 (wǔ — noon) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Vertical pestle pointing straight up at noon. Consistent actors: Cross of Ten (十 / 午).",
+    "voiceover_intro_en": "十 / 午 (Cross). Vertical pestle pointing straight up at noon. Consistent actors: Cross of Ten (十 / 午).",
+    "voiceover_meaning_en": "This character means noon.",
+    "voiceover_zh": "午。午。"
+  },
+  {
+    "id": 135,
+    "char": "西",
+    "pinyin": "xī",
+    "meaning_en": "west",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "囗 / 匚 (Border Box) + 隹 / 羽 / 飞 (Bird/Wing)",
+    "actor_ids": [
+      "wei_wall",
+      "zhui_bird"
+    ],
+    "mnemonic_en": "Woven bird nest resting at sunset in the west. Consistent actors: Border Wall (囗 / 匚) and Flying Bird (隹 / 羽 / 飞).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/西.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/西.png` into a Chineasy flat-vector visual mnemonic for 西 (xī — west) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Woven bird nest resting at sunset in the west. Consistent actors: Border Wall (囗 / 匚) and Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_intro_en": "囗 / 匚 (Border Box) + 隹 / 羽 / 飞 (Bird/Wing). Woven bird nest resting at sunset in the west. Consistent actors: Border Wall (囗 / 匚) and Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_meaning_en": "This character means west.",
+    "voiceover_zh": "西。西。"
+  },
+  {
+    "id": 136,
+    "char": "习",
+    "pinyin": "xí",
+    "meaning_en": "to practice; to study",
+    "layout_en": "Single Structure",
+    "radicals_en": "隹 / 羽 / 飞 (Bird/Wing)",
+    "actor_ids": [
+      "zhui_bird"
+    ],
+    "mnemonic_en": "Single feathered wing flapping to practice flying. Consistent actors: Flying Bird (隹 / 羽 / 飞).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/习.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/习.png` into a Chineasy flat-vector visual mnemonic for 习 (xí — to practice; to study) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Single feathered wing flapping to practice flying. Consistent actors: Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_intro_en": "隹 / 羽 / 飞 (Bird/Wing). Single feathered wing flapping to practice flying. Consistent actors: Flying Bird (隹 / 羽 / 飞).",
+    "voiceover_meaning_en": "This character means to practice; to study.",
+    "voiceover_zh": "习。习。"
+  },
+  {
+    "id": 137,
+    "char": "喜",
+    "pinyin": "xǐ",
+    "meaning_en": "happy / like",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "壴 / 乐 (Drum) + 口 (Mouth)",
+    "actor_ids": [
+      "gu_drum",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Festive drum beating above a smiling mouth. Consistent actors: Festive Drum (壴 / 乐) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/喜.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/喜.png` into a Chineasy flat-vector visual mnemonic for 喜 (xǐ — happy / like) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Festive drum beating above a smiling mouth. Consistent actors: Festive Drum (壴 / 乐) and Speaking Mouth (口).",
+    "voiceover_intro_en": "壴 / 乐 (Drum) + 口 (Mouth). Festive drum beating above a smiling mouth. Consistent actors: Festive Drum (壴 / 乐) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means happy / like.",
+    "voiceover_zh": "喜。喜。"
+  },
+  {
+    "id": 138,
+    "char": "系",
+    "pinyin": "xì",
+    "meaning_en": "system / relation",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "幺 / 系 (Thread) + 小 / 少 (Small)",
+    "actor_ids": [
+      "si_silk",
+      "xiao_small"
+    ],
+    "mnemonic_en": "Knotted silk thread connecting parts together. Consistent actors: Silk Thread (幺 / 系) and Tiny Droplet (小 / 少).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/系.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/系.png` into a Chineasy flat-vector visual mnemonic for 系 (xì — system / relation) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Knotted silk thread connecting parts together. Consistent actors: Silk Thread (幺 / 系) and Tiny Droplet (小 / 少).",
+    "voiceover_intro_en": "幺 / 系 (Thread) + 小 / 少 (Small). Knotted silk thread connecting parts together. Consistent actors: Silk Thread (幺 / 系) and Tiny Droplet (小 / 少).",
+    "voiceover_meaning_en": "This character means system / relation.",
+    "voiceover_zh": "系。系。"
+  },
+  {
+    "id": 139,
+    "char": "下",
+    "pinyin": "xià",
+    "meaning_en": "down / below / next",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "一 / 二 / 三 (Line) + 小 / 少 (Small)",
+    "actor_ids": [
+      "yi_one",
+      "xiao_small"
+    ],
+    "mnemonic_en": "Drop hanging down beneath a horizontal roof line. Consistent actors: Counting Bar (一 / 二 / 三) and Tiny Droplet (小 / 少).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/下.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/下.png` into a Chineasy flat-vector visual mnemonic for 下 (xià — down / below / next) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Drop hanging down beneath a horizontal roof line. Consistent actors: Counting Bar (一 / 二 / 三) and Tiny Droplet (小 / 少).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 小 / 少 (Small). Drop hanging down beneath a horizontal roof line. Consistent actors: Counting Bar (一 / 二 / 三) and Tiny Droplet (小 / 少).",
+    "voiceover_meaning_en": "This character means down / below / next.",
+    "voiceover_zh": "下。下。"
+  },
+  {
+    "id": 140,
+    "char": "先",
+    "pinyin": "xiān",
+    "meaning_en": "first; early",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "艹 / 生 (Sprout) + 子 / 儿 (Child)",
+    "actor_ids": [
+      "cao_grass",
+      "zi_child"
+    ],
+    "mnemonic_en": "Legs stepping forward ahead of the line. Consistent actors: Green Sprout (艹 / 生) and Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/先.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/先.png` into a Chineasy flat-vector visual mnemonic for 先 (xiān — first; early) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Legs stepping forward ahead of the line. Consistent actors: Green Sprout (艹 / 生) and Little Child (子 / 儿).",
+    "voiceover_intro_en": "艹 / 生 (Sprout) + 子 / 儿 (Child). Legs stepping forward ahead of the line. Consistent actors: Green Sprout (艹 / 生) and Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means first; early.",
+    "voiceover_zh": "先。先。"
+  },
+  {
+    "id": 141,
+    "char": "现",
+    "pinyin": "xiàn",
+    "meaning_en": "present / appear",
+    "layout_en": "Left + Right",
+    "radicals_en": "王 / 白 (Jewel) + 目 / 见 (Eye)",
+    "actor_ids": [
+      "gui_jade",
+      "mu_eye"
+    ],
+    "mnemonic_en": "Gleaming jewel appearing directly in view. Consistent actors: Precious Jade (王 / 白) and Watching Eye (目 / 见).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/现.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/现.png` into a Chineasy flat-vector visual mnemonic for 现 (xiàn — present / appear) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Gleaming jewel appearing directly in view. Consistent actors: Precious Jade (王 / 白) and Watching Eye (目 / 见).",
+    "voiceover_intro_en": "王 / 白 (Jewel) + 目 / 见 (Eye). Gleaming jewel appearing directly in view. Consistent actors: Precious Jade (王 / 白) and Watching Eye (目 / 见).",
+    "voiceover_meaning_en": "This character means present / appear.",
+    "voiceover_zh": "现。现。"
+  },
+  {
+    "id": 142,
+    "char": "想",
+    "pinyin": "xiǎng",
+    "meaning_en": "to want / think / miss",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "木 (Tree) + 目 / 见 (Eye) + 心 / 忄 (Heart)",
+    "actor_ids": [
+      "mu_tree",
+      "mu_eye",
+      "xin_heart"
+    ],
+    "mnemonic_en": "Eye and tree image reflected inside the heart. Consistent actors: Timber Tree (木) and Watching Eye (目 / 见) and Feeling Heart (心 / 忄).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/想.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/想.png` into a Chineasy flat-vector visual mnemonic for 想 (xiǎng — to want / think / miss) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Eye and tree image reflected inside the heart. Consistent actors: Timber Tree (木) and Watching Eye (目 / 见) and Feeling Heart (心 / 忄).",
+    "voiceover_intro_en": "木 (Tree) + 目 / 见 (Eye) + 心 / 忄 (Heart). Eye and tree image reflected inside the heart. Consistent actors: Timber Tree (木) and Watching Eye (目 / 见) and Feeling Heart (心 / 忄).",
+    "voiceover_meaning_en": "This character means to want / think / miss.",
+    "voiceover_zh": "想。想。"
+  },
+  {
+    "id": 143,
+    "char": "小",
+    "pinyin": "xiǎo",
+    "meaning_en": "small / little",
+    "layout_en": "Single Structure",
+    "radicals_en": "小 / 少 (Small)",
+    "actor_ids": [
+      "xiao_small"
+    ],
+    "mnemonic_en": "Small droplet flanked by two tiny specks. Consistent actors: Tiny Droplet (小 / 少).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/小.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/小.png` into a Chineasy flat-vector visual mnemonic for 小 (xiǎo — small / little) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Small droplet flanked by two tiny specks. Consistent actors: Tiny Droplet (小 / 少).",
+    "voiceover_intro_en": "小 / 少 (Small). Small droplet flanked by two tiny specks. Consistent actors: Tiny Droplet (小 / 少).",
+    "voiceover_meaning_en": "This character means small / little.",
+    "voiceover_zh": "小。小。"
+  },
+  {
+    "id": 144,
+    "char": "校",
+    "pinyin": "xiào",
+    "meaning_en": "school",
+    "layout_en": "Left + Right",
+    "radicals_en": "木 (Tree) + 人 / 亻 (Person)",
+    "actor_ids": [
+      "mu_tree",
+      "ren_person"
+    ],
+    "mnemonic_en": "Wooden school gate where people cross paths. Consistent actors: Timber Tree (木) and Person Actor (人 / 亻).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/校.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/校.png` into a Chineasy flat-vector visual mnemonic for 校 (xiào — school) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Wooden school gate where people cross paths. Consistent actors: Timber Tree (木) and Person Actor (人 / 亻).",
+    "voiceover_intro_en": "木 (Tree) + 人 / 亻 (Person). Wooden school gate where people cross paths. Consistent actors: Timber Tree (木) and Person Actor (人 / 亻).",
+    "voiceover_meaning_en": "This character means school.",
+    "voiceover_zh": "校。校。"
+  },
+  {
+    "id": 145,
+    "char": "些",
+    "pinyin": "xiē",
+    "meaning_en": "some / a few",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "走 / 辶 / 止 (Step) + 一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "zu_foot",
+      "yi_one"
+    ],
+    "mnemonic_en": "Two steps resting over two lines indicating a few. Consistent actors: Walking Step (走 / 辶 / 止) and Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/些.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/些.png` into a Chineasy flat-vector visual mnemonic for 些 (xiē — some / a few) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two steps resting over two lines indicating a few. Consistent actors: Walking Step (走 / 辶 / 止) and Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "走 / 辶 / 止 (Step) + 一 / 二 / 三 (Line). Two steps resting over two lines indicating a few. Consistent actors: Walking Step (走 / 辶 / 止) and Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means some / a few.",
+    "voiceover_zh": "些。些。"
+  },
+  {
+    "id": 146,
+    "char": "写",
+    "pinyin": "xiě",
+    "meaning_en": "to write",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "mian_roof",
+      "shou_hand"
+    ],
+    "mnemonic_en": "Desk cover over flowing cursive writing strokes. Consistent actors: House Roof (宀 / 冖 / 广) and Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/写.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/写.png` into a Chineasy flat-vector visual mnemonic for 写 (xiě — to write) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Desk cover over flowing cursive writing strokes. Consistent actors: House Roof (宀 / 冖 / 广) and Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 手 / 扌 / 又 (Hand). Desk cover over flowing cursive writing strokes. Consistent actors: House Roof (宀 / 冖 / 广) and Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means to write.",
+    "voiceover_zh": "写。写。"
+  },
+  {
+    "id": 147,
+    "char": "谢",
+    "pinyin": "xiè",
+    "meaning_en": "thank",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 人 / 亻 (Person)",
+    "actor_ids": [
+      "yan_speech",
+      "ren_person"
+    ],
+    "mnemonic_en": "Polite speech beside a respectful bow. Consistent actors: Speech Wave (讠) and Person Actor (人 / 亻).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/谢.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/谢.png` into a Chineasy flat-vector visual mnemonic for 谢 (xiè — thank) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Polite speech beside a respectful bow. Consistent actors: Speech Wave (讠) and Person Actor (人 / 亻).",
+    "voiceover_intro_en": "讠 (Speech) + 人 / 亻 (Person). Polite speech beside a respectful bow. Consistent actors: Speech Wave (讠) and Person Actor (人 / 亻).",
+    "voiceover_meaning_en": "This character means thank.",
+    "voiceover_zh": "谢。谢。"
+  },
+  {
+    "id": 148,
+    "char": "星",
+    "pinyin": "xīng",
+    "meaning_en": "star",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "日 / 白 (Sun) + 艹 / 生 (Sprout)",
+    "actor_ids": [
+      "ri_sun",
+      "cao_grass"
+    ],
+    "mnemonic_en": "Glowing sun-spark born at night as a star. Consistent actors: Shining Sun (日 / 白) and Green Sprout (艹 / 生).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/星.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/星.png` into a Chineasy flat-vector visual mnemonic for 星 (xīng — star) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Glowing sun-spark born at night as a star. Consistent actors: Shining Sun (日 / 白) and Green Sprout (艹 / 生).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 艹 / 生 (Sprout). Glowing sun-spark born at night as a star. Consistent actors: Shining Sun (日 / 白) and Green Sprout (艹 / 生).",
+    "voiceover_meaning_en": "This character means star.",
+    "voiceover_zh": "星。星。"
+  },
+  {
+    "id": 149,
+    "char": "兴",
+    "pinyin": "xìng",
+    "meaning_en": "happy / excited",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 八 / 几 (Split)",
+    "actor_ids": [
+      "shou_hand",
+      "ba_divide"
+    ],
+    "mnemonic_en": "Four cheerful hands lifting together in celebration. Consistent actors: Action Hand (手 / 扌 / 又) and Balanced Split (八 / 几).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/兴.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/兴.png` into a Chineasy flat-vector visual mnemonic for 兴 (xìng — happy / excited) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Four cheerful hands lifting together in celebration. Consistent actors: Action Hand (手 / 扌 / 又) and Balanced Split (八 / 几).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 八 / 几 (Split). Four cheerful hands lifting together in celebration. Consistent actors: Action Hand (手 / 扌 / 又) and Balanced Split (八 / 几).",
+    "voiceover_meaning_en": "This character means happy / excited.",
+    "voiceover_zh": "兴。兴。"
+  },
+  {
+    "id": 150,
+    "char": "学",
+    "pinyin": "xué",
+    "meaning_en": "to learn; to study",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "小 / 少 (Small) + 宀 / 冖 / 广 (Roof) + 子 / 儿 (Child)",
+    "actor_ids": [
+      "xiao_small",
+      "mian_roof",
+      "zi_child"
+    ],
+    "mnemonic_en": "Sparks of knowledge falling under a roof onto a child. Consistent actors: Tiny Droplet (小 / 少) and House Roof (宀 / 冖 / 广) and Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/学.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/学.png` into a Chineasy flat-vector visual mnemonic for 学 (xué — to learn; to study) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sparks of knowledge falling under a roof onto a child. Consistent actors: Tiny Droplet (小 / 少) and House Roof (宀 / 冖 / 广) and Little Child (子 / 儿).",
+    "voiceover_intro_en": "小 / 少 (Small) + 宀 / 冖 / 广 (Roof) + 子 / 儿 (Child). Sparks of knowledge falling under a roof onto a child. Consistent actors: Tiny Droplet (小 / 少) and House Roof (宀 / 冖 / 广) and Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means to learn; to study.",
+    "voiceover_zh": "学。学。"
+  },
+  {
+    "id": 151,
+    "char": "样",
+    "pinyin": "yàng",
+    "meaning_en": "appearance / kind",
+    "layout_en": "Left + Right",
+    "radicals_en": "木 (Tree) + 豕 / 羊 (Livestock)",
+    "actor_ids": [
+      "mu_tree",
+      "shi_pig"
+    ],
+    "mnemonic_en": "Wooden carving shaped like a horned sheep. Consistent actors: Timber Tree (木) and Home Livestock (豕 / 羊).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/样.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/样.png` into a Chineasy flat-vector visual mnemonic for 样 (yàng — appearance / kind) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Wooden carving shaped like a horned sheep. Consistent actors: Timber Tree (木) and Home Livestock (豕 / 羊).",
+    "voiceover_intro_en": "木 (Tree) + 豕 / 羊 (Livestock). Wooden carving shaped like a horned sheep. Consistent actors: Timber Tree (木) and Home Livestock (豕 / 羊).",
+    "voiceover_meaning_en": "This character means appearance / kind.",
+    "voiceover_zh": "样。样。"
+  },
+  {
+    "id": 152,
+    "char": "一",
+    "pinyin": "yī",
+    "meaning_en": "one",
+    "layout_en": "Single Structure",
+    "radicals_en": "一 / 二 / 三 (Line)",
+    "actor_ids": [
+      "yi_one"
+    ],
+    "mnemonic_en": "Single horizontal bamboo stick on top of the line. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/一.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/一.png` into a Chineasy flat-vector visual mnemonic for 一 (yī — one) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Single horizontal bamboo stick on top of the line. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line). Single horizontal bamboo stick on top of the line. Consistent actors: Counting Bar (一 / 二 / 三).",
+    "voiceover_meaning_en": "This character means one.",
+    "voiceover_zh": "一。一。"
+  },
+  {
+    "id": 153,
+    "char": "医",
+    "pinyin": "yī",
+    "meaning_en": "medicine / doctor",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "囗 / 匚 (Border Box) + 矢 / 戈 (Arrow/Spear)",
+    "actor_ids": [
+      "wei_wall",
+      "shi_arrow"
+    ],
+    "mnemonic_en": "Medical kit box holding an acupuncture needle. Consistent actors: Border Wall (囗 / 匚) and Arrow & Spear (矢 / 戈).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/医.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/医.png` into a Chineasy flat-vector visual mnemonic for 医 (yī — medicine / doctor) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Medical kit box holding an acupuncture needle. Consistent actors: Border Wall (囗 / 匚) and Arrow & Spear (矢 / 戈).",
+    "voiceover_intro_en": "囗 / 匚 (Border Box) + 矢 / 戈 (Arrow/Spear). Medical kit box holding an acupuncture needle. Consistent actors: Border Wall (囗 / 匚) and Arrow & Spear (矢 / 戈).",
+    "voiceover_meaning_en": "This character means medicine / doctor.",
+    "voiceover_zh": "医。医。"
+  },
+  {
+    "id": 154,
+    "char": "衣",
+    "pinyin": "yī",
+    "meaning_en": "clothes",
+    "layout_en": "Single Structure",
+    "radicals_en": "衣 / 礻 / 巾 (Cloth)",
+    "actor_ids": [
+      "yi_cloth"
+    ],
+    "mnemonic_en": "Traditional robe collar with flowing sleeves. Consistent actors: Robe & Cloth (衣 / 礻 / 巾).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/衣.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/衣.png` into a Chineasy flat-vector visual mnemonic for 衣 (yī — clothes) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Traditional robe collar with flowing sleeves. Consistent actors: Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_intro_en": "衣 / 礻 / 巾 (Cloth). Traditional robe collar with flowing sleeves. Consistent actors: Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_meaning_en": "This character means clothes.",
+    "voiceover_zh": "衣。衣。"
+  },
+  {
+    "id": 155,
+    "char": "椅",
+    "pinyin": "yǐ",
+    "meaning_en": "chair",
+    "layout_en": "Left + Right",
+    "radicals_en": "木 (Tree) + 大 / 天 / 太 (Big)",
+    "actor_ids": [
+      "mu_tree",
+      "da_big"
+    ],
+    "mnemonic_en": "Wooden chair back and sturdy seat legs. Consistent actors: Timber Tree (木) and Wide Stretch (大 / 天 / 太).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/椅.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/椅.png` into a Chineasy flat-vector visual mnemonic for 椅 (yǐ — chair) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Wooden chair back and sturdy seat legs. Consistent actors: Timber Tree (木) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_intro_en": "木 (Tree) + 大 / 天 / 太 (Big). Wooden chair back and sturdy seat legs. Consistent actors: Timber Tree (木) and Wide Stretch (大 / 天 / 太).",
+    "voiceover_meaning_en": "This character means chair.",
+    "voiceover_zh": "椅。椅。"
+  },
+  {
+    "id": 156,
+    "char": "影",
+    "pinyin": "yǐng",
+    "meaning_en": "shadow / movie",
+    "layout_en": "Left + Right",
+    "radicals_en": "日 / 白 (Sun) + 京 / 高 (Tower)",
+    "actor_ids": [
+      "ri_sun",
+      "jing_tower"
+    ],
+    "mnemonic_en": "Sunlit pavilion casting three diagonal shadow rays. Consistent actors: Shining Sun (日 / 白) and Palace Tower (京 / 高).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/影.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/影.png` into a Chineasy flat-vector visual mnemonic for 影 (yǐng — shadow / movie) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sunlit pavilion casting three diagonal shadow rays. Consistent actors: Shining Sun (日 / 白) and Palace Tower (京 / 高).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 京 / 高 (Tower). Sunlit pavilion casting three diagonal shadow rays. Consistent actors: Shining Sun (日 / 白) and Palace Tower (京 / 高).",
+    "voiceover_meaning_en": "This character means shadow / movie.",
+    "voiceover_zh": "影。影。"
+  },
+  {
+    "id": 157,
+    "char": "友",
+    "pinyin": "yǒu",
+    "meaning_en": "friend",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "手 / 扌 / 又 (Hand)",
+    "actor_ids": [
+      "shou_hand"
+    ],
+    "mnemonic_en": "Two hands clasping together in friendship. Consistent actors: Action Hand (手 / 扌 / 又).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/友.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/友.png` into a Chineasy flat-vector visual mnemonic for 友 (yǒu — friend) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two hands clasping together in friendship. Consistent actors: Action Hand (手 / 扌 / 又).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand). Two hands clasping together in friendship. Consistent actors: Action Hand (手 / 扌 / 又).",
+    "voiceover_meaning_en": "This character means friend.",
+    "voiceover_zh": "友。友。"
+  },
+  {
+    "id": 158,
+    "char": "有",
+    "pinyin": "yǒu",
+    "meaning_en": "to have / there is",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 月 (Moon)",
+    "actor_ids": [
+      "shou_hand",
+      "yue_moon"
+    ],
+    "mnemonic_en": "Hand holding a crescent slice showing possession. Consistent actors: Action Hand (手 / 扌 / 又) and Crescent Moon (月).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/有.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/有.png` into a Chineasy flat-vector visual mnemonic for 有 (yǒu — to have / there is) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Hand holding a crescent slice showing possession. Consistent actors: Action Hand (手 / 扌 / 又) and Crescent Moon (月).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 月 (Moon). Hand holding a crescent slice showing possession. Consistent actors: Action Hand (手 / 扌 / 又) and Crescent Moon (月).",
+    "voiceover_meaning_en": "This character means to have / there is.",
+    "voiceover_zh": "有。有。"
+  },
+  {
+    "id": 159,
+    "char": "语",
+    "pinyin": "yǔ",
+    "meaning_en": "language",
+    "layout_en": "Left + Right",
+    "radicals_en": "讠 (Speech) + 口 (Mouth)",
+    "actor_ids": [
+      "yan_speech",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Speech waves paired with conversational mouth. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/语.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/语.png` into a Chineasy flat-vector visual mnemonic for 语 (yǔ — language) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Speech waves paired with conversational mouth. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_intro_en": "讠 (Speech) + 口 (Mouth). Speech waves paired with conversational mouth. Consistent actors: Speech Wave (讠) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means language.",
+    "voiceover_zh": "语。语。"
+  },
+  {
+    "id": 160,
+    "char": "雨",
+    "pinyin": "yǔ",
+    "meaning_en": "rain",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "雨 (Rain)",
+    "actor_ids": [
+      "yu_rain"
+    ],
+    "mnemonic_en": "Cloud bar and window frame with 4 falling raindrops. Consistent actors: Rain Cloud (雨).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/雨.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/雨.png` into a Chineasy flat-vector visual mnemonic for 雨 (yǔ — rain) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Cloud bar and window frame with 4 falling raindrops. Consistent actors: Rain Cloud (雨).",
+    "voiceover_intro_en": "雨 (Rain). Cloud bar and window frame with 4 falling raindrops. Consistent actors: Rain Cloud (雨).",
+    "voiceover_meaning_en": "This character means rain.",
+    "voiceover_zh": "雨。雨。"
+  },
+  {
+    "id": 161,
+    "char": "院",
+    "pinyin": "yuàn",
+    "meaning_en": "courtyard / hospital",
+    "layout_en": "Left + Right",
+    "radicals_en": "阝 (Wall) + 宀 / 冖 / 广 (Roof)",
+    "actor_ids": [
+      "fu_mound",
+      "mian_roof"
+    ],
+    "mnemonic_en": "Curved courtyard wall enclosing a complete roof. Consistent actors: City Wall (阝) and House Roof (宀 / 冖 / 广).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/院.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/院.png` into a Chineasy flat-vector visual mnemonic for 院 (yuàn — courtyard / hospital) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Curved courtyard wall enclosing a complete roof. Consistent actors: City Wall (阝) and House Roof (宀 / 冖 / 广).",
+    "voiceover_intro_en": "阝 (Wall) + 宀 / 冖 / 广 (Roof). Curved courtyard wall enclosing a complete roof. Consistent actors: City Wall (阝) and House Roof (宀 / 冖 / 广).",
+    "voiceover_meaning_en": "This character means courtyard / hospital.",
+    "voiceover_zh": "院。院。"
+  },
+  {
+    "id": 162,
+    "char": "月",
+    "pinyin": "yuè",
+    "meaning_en": "month / moon",
+    "layout_en": "Single Structure",
+    "radicals_en": "月 (Moon)",
+    "actor_ids": [
+      "yue_moon"
+    ],
+    "mnemonic_en": "Curved crescent moon with gentle inner stripes. Consistent actors: Crescent Moon (月).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/月.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/月.png` into a Chineasy flat-vector visual mnemonic for 月 (yuè — month / moon) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Curved crescent moon with gentle inner stripes. Consistent actors: Crescent Moon (月).",
+    "voiceover_intro_en": "月 (Moon). Curved crescent moon with gentle inner stripes. Consistent actors: Crescent Moon (月).",
+    "voiceover_meaning_en": "This character means month / moon.",
+    "voiceover_zh": "月。月。"
+  },
+  {
+    "id": 163,
+    "char": "再",
+    "pinyin": "zài",
+    "meaning_en": "again; once more",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "一 / 二 / 三 (Line) + 土 (Earth)",
+    "actor_ids": [
+      "yi_one",
+      "tu_earth"
+    ],
+    "mnemonic_en": "Layered frame lifted up a second time. Consistent actors: Counting Bar (一 / 二 / 三) and Earth Mound (土).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/再.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/再.png` into a Chineasy flat-vector visual mnemonic for 再 (zài — again; once more) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Layered frame lifted up a second time. Consistent actors: Counting Bar (一 / 二 / 三) and Earth Mound (土).",
+    "voiceover_intro_en": "一 / 二 / 三 (Line) + 土 (Earth). Layered frame lifted up a second time. Consistent actors: Counting Bar (一 / 二 / 三) and Earth Mound (土).",
+    "voiceover_meaning_en": "This character means again; once more.",
+    "voiceover_zh": "再。再。"
+  },
+  {
+    "id": 164,
+    "char": "在",
+    "pinyin": "zài",
+    "meaning_en": "at / in / be located",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "手 / 扌 / 又 (Hand) + 土 (Earth)",
+    "actor_ids": [
+      "shou_hand",
+      "tu_earth"
+    ],
+    "mnemonic_en": "Anchor pin planted firmly onto earth mound. Consistent actors: Action Hand (手 / 扌 / 又) and Earth Mound (土).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/在.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/在.png` into a Chineasy flat-vector visual mnemonic for 在 (zài — at / in / be located) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Anchor pin planted firmly onto earth mound. Consistent actors: Action Hand (手 / 扌 / 又) and Earth Mound (土).",
+    "voiceover_intro_en": "手 / 扌 / 又 (Hand) + 土 (Earth). Anchor pin planted firmly onto earth mound. Consistent actors: Action Hand (手 / 扌 / 又) and Earth Mound (土).",
+    "voiceover_meaning_en": "This character means at / in / be located.",
+    "voiceover_zh": "在。在。"
+  },
+  {
+    "id": 165,
+    "char": "怎",
+    "pinyin": "zěn",
+    "meaning_en": "how",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "人 / 亻 (Person) + 心 / 忄 (Heart)",
+    "actor_ids": [
+      "ren_person",
+      "xin_heart"
+    ],
+    "mnemonic_en": "Thought bubble rising directly from a heart. Consistent actors: Person Actor (人 / 亻) and Feeling Heart (心 / 忄).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/怎.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/怎.png` into a Chineasy flat-vector visual mnemonic for 怎 (zěn — how) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Thought bubble rising directly from a heart. Consistent actors: Person Actor (人 / 亻) and Feeling Heart (心 / 忄).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 心 / 忄 (Heart). Thought bubble rising directly from a heart. Consistent actors: Person Actor (人 / 亻) and Feeling Heart (心 / 忄).",
+    "voiceover_meaning_en": "This character means how.",
+    "voiceover_zh": "怎。怎。"
+  },
+  {
+    "id": 166,
+    "char": "站",
+    "pinyin": "zhàn",
+    "meaning_en": "stand / station",
+    "layout_en": "Left + Right",
+    "radicals_en": "立 (Stand) + 口 (Mouth)",
+    "actor_ids": [
+      "li_stand",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Person standing upright at a station post. Consistent actors: Standing Firm (立) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/站.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/站.png` into a Chineasy flat-vector visual mnemonic for 站 (zhàn — stand / station) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person standing upright at a station post. Consistent actors: Standing Firm (立) and Speaking Mouth (口).",
+    "voiceover_intro_en": "立 (Stand) + 口 (Mouth). Person standing upright at a station post. Consistent actors: Standing Firm (立) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means stand / station.",
+    "voiceover_zh": "站。站。"
+  },
+  {
+    "id": 167,
+    "char": "这",
+    "pinyin": "zhè",
+    "meaning_en": "this",
+    "layout_en": "Corner + Inner",
+    "radicals_en": "走 / 辶 / 止 (Step) + 衣 / 礻 / 巾 (Cloth)",
+    "actor_ids": [
+      "zu_foot",
+      "yi_cloth"
+    ],
+    "mnemonic_en": "Walking path pointing right here to this mark. Consistent actors: Walking Step (走 / 辶 / 止) and Robe & Cloth (衣 / 礻 / 巾).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/这.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/这.png` into a Chineasy flat-vector visual mnemonic for 这 (zhè — this) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Walking path pointing right here to this mark. Consistent actors: Walking Step (走 / 辶 / 止) and Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_intro_en": "走 / 辶 / 止 (Step) + 衣 / 礻 / 巾 (Cloth). Walking path pointing right here to this mark. Consistent actors: Walking Step (走 / 辶 / 止) and Robe & Cloth (衣 / 礻 / 巾).",
+    "voiceover_meaning_en": "This character means this.",
+    "voiceover_zh": "这。这。"
+  },
+  {
+    "id": 168,
+    "char": "中",
+    "pinyin": "zhōng",
+    "meaning_en": "within; among",
+    "layout_en": "Outer + Inner",
+    "radicals_en": "口 (Mouth) + 十 / 午 (Cross)",
+    "actor_ids": [
+      "kou_mouth",
+      "shi_ten"
+    ],
+    "mnemonic_en": "Target rectangle pierced dead-center by a vertical arrow. Consistent actors: Speaking Mouth (口) and Cross of Ten (十 / 午).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/中.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/中.png` into a Chineasy flat-vector visual mnemonic for 中 (zhōng — within; among) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Target rectangle pierced dead-center by a vertical arrow. Consistent actors: Speaking Mouth (口) and Cross of Ten (十 / 午).",
+    "voiceover_intro_en": "口 (Mouth) + 十 / 午 (Cross). Target rectangle pierced dead-center by a vertical arrow. Consistent actors: Speaking Mouth (口) and Cross of Ten (十 / 午).",
+    "voiceover_meaning_en": "This character means within; among.",
+    "voiceover_zh": "中。中。"
+  },
+  {
+    "id": 169,
+    "char": "钟",
+    "pinyin": "zhōng",
+    "meaning_en": "clock / bell",
+    "layout_en": "Left + Right",
+    "radicals_en": "钅 (Metal) + 口 (Mouth)",
+    "actor_ids": [
+      "jin_metal",
+      "kou_mouth"
+    ],
+    "mnemonic_en": "Metallic chime bell ringing on the hour. Consistent actors: Gold Metal (钅) and Speaking Mouth (口).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/钟.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/钟.png` into a Chineasy flat-vector visual mnemonic for 钟 (zhōng — clock / bell) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Metallic chime bell ringing on the hour. Consistent actors: Gold Metal (钅) and Speaking Mouth (口).",
+    "voiceover_intro_en": "钅 (Metal) + 口 (Mouth). Metallic chime bell ringing on the hour. Consistent actors: Gold Metal (钅) and Speaking Mouth (口).",
+    "voiceover_meaning_en": "This character means clock / bell.",
+    "voiceover_zh": "钟。钟。"
+  },
+  {
+    "id": 170,
+    "char": "住",
+    "pinyin": "zhù",
+    "meaning_en": "to live / stay",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 火 / 灬 (Fire)",
+    "actor_ids": [
+      "ren_person",
+      "huo_fire"
+    ],
+    "mnemonic_en": "Person beside a glowing candle-stand representing home. Consistent actors: Person Actor (人 / 亻) and Blazing Fire (火 / 灬).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/住.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/住.png` into a Chineasy flat-vector visual mnemonic for 住 (zhù — to live / stay) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person beside a glowing candle-stand representing home. Consistent actors: Person Actor (人 / 亻) and Blazing Fire (火 / 灬).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 火 / 灬 (Fire). Person beside a glowing candle-stand representing home. Consistent actors: Person Actor (人 / 亻) and Blazing Fire (火 / 灬).",
+    "voiceover_meaning_en": "This character means to live / stay.",
+    "voiceover_zh": "住。住。"
+  },
+  {
+    "id": 171,
+    "char": "桌",
+    "pinyin": "zhuō",
+    "meaning_en": "table",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "日 / 白 (Sun) + 木 (Tree)",
+    "actor_ids": [
+      "ri_sun",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Flat tabletop supported by wooden pedestal. Consistent actors: Shining Sun (日 / 白) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/桌.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/桌.png` into a Chineasy flat-vector visual mnemonic for 桌 (zhuō — table) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Flat tabletop supported by wooden pedestal. Consistent actors: Shining Sun (日 / 白) and Timber Tree (木).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 木 (Tree). Flat tabletop supported by wooden pedestal. Consistent actors: Shining Sun (日 / 白) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means table.",
+    "voiceover_zh": "桌。桌。"
+  },
+  {
+    "id": 172,
+    "char": "子",
+    "pinyin": "zǐ",
+    "meaning_en": "子",
+    "layout_en": "Single Structure",
+    "radicals_en": "子 / 儿 (Child)",
+    "actor_ids": [
+      "zi_child"
+    ],
+    "mnemonic_en": "Cute baby silhouette with outstretched arms. Consistent actors: Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/子.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/子.png` into a Chineasy flat-vector visual mnemonic for 子 (zǐ — 子) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Cute baby silhouette with outstretched arms. Consistent actors: Little Child (子 / 儿).",
+    "voiceover_intro_en": "子 / 儿 (Child). Cute baby silhouette with outstretched arms. Consistent actors: Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means 子.",
+    "voiceover_zh": "子。子。"
+  },
+  {
+    "id": 173,
+    "char": "字",
+    "pinyin": "zì",
+    "meaning_en": "Chinese character",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "宀 / 冖 / 广 (Roof) + 子 / 儿 (Child)",
+    "actor_ids": [
+      "mian_roof",
+      "zi_child"
+    ],
+    "mnemonic_en": "Roof shelter protecting a little child learning. Consistent actors: House Roof (宀 / 冖 / 广) and Little Child (子 / 儿).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/字.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/字.png` into a Chineasy flat-vector visual mnemonic for 字 (zì — Chinese character) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Roof shelter protecting a little child learning. Consistent actors: House Roof (宀 / 冖 / 广) and Little Child (子 / 儿).",
+    "voiceover_intro_en": "宀 / 冖 / 广 (Roof) + 子 / 儿 (Child). Roof shelter protecting a little child learning. Consistent actors: House Roof (宀 / 冖 / 广) and Little Child (子 / 儿).",
+    "voiceover_meaning_en": "This character means Chinese character.",
+    "voiceover_zh": "字。字。"
+  },
+  {
+    "id": 174,
+    "char": "租",
+    "pinyin": "zū",
+    "meaning_en": "rent",
+    "layout_en": "Left + Right",
+    "radicals_en": "禾 (Grain) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "he_grain",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Grain bundles stacked to pay rent. Consistent actors: Grain Stalk (禾) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/租.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/租.png` into a Chineasy flat-vector visual mnemonic for 租 (zū — rent) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Grain bundles stacked to pay rent. Consistent actors: Grain Stalk (禾) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "禾 (Grain) + 工 / 寸 (Tool). Grain bundles stacked to pay rent. Consistent actors: Grain Stalk (禾) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means rent.",
+    "voiceover_zh": "租。租。"
+  },
+  {
+    "id": 175,
+    "char": "昨",
+    "pinyin": "zuó",
+    "meaning_en": "yesterday",
+    "layout_en": "Left + Right",
+    "radicals_en": "日 / 白 (Sun) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "ri_sun",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Sun setting behind yesterday's marker. Consistent actors: Shining Sun (日 / 白) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/昨.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/昨.png` into a Chineasy flat-vector visual mnemonic for 昨 (zuó — yesterday) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Sun setting behind yesterday's marker. Consistent actors: Shining Sun (日 / 白) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "日 / 白 (Sun) + 工 / 寸 (Tool). Sun setting behind yesterday's marker. Consistent actors: Shining Sun (日 / 白) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means yesterday.",
+    "voiceover_zh": "昨。昨。"
+  },
+  {
+    "id": 176,
+    "char": "坐",
+    "pinyin": "zuò",
+    "meaning_en": "to sit / ride",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "人 / 亻 (Person) + 土 (Earth)",
+    "actor_ids": [
+      "ren_person",
+      "tu_earth"
+    ],
+    "mnemonic_en": "Two small figures sitting together on the earth. Consistent actors: Person Actor (人 / 亻) and Earth Mound (土).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/坐.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/坐.png` into a Chineasy flat-vector visual mnemonic for 坐 (zuò — to sit / ride) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Two small figures sitting together on the earth. Consistent actors: Person Actor (人 / 亻) and Earth Mound (土).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 土 (Earth). Two small figures sitting together on the earth. Consistent actors: Person Actor (人 / 亻) and Earth Mound (土).",
+    "voiceover_meaning_en": "This character means to sit / ride.",
+    "voiceover_zh": "坐。坐。"
+  },
+  {
+    "id": 177,
+    "char": "做",
+    "pinyin": "zuò",
+    "meaning_en": "to do / make",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "ren_person",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Person busy crafting and doing work. Consistent actors: Person Actor (人 / 亻) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/做.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/做.png` into a Chineasy flat-vector visual mnemonic for 做 (zuò — to do / make) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person busy crafting and doing work. Consistent actors: Person Actor (人 / 亻) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 工 / 寸 (Tool). Person busy crafting and doing work. Consistent actors: Person Actor (人 / 亻) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means to do / make.",
+    "voiceover_zh": "做。做。"
+  },
+  {
+    "id": 178,
+    "char": "作",
+    "pinyin": "zuò",
+    "meaning_en": "work / make",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 工 / 寸 (Tool)",
+    "actor_ids": [
+      "ren_person",
+      "gong_tool"
+    ],
+    "mnemonic_en": "Person working beside notched wood beams. Consistent actors: Person Actor (人 / 亻) and Measuring Tool (工 / 寸).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/作.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/作.png` into a Chineasy flat-vector visual mnemonic for 作 (zuò — work / make) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person working beside notched wood beams. Consistent actors: Person Actor (人 / 亻) and Measuring Tool (工 / 寸).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 工 / 寸 (Tool). Person working beside notched wood beams. Consistent actors: Person Actor (人 / 亻) and Measuring Tool (工 / 寸).",
+    "voiceover_meaning_en": "This character means work / make.",
+    "voiceover_zh": "作。作。"
+  },
+  {
+    "id": 179,
+    "char": "休",
+    "pinyin": "xiū",
+    "meaning_en": "rest",
+    "layout_en": "Left + Right",
+    "radicals_en": "人 / 亻 (Person) + 木 (Tree)",
+    "actor_ids": [
+      "ren_person",
+      "mu_tree"
+    ],
+    "mnemonic_en": "Person leaning peacefully against a tree trunk. Consistent actors: Person Actor (人 / 亻) and Timber Tree (木).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/休.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/休.png` into a Chineasy flat-vector visual mnemonic for 休 (xiū — rest) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Person leaning peacefully against a tree trunk. Consistent actors: Person Actor (人 / 亻) and Timber Tree (木).",
+    "voiceover_intro_en": "人 / 亻 (Person) + 木 (Tree). Person leaning peacefully against a tree trunk. Consistent actors: Person Actor (人 / 亻) and Timber Tree (木).",
+    "voiceover_meaning_en": "This character means rest.",
+    "voiceover_zh": "休。休。"
+  },
+  {
+    "id": 180,
+    "char": "息",
+    "pinyin": "xī",
+    "meaning_en": "breath / rest",
+    "layout_en": "Top + Bottom",
+    "radicals_en": "自 (Nose) + 心 / 忄 (Heart)",
+    "actor_ids": [
+      "zi_nose",
+      "xin_heart"
+    ],
+    "mnemonic_en": "Nose breathing calm air down into a peaceful heart. Consistent actors: Breathing Nose (自) and Feeling Heart (心 / 忄).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/息.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/息.png` into a Chineasy flat-vector visual mnemonic for 息 (xī — breath / rest) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Nose breathing calm air down into a peaceful heart. Consistent actors: Breathing Nose (自) and Feeling Heart (心 / 忄).",
+    "voiceover_intro_en": "自 (Nose) + 心 / 忄 (Heart). Nose breathing calm air down into a peaceful heart. Consistent actors: Breathing Nose (自) and Feeling Heart (心 / 忄).",
+    "voiceover_meaning_en": "This character means breath / rest.",
+    "voiceover_zh": "息。息。"
+  },
+  {
+    "id": 181,
+    "char": "山",
+    "pinyin": "shān",
+    "meaning_en": "mountain",
+    "layout_en": "Single Structure",
+    "radicals_en": "山 (Mountain)",
+    "actor_ids": [
+      "shan_mountain"
+    ],
+    "mnemonic_en": "Three geometric mountain peaks rising from flat valley. Consistent actors: Mountain Peaks (山).",
+    "template_path": "/Volumes/App/Workspace/chinese-mnemonic-demo/templates/山.png",
+    "full_image_prompt": "Edit `/Volumes/App/Workspace/chinese-mnemonic-demo/templates/山.png` into a Chineasy flat-vector visual mnemonic for 山 (shān — mountain) preserving exact stroke geometry (#FAF6F0, #2B2D42, #D9534F, #2E6F5E). Story: Three geometric mountain peaks rising from flat valley. Consistent actors: Mountain Peaks (山).",
+    "voiceover_intro_en": "山 (Mountain). Three geometric mountain peaks rising from flat valley. Consistent actors: Mountain Peaks (山).",
+    "voiceover_meaning_en": "This character means mountain.",
+    "voiceover_zh": "山。山。"
+  }
+]

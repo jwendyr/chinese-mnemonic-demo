@@ -1,0 +1,2896 @@
+{
+  "audit_passed": true,
+  "errors": [],
+  "official_vocab_count": 155,
+  "official_unique_chars": 178,
+  "total_char_records": 181,
+  "actors_count": 50,
+  "cgr_old_hsk1_coverage": "151/151",
+  "missing_font_glyphs": 0,
+  "prompts_audited_ok": 181,
+  "char_cards_done": 181,
+  "vocab_cards_done": 155,
+  "char_cards_en_done": 181,
+  "vocab_cards_en_done": 155,
+  "sprite_cards_en_done": 50,
+  "ai_illustrations_count": 8,
+  "composed_illustrations_count": 173,
+  "char_videos_done": 181,
+  "vocab_videos_done": 155,
+  "char_videos_en_done": 181,
+  "vocab_videos_en_done": 155,
+  "single_copy_verified": "84/84",
+  "compound_stitch_verified": 71,
+  "compound_stitch_total": 71,
+  "total_videos_in_dir": 160,
+  "total_videos_en_in_dir": 156,
+  "kaidah_rows": [
+    {
+      "id": 1,
+      "char": "爱",
+      "pinyin": "ài",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "shou_hand",
+        "mian_roof",
+        "xin_heart"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 2,
+      "char": "八",
+      "pinyin": "bā",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "ba_divide"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 3,
+      "char": "爸",
+      "pinyin": "bà",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "fu_father"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 4,
+      "char": "杯",
+      "pinyin": "bēi",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "mu_tree",
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 5,
+      "char": "北",
+      "pinyin": "běi",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 6,
+      "char": "本",
+      "pinyin": "běn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mu_tree",
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 7,
+      "char": "不",
+      "pinyin": "bù",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "yi_one",
+        "zhui_bird"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 8,
+      "char": "菜",
+      "pinyin": "cài",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "cao_grass",
+        "shou_hand",
+        "mu_tree"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 9,
+      "char": "茶",
+      "pinyin": "chá",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "cao_grass",
+        "ren_person",
+        "mu_tree"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 10,
+      "char": "车",
+      "pinyin": "chē",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "che_vehicle"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 11,
+      "char": "吃",
+      "pinyin": "chī",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "qi_steam"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 12,
+      "char": "出",
+      "pinyin": "chū",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "shan_mountain"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 13,
+      "char": "打",
+      "pinyin": "dǎ",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shou_hand",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 14,
+      "char": "大",
+      "pinyin": "dà",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "da_big"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 15,
+      "char": "的",
+      "pinyin": "de",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "gui_jade",
+        "shi_food"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 16,
+      "char": "点",
+      "pinyin": "diǎn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "li_stand",
+        "huo_fire"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 17,
+      "char": "店",
+      "pinyin": "diàn",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "mian_roof",
+        "li_stand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 18,
+      "char": "电",
+      "pinyin": "diàn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ri_sun",
+        "huo_fire"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 19,
+      "char": "东",
+      "pinyin": "dōng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ri_sun",
+        "mu_tree"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 20,
+      "char": "都",
+      "pinyin": "dōu",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "fu_father",
+        "ri_sun",
+        "fu_mound"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 21,
+      "char": "读",
+      "pinyin": "dú",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "da_big"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 22,
+      "char": "对",
+      "pinyin": "duì",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shou_hand",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 23,
+      "char": "多",
+      "pinyin": "duō",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "xi_evening"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 24,
+      "char": "儿",
+      "pinyin": "ér",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 25,
+      "char": "二",
+      "pinyin": "èr",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 26,
+      "char": "饭",
+      "pinyin": "fàn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shi_food",
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 27,
+      "char": "飞",
+      "pinyin": "fēi",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "zhui_bird"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 28,
+      "char": "分",
+      "pinyin": "fēn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ba_divide",
+        "dao_knife"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 29,
+      "char": "服",
+      "pinyin": "fú",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yue_moon",
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 30,
+      "char": "高",
+      "pinyin": "gāo",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "jing_tower",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 31,
+      "char": "个",
+      "pinyin": "gè",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ren_person",
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 32,
+      "char": "工",
+      "pinyin": "gōng",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 33,
+      "char": "狗",
+      "pinyin": "gǒu",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "quan_animal",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 34,
+      "char": "关",
+      "pinyin": "guān",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ba_divide",
+        "da_big"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 35,
+      "char": "馆",
+      "pinyin": "guǎn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shi_food",
+        "mian_roof"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 36,
+      "char": "国",
+      "pinyin": "guó",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "wei_wall",
+        "gui_jade"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 37,
+      "char": "果",
+      "pinyin": "guǒ",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "tian_field",
+        "mu_tree"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 38,
+      "char": "汉",
+      "pinyin": "hàn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shui_water",
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 39,
+      "char": "好",
+      "pinyin": "hǎo",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "nv_woman",
+        "zi_child"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 40,
+      "char": "号",
+      "pinyin": "hào",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "kou_mouth",
+        "qi_steam"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 41,
+      "char": "喝",
+      "pinyin": "hē",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "ri_sun"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 42,
+      "char": "和",
+      "pinyin": "hé",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "he_grain",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 43,
+      "char": "很",
+      "pinyin": "hěn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "zu_foot",
+        "mu_eye"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 44,
+      "char": "候",
+      "pinyin": "hòu",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "shi_arrow"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 45,
+      "char": "后",
+      "pinyin": "hòu",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "mian_roof",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 46,
+      "char": "话",
+      "pinyin": "huà",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 47,
+      "char": "欢",
+      "pinyin": "huān",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shou_hand",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 48,
+      "char": "回",
+      "pinyin": "huí",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "wei_wall"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 49,
+      "char": "会",
+      "pinyin": "huì",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ren_person",
+        "qi_steam"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 50,
+      "char": "火",
+      "pinyin": "huǒ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "huo_fire"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 51,
+      "char": "机",
+      "pinyin": "jī",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "mu_tree",
+        "ba_divide"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 52,
+      "char": "几",
+      "pinyin": "jǐ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "ba_divide"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 53,
+      "char": "家",
+      "pinyin": "jiā",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mian_roof",
+        "shi_pig"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 54,
+      "char": "见",
+      "pinyin": "jiàn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mu_eye",
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 55,
+      "char": "叫",
+      "pinyin": "jiào",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 56,
+      "char": "姐",
+      "pinyin": "jiě",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "nv_woman",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 57,
+      "char": "今",
+      "pinyin": "jīn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mian_roof",
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 58,
+      "char": "京",
+      "pinyin": "jīng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "jing_tower",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 59,
+      "char": "九",
+      "pinyin": "jiǔ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 60,
+      "char": "觉",
+      "pinyin": "jué",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "xiao_small",
+        "mian_roof",
+        "mu_eye"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 61,
+      "char": "开",
+      "pinyin": "kāi",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "yi_one",
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 62,
+      "char": "看",
+      "pinyin": "kàn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "shou_hand",
+        "mu_eye"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 63,
+      "char": "客",
+      "pinyin": "kè",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mian_roof",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 64,
+      "char": "块",
+      "pinyin": "kuài",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "tu_earth",
+        "dao_knife"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 65,
+      "char": "来",
+      "pinyin": "lái",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "he_grain",
+        "mu_tree"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 66,
+      "char": "老",
+      "pinyin": "lǎo",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "fu_father",
+        "ren_person"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 67,
+      "char": "了",
+      "pinyin": "le",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 68,
+      "char": "冷",
+      "pinyin": "lěng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "bing_ice",
+        "ren_person"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 69,
+      "char": "里",
+      "pinyin": "lǐ",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "tian_field",
+        "tu_earth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 70,
+      "char": "亮",
+      "pinyin": "liàng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "jing_tower",
+        "kou_mouth",
+        "ba_divide"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 71,
+      "char": "六",
+      "pinyin": "liù",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mian_roof",
+        "ba_divide"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 72,
+      "char": "妈",
+      "pinyin": "mā",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "nv_woman",
+        "ma_horse"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 73,
+      "char": "吗",
+      "pinyin": "ma",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "ma_horse"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 74,
+      "char": "买",
+      "pinyin": "mǎi",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "wei_wall",
+        "da_big"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 75,
+      "char": "猫",
+      "pinyin": "māo",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "quan_animal",
+        "cao_grass",
+        "tian_field"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 76,
+      "char": "么",
+      "pinyin": "me",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "si_silk"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 77,
+      "char": "没",
+      "pinyin": "méi",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shui_water",
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 78,
+      "char": "们",
+      "pinyin": "men",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "men_door"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 79,
+      "char": "米",
+      "pinyin": "mǐ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "shi_food"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 80,
+      "char": "面",
+      "pinyin": "miàn",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "wei_wall",
+        "mu_eye"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 81,
+      "char": "名",
+      "pinyin": "míng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "xi_evening",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 82,
+      "char": "明",
+      "pinyin": "míng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ri_sun",
+        "yue_moon"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 83,
+      "char": "哪",
+      "pinyin": "nǎ",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "fu_mound"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 84,
+      "char": "那",
+      "pinyin": "nà",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "fu_mound"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 85,
+      "char": "脑",
+      "pinyin": "nǎo",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yue_moon",
+        "xin_heart"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 86,
+      "char": "呢",
+      "pinyin": "ne",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "yi_cloth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 87,
+      "char": "能",
+      "pinyin": "néng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yue_moon",
+        "quan_animal"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 88,
+      "char": "你",
+      "pinyin": "nǐ",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "xiao_small"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 89,
+      "char": "年",
+      "pinyin": "nián",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "he_grain"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 90,
+      "char": "女",
+      "pinyin": "nǚ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "nv_woman"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 91,
+      "char": "朋",
+      "pinyin": "péng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yue_moon"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 92,
+      "char": "漂",
+      "pinyin": "piào",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shui_water",
+        "shi_food"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 93,
+      "char": "苹",
+      "pinyin": "píng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "cao_grass",
+        "mu_tree"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 94,
+      "char": "七",
+      "pinyin": "qī",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "yi_one",
+        "shi_ten"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 95,
+      "char": "期",
+      "pinyin": "qī",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "gong_tool",
+        "yue_moon"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 96,
+      "char": "起",
+      "pinyin": "qǐ",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "zu_foot",
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 97,
+      "char": "气",
+      "pinyin": "qì",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "qi_steam"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 98,
+      "char": "前",
+      "pinyin": "qián",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "yue_moon",
+        "dao_knife"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 99,
+      "char": "钱",
+      "pinyin": "qián",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "jin_metal",
+        "shi_arrow"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 100,
+      "char": "请",
+      "pinyin": "qǐng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "yue_moon"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 101,
+      "char": "去",
+      "pinyin": "qù",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "tu_earth",
+        "zu_foot"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 102,
+      "char": "热",
+      "pinyin": "rè",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "shou_hand",
+        "huo_fire"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 103,
+      "char": "人",
+      "pinyin": "rén",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "ren_person"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 104,
+      "char": "认",
+      "pinyin": "rèn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "ren_person"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 105,
+      "char": "日",
+      "pinyin": "rì",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "ri_sun"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 106,
+      "char": "三",
+      "pinyin": "sān",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 107,
+      "char": "商",
+      "pinyin": "shāng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "li_stand",
+        "mian_roof",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 108,
+      "char": "上",
+      "pinyin": "shàng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "yi_one",
+        "li_stand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 109,
+      "char": "少",
+      "pinyin": "shǎo",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "xiao_small",
+        "dao_knife"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 110,
+      "char": "谁",
+      "pinyin": "shéi",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "zhui_bird"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 111,
+      "char": "什",
+      "pinyin": "shén",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "shi_ten"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 112,
+      "char": "生",
+      "pinyin": "shēng",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "cao_grass"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 113,
+      "char": "师",
+      "pinyin": "shī",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "dao_knife",
+        "yi_cloth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 114,
+      "char": "十",
+      "pinyin": "shí",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "shi_ten"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 115,
+      "char": "时",
+      "pinyin": "shí",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ri_sun",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 116,
+      "char": "识",
+      "pinyin": "shí",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 117,
+      "char": "是",
+      "pinyin": "shì",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ri_sun",
+        "zu_foot"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 118,
+      "char": "视",
+      "pinyin": "shì",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yi_cloth",
+        "mu_eye"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 119,
+      "char": "书",
+      "pinyin": "shū",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "si_silk",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 120,
+      "char": "水",
+      "pinyin": "shuǐ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "shui_water"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 121,
+      "char": "睡",
+      "pinyin": "shuì",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "mu_eye",
+        "cao_grass"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 122,
+      "char": "说",
+      "pinyin": "shuō",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 123,
+      "char": "四",
+      "pinyin": "sì",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "wei_wall",
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 124,
+      "char": "岁",
+      "pinyin": "suì",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "shan_mountain",
+        "xi_evening"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 125,
+      "char": "他",
+      "pinyin": "tā",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "tu_earth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 126,
+      "char": "她",
+      "pinyin": "tā",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "nv_woman",
+        "tu_earth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 127,
+      "char": "太",
+      "pinyin": "tài",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "da_big",
+        "xiao_small"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 128,
+      "char": "天",
+      "pinyin": "tiān",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "yi_one",
+        "da_big"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 129,
+      "char": "听",
+      "pinyin": "tīng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "dao_knife"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 130,
+      "char": "同",
+      "pinyin": "tóng",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "mian_roof",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 131,
+      "char": "喂",
+      "pinyin": "wèi",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "kou_mouth",
+        "tian_field"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 132,
+      "char": "我",
+      "pinyin": "wǒ",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "shou_hand",
+        "shi_arrow"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 133,
+      "char": "五",
+      "pinyin": "wǔ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "yi_one",
+        "shi_ten"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 134,
+      "char": "午",
+      "pinyin": "wǔ",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "shi_ten"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 135,
+      "char": "西",
+      "pinyin": "xī",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "wei_wall",
+        "zhui_bird"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 136,
+      "char": "习",
+      "pinyin": "xí",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "zhui_bird"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 137,
+      "char": "喜",
+      "pinyin": "xǐ",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "gu_drum",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 138,
+      "char": "系",
+      "pinyin": "xì",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "si_silk",
+        "xiao_small"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 139,
+      "char": "下",
+      "pinyin": "xià",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "yi_one",
+        "xiao_small"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 140,
+      "char": "先",
+      "pinyin": "xiān",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "cao_grass",
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 141,
+      "char": "现",
+      "pinyin": "xiàn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "gui_jade",
+        "mu_eye"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 142,
+      "char": "想",
+      "pinyin": "xiǎng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mu_tree",
+        "mu_eye",
+        "xin_heart"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 143,
+      "char": "小",
+      "pinyin": "xiǎo",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "xiao_small"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 144,
+      "char": "校",
+      "pinyin": "xiào",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "mu_tree",
+        "ren_person"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 145,
+      "char": "些",
+      "pinyin": "xiē",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "zu_foot",
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 146,
+      "char": "写",
+      "pinyin": "xiě",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mian_roof",
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 147,
+      "char": "谢",
+      "pinyin": "xiè",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "ren_person"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 148,
+      "char": "星",
+      "pinyin": "xīng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ri_sun",
+        "cao_grass"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 149,
+      "char": "兴",
+      "pinyin": "xìng",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "shou_hand",
+        "ba_divide"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 150,
+      "char": "学",
+      "pinyin": "xué",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "xiao_small",
+        "mian_roof",
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 151,
+      "char": "样",
+      "pinyin": "yàng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "mu_tree",
+        "shi_pig"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 152,
+      "char": "一",
+      "pinyin": "yī",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "yi_one"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 153,
+      "char": "医",
+      "pinyin": "yī",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "wei_wall",
+        "shi_arrow"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 154,
+      "char": "衣",
+      "pinyin": "yī",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "yi_cloth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 155,
+      "char": "椅",
+      "pinyin": "yǐ",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "mu_tree",
+        "da_big"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 156,
+      "char": "影",
+      "pinyin": "yǐng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ri_sun",
+        "jing_tower"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 157,
+      "char": "友",
+      "pinyin": "yǒu",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "shou_hand"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 158,
+      "char": "有",
+      "pinyin": "yǒu",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "shou_hand",
+        "yue_moon"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 159,
+      "char": "语",
+      "pinyin": "yǔ",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "yan_speech",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 160,
+      "char": "雨",
+      "pinyin": "yǔ",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "yu_rain"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 161,
+      "char": "院",
+      "pinyin": "yuàn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "fu_mound",
+        "mian_roof"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 162,
+      "char": "月",
+      "pinyin": "yuè",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "yue_moon"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 163,
+      "char": "再",
+      "pinyin": "zài",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "yi_one",
+        "tu_earth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 164,
+      "char": "在",
+      "pinyin": "zài",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "shou_hand",
+        "tu_earth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 165,
+      "char": "怎",
+      "pinyin": "zěn",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ren_person",
+        "xin_heart"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 166,
+      "char": "站",
+      "pinyin": "zhàn",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "li_stand",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 167,
+      "char": "这",
+      "pinyin": "zhè",
+      "layout": "Sudut + Isi",
+      "actor_ids": [
+        "zu_foot",
+        "yi_cloth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 168,
+      "char": "中",
+      "pinyin": "zhōng",
+      "layout": "Luar + Dalam",
+      "actor_ids": [
+        "kou_mouth",
+        "shi_ten"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 169,
+      "char": "钟",
+      "pinyin": "zhōng",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "jin_metal",
+        "kou_mouth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 170,
+      "char": "住",
+      "pinyin": "zhù",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "huo_fire"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 171,
+      "char": "桌",
+      "pinyin": "zhuō",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ri_sun",
+        "mu_tree"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 172,
+      "char": "子",
+      "pinyin": "zǐ",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 173,
+      "char": "字",
+      "pinyin": "zì",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "mian_roof",
+        "zi_child"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 174,
+      "char": "租",
+      "pinyin": "zū",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "he_grain",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 175,
+      "char": "昨",
+      "pinyin": "zuó",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ri_sun",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 176,
+      "char": "坐",
+      "pinyin": "zuò",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "ren_person",
+        "tu_earth"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 177,
+      "char": "做",
+      "pinyin": "zuò",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 178,
+      "char": "作",
+      "pinyin": "zuò",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "gong_tool"
+      ],
+      "visual_mode": "Actor-Sprite",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 179,
+      "char": "休",
+      "pinyin": "xiū",
+      "layout": "Kiri + Kanan",
+      "actor_ids": [
+        "ren_person",
+        "mu_tree"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 180,
+      "char": "息",
+      "pinyin": "xī",
+      "layout": "Atas + Bawah",
+      "actor_ids": [
+        "zi_nose",
+        "xin_heart"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    },
+    {
+      "id": 181,
+      "char": "山",
+      "pinyin": "shān",
+      "layout": "Struktur Tunggal",
+      "actor_ids": [
+        "shan_mountain"
+      ],
+      "visual_mode": "Nano-Banana",
+      "k1_actor_consistent": true,
+      "k2_spatial_layout": true,
+      "k3_visual_card": true,
+      "k4_char_video": true,
+      "passed": true
+    }
+  ]
+}

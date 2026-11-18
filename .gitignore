@@ -1,0 +1,41 @@
+# Build & temporary caches
+build_tmp/
+__pycache__/
+*.pyc
+.DS_Store
+exemplars/.DS_Store
+
+# Legacy bulk procedural outputs (excluded per anti-credit-waste QC workflow)
+videos/
+videos_en/
+illustrations_composed/
+sprites/
+sprite_cards/
+sprite_cards_en/
+vocab_cards/
+vocab_cards_en/
+
+# Track only verified exemplar cards, videos, and brush templates
+cards/*
+!cards/好.png
+!cards/好_card.png
+!cards/看.png
+!cards/看_card.png
+
+cards_en/*
+!cards_en/好.png
+!cards_en/好_card.png
+!cards_en/看.png
+!cards_en/看_card.png
+
+char_videos/*
+!char_videos/好.mp4
+!char_videos/看.mp4
+
+char_videos_en/*
+!char_videos_en/好.mp4
+!char_videos_en/看.mp4
+
+templates/*
+!templates/好.png
+!templates/看.png

@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HSK 1 Chineasy Mnemonic Studio — Actor Sprites, 9:16 Videos &amp; CGR Bridge</title>
+  <style>
+    :root {
+      --bg: #FAF6F0;
+      --surface: #FFFDF9;
+      --surface-soft: #F3ECE0;
+      --ink: #2B2D42;
+      --muted: #6C6964;
+      --red: #D9534F;
+      --green: #2E6F5E;
+      --ochre: #C48A34;
+      --border: #E4DDD2;
+      --shadow: 0 10px 30px rgba(43, 45, 66, 0.08);
+      --radius: 18px;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
+
+    html {
+      scrollbar-gutter: stable;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Avenir Next", -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", sans-serif;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .shell {
+      inline-size: min(1440px, 100% - 2rem);
+      margin-inline: auto;
+      padding-block: 1.5rem 4rem;
+    }
+
+    .hero {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 1.5rem 1.75rem;
+      box-shadow: var(--shadow);
+      margin-block-end: 1.5rem;
+    }
+
+    .hero-top {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: safe center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    .brand-eyebrow {
+      display: inline-block;
+      background: var(--red);
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.3rem 0.75rem;
+      border-radius: 999px;
+      margin-block-end: 0.5rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.45rem, 2.5vw, 2.15rem);
+      letter-spacing: -0.02em;
+    }
+
+    .subtitle {
+      margin: 0.35rem 0 0;
+      color: var(--muted);
+      font-size: 0.94rem;
+      max-inline-size: 74ch;
+    }
+
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.7rem;
+    }
+
+    .stat-pill {
+      background: var(--surface-soft);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 0.6rem 0.95rem;
+      min-inline-size: 122px;
+    }
+
+    .stat-val {
+      display: block;
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--ink);
+      line-height: 1.15;
+    }
+
+    .stat-lbl {
+      font-size: 0.75rem;
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    .controls {
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+      margin-block-start: 1.25rem;
+      padding-block-start: 1.1rem;
+      border-block-start: 1px solid var(--border);
+    }
+
+    .controls-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: safe center;
+      gap: 0.75rem;
+      justify-content: space-between;
+    }
+
+    .mode-tabs, .cat-pills {
+      display: flex;
+      flex-wrap: wrap;
+      flex-wrap: balance;
+      gap: 0.5rem;
+    }
+
+    .btn-tab, .btn-cat {
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 0.5rem 0.95rem;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: background-color 0.16s ease, color 0.16s ease, border-color 0.16s ease;
+    }
+
+    .btn-tab[aria-pressed="true"] {
+      background: var(--ink);
+      border-color: var(--ink);
+      color: #fff;
+    }
+
+    .btn-cat[aria-pressed="true"] {
+      background: var(--green);
+      border-color: var(--green);
+      color: #fff;
+    }
+
+    .search-wrap {
+      flex: 1 1 260px;
+      max-inline-size: 400px;
+      min-inline-size: 0;
+    }
+
+    .search-input {
+      inline-size: 100%;
+      padding: 0.6rem 1rem;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--bg);
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.92rem;
+    }
+
+    .search-input:focus {
+      outline: 2px solid var(--green);
+      outline-offset: 2px;
+    }
+
+    .result-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: space-between;
+      align-items: center;
+      margin-block-end: 1rem;
+      color: var(--muted);
+      font-size: 0.88rem;
+      font-weight: 600;
+    }
+
+    .masonry-gallery {
+      columns: 5 220px;
+      column-gap: 1.1rem;
+    }
+
+    @supports (grid-template-rows: masonry) {
+      .masonry-gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        grid-template-rows: masonry;
+        gap: 1.1rem;
+        columns: unset;
+      }
+    }
+
+    .tile {
+      break-inside: avoid;
+      margin-block-end: 1.1rem;
+      position: relative;
+      border-radius: var(--radius);
+      overflow: clip;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 16px rgba(43, 45, 66, 0.06);
+      cursor: pointer;
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+    }
+
+    .tile:hover, .tile:focus-visible {
+      transform: translateY(-3px);
+      box-shadow: 0 14px 28px rgba(43, 45, 66, 0.14);
+      outline: 2px solid var(--red);
+      outline-offset: 2px;
+    }
+
+    .tile-media {
+      position: relative;
+      background: var(--bg);
+    }
+
+    .tile-img {
+      display: block;
+      inline-size: 100%;
+      block-size: auto;
+      aspect-ratio: 9 / 16;
+      object-fit: cover;
+    }
+
+    .tile-badges {
+      position: absolute;
+      inset-block-start: 10px;
+      inset-inline-start: 10px;
+      inset-inline-end: 10px;
+      display: flex;
+      justify-content: space-between;
+      gap: 0.4rem;
+      pointer-events: none;
+    }
+
+    .badge {
+      font-size: 0.66rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      padding: 0.24rem 0.55rem;
+      border-radius: 999px;
+      color: #fff;
+      background: rgba(43, 45, 66, 0.82);
+    }
+
+    .badge-ai {
+      background: var(--red);
+    }
+
+    .badge-video {
+      background: var(--green);
+    }
+
+    .badge-sprite {
+      background: var(--ochre);
+    }
+
+    .tile-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(43, 45, 66, 0.05) 35%, rgba(43, 45, 66, 0.94) 100%);
+      color: #fff;
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      opacity: 0;
+      transition: opacity 0.18s ease;
+    }
+
+    .tile:hover .tile-overlay,
+    .tile:focus-visible .tile-overlay {
+      opacity: 1;
+    }
+
+    .ov-hanzi {
+      font-size: 1.45rem;
+      font-weight: 700;
+      line-height: 1.15;
+    }
+
+    .ov-meta {
+      font-size: 0.82rem;
+      color: #FFD7C2;
+      font-weight: 600;
+      margin-block: 0.2rem 0.4rem;
+    }
+
+    .ov-story {
+      font-size: 0.77rem;
+      color: rgba(255, 255, 255, 0.92);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      line-clamp: 3;
+      overflow: clip;
+    }
+
+    dialog#lightbox {
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      background: var(--surface);
+      color: var(--ink);
+      padding: 0;
+      inline-size: min(1080px, 94dvw);
+      max-block-size: 90dvh;
+      overflow: clip;
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+    }
+
+    dialog#lightbox::backdrop {
+      background: rgba(24, 25, 36, 0.64);
+      backdrop-filter: blur(4px);
+    }
+
+    .dlg-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 1rem 1.4rem;
+      border-block-end: 1px solid var(--border);
+      background: var(--bg);
+    }
+
+    .dlg-title-group {
+      display: flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    .dlg-hanzi {
+      font-size: 2rem;
+      font-weight: 800;
+      margin: 0;
+    }
+
+    .dlg-pinyin {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--red);
+    }
+
+    .dlg-meaning {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--green);
+    }
+
+    .dlg-close {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--ink);
+      inline-size: 40px;
+      block-size: 40px;
+      border-radius: 999px;
+      font-size: 1.35rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    .dlg-close:hover {
+      background: var(--red);
+      border-color: var(--red);
+      color: #fff;
+    }
+
+    .dlg-body {
+      padding: 1.3rem 1.4rem 1.6rem;
+      max-block-size: calc(90dvh - 80px);
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      display: grid;
+      grid-template-columns: minmax(260px, 340px) 1fr;
+      gap: 1.5rem;
+      align-items: start;
+    }
+
+    @media (max-width: 780px) {
+      .dlg-body {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .dlg-media-col {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }
+
+    .dlg-media-box {
+      border-radius: 16px;
+      overflow: clip;
+      border: 1px solid var(--border);
+      background: var(--bg);
+    }
+
+    .dlg-media-box video,
+    .dlg-media-box img {
+      display: block;
+      inline-size: 100%;
+      block-size: auto;
+      aspect-ratio: 9 / 16;
+    }
+
+    .dlg-details-col {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .cgr-box {
+      padding: 0.85rem 1rem;
+      border-radius: 14px;
+      background: var(--surface-soft);
+      border: 1px solid var(--border);
+      font-size: 0.86rem;
+    }
+
+    .cgr-box-title {
+      font-weight: 700;
+      color: var(--ink);
+      margin-block-end: 0.3rem;
+    }
+
+    .cgr-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-block-start: 0.45rem;
+    }
+
+    .cgr-tag {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 0.18rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.76rem;
+      font-weight: 600;
+    }
+
+    .char-breakdown-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }
+
+    .char-item {
+      display: grid;
+      grid-template-columns: 108px 1fr;
+      gap: 1rem;
+      padding: 0.9rem;
+      border-radius: 16px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      align-items: start;
+    }
+
+    .char-item img.card-thumb {
+      display: block;
+      inline-size: 108px;
+      block-size: auto;
+      aspect-ratio: 9 / 16;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+    }
+
+    .char-item-head {
+      display: flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin-block-end: 0.25rem;
+    }
+
+    .char-item-hanzi {
+      font-size: 1.55rem;
+      font-weight: 800;
+    }
+
+    .char-item-py {
+      color: var(--red);
+      font-weight: 700;
+    }
+
+    .char-item-rad {
+      font-size: 0.84rem;
+      color: var(--green);
+      font-weight: 700;
+      margin-block-end: 0.35rem;
+    }
+
+    .char-item-story {
+      margin: 0 0 0.5rem;
+      font-size: 0.9rem;
+      color: var(--ink);
+    }
+
+    .actor-chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-block-end: 0.5rem;
+    }
+
+    .actor-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.16rem 0.55rem 0.16rem 0.22rem;
+      font-size: 0.76rem;
+      font-weight: 600;
+    }
+
+    .actor-chip img {
+      inline-size: 22px;
+      block-size: 22px;
+      display: block;
+    }
+
+    .btn-mini-video {
+      border: 1px solid var(--green);
+      background: transparent;
+      color: var(--green);
+      font: inherit;
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 0.3rem 0.7rem;
+      border-radius: 999px;
+      cursor: pointer;
+    }
+
+    .btn-mini-video:hover {
+      background: var(--green);
+      color: #fff;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <div class="hero-top">
+        <div>
+          <span class="brand-eyebrow">Chineasy-Style Mnemonic Studio · 9:16 YouTube Shorts</span>
+          <h1>HSK 1 Complete Mnemonic &amp; Actor Sprite Library</h1>
+          <p class="subtitle">
+            Terhubung read-only ke database <code>ChineseGradedReader</code> (<strong>151/151</strong> entri HSK 2.0 Level 1 tercakup + 4 kanonik Hanban = <strong>155 kata</strong> &amp; <strong>181 karakter</strong>). Dibangun dengan <strong>50 Canonical Actor Sprites</strong> konsisten dan video 9:16 modular (karakter dirender 1× lalu disambung tanpa re-generasi).
+          </p>
+        </div>
+        <div class="stats" aria-label="Ringkasan Statistik">
+          <div class="stat-pill">
+            <span class="stat-val" id="statVocab">155</span>
+            <span class="stat-lbl">Kosakata HSK 1</span>
+          </div>
+          <div class="stat-pill">
+            <span class="stat-val" id="statChars">178</span>
+            <span class="stat-lbl">Karakter Unik</span>
+          </div>
+          <div class="stat-pill">
+            <span class="stat-val" id="statActors">50</span>
+            <span class="stat-lbl">Actor Sprites</span>
+          </div>
+          <div class="stat-pill">
+            <span class="stat-val" id="statCharVid">181</span>
+            <span class="stat-lbl">Video Karakter</span>
+          </div>
+          <div class="stat-pill">
+            <span class="stat-val" id="statVid">156</span>
+            <span class="stat-lbl">Video Gabungan 9:16</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <div class="controls-row">
+          <div class="mode-tabs" role="group" aria-label="Mode Tampilan">
+            <button type="button" class="btn-tab" data-mode="vocab" aria-pressed="true">Kosakata HSK 1 (155)</button>
+            <button type="button" class="btn-tab" data-mode="chars" aria-pressed="false">Karakter Unik (181)</button>
+            <button type="button" class="btn-tab" data-mode="actors" aria-pressed="false">Actor Sprites (50)</button>
+            <button type="button" class="btn-tab" data-mode="featured" aria-pressed="false">Nano-Banana AI (8)</button>
+          </div>
+          <div class="mode-tabs" role="group" aria-label="Pilih Bahasa Set">
+            <button type="button" class="btn-tab btn-lang" data-lang="id" aria-pressed="true">🇮🇩 Indonesia</button>
+            <button type="button" class="btn-tab btn-lang" data-lang="en" aria-pressed="false">🇺🇸 English</button>
+          </div>
+          <div class="search-wrap">
+            <input
+              type="search"
+              id="searchInput"
+              class="search-input"
+              placeholder="Cari Hanzi, Pinyin, Zhuyin, arti ID/EN, atau Aktor..."
+              aria-label="Cari kosakata, karakter, atau actor sprite"
+            />
+          </div>
+        </div>
+
+        <div class="cat-pills" id="categoryRow" role="group" aria-label="Filter Kategori">
+          <button type="button" class="btn-cat" data-cat="ALL" aria-pressed="true">Semua Kategori</button>
+        </div>
+      </div>
+    </header>
+
+    <div class="result-bar">
+      <span id="resultCount">Memuat data...</span>
+      <span>Klik kartu untuk memutar video 9:16 &amp; memeriksa referensi ChineseGradedReader DB</span>
+    </div>
+
+    <section id="gallery" class="masonry-gallery" aria-live="polite"></section>
+    <div id="emptyState" class="empty-state" hidden>Tidak ada kosakata, karakter, atau actor sprite yang cocok.</div>
+  </main>
+
+  <dialog id="lightbox" closedby="any" aria-labelledby="lightboxTitle">
+    <div class="dlg-header">
+      <div class="dlg-title-group">
+        <h2 class="dlg-hanzi" id="lightboxTitle">休</h2>
+        <span class="dlg-pinyin" id="lightboxPinyin">xiū</span>
+        <span class="dlg-meaning" id="lightboxMeaning">beristirahat</span>
+      </div>
+      <form method="dialog">
+        <button type="submit" class="dlg-close" aria-label="Tutup dialog">&times;</button>
+      </form>
+    </div>
+    <div class="dlg-body">
+      <div class="dlg-media-col" id="dlgMediaCol"></div>
+      <div class="dlg-details-col">
+        <div id="dlgCgrBox"></div>
+        <div class="char-breakdown-list" id="dlgBreakdown"></div>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="gallery_data.js"></script>
+  <script>
+    const DATA = window.HSK1_GALLERY_DATA;
+    const aiSet = new Set(DATA.ai_illustrated_chars || []);
+    const videoSetId = new Set(DATA.available_videos || []);
+    const charVideoSetId = new Set(DATA.available_char_videos || []);
+    const videoSetEn = new Set(DATA.available_videos_en || []);
+    const charVideoSetEn = new Set(DATA.available_char_videos_en || []);
+    const charByGlyph = new Map((DATA.chars || []).map((c) => [c.char, c]));
+
+    let activeLang = "id";
+    let activeMode = "vocab";
+    let activeCategory = "ALL";
+    let searchQuery = "";
+
+    function updateStats() {
+      const vSet = activeLang === "en" ? videoSetEn : videoSetId;
+      const cvSet = activeLang === "en" ? charVideoSetEn : charVideoSetId;
+      document.getElementById("statVocab").textContent = String(DATA.vocab_count);
+      document.getElementById("statChars").textContent = String(DATA.hsk1_unique_chars);
+      document.getElementById("statActors").textContent = String((DATA.actors || []).length);
+      document.getElementById("statCharVid").textContent = String(cvSet.size);
+      document.getElementById("statVid").textContent = String(vSet.size);
+    }
+    updateStats();
+
+    const categories = Array.from(new Set(DATA.vocab.map((v) => v.category)));
+    const catRow = document.getElementById("categoryRow");
+    categories.forEach((cat) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "btn-cat";
+      btn.dataset.cat = cat;
+      btn.setAttribute("aria-pressed", "false");
+      btn.textContent = cat;
+      catRow.appendChild(btn);
+    });
+
+    const galleryEl = document.getElementById("gallery");
+    const emptyEl = document.getElementById("emptyState");
+    const countEl = document.getElementById("resultCount");
+    const lightbox = document.getElementById("lightbox");
+
+    if (!("closedBy" in HTMLDialogElement.prototype)) {
+      lightbox.addEventListener("click", (event) => {
+        if (event.target !== lightbox) return;
+        const rect = lightbox.getBoundingClientRect();
+        const inside =
+          rect.top <= event.clientY &&
+          event.clientY <= rect.top + rect.height &&
+          rect.left <= event.clientX &&
+          event.clientX <= rect.left + rect.width;
+        if (!inside) lightbox.close();
+      });
+    }
+
+    lightbox.addEventListener("close", () => {
+      const vid = lightbox.querySelector("video");
+      if (vid) vid.pause();
+    });
+
+    function getItems() {
+      const q = searchQuery.trim().toLowerCase();
+      const isEn = activeLang === "en";
+      const cardsDir = isEn ? "cards_en" : "cards";
+      const vocabCardsDir = isEn ? "vocab_cards_en" : "vocab_cards";
+      const spriteCardsDir = isEn ? "sprite_cards_en" : "sprite_cards";
+      const videosDir = isEn ? "videos_en" : "videos";
+      const charVideosDir = isEn ? "char_videos_en" : "char_videos";
+      const vSet = isEn ? videoSetEn : videoSetId;
+      const cvSet = isEn ? charVideoSetEn : charVideoSetId;
+
+      if (activeMode === "actors") {
+        return (DATA.actors || [])
+          .filter((a) => {
+            if (!q) return true;
+            return (
+              a.actor_name.toLowerCase().includes(q) ||
+              (a.actor_name_en || "").toLowerCase().includes(q) ||
+              a.keyword.toLowerCase().includes(q) ||
+              (a.keyword_en || "").toLowerCase().includes(q) ||
+              a.radical.includes(q) ||
+              a.description.toLowerCase().includes(q) ||
+              (a.description_en || "").toLowerCase().includes(q) ||
+              (a.used_in_chars || []).some((ch) => ch.includes(q))
+            );
+          })
+          .map((a) => ({
+            kind: "actor",
+            title: a.radical,
+            pinyin: isEn ? (a.actor_name_en || a.actor_name) : a.actor_name,
+            meaning: isEn ? `${a.usage_count} HSK 1 characters` : `${a.usage_count} karakter HSK 1`,
+            img: `${spriteCardsDir}/${encodeURIComponent(a.id)}_sprite.png`,
+            hasAi: false,
+            hasVideo: false,
+            isSprite: true,
+            story: isEn ? (a.description_en || a.description) : a.description,
+            chars: a.used_in_chars || [],
+            actor: a,
+          }));
+      }
+
+      if (activeMode === "chars" || activeMode === "featured") {
+        return DATA.chars
+          .filter((c) => {
+            if (activeMode === "featured" && !aiSet.has(c.char)) return false;
+            if (!q) return true;
+            const cgr = c.cgr_ref || {};
+            const actorTxt = (c.actors || []).map((a) => `${a.actor_name} ${a.actor_name_en || ""} ${a.keyword} ${a.keyword_en || ""}`).join(" ").toLowerCase();
+            return (
+              c.char.includes(q) ||
+              c.pinyin.toLowerCase().includes(q) ||
+              c.meaning_id.toLowerCase().includes(q) ||
+              (c.meaning_en || "").toLowerCase().includes(q) ||
+              c.radicals.toLowerCase().includes(q) ||
+              c.mnemonic_id.toLowerCase().includes(q) ||
+              (c.mnemonic_en || "").toLowerCase().includes(q) ||
+              actorTxt.includes(q) ||
+              (cgr.meaning_en || "").toLowerCase().includes(q) ||
+              (cgr.traditional || "").includes(q)
+            );
+          })
+          .map((c) => ({
+            kind: "char",
+            title: c.char,
+            pinyin: c.pinyin,
+            meaning: isEn ? (c.meaning_en || c.meaning_id) : c.meaning_id,
+            img: `${cardsDir}/${encodeURIComponent(c.char)}_card.png`,
+            hasAi: aiSet.has(c.char),
+            hasVideo: cvSet.has(c.char) || vSet.has(c.char),
+            videoSrc: cvSet.has(c.char)
+              ? `${charVideosDir}/${encodeURIComponent(c.char)}.mp4`
+              : (vSet.has(c.char) ? `${videosDir}/${encodeURIComponent(c.char)}.mp4` : null),
+            story: isEn
+              ? `${c.layout_en || c.layout} · ${c.radicals_en || c.radicals} — ${c.mnemonic_en || c.mnemonic_id}`
+              : `${c.layout} · ${c.radicals} — ${c.mnemonic_id}`,
+            chars: [c.char],
+            cgrRef: c.cgr_ref,
+          }));
+      }
+
+      return DATA.vocab
+        .map((v) => ({
+          kind: "vocab",
+          title: v.word,
+          pinyin: v.pinyin,
+          meaning: isEn ? (v.meaning_en || v.meaning_id) : v.meaning_id,
+          category: v.category,
+          img: `${vocabCardsDir}/${encodeURIComponent(v.word)}_card.png`,
+          hasAi: v.chars.some((ch) => aiSet.has(ch)),
+          hasVideo: vSet.has(v.word),
+          videoSrc: vSet.has(v.word) ? `${videosDir}/${encodeURIComponent(v.word)}.mp4` : null,
+          story: v.breakdown.map((b) => `${b.char}: ${isEn ? (b.radicals_en || b.radicals) : b.radicals}`).join(" • "),
+          chars: v.chars,
+          cgrRef: v.cgr_ref,
+        }))
+        .filter((item) => {
+          if (activeCategory !== "ALL" && item.category !== activeCategory) return false;
+          if (!q) return true;
+          const cgr = item.cgrRef || {};
+          return (
+            item.title.includes(q) ||
+            item.pinyin.toLowerCase().includes(q) ||
+            item.meaning.toLowerCase().includes(q) ||
+            item.story.toLowerCase().includes(q) ||
+            (cgr.meaning_en || "").toLowerCase().includes(q) ||
+            (cgr.traditional || "").includes(q)
+          );
+        });
+    }
+
+    function openLightbox(item) {
+      const isEn = activeLang === "en";
+      const cardsDir = isEn ? "cards_en" : "cards";
+      const charVideosDir = isEn ? "char_videos_en" : "char_videos";
+      const cvSet = isEn ? charVideoSetEn : charVideoSetId;
+
+      document.getElementById("lightboxTitle").textContent = item.title;
+      document.getElementById("lightboxPinyin").textContent = item.pinyin;
+      document.getElementById("lightboxMeaning").textContent = `— ${item.meaning}`;
+
+      const mediaCol = document.getElementById("dlgMediaCol");
+      mediaCol.innerHTML = "";
+
+      let activeVideoEl = null;
+      const initialVideoSrc = item.videoSrc || (item.chars.length && cvSet.has(item.chars[0]) ? `${charVideosDir}/${encodeURIComponent(item.chars[0])}.mp4` : null);
+      if (initialVideoSrc) {
+        const box = document.createElement("div");
+        box.className = "dlg-media-box";
+        const video = document.createElement("video");
+        video.controls = true;
+        video.playsInline = true;
+        video.preload = "metadata";
+        video.src = initialVideoSrc;
+        activeVideoEl = video;
+        box.appendChild(video);
+        mediaCol.appendChild(box);
+      }
+
+      const cardBox = document.createElement("div");
+      cardBox.className = "dlg-media-box";
+      const img = document.createElement("img");
+      img.src = item.img;
+      img.alt = `Card ${item.title}`;
+      img.setAttribute("fetchpriority", "low");
+      cardBox.appendChild(img);
+      mediaCol.appendChild(cardBox);
+
+      const cgrBox = document.getElementById("dlgCgrBox");
+      cgrBox.innerHTML = "";
+      if (item.cgrRef && item.cgrRef.found_in_cgr) {
+        const cgr = item.cgrRef;
+        const wrap = document.createElement("div");
+        wrap.className = "cgr-box";
+        const title = document.createElement("div");
+        title.className = "cgr-box-title";
+        title.textContent = isEn ? "ChineseGradedReader DB Reference (Read-Only)" : "Referensi DB ChineseGradedReader (Read-Only)";
+        const desc = document.createElement("div");
+        desc.textContent = cgr.meaning_en || "-";
+        const tags = document.createElement("div");
+        tags.className = "cgr-tags";
+        [
+          `Trad: ${cgr.traditional || item.title}`,
+          cgr.zhuyin ? `Zhuyin: ${cgr.zhuyin}` : null,
+          `HSK 2.0: Lv ${cgr.oldLevel ?? "-"}`,
+          `HSK 3.0: Lv ${cgr.newLevel ?? "-"}`,
+          ...(cgr.topics || []).slice(0, 3),
+        ]
+          .filter(Boolean)
+          .forEach((t) => {
+            const sp = document.createElement("span");
+            sp.className = "cgr-tag";
+            sp.textContent = t;
+            tags.appendChild(sp);
+          });
+        wrap.append(title, desc, tags);
+        cgrBox.appendChild(wrap);
+      } else if (item.actor) {
+        const wrap = document.createElement("div");
+        wrap.className = "cgr-box";
+        const grp = isEn ? (item.actor.role_group_en || item.actor.role_group) : item.actor.role_group;
+        const dsc = isEn ? (item.actor.description_en || item.actor.description) : item.actor.description;
+        wrap.innerHTML = `<div class="cgr-box-title">Canonical Actor Sprite (${grp})</div><div>${dsc}</div>`;
+        cgrBox.appendChild(wrap);
+      }
+
+      const breakdownEl = document.getElementById("dlgBreakdown");
+      breakdownEl.innerHTML = "";
+      item.chars.forEach((ch) => {
+        const c = charByGlyph.get(ch);
+        if (!c) return;
+        const row = document.createElement("article");
+        row.className = "char-item";
+
+        const thumb = document.createElement("img");
+        thumb.className = "card-thumb";
+        thumb.src = `${cardsDir}/${encodeURIComponent(c.char)}_card.png`;
+        thumb.alt = `Character card ${c.char}`;
+        thumb.setAttribute("fetchpriority", "low");
+
+        const info = document.createElement("div");
+        const head = document.createElement("div");
+        head.className = "char-item-head";
+        const charMeaning = isEn ? (c.meaning_en || c.meaning_id) : c.meaning_id;
+        head.innerHTML = `<span class="char-item-hanzi">${c.char}</span><span class="char-item-py">${c.pinyin}</span><span>· ${charMeaning}</span>`;
+
+        const rad = document.createElement("div");
+        rad.className = "char-item-rad";
+        rad.textContent = isEn
+          ? `${c.layout_en || c.layout} · ${c.radicals_en || c.radicals}`
+          : `${c.layout} · ${c.radicals}`;
+
+        const chipRow = document.createElement("div");
+        chipRow.className = "actor-chip-row";
+        (c.actors || []).forEach((a) => {
+          const chip = document.createElement("span");
+          chip.className = "actor-chip";
+          const sImg = document.createElement("img");
+          sImg.src = a.sprite_path;
+          sImg.alt = isEn ? (a.actor_name_en || a.actor_name) : a.actor_name;
+          sImg.setAttribute("fetchpriority", "low");
+          const sTxt = document.createElement("span");
+          sTxt.textContent = isEn ? (a.actor_name_en || a.actor_name) : a.actor_name;
+          chip.append(sImg, sTxt);
+          chipRow.appendChild(chip);
+        });
+
+        const story = document.createElement("p");
+        story.className = "char-item-story";
+        story.textContent = isEn ? (c.mnemonic_en || c.mnemonic_id) : c.mnemonic_id;
+
+        info.append(head, rad, chipRow, story);
+
+        if (cvSet.has(c.char) && activeVideoEl) {
+          const playCharBtn = document.createElement("button");
+          playCharBtn.type = "button";
+          playCharBtn.className = "btn-mini-video";
+          playCharBtn.textContent = isEn ? `Play Character Video ${c.char}.mp4` : `Putar Video Karakter ${c.char}.mp4`;
+          playCharBtn.addEventListener("click", () => {
+            activeVideoEl.src = `${charVideosDir}/${encodeURIComponent(c.char)}.mp4`;
+            activeVideoEl.play();
+          });
+          info.appendChild(playCharBtn);
+        }
+
+        row.append(thumb, info);
+        breakdownEl.appendChild(row);
+      });
+
+      lightbox.showModal();
+    }
+
+    function render() {
+      const items = getItems();
+      galleryEl.innerHTML = "";
+      catRow.hidden = activeMode !== "vocab";
+
+      if (items.length === 0) {
+        emptyEl.hidden = false;
+        countEl.textContent = "0 item ditemukan";
+        return;
+      }
+
+      emptyEl.hidden = true;
+      countEl.textContent = `Menampilkan ${items.length} item`;
+
+      const frag = document.createDocumentFragment();
+      items.forEach((item, idx) => {
+        const card = document.createElement("article");
+        card.className = "tile";
+        card.tabIndex = 0;
+        card.setAttribute("role", "button");
+        card.setAttribute("aria-label", `Buka mnemonic ${item.title} (${item.pinyin})`);
+
+        const media = document.createElement("div");
+        media.className = "tile-media";
+
+        const img = document.createElement("img");
+        img.className = "tile-img";
+        img.src = item.img;
+        img.alt = `${item.title} — ${item.meaning}`;
+        img.width = 1080;
+        img.height = 1920;
+        if (idx < 2) {
+          img.setAttribute("fetchpriority", "high");
+        } else {
+          img.loading = "lazy";
+        }
+
+        const badges = document.createElement("div");
+        badges.className = "tile-badges";
+        if (item.isSprite) {
+          const b = document.createElement("span");
+          b.className = "badge badge-sprite";
+          b.textContent = "ACTOR SPRITE";
+          badges.appendChild(b);
+        } else if (item.hasAi) {
+          const b = document.createElement("span");
+          b.className = "badge badge-ai";
+          b.textContent = "NANO BANANA";
+          badges.appendChild(b);
+        } else {
+          const b = document.createElement("span");
+          b.className = "badge badge-sprite";
+          b.textContent = "SPRITE COMPOSED";
+          badges.appendChild(b);
+        }
+        if (item.hasVideo) {
+          const b = document.createElement("span");
+          b.className = "badge badge-video";
+          b.textContent = "VIDEO 9:16";
+          badges.appendChild(b);
+        }
+
+        const overlay = document.createElement("div");
+        overlay.className = "tile-overlay";
+        overlay.innerHTML = `
+          <div class="ov-hanzi">${item.title}</div>
+          <div class="ov-meta">${item.pinyin} · ${item.meaning}</div>
+          <div class="ov-story">${item.story}</div>
+        `;
+
+        media.append(img, badges, overlay);
+        card.appendChild(media);
+        card.addEventListener("click", () => openLightbox(item));
+        card.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            openLightbox(item);
+          }
+        });
+        frag.appendChild(card);
+      });
+      galleryEl.appendChild(frag);
+    }
+
+    document.querySelectorAll(".btn-tab:not(.btn-lang)").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        activeMode = btn.dataset.mode;
+        document.querySelectorAll(".btn-tab:not(.btn-lang)").forEach((b) =>
+          b.setAttribute("aria-pressed", String(b === btn))
+        );
+        render();
+      });
+    });
+
+    document.querySelectorAll(".btn-lang").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        activeLang = btn.dataset.lang;
+        document.querySelectorAll(".btn-lang").forEach((b) =>
+          b.setAttribute("aria-pressed", String(b === btn))
+        );
+        updateStats();
+        render();
+      });
+    });
+
+    catRow.addEventListener("click", (e) => {
+      const btn = e.target.closest(".btn-cat");
+      if (!btn) return;
+      activeCategory = btn.dataset.cat;
+      catRow.querySelectorAll(".btn-cat").forEach((b) =>
+        b.setAttribute("aria-pressed", String(b === btn))
+      );
+      render();
+    });
+
+    document.getElementById("searchInput").addEventListener("input", (e) => {
+      searchQuery = e.target.value;
+      render();
+    });
+
+    render();
+  </script>
+</body>
+</html>
