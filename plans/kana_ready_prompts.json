@@ -1,0 +1,1658 @@
+[
+  {
+    "script": "hiragana",
+    "char": "あ",
+    "sound": "a",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/03042_あ.svg",
+    "template_path": "templates_kana/hiragana_a_あ.png",
+    "id": {
+      "brief": "Ayunan dengan tali silang dan dudukan melingkar.",
+      "brief_tts": "Ayunan dengan tali silang dan dudukan melingkar."
+    },
+    "en": {
+      "brief": "A swing with crossed ropes and a curved seat.",
+      "brief_tts": "A swing with crossed ropes and a curved seat."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_a_あ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of あ (a):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of あ in their exact position, shape, and color.\n2. Illustrate cleanly behind あ: A swing with crossed ropes and a curved seat.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "a"
+  },
+  {
+    "script": "katakana",
+    "char": "ア",
+    "sound": "a",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030a2_ア.svg",
+    "template_path": "templates_kana/katakana_a_ア.png",
+    "id": {
+      "brief": "Atap kecil dengan penyangga bersudut.",
+      "brief_tts": "Atap kecil dengan penyangga bersudut."
+    },
+    "en": {
+      "brief": "An angular canopy and its brace.",
+      "brief_tts": "An angular canopy and its brace."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_a_ア.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ア (a):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ア in their exact position, shape, and color.\n2. Illustrate cleanly behind ア: An angular canopy and its brace.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "a"
+  },
+  {
+    "script": "hiragana",
+    "char": "い",
+    "sound": "i",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03044_い.svg",
+    "template_path": "templates_kana/hiragana_i_い.png",
+    "id": {
+      "brief": "Dua ikan kecil melengkung, satu lebih panjang.",
+      "brief_tts": "Dua ikan kecil melengkung, satu lebih panjang."
+    },
+    "en": {
+      "brief": "Two curved fish, one longer.",
+      "brief_tts": "Two curved fish, one longer."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_i_い.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of い (i):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of い in their exact position, shape, and color.\n2. Illustrate cleanly behind い: Two curved fish, one longer.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "i"
+  },
+  {
+    "script": "katakana",
+    "char": "イ",
+    "sound": "i",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030a4_イ.svg",
+    "template_path": "templates_kana/katakana_i_イ.png",
+    "id": {
+      "brief": "Orang tampak samping dengan bahu miring dan badan tegak.",
+      "brief_tts": "Orang tampak samping dengan bahu miring dan badan tegak."
+    },
+    "en": {
+      "brief": "A side-on figure with a slanted shoulder and upright body.",
+      "brief_tts": "A side-on figure with a slanted shoulder and upright body."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_i_イ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of イ (i):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of イ in their exact position, shape, and color.\n2. Illustrate cleanly behind イ: A side-on figure with a slanted shoulder and upright body.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "i"
+  },
+  {
+    "script": "hiragana",
+    "char": "う",
+    "sound": "u",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03046_う.svg",
+    "template_path": "templates_kana/hiragana_u_う.png",
+    "id": {
+      "brief": "Kail lengkung dengan kilau pendek di atas.",
+      "brief_tts": "Kail lengkung dengan kilau pendek di atas."
+    },
+    "en": {
+      "brief": "A curved hook with a short glint above.",
+      "brief_tts": "A curved hook with a short glint above."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_u_う.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of う (u):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of う in their exact position, shape, and color.\n2. Illustrate cleanly behind う: A curved hook with a short glint above.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "u"
+  },
+  {
+    "script": "katakana",
+    "char": "ウ",
+    "sound": "u",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030a6_ウ.svg",
+    "template_path": "templates_kana/katakana_u_ウ.png",
+    "id": {
+      "brief": "Atap gudang dengan satu tanda di atasnya.",
+      "brief_tts": "Atap gudang dengan satu tanda di atasnya."
+    },
+    "en": {
+      "brief": "A shed roof with a short mark above.",
+      "brief_tts": "A shed roof with a short mark above."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_u_ウ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ウ (u):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ウ in their exact position, shape, and color.\n2. Illustrate cleanly behind ウ: A shed roof with a short mark above.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "u"
+  },
+  {
+    "script": "hiragana",
+    "char": "え",
+    "sound": "e",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03048_え.svg",
+    "template_path": "templates_kana/hiragana_e_え.png",
+    "id": {
+      "brief": "Jalur layang berbelok di bawah papan kecil.",
+      "brief_tts": "Jalur layang berbelok di bawah papan kecil."
+    },
+    "en": {
+      "brief": "A zigzag ramp below a small sign.",
+      "brief_tts": "A zigzag ramp below a small sign."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_e_え.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of え (e):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of え in their exact position, shape, and color.\n2. Illustrate cleanly behind え: A zigzag ramp below a small sign.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "e"
+  },
+  {
+    "script": "katakana",
+    "char": "エ",
+    "sound": "e",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030a8_エ.svg",
+    "template_path": "templates_kana/katakana_e_エ.png",
+    "id": {
+      "brief": "Bangku dengan dua palang mendatar dan penyangga tengah.",
+      "brief_tts": "Bangku dengan dua palang mendatar dan penyangga tengah."
+    },
+    "en": {
+      "brief": "A bench with two rails and a central support.",
+      "brief_tts": "A bench with two rails and a central support."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_e_エ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of エ (e):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of エ in their exact position, shape, and color.\n2. Illustrate cleanly behind エ: A bench with two rails and a central support.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "e"
+  },
+  {
+    "script": "hiragana",
+    "char": "お",
+    "sound": "o",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/0304a_お.svg",
+    "template_path": "templates_kana/hiragana_o_お.png",
+    "id": {
+      "brief": "Keranjang oval melilit sebuah tiang, dengan daun kecil di kanan atas.",
+      "brief_tts": "Keranjang oval melilit sebuah tiang, dengan daun kecil di kanan atas."
+    },
+    "en": {
+      "brief": "An oval basket looping around a post, with a small upper-right leaf.",
+      "brief_tts": "An oval basket looping around a post, with a small upper-right leaf."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_o_お.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of お (o):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of お in their exact position, shape, and color.\n2. Illustrate cleanly behind お: An oval basket looping around a post, with a small upper-right leaf.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "o"
+  },
+  {
+    "script": "katakana",
+    "char": "オ",
+    "sound": "o",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030aa_オ.svg",
+    "template_path": "templates_kana/katakana_o_オ.png",
+    "id": {
+      "brief": "Tiang dengan palang dan sandaran miring.",
+      "brief_tts": "Tiang dengan palang dan sandaran miring."
+    },
+    "en": {
+      "brief": "A post with a crossbar and diagonal brace.",
+      "brief_tts": "A post with a crossbar and diagonal brace."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_o_オ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of オ (o):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of オ in their exact position, shape, and color.\n2. Illustrate cleanly behind オ: A post with a crossbar and diagonal brace.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "o"
+  },
+  {
+    "script": "hiragana",
+    "char": "か",
+    "sound": "ka",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/0304b_か.svg",
+    "template_path": "templates_kana/hiragana_ka_か.png",
+    "id": {
+      "brief": "Gagang kail dengan palang dan umpan kecil di kanan.",
+      "brief_tts": "Gagang kail dengan palang dan umpan kecil di kanan."
+    },
+    "en": {
+      "brief": "A hook with a crossbar and a small lure on the right.",
+      "brief_tts": "A hook with a crossbar and a small lure on the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ka_か.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of か (ka):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of か in their exact position, shape, and color.\n2. Illustrate cleanly behind か: A hook with a crossbar and a small lure on the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ka"
+  },
+  {
+    "script": "katakana",
+    "char": "カ",
+    "sound": "ka",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030ab_カ.svg",
+    "template_path": "templates_kana/katakana_ka_カ.png",
+    "id": {
+      "brief": "Rangka pengungkit bersudut dengan kaki miring.",
+      "brief_tts": "Rangka pengungkit bersudut dengan kaki miring."
+    },
+    "en": {
+      "brief": "An angular lever frame with a slanted leg.",
+      "brief_tts": "An angular lever frame with a slanted leg."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ka_カ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of カ (ka):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of カ in their exact position, shape, and color.\n2. Illustrate cleanly behind カ: An angular lever frame with a slanted leg.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ka"
+  },
+  {
+    "script": "hiragana",
+    "char": "き",
+    "sound": "ki",
+    "strokes": 4,
+    "svg_path": "kana_stroke_data/0304d_き.svg",
+    "template_path": "templates_kana/hiragana_ki_き.png",
+    "id": {
+      "brief": "Kunci melengkung dengan dua gigi mendatar.",
+      "brief_tts": "Kunci melengkung dengan dua gigi mendatar."
+    },
+    "en": {
+      "brief": "A curved key with two horizontal teeth.",
+      "brief_tts": "A curved key with two horizontal teeth."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ki_き.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of き (ki):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of き in their exact position, shape, and color.\n2. Illustrate cleanly behind き: A curved key with two horizontal teeth.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ki"
+  },
+  {
+    "script": "katakana",
+    "char": "キ",
+    "sound": "ki",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030ad_キ.svg",
+    "template_path": "templates_kana/katakana_ki_キ.png",
+    "id": {
+      "brief": "Kunci lurus dengan dua palang dan batang miring.",
+      "brief_tts": "Kunci lurus dengan dua palang dan batang miring."
+    },
+    "en": {
+      "brief": "A straight key with two bars and a slanted stem.",
+      "brief_tts": "A straight key with two bars and a slanted stem."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ki_キ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of キ (ki):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of キ in their exact position, shape, and color.\n2. Illustrate cleanly behind キ: A straight key with two bars and a slanted stem.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ki"
+  },
+  {
+    "script": "hiragana",
+    "char": "く",
+    "sound": "ku",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/0304f_く.svg",
+    "template_path": "templates_kana/hiragana_ku_く.png",
+    "id": {
+      "brief": "Paruh terbuka mengarah ke kiri.",
+      "brief_tts": "Paruh terbuka mengarah ke kiri."
+    },
+    "en": {
+      "brief": "An open beak pointing left.",
+      "brief_tts": "An open beak pointing left."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ku_く.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of く (ku):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of く in their exact position, shape, and color.\n2. Illustrate cleanly behind く: An open beak pointing left.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ku"
+  },
+  {
+    "script": "katakana",
+    "char": "ク",
+    "sound": "ku",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030af_ク.svg",
+    "template_path": "templates_kana/katakana_ku_ク.png",
+    "id": {
+      "brief": "Paruh burung dari samping dengan dua garis bersudut.",
+      "brief_tts": "Paruh burung dari samping dengan dua garis bersudut."
+    },
+    "en": {
+      "brief": "A bird beak in profile formed by two angular lines.",
+      "brief_tts": "A bird beak in profile formed by two angular lines."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ku_ク.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ク (ku):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ク in their exact position, shape, and color.\n2. Illustrate cleanly behind ク: A bird beak in profile formed by two angular lines.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ku"
+  },
+  {
+    "script": "hiragana",
+    "char": "け",
+    "sound": "ke",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/03051_け.svg",
+    "template_path": "templates_kana/hiragana_ke_け.png",
+    "id": {
+      "brief": "Pagar melengkung di kanan tiang terpisah.",
+      "brief_tts": "Pagar melengkung di kanan tiang terpisah."
+    },
+    "en": {
+      "brief": "A curved fence to the right of a separate post.",
+      "brief_tts": "A curved fence to the right of a separate post."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ke_け.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of け (ke):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of け in their exact position, shape, and color.\n2. Illustrate cleanly behind け: A curved fence to the right of a separate post.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ke"
+  },
+  {
+    "script": "katakana",
+    "char": "ケ",
+    "sound": "ke",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030b1_ケ.svg",
+    "template_path": "templates_kana/katakana_ke_ケ.png",
+    "id": {
+      "brief": "Tiang rambu miring, palang dan kaki diagonal.",
+      "brief_tts": "Tiang rambu miring, palang dan kaki diagonal."
+    },
+    "en": {
+      "brief": "A slanted signpost, crossbar, and diagonal leg.",
+      "brief_tts": "A slanted signpost, crossbar, and diagonal leg."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ke_ケ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ケ (ke):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ケ in their exact position, shape, and color.\n2. Illustrate cleanly behind ケ: A slanted signpost, crossbar, and diagonal leg.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ke"
+  },
+  {
+    "script": "hiragana",
+    "char": "こ",
+    "sound": "ko",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03053_こ.svg",
+    "template_path": "templates_kana/hiragana_ko_こ.png",
+    "id": {
+      "brief": "Dua riak mendatar dengan ujung sedikit melengkung.",
+      "brief_tts": "Dua riak mendatar dengan ujung sedikit melengkung."
+    },
+    "en": {
+      "brief": "Two horizontal ripples with curved tips.",
+      "brief_tts": "Two horizontal ripples with curved tips."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ko_こ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of こ (ko):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of こ in their exact position, shape, and color.\n2. Illustrate cleanly behind こ: Two horizontal ripples with curved tips.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ko"
+  },
+  {
+    "script": "katakana",
+    "char": "コ",
+    "sound": "ko",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030b3_コ.svg",
+    "template_path": "templates_kana/katakana_ko_コ.png",
+    "id": {
+      "brief": "Tiga sisi kotak yang terbuka ke kiri.",
+      "brief_tts": "Tiga sisi kotak yang terbuka ke kiri."
+    },
+    "en": {
+      "brief": "Three sides of a box open to the left.",
+      "brief_tts": "Three sides of a box open to the left."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ko_コ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of コ (ko):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of コ in their exact position, shape, and color.\n2. Illustrate cleanly behind コ: Three sides of a box open to the left.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ko"
+  },
+  {
+    "script": "hiragana",
+    "char": "さ",
+    "sound": "sa",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/03055_さ.svg",
+    "template_path": "templates_kana/hiragana_sa_さ.png",
+    "id": {
+      "brief": "Papan kecil bersilang dengan sabit di bawah.",
+      "brief_tts": "Papan kecil bersilang dengan sabit di bawah."
+    },
+    "en": {
+      "brief": "A crossed sign with a little crescent below.",
+      "brief_tts": "A crossed sign with a little crescent below."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_sa_さ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of さ (sa):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of さ in their exact position, shape, and color.\n2. Illustrate cleanly behind さ: A crossed sign with a little crescent below.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "sa"
+  },
+  {
+    "script": "katakana",
+    "char": "サ",
+    "sound": "sa",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030b5_サ.svg",
+    "template_path": "templates_kana/katakana_sa_サ.png",
+    "id": {
+      "brief": "Palang pagar ditembus dua tiang.",
+      "brief_tts": "Palang pagar ditembus dua tiang."
+    },
+    "en": {
+      "brief": "A fence rail crossed by two posts.",
+      "brief_tts": "A fence rail crossed by two posts."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_sa_サ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of サ (sa):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of サ in their exact position, shape, and color.\n2. Illustrate cleanly behind サ: A fence rail crossed by two posts.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "sa"
+  },
+  {
+    "script": "hiragana",
+    "char": "し",
+    "sound": "shi",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/03057_し.svg",
+    "template_path": "templates_kana/hiragana_shi_し.png",
+    "id": {
+      "brief": "Seluncuran panjang berbelok naik ke kanan.",
+      "brief_tts": "Seluncuran panjang berbelok naik ke kanan."
+    },
+    "en": {
+      "brief": "A long slide curling up to the right.",
+      "brief_tts": "A long slide curling up to the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_shi_し.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of し (shi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of し in their exact position, shape, and color.\n2. Illustrate cleanly behind し: A long slide curling up to the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "shi"
+  },
+  {
+    "script": "katakana",
+    "char": "シ",
+    "sound": "shi",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030b7_シ.svg",
+    "template_path": "templates_kana/katakana_shi_シ.png",
+    "id": {
+      "brief": "Dua percikan bertumpuk di kiri dari sapuan miring.",
+      "brief_tts": "Dua percikan bertumpuk di kiri dari sapuan miring."
+    },
+    "en": {
+      "brief": "Two stacked splashes on the left of a sweeping stroke.",
+      "brief_tts": "Two stacked splashes on the left of a sweeping stroke."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_shi_シ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of シ (shi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of シ in their exact position, shape, and color.\n2. Illustrate cleanly behind シ: Two stacked splashes on the left of a sweeping stroke.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "shi"
+  },
+  {
+    "script": "hiragana",
+    "char": "す",
+    "sound": "su",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03059_す.svg",
+    "template_path": "templates_kana/hiragana_su_す.png",
+    "id": {
+      "brief": "Tali bersimpul di bawah satu palang.",
+      "brief_tts": "Tali bersimpul di bawah satu palang."
+    },
+    "en": {
+      "brief": "A knotted rope below one rail.",
+      "brief_tts": "A knotted rope below one rail."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_su_す.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of す (su):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of す in their exact position, shape, and color.\n2. Illustrate cleanly behind す: A knotted rope below one rail.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "su"
+  },
+  {
+    "script": "katakana",
+    "char": "ス",
+    "sound": "su",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030b9_ス.svg",
+    "template_path": "templates_kana/katakana_su_ス.png",
+    "id": {
+      "brief": "Atap miring dengan kaki panjang menyilang keluar.",
+      "brief_tts": "Atap miring dengan kaki panjang menyilang keluar."
+    },
+    "en": {
+      "brief": "A pitched roof with a long crossing leg.",
+      "brief_tts": "A pitched roof with a long crossing leg."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_su_ス.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ス (su):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ス in their exact position, shape, and color.\n2. Illustrate cleanly behind ス: A pitched roof with a long crossing leg.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "su"
+  },
+  {
+    "script": "hiragana",
+    "char": "せ",
+    "sound": "se",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/0305b_せ.svg",
+    "template_path": "templates_kana/hiragana_se_せ.png",
+    "id": {
+      "brief": "Gagang ember melengkung melintasi palang.",
+      "brief_tts": "Gagang ember melengkung melintasi palang."
+    },
+    "en": {
+      "brief": "A curved bucket handle crossing a rail.",
+      "brief_tts": "A curved bucket handle crossing a rail."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_se_せ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of せ (se):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of せ in their exact position, shape, and color.\n2. Illustrate cleanly behind せ: A curved bucket handle crossing a rail.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "se"
+  },
+  {
+    "script": "katakana",
+    "char": "セ",
+    "sound": "se",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030bb_セ.svg",
+    "template_path": "templates_kana/katakana_se_セ.png",
+    "id": {
+      "brief": "Pegangan bersudut yang menyilang satu palang.",
+      "brief_tts": "Pegangan bersudut yang menyilang satu palang."
+    },
+    "en": {
+      "brief": "An angular handle crossing one rail.",
+      "brief_tts": "An angular handle crossing one rail."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_se_セ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of セ (se):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of セ in their exact position, shape, and color.\n2. Illustrate cleanly behind セ: An angular handle crossing one rail.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "se"
+  },
+  {
+    "script": "hiragana",
+    "char": "そ",
+    "sound": "so",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/0305d_そ.svg",
+    "template_path": "templates_kana/hiragana_so_そ.png",
+    "id": {
+      "brief": "Pita berzigzag yang berakhir dengan lengkung bawah.",
+      "brief_tts": "Pita berzigzag yang berakhir dengan lengkung bawah."
+    },
+    "en": {
+      "brief": "A zigzag ribbon ending in a low curl.",
+      "brief_tts": "A zigzag ribbon ending in a low curl."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_so_そ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of そ (so):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of そ in their exact position, shape, and color.\n2. Illustrate cleanly behind そ: A zigzag ribbon ending in a low curl.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "so"
+  },
+  {
+    "script": "katakana",
+    "char": "ソ",
+    "sound": "so",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030bd_ソ.svg",
+    "template_path": "templates_kana/katakana_so_ソ.png",
+    "id": {
+      "brief": "Satu percikan dari atas dengan sapuan panjang ke kiri bawah.",
+      "brief_tts": "Satu percikan dari atas dengan sapuan panjang ke kiri bawah."
+    },
+    "en": {
+      "brief": "One top splash with a long down-left sweep.",
+      "brief_tts": "One top splash with a long down-left sweep."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_so_ソ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ソ (so):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ソ in their exact position, shape, and color.\n2. Illustrate cleanly behind ソ: One top splash with a long down-left sweep.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "so"
+  },
+  {
+    "script": "hiragana",
+    "char": "た",
+    "sound": "ta",
+    "strokes": 4,
+    "svg_path": "kana_stroke_data/0305f_た.svg",
+    "template_path": "templates_kana/hiragana_ta_た.png",
+    "id": {
+      "brief": "Tiang dan balok di kiri, dua bekas tapak di kanan.",
+      "brief_tts": "Tiang dan balok di kiri, dua bekas tapak di kanan."
+    },
+    "en": {
+      "brief": "A post and rail on the left, two tracks on the right.",
+      "brief_tts": "A post and rail on the left, two tracks on the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ta_た.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of た (ta):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of た in their exact position, shape, and color.\n2. Illustrate cleanly behind た: A post and rail on the left, two tracks on the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ta"
+  },
+  {
+    "script": "katakana",
+    "char": "タ",
+    "sound": "ta",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030bf_タ.svg",
+    "template_path": "templates_kana/katakana_ta_タ.png",
+    "id": {
+      "brief": "Daun miring dengan sayatan kecil di dalam.",
+      "brief_tts": "Daun miring dengan sayatan kecil di dalam."
+    },
+    "en": {
+      "brief": "A slanted leaf with a short cut inside.",
+      "brief_tts": "A slanted leaf with a short cut inside."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ta_タ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of タ (ta):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of タ in their exact position, shape, and color.\n2. Illustrate cleanly behind タ: A slanted leaf with a short cut inside.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ta"
+  },
+  {
+    "script": "hiragana",
+    "char": "ち",
+    "sound": "chi",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03061_ち.svg",
+    "template_path": "templates_kana/hiragana_chi_ち.png",
+    "id": {
+      "brief": "Cangkir lengkung menggantung dari satu palang.",
+      "brief_tts": "Cangkir lengkung menggantung dari satu palang."
+    },
+    "en": {
+      "brief": "A curved cup hanging from a rail.",
+      "brief_tts": "A curved cup hanging from a rail."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_chi_ち.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ち (chi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ち in their exact position, shape, and color.\n2. Illustrate cleanly behind ち: A curved cup hanging from a rail.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "chi"
+  },
+  {
+    "script": "katakana",
+    "char": "チ",
+    "sound": "chi",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030c1_チ.svg",
+    "template_path": "templates_kana/katakana_chi_チ.png",
+    "id": {
+      "brief": "Dua palang dengan pengait miring ke bawah.",
+      "brief_tts": "Dua palang dengan pengait miring ke bawah."
+    },
+    "en": {
+      "brief": "Two bars with a slanted hook below.",
+      "brief_tts": "Two bars with a slanted hook below."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_chi_チ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of チ (chi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of チ in their exact position, shape, and color.\n2. Illustrate cleanly behind チ: Two bars with a slanted hook below.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "chi"
+  },
+  {
+    "script": "hiragana",
+    "char": "つ",
+    "sound": "tsu",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/03064_つ.svg",
+    "template_path": "templates_kana/hiragana_tsu_つ.png",
+    "id": {
+      "brief": "Cangkang melengkung seperti gelombang tanpa titik.",
+      "brief_tts": "Cangkang melengkung seperti gelombang tanpa titik."
+    },
+    "en": {
+      "brief": "A shell curling like a wave, with no dots.",
+      "brief_tts": "A shell curling like a wave, with no dots."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_tsu_つ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of つ (tsu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of つ in their exact position, shape, and color.\n2. Illustrate cleanly behind つ: A shell curling like a wave, with no dots.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "tsu"
+  },
+  {
+    "script": "katakana",
+    "char": "ツ",
+    "sound": "tsu",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030c4_ツ.svg",
+    "template_path": "templates_kana/katakana_tsu_ツ.png",
+    "id": {
+      "brief": "Dua percikan berjajar di atas sapuan panjang yang turun.",
+      "brief_tts": "Dua percikan berjajar di atas sapuan panjang yang turun."
+    },
+    "en": {
+      "brief": "Two splashes side by side above a long descending sweep.",
+      "brief_tts": "Two splashes side by side above a long descending sweep."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_tsu_ツ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ツ (tsu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ツ in their exact position, shape, and color.\n2. Illustrate cleanly behind ツ: Two splashes side by side above a long descending sweep.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "tsu"
+  },
+  {
+    "script": "hiragana",
+    "char": "て",
+    "sound": "te",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/03066_て.svg",
+    "template_path": "templates_kana/hiragana_te_て.png",
+    "id": {
+      "brief": "Telapak yang menadah di bawah satu garis miring.",
+      "brief_tts": "Telapak yang menadah di bawah satu garis miring."
+    },
+    "en": {
+      "brief": "A cupped palm under a slanting line.",
+      "brief_tts": "A cupped palm under a slanting line."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_te_て.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of て (te):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of て in their exact position, shape, and color.\n2. Illustrate cleanly behind て: A cupped palm under a slanting line.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "te"
+  },
+  {
+    "script": "katakana",
+    "char": "テ",
+    "sound": "te",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030c6_テ.svg",
+    "template_path": "templates_kana/katakana_te_テ.png",
+    "id": {
+      "brief": "Dua palang atas terpisah dengan kaki miring.",
+      "brief_tts": "Dua palang atas terpisah dengan kaki miring."
+    },
+    "en": {
+      "brief": "Two separate top bars with a slanted leg.",
+      "brief_tts": "Two separate top bars with a slanted leg."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_te_テ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of テ (te):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of テ in their exact position, shape, and color.\n2. Illustrate cleanly behind テ: Two separate top bars with a slanted leg.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "te"
+  },
+  {
+    "script": "hiragana",
+    "char": "と",
+    "sound": "to",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03068_と.svg",
+    "template_path": "templates_kana/hiragana_to_と.png",
+    "id": {
+      "brief": "Lekuk mangkuk dengan tangkai kecil masuk dari kiri atas.",
+      "brief_tts": "Lekuk mangkuk dengan tangkai kecil masuk dari kiri atas."
+    },
+    "en": {
+      "brief": "A bowl curl with a small upper-left twig.",
+      "brief_tts": "A bowl curl with a small upper-left twig."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_to_と.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of と (to):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of と in their exact position, shape, and color.\n2. Illustrate cleanly behind と: A bowl curl with a small upper-left twig.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "to"
+  },
+  {
+    "script": "katakana",
+    "char": "ト",
+    "sound": "to",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030c8_ト.svg",
+    "template_path": "templates_kana/katakana_to_ト.png",
+    "id": {
+      "brief": "Tiang tegak dengan cabang miring pendek ke kanan.",
+      "brief_tts": "Tiang tegak dengan cabang miring pendek ke kanan."
+    },
+    "en": {
+      "brief": "An upright pole with a short rightward branch.",
+      "brief_tts": "An upright pole with a short rightward branch."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_to_ト.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ト (to):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ト in their exact position, shape, and color.\n2. Illustrate cleanly behind ト: An upright pole with a short rightward branch.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "to"
+  },
+  {
+    "script": "hiragana",
+    "char": "な",
+    "sound": "na",
+    "strokes": 4,
+    "svg_path": "kana_stroke_data/0306a_な.svg",
+    "template_path": "templates_kana/hiragana_na_な.png",
+    "id": {
+      "brief": "Patok silang di kiri dan tali bersimpul di kanan.",
+      "brief_tts": "Patok silang di kiri dan tali bersimpul di kanan."
+    },
+    "en": {
+      "brief": "A crossed stake on the left and a rope knot on the right.",
+      "brief_tts": "A crossed stake on the left and a rope knot on the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_na_な.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of な (na):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of な in their exact position, shape, and color.\n2. Illustrate cleanly behind な: A crossed stake on the left and a rope knot on the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "na"
+  },
+  {
+    "script": "katakana",
+    "char": "ナ",
+    "sound": "na",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030ca_ナ.svg",
+    "template_path": "templates_kana/katakana_na_ナ.png",
+    "id": {
+      "brief": "Satu palang datar dan satu penyangga miring.",
+      "brief_tts": "Satu palang datar dan satu penyangga miring."
+    },
+    "en": {
+      "brief": "One horizontal bar and one slanted support.",
+      "brief_tts": "One horizontal bar and one slanted support."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_na_ナ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ナ (na):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ナ in their exact position, shape, and color.\n2. Illustrate cleanly behind ナ: One horizontal bar and one slanted support.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "na"
+  },
+  {
+    "script": "hiragana",
+    "char": "に",
+    "sound": "ni",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/0306b_に.svg",
+    "template_path": "templates_kana/hiragana_ni_に.png",
+    "id": {
+      "brief": "Tiang melengkung di kiri dua garis pendek.",
+      "brief_tts": "Tiang melengkung di kiri dua garis pendek."
+    },
+    "en": {
+      "brief": "A curved post beside two short lines.",
+      "brief_tts": "A curved post beside two short lines."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ni_に.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of に (ni):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of に in their exact position, shape, and color.\n2. Illustrate cleanly behind に: A curved post beside two short lines.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ni"
+  },
+  {
+    "script": "katakana",
+    "char": "ニ",
+    "sound": "ni",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030cb_ニ.svg",
+    "template_path": "templates_kana/katakana_ni_ニ.png",
+    "id": {
+      "brief": "Dua garis sejajar, bagian bawah lebih panjang.",
+      "brief_tts": "Dua garis sejajar, bagian bawah lebih panjang."
+    },
+    "en": {
+      "brief": "Two parallel lines, the lower one longer.",
+      "brief_tts": "Two parallel lines, the lower one longer."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ni_ニ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ニ (ni):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ニ in their exact position, shape, and color.\n2. Illustrate cleanly behind ニ: Two parallel lines, the lower one longer.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ni"
+  },
+  {
+    "script": "hiragana",
+    "char": "ぬ",
+    "sound": "nu",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/0306c_ぬ.svg",
+    "template_path": "templates_kana/hiragana_nu_ぬ.png",
+    "id": {
+      "brief": "Tali bersilang dengan simpul kecil tertutup di ujung kanan.",
+      "brief_tts": "Tali bersilang dengan simpul kecil tertutup di ujung kanan."
+    },
+    "en": {
+      "brief": "Crossed rope with a closed small knot at the right tip.",
+      "brief_tts": "Crossed rope with a closed small knot at the right tip."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_nu_ぬ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ぬ (nu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ぬ in their exact position, shape, and color.\n2. Illustrate cleanly behind ぬ: Crossed rope with a closed small knot at the right tip.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "nu"
+  },
+  {
+    "script": "katakana",
+    "char": "ヌ",
+    "sound": "nu",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030cc_ヌ.svg",
+    "template_path": "templates_kana/katakana_nu_ヌ.png",
+    "id": {
+      "brief": "Pita bersudut dengan dua ekor yang bersilangan.",
+      "brief_tts": "Pita bersudut dengan dua ekor yang bersilangan."
+    },
+    "en": {
+      "brief": "An angular ribbon with two crossing ends.",
+      "brief_tts": "An angular ribbon with two crossing ends."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_nu_ヌ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ヌ (nu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ヌ in their exact position, shape, and color.\n2. Illustrate cleanly behind ヌ: An angular ribbon with two crossing ends.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "nu"
+  },
+  {
+    "script": "hiragana",
+    "char": "ね",
+    "sound": "ne",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/0306d_ね.svg",
+    "template_path": "templates_kana/hiragana_ne_ね.png",
+    "id": {
+      "brief": "Patok kiri dengan tali yang mengitari dan membentuk simpul kanan.",
+      "brief_tts": "Patok kiri dengan tali yang mengitari dan membentuk simpul kanan."
+    },
+    "en": {
+      "brief": "A left stake with a rope wrapping into a right-hand knot.",
+      "brief_tts": "A left stake with a rope wrapping into a right-hand knot."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ne_ね.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ね (ne):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ね in their exact position, shape, and color.\n2. Illustrate cleanly behind ね: A left stake with a rope wrapping into a right-hand knot.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ne"
+  },
+  {
+    "script": "katakana",
+    "char": "ネ",
+    "sound": "ne",
+    "strokes": 4,
+    "svg_path": "kana_stroke_data/030cd_ネ.svg",
+    "template_path": "templates_kana/katakana_ne_ネ.png",
+    "id": {
+      "brief": "Patok papan petunjuk dengan topi kecil dan kaki menyebar.",
+      "brief_tts": "Patok papan petunjuk dengan topi kecil dan kaki menyebar."
+    },
+    "en": {
+      "brief": "A signpost with a small cap and spreading legs.",
+      "brief_tts": "A signpost with a small cap and spreading legs."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ne_ネ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ネ (ne):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ネ in their exact position, shape, and color.\n2. Illustrate cleanly behind ネ: A signpost with a small cap and spreading legs.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ne"
+  },
+  {
+    "script": "hiragana",
+    "char": "の",
+    "sound": "no",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/0306e_の.svg",
+    "template_path": "templates_kana/hiragana_no_の.png",
+    "id": {
+      "brief": "Gulungan tali dalam satu lingkaran terbuka.",
+      "brief_tts": "Gulungan tali dalam satu lingkaran terbuka."
+    },
+    "en": {
+      "brief": "A rope rolled into one open loop.",
+      "brief_tts": "A rope rolled into one open loop."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_no_の.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of の (no):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of の in their exact position, shape, and color.\n2. Illustrate cleanly behind の: A rope rolled into one open loop.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "no"
+  },
+  {
+    "script": "katakana",
+    "char": "ノ",
+    "sound": "no",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/030ce_ノ.svg",
+    "template_path": "templates_kana/katakana_no_ノ.png",
+    "id": {
+      "brief": "Sepotong daun dengan satu sapuan miring.",
+      "brief_tts": "Sepotong daun dengan satu sapuan miring."
+    },
+    "en": {
+      "brief": "A leaf following one slanted sweep.",
+      "brief_tts": "A leaf following one slanted sweep."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_no_ノ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ノ (no):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ノ in their exact position, shape, and color.\n2. Illustrate cleanly behind ノ: A leaf following one slanted sweep.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "no"
+  },
+  {
+    "script": "hiragana",
+    "char": "は",
+    "sound": "ha",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/0306f_は.svg",
+    "template_path": "templates_kana/hiragana_ha_は.png",
+    "id": {
+      "brief": "Satu tiang terpisah dari ikatan tali di kanan.",
+      "brief_tts": "Satu tiang terpisah dari ikatan tali di kanan."
+    },
+    "en": {
+      "brief": "A separate post beside a tied rope on the right.",
+      "brief_tts": "A separate post beside a tied rope on the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ha_は.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of は (ha):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of は in their exact position, shape, and color.\n2. Illustrate cleanly behind は: A separate post beside a tied rope on the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ha"
+  },
+  {
+    "script": "katakana",
+    "char": "ハ",
+    "sound": "ha",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030cf_ハ.svg",
+    "template_path": "templates_kana/katakana_ha_ハ.png",
+    "id": {
+      "brief": "Dua kaki bangku miring menjauh satu sama lain.",
+      "brief_tts": "Dua kaki bangku miring menjauh satu sama lain."
+    },
+    "en": {
+      "brief": "Two bench legs slanting apart.",
+      "brief_tts": "Two bench legs slanting apart."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ha_ハ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ハ (ha):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ハ in their exact position, shape, and color.\n2. Illustrate cleanly behind ハ: Two bench legs slanting apart.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ha"
+  },
+  {
+    "script": "hiragana",
+    "char": "ひ",
+    "sound": "hi",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/03072_ひ.svg",
+    "template_path": "templates_kana/hiragana_hi_ひ.png",
+    "id": {
+      "brief": "Dua sisi mangkuk melengkung ke atas.",
+      "brief_tts": "Dua sisi mangkuk melengkung ke atas."
+    },
+    "en": {
+      "brief": "Two bowl sides curving up.",
+      "brief_tts": "Two bowl sides curving up."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_hi_ひ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ひ (hi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ひ in their exact position, shape, and color.\n2. Illustrate cleanly behind ひ: Two bowl sides curving up.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "hi"
+  },
+  {
+    "script": "katakana",
+    "char": "ヒ",
+    "sound": "hi",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030d2_ヒ.svg",
+    "template_path": "templates_kana/katakana_hi_ヒ.png",
+    "id": {
+      "brief": "Kursi dengan alas siku dan sandaran miring pendek.",
+      "brief_tts": "Kursi dengan alas siku dan sandaran miring pendek."
+    },
+    "en": {
+      "brief": "A chair with an angled base and a short slanted back.",
+      "brief_tts": "A chair with an angled base and a short slanted back."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_hi_ヒ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ヒ (hi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ヒ in their exact position, shape, and color.\n2. Illustrate cleanly behind ヒ: A chair with an angled base and a short slanted back.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "hi"
+  },
+  {
+    "script": "hiragana",
+    "char": "ふ",
+    "sound": "fu",
+    "strokes": 4,
+    "svg_path": "kana_stroke_data/03075_ふ.svg",
+    "template_path": "templates_kana/hiragana_fu_ふ.png",
+    "id": {
+      "brief": "Satu embusan utama dengan tiga bekas kecil di sekeliling.",
+      "brief_tts": "Satu embusan utama dengan tiga bekas kecil di sekeliling."
+    },
+    "en": {
+      "brief": "One central puff with three small surrounding marks.",
+      "brief_tts": "One central puff with three small surrounding marks."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_fu_ふ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ふ (fu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ふ in their exact position, shape, and color.\n2. Illustrate cleanly behind ふ: One central puff with three small surrounding marks.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "fu"
+  },
+  {
+    "script": "katakana",
+    "char": "フ",
+    "sound": "fu",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/030d5_フ.svg",
+    "template_path": "templates_kana/katakana_fu_フ.png",
+    "id": {
+      "brief": "Satu jalur air belok ke bawah dari palang atas.",
+      "brief_tts": "Satu jalur air belok ke bawah dari palang atas."
+    },
+    "en": {
+      "brief": "A single chute bending down from its top rail.",
+      "brief_tts": "A single chute bending down from its top rail."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_fu_フ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of フ (fu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of フ in their exact position, shape, and color.\n2. Illustrate cleanly behind フ: A single chute bending down from its top rail.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "fu"
+  },
+  {
+    "script": "hiragana",
+    "char": "へ",
+    "sound": "he",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/03078_へ.svg",
+    "template_path": "templates_kana/hiragana_he_へ.png",
+    "id": {
+      "brief": "Bukit rendah dengan sisi kanan lebih panjang.",
+      "brief_tts": "Bukit rendah dengan sisi kanan lebih panjang."
+    },
+    "en": {
+      "brief": "A low hill with a longer right slope.",
+      "brief_tts": "A low hill with a longer right slope."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_he_へ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of へ (he):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of へ in their exact position, shape, and color.\n2. Illustrate cleanly behind へ: A low hill with a longer right slope.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "he"
+  },
+  {
+    "script": "katakana",
+    "char": "ヘ",
+    "sound": "he",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/030d8_ヘ.svg",
+    "template_path": "templates_kana/katakana_he_ヘ.png",
+    "id": {
+      "brief": "Puncak atap bersudut. Siluetnya sama dengan へ.",
+      "brief_tts": "Puncak atap bersudut. Siluetnya sama dengan ."
+    },
+    "en": {
+      "brief": "An angular roof peak. Its silhouette matches へ.",
+      "brief_tts": "An angular roof peak. Its silhouette matches ."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_he_ヘ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ヘ (he):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ヘ in their exact position, shape, and color.\n2. Illustrate cleanly behind ヘ: An angular roof peak. Its silhouette matches へ.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "he"
+  },
+  {
+    "script": "hiragana",
+    "char": "ほ",
+    "sound": "ho",
+    "strokes": 4,
+    "svg_path": "kana_stroke_data/0307b_ほ.svg",
+    "template_path": "templates_kana/hiragana_ho_ほ.png",
+    "id": {
+      "brief": "Tiang kiri dengan dua palang dan simpul di kanan.",
+      "brief_tts": "Tiang kiri dengan dua palang dan simpul di kanan."
+    },
+    "en": {
+      "brief": "A left pole beside two rails and a right-hand knot.",
+      "brief_tts": "A left pole beside two rails and a right-hand knot."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ho_ほ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ほ (ho):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ほ in their exact position, shape, and color.\n2. Illustrate cleanly behind ほ: A left pole beside two rails and a right-hand knot.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ho"
+  },
+  {
+    "script": "katakana",
+    "char": "ホ",
+    "sound": "ho",
+    "strokes": 4,
+    "svg_path": "kana_stroke_data/030db_ホ.svg",
+    "template_path": "templates_kana/katakana_ho_ホ.png",
+    "id": {
+      "brief": "Tiang dengan palang dan kaki tripod.",
+      "brief_tts": "Tiang dengan palang dan kaki tripod."
+    },
+    "en": {
+      "brief": "A pole with a crossbar and tripod feet.",
+      "brief_tts": "A pole with a crossbar and tripod feet."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ho_ホ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ホ (ho):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ホ in their exact position, shape, and color.\n2. Illustrate cleanly behind ホ: A pole with a crossbar and tripod feet.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ho"
+  },
+  {
+    "script": "hiragana",
+    "char": "ま",
+    "sound": "ma",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/0307e_ま.svg",
+    "template_path": "templates_kana/hiragana_ma_ま.png",
+    "id": {
+      "brief": "Patok dua palang, batang melengkung menjadi simpul bawah.",
+      "brief_tts": "Patok dua palang, batang melengkung menjadi simpul bawah."
+    },
+    "en": {
+      "brief": "A two-rail post curling into a lower knot.",
+      "brief_tts": "A two-rail post curling into a lower knot."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ma_ま.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ま (ma):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ま in their exact position, shape, and color.\n2. Illustrate cleanly behind ま: A two-rail post curling into a lower knot.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ma"
+  },
+  {
+    "script": "katakana",
+    "char": "マ",
+    "sound": "ma",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030de_マ.svg",
+    "template_path": "templates_kana/katakana_ma_マ.png",
+    "id": {
+      "brief": "Lengan persegi panjang menekuk dengan cabang pendek.",
+      "brief_tts": "Lengan persegi panjang menekuk dengan cabang pendek."
+    },
+    "en": {
+      "brief": "A bent rectangular arm with a short branch.",
+      "brief_tts": "A bent rectangular arm with a short branch."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ma_マ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of マ (ma):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of マ in their exact position, shape, and color.\n2. Illustrate cleanly behind マ: A bent rectangular arm with a short branch.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ma"
+  },
+  {
+    "script": "hiragana",
+    "char": "み",
+    "sound": "mi",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/0307f_み.svg",
+    "template_path": "templates_kana/hiragana_mi_み.png",
+    "id": {
+      "brief": "Tali berkelok dengan satu simpul yang melintasi garis lainnya.",
+      "brief_tts": "Tali berkelok dengan satu simpul yang melintasi garis lainnya."
+    },
+    "en": {
+      "brief": "A winding rope with one loop crossing another stroke.",
+      "brief_tts": "A winding rope with one loop crossing another stroke."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_mi_み.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of み (mi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of み in their exact position, shape, and color.\n2. Illustrate cleanly behind み: A winding rope with one loop crossing another stroke.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "mi"
+  },
+  {
+    "script": "katakana",
+    "char": "ミ",
+    "sound": "mi",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030df_ミ.svg",
+    "template_path": "templates_kana/katakana_mi_ミ.png",
+    "id": {
+      "brief": "Tiga sayatan pendek sejajar sebagai alur kayu.",
+      "brief_tts": "Tiga sayatan pendek sejajar sebagai alur kayu."
+    },
+    "en": {
+      "brief": "Three short parallel grooves in wood.",
+      "brief_tts": "Three short parallel grooves in wood."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_mi_ミ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ミ (mi):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ミ in their exact position, shape, and color.\n2. Illustrate cleanly behind ミ: Three short parallel grooves in wood.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "mi"
+  },
+  {
+    "script": "hiragana",
+    "char": "む",
+    "sound": "mu",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/03080_む.svg",
+    "template_path": "templates_kana/hiragana_mu_む.png",
+    "id": {
+      "brief": "Tali bersimpul dengan ekor ke kanan dan titik terpisah.",
+      "brief_tts": "Tali bersimpul dengan ekor ke kanan dan titik terpisah."
+    },
+    "en": {
+      "brief": "A knotted rope with a rightward tail and a separate dot.",
+      "brief_tts": "A knotted rope with a rightward tail and a separate dot."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_mu_む.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of む (mu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of む in their exact position, shape, and color.\n2. Illustrate cleanly behind む: A knotted rope with a rightward tail and a separate dot.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "mu"
+  },
+  {
+    "script": "katakana",
+    "char": "ム",
+    "sound": "mu",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030e0_ム.svg",
+    "template_path": "templates_kana/katakana_mu_ム.png",
+    "id": {
+      "brief": "Penyangga segitiga terbuka dengan ujung kecil terangkat.",
+      "brief_tts": "Penyangga segitiga terbuka dengan ujung kecil terangkat."
+    },
+    "en": {
+      "brief": "An open triangular brace with a raised small tip.",
+      "brief_tts": "An open triangular brace with a raised small tip."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_mu_ム.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ム (mu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ム in their exact position, shape, and color.\n2. Illustrate cleanly behind ム: An open triangular brace with a raised small tip.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "mu"
+  },
+  {
+    "script": "hiragana",
+    "char": "め",
+    "sound": "me",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03081_め.svg",
+    "template_path": "templates_kana/hiragana_me_め.png",
+    "id": {
+      "brief": "Dua tali menyilang menjadi lingkaran terbuka di ujung.",
+      "brief_tts": "Dua tali menyilang menjadi lingkaran terbuka di ujung."
+    },
+    "en": {
+      "brief": "Two ropes crossing into an open loop at the end.",
+      "brief_tts": "Two ropes crossing into an open loop at the end."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_me_め.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of め (me):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of め in their exact position, shape, and color.\n2. Illustrate cleanly behind め: Two ropes crossing into an open loop at the end.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "me"
+  },
+  {
+    "script": "katakana",
+    "char": "メ",
+    "sound": "me",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030e1_メ.svg",
+    "template_path": "templates_kana/katakana_me_メ.png",
+    "id": {
+      "brief": "Dua bilah miring saling bersilang.",
+      "brief_tts": "Dua bilah miring saling bersilang."
+    },
+    "en": {
+      "brief": "Two crossing slanted slats.",
+      "brief_tts": "Two crossing slanted slats."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_me_メ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of メ (me):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of メ in their exact position, shape, and color.\n2. Illustrate cleanly behind メ: Two crossing slanted slats.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "me"
+  },
+  {
+    "script": "hiragana",
+    "char": "も",
+    "sound": "mo",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/03082_も.svg",
+    "template_path": "templates_kana/hiragana_mo_も.png",
+    "id": {
+      "brief": "Sabit di bawah dua palang melintang.",
+      "brief_tts": "Sabit di bawah dua palang melintang."
+    },
+    "en": {
+      "brief": "A crescent below two crossbars.",
+      "brief_tts": "A crescent below two crossbars."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_mo_も.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of も (mo):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of も in their exact position, shape, and color.\n2. Illustrate cleanly behind も: A crescent below two crossbars.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "mo"
+  },
+  {
+    "script": "katakana",
+    "char": "モ",
+    "sound": "mo",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030e2_モ.svg",
+    "template_path": "templates_kana/katakana_mo_モ.png",
+    "id": {
+      "brief": "Dua sirip datar dengan batang yang membelok ke kanan.",
+      "brief_tts": "Dua sirip datar dengan batang yang membelok ke kanan."
+    },
+    "en": {
+      "brief": "Two flat fins on a stem that turns right.",
+      "brief_tts": "Two flat fins on a stem that turns right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_mo_モ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of モ (mo):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of モ in their exact position, shape, and color.\n2. Illustrate cleanly behind モ: Two flat fins on a stem that turns right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "mo"
+  },
+  {
+    "script": "hiragana",
+    "char": "や",
+    "sound": "ya",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/03084_や.svg",
+    "template_path": "templates_kana/hiragana_ya_や.png",
+    "id": {
+      "brief": "Panah lembut dengan simpangan kecil dan satu tanda di atas.",
+      "brief_tts": "Panah lembut dengan simpangan kecil dan satu tanda di atas."
+    },
+    "en": {
+      "brief": "A gentle arrow bend with a short branch and an upper mark.",
+      "brief_tts": "A gentle arrow bend with a short branch and an upper mark."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ya_や.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of や (ya):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of や in their exact position, shape, and color.\n2. Illustrate cleanly behind や: A gentle arrow bend with a short branch and an upper mark.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ya"
+  },
+  {
+    "script": "katakana",
+    "char": "ヤ",
+    "sound": "ya",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030e4_ヤ.svg",
+    "template_path": "templates_kana/katakana_ya_ヤ.png",
+    "id": {
+      "brief": "Kawat bersudut seperti panah yang menyeberangi batang miring.",
+      "brief_tts": "Kawat bersudut seperti panah yang menyeberangi batang miring."
+    },
+    "en": {
+      "brief": "An angular arrow-like wire crossing a slanted stem.",
+      "brief_tts": "An angular arrow-like wire crossing a slanted stem."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ya_ヤ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ヤ (ya):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ヤ in their exact position, shape, and color.\n2. Illustrate cleanly behind ヤ: An angular arrow-like wire crossing a slanted stem.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ya"
+  },
+  {
+    "script": "hiragana",
+    "char": "ゆ",
+    "sound": "yu",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03086_ゆ.svg",
+    "template_path": "templates_kana/hiragana_yu_ゆ.png",
+    "id": {
+      "brief": "Pegangan yang melingkar ke kanan dengan garis pemisah.",
+      "brief_tts": "Pegangan yang melingkar ke kanan dengan garis pemisah."
+    },
+    "en": {
+      "brief": "A handle looping right around a central divider.",
+      "brief_tts": "A handle looping right around a central divider."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_yu_ゆ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ゆ (yu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ゆ in their exact position, shape, and color.\n2. Illustrate cleanly behind ゆ: A handle looping right around a central divider.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "yu"
+  },
+  {
+    "script": "katakana",
+    "char": "ユ",
+    "sound": "yu",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030e6_ユ.svg",
+    "template_path": "templates_kana/katakana_yu_ユ.png",
+    "id": {
+      "brief": "Rak siku di atas garis alas panjang.",
+      "brief_tts": "Rak siku di atas garis alas panjang."
+    },
+    "en": {
+      "brief": "A right-angled shelf above a long base rail.",
+      "brief_tts": "A right-angled shelf above a long base rail."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_yu_ユ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ユ (yu):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ユ in their exact position, shape, and color.\n2. Illustrate cleanly behind ユ: A right-angled shelf above a long base rail.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "yu"
+  },
+  {
+    "script": "hiragana",
+    "char": "よ",
+    "sound": "yo",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03088_よ.svg",
+    "template_path": "templates_kana/hiragana_yo_よ.png",
+    "id": {
+      "brief": "Tangkai dengan satu palang dan simpul kecil di bawah.",
+      "brief_tts": "Tangkai dengan satu palang dan simpul kecil di bawah."
+    },
+    "en": {
+      "brief": "A stem with one bar and a small bottom loop.",
+      "brief_tts": "A stem with one bar and a small bottom loop."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_yo_よ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of よ (yo):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of よ in their exact position, shape, and color.\n2. Illustrate cleanly behind よ: A stem with one bar and a small bottom loop.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "yo"
+  },
+  {
+    "script": "katakana",
+    "char": "ヨ",
+    "sound": "yo",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030e8_ヨ.svg",
+    "template_path": "templates_kana/katakana_yo_ヨ.png",
+    "id": {
+      "brief": "Rak tiga tingkat bertumpu pada tiang kanan.",
+      "brief_tts": "Rak tiga tingkat bertumpu pada tiang kanan."
+    },
+    "en": {
+      "brief": "A three-shelf rack with its upright on the right.",
+      "brief_tts": "A three-shelf rack with its upright on the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_yo_ヨ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ヨ (yo):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ヨ in their exact position, shape, and color.\n2. Illustrate cleanly behind ヨ: A three-shelf rack with its upright on the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "yo"
+  },
+  {
+    "script": "hiragana",
+    "char": "ら",
+    "sound": "ra",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/03089_ら.svg",
+    "template_path": "templates_kana/hiragana_ra_ら.png",
+    "id": {
+      "brief": "Tali melengkung di bawah ujung pendek terpisah.",
+      "brief_tts": "Tali melengkung di bawah ujung pendek terpisah."
+    },
+    "en": {
+      "brief": "A curling rope below a separate short tip.",
+      "brief_tts": "A curling rope below a separate short tip."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ra_ら.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ら (ra):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ら in their exact position, shape, and color.\n2. Illustrate cleanly behind ら: A curling rope below a separate short tip.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ra"
+  },
+  {
+    "script": "katakana",
+    "char": "ラ",
+    "sound": "ra",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030e9_ラ.svg",
+    "template_path": "templates_kana/katakana_ra_ラ.png",
+    "id": {
+      "brief": "Seluncuran siku dengan satu palang kecil di atas.",
+      "brief_tts": "Seluncuran siku dengan satu palang kecil di atas."
+    },
+    "en": {
+      "brief": "An angled slide with a short top bar.",
+      "brief_tts": "An angled slide with a short top bar."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ra_ラ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ラ (ra):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ラ in their exact position, shape, and color.\n2. Illustrate cleanly behind ラ: An angled slide with a short top bar.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ra"
+  },
+  {
+    "script": "hiragana",
+    "char": "り",
+    "sound": "ri",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/0308a_り.svg",
+    "template_path": "templates_kana/hiragana_ri_り.png",
+    "id": {
+      "brief": "Dua pita turun, yang kanan lebih panjang dan melengkung.",
+      "brief_tts": "Dua pita turun, yang kanan lebih panjang dan melengkung."
+    },
+    "en": {
+      "brief": "Two downward ribbons, the right one longer and curved.",
+      "brief_tts": "Two downward ribbons, the right one longer and curved."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ri_り.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of り (ri):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of り in their exact position, shape, and color.\n2. Illustrate cleanly behind り: Two downward ribbons, the right one longer and curved.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ri"
+  },
+  {
+    "script": "katakana",
+    "char": "リ",
+    "sound": "ri",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030ea_リ.svg",
+    "template_path": "templates_kana/katakana_ri_リ.png",
+    "id": {
+      "brief": "Dua bilah turun, kanan menjadi sapuan lebih panjang.",
+      "brief_tts": "Dua bilah turun, kanan menjadi sapuan lebih panjang."
+    },
+    "en": {
+      "brief": "Two descending blades, the right one a longer sweep.",
+      "brief_tts": "Two descending blades, the right one a longer sweep."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ri_リ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of リ (ri):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of リ in their exact position, shape, and color.\n2. Illustrate cleanly behind リ: Two descending blades, the right one a longer sweep.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ri"
+  },
+  {
+    "script": "hiragana",
+    "char": "る",
+    "sound": "ru",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/0308b_る.svg",
+    "template_path": "templates_kana/hiragana_ru_る.png",
+    "id": {
+      "brief": "Pita berbelok lalu membuat simpul kecil di ujung.",
+      "brief_tts": "Pita berbelok lalu membuat simpul kecil di ujung."
+    },
+    "en": {
+      "brief": "A turning ribbon ending in a small loop.",
+      "brief_tts": "A turning ribbon ending in a small loop."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ru_る.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of る (ru):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of る in their exact position, shape, and color.\n2. Illustrate cleanly behind る: A turning ribbon ending in a small loop.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ru"
+  },
+  {
+    "script": "katakana",
+    "char": "ル",
+    "sound": "ru",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030eb_ル.svg",
+    "template_path": "templates_kana/katakana_ru_ル.png",
+    "id": {
+      "brief": "Dua kaki, dengan kaki kanan berbelok naik.",
+      "brief_tts": "Dua kaki, dengan kaki kanan berbelok naik."
+    },
+    "en": {
+      "brief": "Two legs, with the right foot turning up.",
+      "brief_tts": "Two legs, with the right foot turning up."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ru_ル.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ル (ru):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ル in their exact position, shape, and color.\n2. Illustrate cleanly behind ル: Two legs, with the right foot turning up.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ru"
+  },
+  {
+    "script": "hiragana",
+    "char": "れ",
+    "sound": "re",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/0308c_れ.svg",
+    "template_path": "templates_kana/hiragana_re_れ.png",
+    "id": {
+      "brief": "Patok kiri dan tali lepas yang keluar ke kanan.",
+      "brief_tts": "Patok kiri dan tali lepas yang keluar ke kanan."
+    },
+    "en": {
+      "brief": "A left stake and a loose rope trailing right.",
+      "brief_tts": "A left stake and a loose rope trailing right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_re_れ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of れ (re):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of れ in their exact position, shape, and color.\n2. Illustrate cleanly behind れ: A left stake and a loose rope trailing right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "re"
+  },
+  {
+    "script": "katakana",
+    "char": "レ",
+    "sound": "re",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/030ec_レ.svg",
+    "template_path": "templates_kana/katakana_re_レ.png",
+    "id": {
+      "brief": "Satu siku panjang dengan ujung menanjak.",
+      "brief_tts": "Satu siku panjang dengan ujung menanjak."
+    },
+    "en": {
+      "brief": "One long angle with an upward tip.",
+      "brief_tts": "One long angle with an upward tip."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_re_レ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of レ (re):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of レ in their exact position, shape, and color.\n2. Illustrate cleanly behind レ: One long angle with an upward tip.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "re"
+  },
+  {
+    "script": "hiragana",
+    "char": "ろ",
+    "sound": "ro",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/0308d_ろ.svg",
+    "template_path": "templates_kana/hiragana_ro_ろ.png",
+    "id": {
+      "brief": "Pita berbelok seperti る dan berakhir dengan ujung terbuka.",
+      "brief_tts": "Pita berbelok seperti dan berakhir dengan ujung terbuka."
+    },
+    "en": {
+      "brief": "A ribbon turning like る and ending open.",
+      "brief_tts": "A ribbon turning like and ending open."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_ro_ろ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ろ (ro):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ろ in their exact position, shape, and color.\n2. Illustrate cleanly behind ろ: A ribbon turning like る and ending open.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ro"
+  },
+  {
+    "script": "katakana",
+    "char": "ロ",
+    "sound": "ro",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030ed_ロ.svg",
+    "template_path": "templates_kana/katakana_ro_ロ.png",
+    "id": {
+      "brief": "Bingkai kotak tertutup.",
+      "brief_tts": "Bingkai kotak tertutup."
+    },
+    "en": {
+      "brief": "A closed square frame.",
+      "brief_tts": "A closed square frame."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_ro_ロ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ロ (ro):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ロ in their exact position, shape, and color.\n2. Illustrate cleanly behind ロ: A closed square frame.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "ro"
+  },
+  {
+    "script": "hiragana",
+    "char": "わ",
+    "sound": "wa",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/0308f_わ.svg",
+    "template_path": "templates_kana/hiragana_wa_わ.png",
+    "id": {
+      "brief": "Patok kiri dan satu lengkung besar mengitari kanan.",
+      "brief_tts": "Patok kiri dan satu lengkung besar mengitari kanan."
+    },
+    "en": {
+      "brief": "A left stake and a large curve on the right.",
+      "brief_tts": "A left stake and a large curve on the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_wa_わ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of わ (wa):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of わ in their exact position, shape, and color.\n2. Illustrate cleanly behind わ: A left stake and a large curve on the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "wa"
+  },
+  {
+    "script": "katakana",
+    "char": "ワ",
+    "sound": "wa",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030ef_ワ.svg",
+    "template_path": "templates_kana/katakana_wa_ワ.png",
+    "id": {
+      "brief": "Corong bersudut, bagian bawah terbuka.",
+      "brief_tts": "Corong bersudut, bagian bawah terbuka."
+    },
+    "en": {
+      "brief": "An angular chute with an open bottom.",
+      "brief_tts": "An angular chute with an open bottom."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_wa_ワ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ワ (wa):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ワ in their exact position, shape, and color.\n2. Illustrate cleanly behind ワ: An angular chute with an open bottom.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "wa"
+  },
+  {
+    "script": "hiragana",
+    "char": "を",
+    "sound": "o (wo)",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/03092_を.svg",
+    "template_path": "templates_kana/hiragana_o (wo)_を.png",
+    "id": {
+      "brief": "Pita melintasi palang lalu turun dan melingkar kembali.",
+      "brief_tts": "Pita melintasi palang lalu turun dan melingkar kembali."
+    },
+    "en": {
+      "brief": "A ribbon crossing a bar before looping back.",
+      "brief_tts": "A ribbon crossing a bar before looping back."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_o (wo)_を.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of を (o (wo)):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of を in their exact position, shape, and color.\n2. Illustrate cleanly behind を: A ribbon crossing a bar before looping back.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "o"
+  },
+  {
+    "script": "katakana",
+    "char": "ヲ",
+    "sound": "o (wo)",
+    "strokes": 3,
+    "svg_path": "kana_stroke_data/030f2_ヲ.svg",
+    "template_path": "templates_kana/katakana_o (wo)_ヲ.png",
+    "id": {
+      "brief": "Dua palang dan satu jalur miring turun dari kanan.",
+      "brief_tts": "Dua palang dan satu jalur miring turun dari kanan."
+    },
+    "en": {
+      "brief": "Two bars and one downward sweep from the right.",
+      "brief_tts": "Two bars and one downward sweep from the right."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_o (wo)_ヲ.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ヲ (o (wo)):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ヲ in their exact position, shape, and color.\n2. Illustrate cleanly behind ヲ: Two bars and one downward sweep from the right.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "o"
+  },
+  {
+    "script": "hiragana",
+    "char": "ん",
+    "sound": "n",
+    "strokes": 1,
+    "svg_path": "kana_stroke_data/03093_ん.svg",
+    "template_path": "templates_kana/hiragana_n_ん.png",
+    "id": {
+      "brief": "Tali bergelombang dengan belokan panjang ke kanan.",
+      "brief_tts": "Tali bergelombang dengan belokan panjang ke kanan."
+    },
+    "en": {
+      "brief": "A wavy rope with a long rightward turn.",
+      "brief_tts": "A wavy rope with a long rightward turn."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/hiragana_n_ん.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact hiragana brush strokes of ん (n):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ん in their exact position, shape, and color.\n2. Illustrate cleanly behind ん: A wavy rope with a long rightward turn.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "n"
+  },
+  {
+    "script": "katakana",
+    "char": "ン",
+    "sound": "n",
+    "strokes": 2,
+    "svg_path": "kana_stroke_data/030f3_ン.svg",
+    "template_path": "templates_kana/katakana_n_ン.png",
+    "id": {
+      "brief": "Satu percikan pendek di kiri serta sapuan bawah yang naik.",
+      "brief_tts": "Satu percikan pendek di kiri serta sapuan bawah yang naik."
+    },
+    "en": {
+      "brief": "One short left splash and a lower upward sweep.",
+      "brief_tts": "One short left splash and a lower upward sweep."
+    },
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_n_ン.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ン (n):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ン in their exact position, shape, and color.\n2. Illustrate cleanly behind ン: One short left splash and a lower upward sweep.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
+    "sound_tts": "n"
+  }
+]
