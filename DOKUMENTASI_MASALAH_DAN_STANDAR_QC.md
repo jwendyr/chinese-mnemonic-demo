@@ -9,7 +9,7 @@ Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipel
 - Kartu hasil QC:
   - Indonesia: [`cards/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/好.png), [`cards/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/看.png), [`cards/明.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/明.png), [`cards/休.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards/休.png)
   - Inggris: [`cards_en/好.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/好.png), [`cards_en/看.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/看.png), [`cards_en/明.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/明.png), [`cards_en/休.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/cards_en/休.png)
-- Video 9:16 hasil QC (`1080×1920`, `30fps`, `20.5s – 23.0s`):
+- Video 9:16 hasil QC (`1080×1920`, `30fps`, `20.37s – 23.67s`):
   - Indonesia: [`char_videos/好.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/好.mp4), [`char_videos/看.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/看.mp4), [`char_videos/明.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/明.mp4), [`char_videos/休.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos/休.mp4)
   - Inggris: [`char_videos_en/好.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/好.mp4), [`char_videos_en/看.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/看.mp4), [`char_videos_en/明.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/明.mp4), [`char_videos_en/休.mp4`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/char_videos_en/休.mp4)
 
@@ -190,3 +190,17 @@ Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipel
   - **Bersihkan seluruh bayangan karakter bawaan AI di luar mask resmi (`_build_canvas_stroke_mask` + `MaxFilter(3)`):** Goresan kaligrafi final berasal tunggal dari mask poligon resmi di lapisan paling atas (`_composite_strokes_over_art(..., halo_filter_size=3)`).
   - **Mata manusia di `看` wajib diputar 90° tegak (`Mata manusia yang diputar tegak`):** Digambar presisi *4× supersampled* tepat di dalam bingkai kuas `目` (`x=478..634, y=966..1154`) dengan iris teal terpusat di antara dua palang horizontal `目` (guratan 7 & 8) — nol bayangan karakter ganda.
   - **Pemisahan warna komponen akurat:** Pada `明`, ambang batas warna biru bulan sabit (`(r < 110 and g < 115 and b < 140)`) melindungi gradasi biru muda bulan `月`; pada `休`, filter `is_sage` mencakup piksel rim daun hijau gelap (`121, 154, 137`) maupun pinggiran anti-aliased tanpa titik bolong dan bebas goresan rambut liar di luar kepala.
+
+---
+
+### 18. Pemunculan Ilustrasi Komponen 1 Sebelum Penulisan Komponen 2 di Babak 3 (`Stage 1A → 1B → 2A → 2B`)
+- **Gejala:** Pada Babak 3 (Babak Gabungan), sebelumnya seluruh guratan komponen 1 (`0 .. split - 1`) dan komponen 2 (`split .. n_strokes - 1`) langsung digambar berturut-turut, baru ilustrasi gabungan dimunculkan sekaligus di akhir. Akibatnya saat komponen 1 sudah selesai ditulis (misalnya `日` matahari pada `明`, `人` orang pada `休`, `女` ibu pada `好`, `手` tangan pada `看`), gambar komponen pertamanya belum terlihat sebelum komponen kedua mulai ditulis.
+- **Akar Penyebab:** `render_combined_synced_scene` hanya memanggil perender guratan polos untuk fase `p1` dan `p2`, lalu memudar ke `artworks["combined"]` pada fase `p3` tanpa jeda pemunculan ilustrasi komponen 1 (`combined_c1`).
+- **Solusi & Aturan Wajib (`_render_s3_progressive_tile` + 4 Tahap Babak 3):**
+  - Tambahkan crop komponen 1 pada koordinat penuh gabungan (`artworks["combined_c1"]` di `build_aligned_ai_artworks`) serta perpanjang jeda transisi narasi Babak 3 (`inter_phase_ms = 480`).
+  - Jalankan koreografi progresif 4 tahap di Babak 3 (`render_combined_synced_scene`):
+    1. **Tahap 1A (`p1_write`):** Tulis guratan komponen 1 (`0 .. split - 1`) di atas kotak `米字格`.
+    2. **Tahap 1B (`p1_morph`):** Begitu komponen 1 selesai ditulis, pudarkan ilustrasi komponen 1 (`artworks["combined_c1"]`) masuk di belakang goresan komponen 1 (sambil tetap mempertahankan garis bantu `米字格` untuk area komponen 2) dan tahan jelas sebelum komponen 2 dimulai.
+    3. **Tahap 2A (`p2_write`):** Tulis guratan komponen 2 (`split .. n_strokes - 1`) sementara ilustrasi komponen 1 tetap tampil penuh di belakang goresan komponen 1 (`c1_illus_alpha = 1.0`).
+    4. **Tahap 2B (`p3_morph`) + Tahan Akhir:** Pudarkan ilustrasi komponen 2 ke komposisi penuh (`artworks["combined"]`) sementara seluruh goresan huruf tetap menimpa di lapisan teratas.
+  - **Terverifikasi lintas 4 exemplar (ID & EN):** [`明_s3_c1_morph_id.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/exemplars/明_s3_c1_morph_id.png) → [`明_s3_write_p2_id.png`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/exemplars/明_s3_write_p2_id.png), beserta `休`, `好`, dan `看` (seluruh 8 MP4 terverifikasi `20.37s – 23.67s`).

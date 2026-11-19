@@ -664,6 +664,8 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
             r, g, b = rgb
             is_navy = (b > r + 4) or (r < 95 and g < 105 and b < 130)
             is_slate = (b >= r + 4) and (r < 220)
+            if x >= 480 and (r - b < 35):
+                return False
             return (not is_navy) and (not is_slate) and (x < 680)
 
         def keep_c2(x, y, rgb):
@@ -675,8 +677,9 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
         c1_full = build_masked_canvas(keep_c1)
         c1_px = c1_full.load()
         for y in range(700, 1060):
-            for x in range(505, 565):
-                if c1_px[x, y] == BG_COLOR and (x - 385) ** 2 + (y - 880) ** 2 <= 174 ** 2:
+            for x in range(475, 565):
+                r, g, b = c1_px[x, y]
+                if ((r, g, b) == BG_COLOR or (r - b < 55)) and (x - 385) ** 2 + (y - 880) ** 2 <= 174 ** 2:
                     c1_px[x, y] = sun_yellow
         c2_full = build_masked_canvas(keep_c2)
     elif char == "休":
@@ -724,6 +727,7 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
     return {
         "comp1": _safe_square_crop(c1_full, boxes["comp1"], BG_COLOR),
         "comp2": _safe_square_crop(c2_full, boxes["comp2"], BG_COLOR),
+        "combined_c1": _safe_square_crop(c1_full, boxes["combined"], BG_COLOR),
         "combined": _safe_square_crop(src, boxes["combined"], BG_COLOR),
     }
 
@@ -1026,6 +1030,202 @@ def _composite_strokes_over_art(
 
     out = tile_rgba.convert("RGB")
     ImageDraw.Draw(out).rounded_rectangle([0, 0, size - 1, size - 1], radius=radius, outline=CARD_BORDER, width=border_width)
+    return out
+
+
+def _render_s3_progressive_tile(
+    sdata: dict,
+    split: int,
+    art_c1: Image.Image,
+    art_combined: Image.Image,
+    *,
+    c1_done: bool,
+    c1_illus_alpha: float = 0.0,
+    c2_active: bool = False,
+    c2_done: bool = False,
+    c2_illus_alpha: float = 0.0,
+    active_idx: int = -1,
+    frac: float = 1.0,
+    border_width: int = 3,
+    halo_filter_size: int = 3,
+) -> Image.Image:
+    """Render Scene 3 tile where Component 1's illustration appears before Component 2 starts writing."""
+    size = sdata["size"]
+    n_strokes = sdata["n"]
+    masks = sdata["masks"]
+    colors = sdata["colors"]
+    medians = sdata["medians"]
+    radius = max(10, size // 16)
+
+    alpha_c1 = max(0.0, min(1.0, c1_illus_alpha))
+    alpha_c2 = max(0.0, min(1.0, c2_illus_alpha))
+
+    # Layer 1: Mi-Zi-Ge background guides remain visible for Component 2 until Component 2's art reveals
+    grid_tile = Image.new("RGB", (size, size), BG_COLOR)
+    _draw_mizige_box(ImageDraw.Draw(grid_tile), 0, 0, size, fill=BG_COLOR, outline=CARD_BORDER, outline_w=border_width)
+    plain_tile = Image.new("RGB", (size, size), BG_COLOR)
+    base_tile = Image.blend(grid_tile, plain_tile, alpha_c2)
+
+    clip_mask = Image.new("L", (size, size), 0)
+    ImageDraw.Draw(clip_mask).rounded_rectangle([0, 0, size, size], radius=radius, fill=255)
+
+    # Layer 2: Progressive AI illustration behind strokes (Component 1 first, then combined)
+    if alpha_c1 > 0.005 and alpha_c2 < 0.999:
+        art_c1_scaled = art_c1.resize((size, size), Image.Resampling.LANCZOS).filter(
+            ImageFilter.UnsharpMask(radius=0.8, percent=75, threshold=3)
+        )
+        diff_rgb = ImageChops.difference(art_c1_scaled, plain_tile)
+        dr, dg, db = diff_rgb.split()
+        max_diff = ImageChops.lighter(ImageChops.lighter(dr, dg), db)
+        c1_art_mask = max_diff.point(lambda d: 255 if d > 6 else 0).filter(
+            ImageFilter.MaxFilter(3)
+        ).filter(ImageFilter.GaussianBlur(0.8))
+        c1_art_mask = ImageChops.darker(c1_art_mask, clip_mask)
+
+        art_c1_soft = Image.blend(plain_tile, art_c1_scaled, 0.76)
+        c1_stage_tile = base_tile.copy()
+        c1_stage_tile.paste(art_c1_soft, (0, 0), c1_art_mask)
+        base_tile = Image.blend(base_tile, c1_stage_tile, alpha_c1)
+
+    if alpha_c2 > 0.005:
+        art_comb_scaled = art_combined.resize((size, size), Image.Resampling.LANCZOS).filter(
+            ImageFilter.UnsharpMask(radius=0.8, percent=75, threshold=3)
+        )
+        art_comb_soft = Image.blend(plain_tile, art_comb_scaled, 0.76)
+        comb_tile = base_tile.copy()
+        comb_tile.paste(art_comb_soft, (0, 0), clip_mask)
+        base_tile = Image.blend(base_tile, comb_tile, alpha_c2)
+
+    tile_rgba = base_tile.convert("RGBA")
+
+    # Layer 3: Ghost guide strokes for strokes not yet completed
+    ghost_layer = Image.new("RGBA", (size, size), GHOST_STROKE + (255,))
+    ghost_start = n_strokes if c2_done else (split if c1_done else 0)
+    for idx in range(ghost_start, n_strokes):
+        tile_rgba.paste(ghost_layer, (0, 0), masks[idx])
+
+    # Layer 4: Warm-cream separation halo behind completed components whose illustrations are visible
+    halo_layer = Image.new("RGBA", (size, size), BG_COLOR + (255,))
+    for comp_ready, comp_alpha, comp_range in (
+        (c1_done, alpha_c1, range(split)),
+        (c2_done, alpha_c2, range(split, n_strokes)),
+    ):
+        comp_list = list(comp_range)
+        if comp_ready and comp_alpha > 0.01 and comp_list:
+            union_mask = masks[comp_list[0]].copy()
+            for hi in comp_list[1:]:
+                union_mask = ImageChops.lighter(union_mask, masks[hi])
+            halo_mask = union_mask.filter(ImageFilter.MaxFilter(halo_filter_size)).filter(ImageFilter.GaussianBlur(0.8))
+            halo_scale = 0.45 * comp_alpha
+            halo_scaled = halo_mask.point(lambda v: int(v * halo_scale))
+            tile_rgba.paste(halo_layer, (0, 0), halo_scaled)
+
+    # Layer 4b: Brush strokes permanently ON TOP (active animated stroke + completed strokes)
+    tip_pt = None
+    brush_r = int(size * 0.135)
+
+    def _paste_active_stroke(s_idx: int) -> tuple[float, float] | None:
+        pref = _polyline_prefix(medians[s_idx], frac)
+        b_mask = Image.new("L", (size, size), 0)
+        bd = ImageDraw.Draw(b_mask)
+        for p in pref:
+            bd.ellipse([p[0] - brush_r, p[1] - brush_r, p[0] + brush_r, p[1] + brush_r], fill=255)
+        if len(pref) >= 2:
+            bd.line(pref, fill=255, width=brush_r * 2, joint="curve")
+        clipped = ImageChops.darker(masks[s_idx], b_mask)
+        col_layer = Image.new("RGBA", (size, size), colors[s_idx] + (255,))
+        tile_rgba.paste(col_layer, (0, 0), clipped)
+        return pref[-1] if pref else None
+
+    # Component 1 strokes (0 .. split - 1)
+    if c1_done:
+        for idx in range(split):
+            base_col = colors[idx]
+            target_col = FG_NAVY if base_col == NAVY else FG_TERRACOTTA
+            ink_col = _lerp_rgb(base_col, target_col, alpha_c1)
+            col_layer = Image.new("RGBA", (size, size), ink_col + (255,))
+            tile_rgba.paste(col_layer, (0, 0), masks[idx])
+    else:
+        for idx in range(min(active_idx, split)):
+            col_layer = Image.new("RGBA", (size, size), colors[idx] + (255,))
+            tile_rgba.paste(col_layer, (0, 0), masks[idx])
+        if 0 <= active_idx < split:
+            tip_pt = _paste_active_stroke(active_idx)
+
+    # Component 2 strokes (split .. n_strokes - 1)
+    char = sdata.get("char", "")
+    stroke_ids = sdata.get("stroke_ids", list(range(n_strokes)))
+    if c2_done:
+        for idx in range(split, n_strokes):
+            base_col = colors[idx]
+            target_col = FG_NAVY if base_col == NAVY else FG_TERRACOTTA
+            ink_col = _lerp_rgb(base_col, target_col, alpha_c2)
+            s_mask = masks[idx]
+            if char == "看" and stroke_ids[idx] in (6, 7) and alpha_c2 > 0.01:
+                dim_factor = 1.0 - 0.06 * alpha_c2
+                s_mask = s_mask.point(lambda v: int(v * dim_factor))
+            col_layer = Image.new("RGBA", (size, size), ink_col + (255,))
+            tile_rgba.paste(col_layer, (0, 0), s_mask)
+    elif c2_active:
+        for idx in range(split, min(active_idx, n_strokes)):
+            col_layer = Image.new("RGBA", (size, size), colors[idx] + (255,))
+            tile_rgba.paste(col_layer, (0, 0), masks[idx])
+        if split <= active_idx < n_strokes:
+            tip_pt = _paste_active_stroke(active_idx)
+
+    # Layer 5: Brush tip & stroke-order badges
+    badge_layer = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    bd = ImageDraw.Draw(badge_layer)
+    badge_r = max(12, int(size * 0.024))
+    has_badges = False
+
+    if not c1_done and active_idx >= 0:
+        for idx in range(min(active_idx + 1, split)):
+            bx, by = sdata["badge_pts"][idx]
+            bg = colors[idx] if idx == active_idx else CHARCOAL
+            draw_step_badge(bd, bx, by, badge_r, idx + 1, bg, (255, 255, 255))
+        has_badges = True
+    elif c1_done and not c2_active and not c2_done:
+        alpha_b1 = 1.0 - alpha_c1
+        if alpha_b1 > 0.05:
+            for idx in range(split):
+                bx, by = sdata["badge_pts"][idx]
+                draw_step_badge(bd, bx, by, badge_r, idx + 1, CHARCOAL, (255, 255, 255))
+            if alpha_b1 < 0.995:
+                r_ch, g_ch, b_ch, a_ch = badge_layer.split()
+                a_ch = a_ch.point(lambda v: int(v * alpha_b1))
+                badge_layer = Image.merge("RGBA", (r_ch, g_ch, b_ch, a_ch))
+            has_badges = True
+    elif c2_active and not c2_done and active_idx >= split:
+        for idx in range(split, min(active_idx + 1, n_strokes)):
+            bx, by = sdata["badge_pts"][idx]
+            bg = colors[idx] if idx == active_idx else CHARCOAL
+            draw_step_badge(bd, bx, by, badge_r, idx + 1, bg, (255, 255, 255))
+        has_badges = True
+    elif c2_done:
+        alpha_b2 = 1.0 - alpha_c2
+        if alpha_b2 > 0.05:
+            for idx in range(split, n_strokes):
+                bx, by = sdata["badge_pts"][idx]
+                draw_step_badge(bd, bx, by, badge_r, idx + 1, CHARCOAL, (255, 255, 255))
+            if alpha_b2 < 0.995:
+                r_ch, g_ch, b_ch, a_ch = badge_layer.split()
+                a_ch = a_ch.point(lambda v: int(v * alpha_b2))
+                badge_layer = Image.merge("RGBA", (r_ch, g_ch, b_ch, a_ch))
+            has_badges = True
+
+    if has_badges:
+        tile_rgba = Image.alpha_composite(tile_rgba, badge_layer)
+
+    out = tile_rgba.convert("RGB")
+    od = ImageDraw.Draw(out)
+    if tip_pt is not None and 0 <= active_idx < n_strokes:
+        r_outer = max(11, int(size * 0.024))
+        r_inner = max(6, int(size * 0.014))
+        tx, ty = tip_pt
+        od.ellipse([tx - r_outer, ty - r_outer, tx + r_outer, ty + r_outer], fill=GOLD_ACCENT, outline=(255, 255, 255), width=3)
+        od.ellipse([tx - r_inner, ty - r_inner, tx + r_inner, ty + r_inner], fill=colors[active_idx])
+    od.rounded_rectangle([0, 0, size - 1, size - 1], radius=radius, outline=CARD_BORDER, width=border_width)
     return out
 
 
@@ -2085,46 +2285,108 @@ def render_combined_synced_scene(
     preview_dir = INTRO_ID_DIR if lang == "id" else INTRO_EN_DIR
     segments: list[tuple[Path, float]] = []
 
-    p1_dur = max(0.4, t_p1)
+    p1_dur = max(0.6, t_p1)
     p2_dur = max(0.4, t_p2 - t_p1)
     p3_dur = max(0.4, total_dur - t_p2)
     fade_dur = min(CROSSFADE_SEC, p3_dur * 0.65)
 
-    n_p1 = max(12, int(round(p1_dur * FPS)))
-    n_p2 = max(12, int(round(p2_dur * FPS)))
+    p1_write_dur = p1_dur * 0.56
+    p1_morph_dur = max(0.24, p1_dur - p1_write_dur)
+
+    n_p1_write = max(12, int(round(p1_write_dur * FPS)))
+    n_p1_morph = max(10, int(round(p1_morph_dur * FPS)))
+    n_p2_write = max(12, int(round(p2_dur * FPS)))
     n_fade = max(12, int(round(fade_dur * FPS)))
 
-    def save_write_range(tag_prefix: str, n_frames: int, dur_sec: float, s_start: int, s_end: int, preview_name: str, ex_name: str) -> None:
-        dt = dur_sec / n_frames
-        count = s_end - s_start
-        for f_idx in range(n_frames):
-            pos = s_start + (f_idx + 0.5) / n_frames * count
-            s_idx = min(s_end - 1, max(s_start, int(pos)))
-            frac = min(1.0, max(0.06, pos - s_idx))
+    art_c1 = artworks["combined_c1"]
+    art_comb = artworks["combined"]
 
-            frame = base.copy()
-            tile = _render_char_strokes_tile(sdata, s_idx, frac, all_done=False)
-            frame.paste(tile, (mx0, my0))
-            fd = ImageDraw.Draw(frame)
-            bx, by = mini_boxes[s_idx]
-            fd.rounded_rectangle([bx - 2, by - 2, bx + mini_size + 2, by + mini_size + 2], radius=10, outline=sdata["colors"][s_idx], width=3)
+    # Stage 1A: Write Component 1 strokes (0 .. split - 1)
+    dt_p1w = p1_write_dur / n_p1_write
+    for f_idx in range(n_p1_write):
+        pos = (f_idx + 0.5) / n_p1_write * split
+        s_idx = min(split - 1, max(0, int(pos)))
+        frac = min(1.0, max(0.06, pos - s_idx))
 
-            out_p = frame_dir / f"{tag_prefix}_{f_idx:04d}.jpg"
-            frame.save(out_p, quality=93)
-            segments.append((out_p, dt))
-            if f_idx == n_frames // 2:
-                frame.save(preview_dir / preview_name)
-                frame.save(EXEMPLARS_DIR / ex_name)
+        frame = base.copy()
+        tile = _render_s3_progressive_tile(
+            sdata, split, art_c1, art_comb,
+            c1_done=False, c1_illus_alpha=0.0, c2_active=False, c2_done=False,
+            active_idx=s_idx, frac=frac,
+        )
+        frame.paste(tile, (mx0, my0))
+        fd = ImageDraw.Draw(frame)
+        bx, by = mini_boxes[s_idx]
+        fd.rounded_rectangle([bx - 2, by - 2, bx + mini_size + 2, by + mini_size + 2], radius=10, outline=sdata["colors"][s_idx], width=3)
 
-    save_write_range("p1", n_p1, p1_dur, 0, split, f"{char}_s3_write_p1.png", f"{char}_s3_write_p1_{lang}.png")
-    save_write_range("p2", n_p2, p2_dur, split, n_strokes, f"{char}_s3_write_p2.png", f"{char}_s3_write_p2_{lang}.png")
+        out_p = frame_dir / f"p1w_{f_idx:04d}.jpg"
+        frame.save(out_p, quality=93)
+        segments.append((out_p, dt_p1w))
+        if f_idx == n_p1_write // 2:
+            frame.save(preview_dir / f"{char}_s3_write_p1.png")
+            frame.save(EXEMPLARS_DIR / f"{char}_s3_write_p1_{lang}.png")
 
+    # Stage 1B: Reveal Component 1's illustration before Component 2 starts writing
+    dt_p1m = p1_morph_dur / n_p1_morph
+    fade_frames_c1 = max(1, int(n_p1_morph * 0.72))
+    c1_preview_idx = min(n_p1_morph - 1, max(fade_frames_c1, int(n_p1_morph * 0.75)))
+    for f_idx in range(n_p1_morph):
+        alpha_c1 = _smoothstep(min(1.0, (f_idx + 1) / fade_frames_c1))
+        frame = base.copy()
+        tile = _render_s3_progressive_tile(
+            sdata, split, art_c1, art_comb,
+            c1_done=True, c1_illus_alpha=alpha_c1, c2_active=False, c2_done=False,
+        )
+        frame.paste(tile, (mx0, my0))
+        fd = ImageDraw.Draw(frame)
+        for idx_b in range(split):
+            bx, by = mini_boxes[idx_b]
+            fd.rounded_rectangle([bx, by, bx + mini_size, by + mini_size], radius=10, outline=sdata["colors"][idx_b], width=2)
+
+        out_p = frame_dir / f"p1m_{f_idx:04d}.jpg"
+        frame.save(out_p, quality=93)
+        segments.append((out_p, dt_p1m))
+        if f_idx == c1_preview_idx:
+            frame.save(EXEMPLARS_DIR / f"{char}_s3_c1_morph_{lang}.png")
+
+    # Stage 2A: Write Component 2 strokes (split .. n_strokes - 1) while Component 1's illustration stays visible
+    dt_p2w = p2_dur / n_p2_write
+    c2_count = n_strokes - split
+    for f_idx in range(n_p2_write):
+        pos = split + (f_idx + 0.5) / n_p2_write * c2_count
+        s_idx = min(n_strokes - 1, max(split, int(pos)))
+        frac = min(1.0, max(0.06, pos - s_idx))
+
+        frame = base.copy()
+        tile = _render_s3_progressive_tile(
+            sdata, split, art_c1, art_comb,
+            c1_done=True, c1_illus_alpha=1.0, c2_active=True, c2_done=False,
+            active_idx=s_idx, frac=frac,
+        )
+        frame.paste(tile, (mx0, my0))
+        fd = ImageDraw.Draw(frame)
+        for idx_b in range(split):
+            bx, by = mini_boxes[idx_b]
+            fd.rounded_rectangle([bx, by, bx + mini_size, by + mini_size], radius=10, outline=sdata["colors"][idx_b], width=2)
+        bx, by = mini_boxes[s_idx]
+        fd.rounded_rectangle([bx - 2, by - 2, bx + mini_size + 2, by + mini_size + 2], radius=10, outline=sdata["colors"][s_idx], width=3)
+
+        out_p = frame_dir / f"p2w_{f_idx:04d}.jpg"
+        frame.save(out_p, quality=93)
+        segments.append((out_p, dt_p2w))
+        if f_idx == n_p2_write // 2:
+            frame.save(preview_dir / f"{char}_s3_write_p2.png")
+            frame.save(EXEMPLARS_DIR / f"{char}_s3_write_p2_{lang}.png")
+
+    # Stage 2B: Reveal Component 2's illustration (full combined artwork) while strokes remain on top
     dt_fade = fade_dur / n_fade
     for f_idx in range(n_fade):
         alpha = _smoothstep((f_idx + 1) / n_fade)
         frame = base.copy()
-        blended = _composite_strokes_over_art(
-            sdata, artworks["combined"], illus_alpha=alpha, show_badges_alpha=1.0 - alpha,
+        blended = _render_s3_progressive_tile(
+            sdata, split, art_c1, art_comb,
+            c1_done=True, c1_illus_alpha=1.0, c2_active=False, c2_done=True,
+            c2_illus_alpha=alpha,
         )
         frame.paste(blended, (mx0, my0))
         fd = ImageDraw.Draw(frame)
@@ -2161,6 +2423,7 @@ def render_combined_synced_scene(
 
     return segments, card_path, {
         "p1": preview_dir / f"{char}_s3_write_p1.png",
+        "c1_morph": EXEMPLARS_DIR / f"{char}_s3_c1_morph_{lang}.png",
         "p2": preview_dir / f"{char}_s3_write_p2.png",
         "morph": preview_dir / f"{char}_s3_morph.png",
         "card": card_path,
@@ -2190,7 +2453,7 @@ def build_exemplar_for_char(char: str, lang: str, artworks: dict[str, Image.Imag
         )
         s3_dur, s3_times = stitch_phased_wav(
             [lcfg["s3_phase1"], lcfg["s3_phase2"], lcfg["s3_phase3"]],
-            s3_wav, non_zh_rate, lead_ms=140, tail_ms=820, inter_phase_ms=110,
+            s3_wav, non_zh_rate, lead_ms=140, tail_ms=820, inter_phase_ms=480,
         )
         total = s1_dur + s2_dur + s3_dur
         chosen = (non_zh_rate, s1_wav, s1_dur, s1_times, s2_wav, s2_dur, s2_times, s3_wav, s3_dur, s3_times, total)
@@ -2215,7 +2478,7 @@ def build_exemplar_for_char(char: str, lang: str, artworks: dict[str, Image.Imag
         )
         s3_dur, s3_times = stitch_phased_wav(
             [lcfg["s3_phase1"], lcfg["s3_phase2"], lcfg["s3_phase3"]],
-            s3_wav, non_zh_rate, lead_ms=150, tail_ms=820 + p3, inter_phase_ms=110,
+            s3_wav, non_zh_rate, lead_ms=150, tail_ms=820 + p3, inter_phase_ms=480,
         )
         total = s1_dur + s2_dur + s3_dur
 
