@@ -1,0 +1,302 @@
+[
+  {
+    "char": "青",
+    "jyutping": "cing1",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_青.png",
+    "id": {
+      "meaning": "hijau",
+      "meaning_tts": "hijau",
+      "brief": "Pot merah dengan kecambah, lalu daun tumbuh. Pakai gambar Mandarin jika mal cocok dan rekam **cing1** baru.",
+      "brief_tts": "Pot merah dengan kecambah, lalu daun tumbuh. Pakai gambar Mandarin jika mal cocok dan rekam **cing1** baru."
+    },
+    "en": {
+      "meaning": "green",
+      "meaning_tts": "green",
+      "brief": "Red pot with a sprout, then growing leaves. Reuse matching artwork and record new **cing1** audio.",
+      "brief_tts": "Red pot with a sprout, then growing leaves. Reuse matching artwork and record new **cing1** audio."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_青.png (1080x1920) on solid cream (#F9F5EC), preserving 青 in its exact shape and position, illustrating cleanly behind it: Red pot with a sprout, then growing leaves. Reuse matching artwork and record new **cing1** audio."
+  },
+  {
+    "char": "清",
+    "jyutping": "cing1",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_清.png",
+    "id": {
+      "meaning": "jernih",
+      "meaning_tts": "jernih",
+      "brief": "Tanaman **青** dahulu, kemudian riak air **氵** di sebelahnya. Dengarkan bunyi yang sama dengan **青**.",
+      "brief_tts": "Tanaman **** dahulu, kemudian riak air **** di sebelahnya. Dengarkan bunyi yang sama dengan ****."
+    },
+    "en": {
+      "meaning": "clear",
+      "meaning_tts": "clear",
+      "brief": "Start with the **青** plant, then add **氵** ripples beside it. Listen for the shared sound.",
+      "brief_tts": "Start with the **** plant, then add **** ripples beside it. Listen for the shared sound."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_清.png (1080x1920) on solid cream (#F9F5EC), preserving 清 in its exact shape and position, illustrating cleanly behind it: Start with the **青** plant, then add **氵** ripples beside it. Listen for the shared sound."
+  },
+  {
+    "char": "水",
+    "jyutping": "seoi2",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_水.png",
+    "id": {
+      "meaning": "air",
+      "meaning_tts": "air",
+      "brief": "Batu tampak dari atas, lalu arus utama dan arus samping masuk.",
+      "brief_tts": "Batu tampak dari atas, lalu arus utama dan arus samping masuk."
+    },
+    "en": {
+      "meaning": "water",
+      "meaning_tts": "water",
+      "brief": "Show the stones from above, then reveal the main and side currents.",
+      "brief_tts": "Show the stones from above, then reveal the main and side currents."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_水.png (1080x1920) on solid cream (#F9F5EC), preserving 水 in its exact shape and position, illustrating cleanly behind it: Show the stones from above, then reveal the main and side currents."
+  },
+  {
+    "char": "食",
+    "jyutping": "sik6",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_食.png",
+    "id": {
+      "meaning": "makan",
+      "meaning_tts": "makan",
+      "brief": "Hidangan belum disentuh, lalu orang mengambil suapan. Untuk percakapan Kanton, ajarkan kata yang dipakai sehari-hari.",
+      "brief_tts": "Hidangan belum disentuh, lalu orang mengambil suapan. Untuk percakapan Kanton, ajarkan kata yang dipakai sehari hari."
+    },
+    "en": {
+      "meaning": "eat",
+      "meaning_tts": "eat",
+      "brief": "Start with an untouched meal, then show someone taking a bite. Teach the everyday Cantonese word.",
+      "brief_tts": "Start with an untouched meal, then show someone taking a bite. Teach the everyday Cantonese word."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_食.png (1080x1920) on solid cream (#F9F5EC), preserving 食 in its exact shape and position, illustrating cleanly behind it: Start with an untouched meal, then show someone taking a bite. Teach the everyday Cantonese word."
+  },
+  {
+    "char": "飲",
+    "jyutping": "jam2",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_飲.png",
+    "id": {
+      "meaning": "minum",
+      "meaning_tts": "minum",
+      "brief": "Cangkir di meja, lalu orang meneguknya. Bedakan gambar aksi dari 食 dan baca dalam Kanton.",
+      "brief_tts": "Cangkir di meja, lalu orang meneguknya. Bedakan gambar aksi dari dan baca dalam Kanton."
+    },
+    "en": {
+      "meaning": "drink",
+      "meaning_tts": "drink",
+      "brief": "Show a cup on a table, then show a sip. Contrast the action with eating and use Cantonese audio.",
+      "brief_tts": "Show a cup on a table, then show a sip. Contrast the action with eating and use Cantonese audio."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_飲.png (1080x1920) on solid cream (#F9F5EC), preserving 飲 in its exact shape and position, illustrating cleanly behind it: Show a cup on a table, then show a sip. Contrast the action with eating and use Cantonese audio."
+  },
+  {
+    "char": "佢",
+    "jyutping": "keoi5",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "Kaiti SC Bold",
+    "template_path": "templates_trad/hk_佢.png",
+    "id": {
+      "meaning": "dia",
+      "meaning_tts": "dia",
+      "brief": "Pembicara dan orang lain tampak dalam satu bingkai, lalu sorot orang yang dirujuk.",
+      "brief_tts": "Pembicara dan orang lain tampak dalam satu bingkai, lalu sorot orang yang dirujuk."
+    },
+    "en": {
+      "meaning": "he, she",
+      "meaning_tts": "he, she",
+      "brief": "Show a speaker and another person, then highlight the person referred to.",
+      "brief_tts": "Show a speaker and another person, then highlight the person referred to."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_佢.png (1080x1920) on solid cream (#F9F5EC), preserving 佢 in its exact shape and position, illustrating cleanly behind it: Show a speaker and another person, then highlight the person referred to."
+  },
+  {
+    "char": "係",
+    "jyutping": "hai6",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_係.png",
+    "id": {
+      "meaning": "adalah",
+      "meaning_tts": "adalah",
+      "brief": "Benda tertutup kain, lalu dibuka dan dikenali.",
+      "brief_tts": "Benda tertutup kain, lalu dibuka dan dikenali."
+    },
+    "en": {
+      "meaning": "be",
+      "meaning_tts": "be",
+      "brief": "Uncover an object and identify what it is.",
+      "brief_tts": "Uncover an object and identify what it is."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_係.png (1080x1920) on solid cream (#F9F5EC), preserving 係 in its exact shape and position, illustrating cleanly behind it: Uncover an object and identify what it is."
+  },
+  {
+    "char": "喺",
+    "jyutping": "hai2",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "Kaiti SC Bold",
+    "template_path": "templates_trad/hk_喺.png",
+    "id": {
+      "meaning": "berada di",
+      "meaning_tts": "berada di",
+      "brief": "Rak kosong, lalu cangkir tampak di atas rak. Gunakan lokasi untuk membedakan dari 係.",
+      "brief_tts": "Rak kosong, lalu cangkir tampak di atas rak. Gunakan lokasi untuk membedakan dari ."
+    },
+    "en": {
+      "meaning": "be at",
+      "meaning_tts": "be at",
+      "brief": "An empty shelf, then a cup on it. Use location to distinguish it from 係.",
+      "brief_tts": "An empty shelf, then a cup on it. Use location to distinguish it from ."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_喺.png (1080x1920) on solid cream (#F9F5EC), preserving 喺 in its exact shape and position, illustrating cleanly behind it: An empty shelf, then a cup on it. Use location to distinguish it from 係."
+  },
+  {
+    "char": "唔",
+    "jyutping": "m4",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_唔.png",
+    "id": {
+      "meaning": "tidak",
+      "meaning_tts": "tidak",
+      "brief": "Sebuah aksi akan dimulai, lalu orang menolak dan tidak melakukannya.",
+      "brief_tts": "Sebuah aksi akan dimulai, lalu orang menolak dan tidak melakukannya."
+    },
+    "en": {
+      "meaning": "not",
+      "meaning_tts": "not",
+      "brief": "Someone is about to do something, then declines and leaves it undone.",
+      "brief_tts": "Someone is about to do something, then declines and leaves it undone."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_唔.png (1080x1920) on solid cream (#F9F5EC), preserving 唔 in its exact shape and position, illustrating cleanly behind it: Someone is about to do something, then declines and leaves it undone."
+  },
+  {
+    "char": "冇",
+    "jyutping": "mou5",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "Kaiti SC Bold",
+    "template_path": "templates_trad/hk_冇.png",
+    "id": {
+      "meaning": "tidak ada",
+      "meaning_tts": "tidak ada",
+      "brief": "Tangan menunjuk satu tempat penyimpanan yang tertutup, lalu dibuka dan ternyata kosong.",
+      "brief_tts": "Tangan menunjuk satu tempat penyimpanan yang tertutup, lalu dibuka dan ternyata kosong."
+    },
+    "en": {
+      "meaning": "not have",
+      "meaning_tts": "not have",
+      "brief": "Point to a closed container, then open it and show that it is empty.",
+      "brief_tts": "Point to a closed container, then open it and show that it is empty."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_冇.png (1080x1920) on solid cream (#F9F5EC), preserving 冇 in its exact shape and position, illustrating cleanly behind it: Point to a closed container, then open it and show that it is empty."
+  },
+  {
+    "char": "嘅",
+    "jyutping": "ge3",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_嘅.png",
+    "id": {
+      "meaning": "penanda milik",
+      "meaning_tts": "penanda milik",
+      "brief": "Dua orang dan satu buku, lalu pemilik mengambil bukunya. Fokus satu fungsi sebelum membahas penggunaan di akhir kalimat.",
+      "brief_tts": "Dua orang dan satu buku, lalu pemilik mengambil bukunya. Fokus satu fungsi sebelum membahas penggunaan di akhir kalimat."
+    },
+    "en": {
+      "meaning": "possessive marker",
+      "meaning_tts": "possessive marker",
+      "brief": "Two people and a book, then its owner picks it up. Teach the possessive use before sentence-final uses.",
+      "brief_tts": "Two people and a book, then its owner picks it up. Teach the possessive use before sentence final uses."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_嘅.png (1080x1920) on solid cream (#F9F5EC), preserving 嘅 in its exact shape and position, illustrating cleanly behind it: Two people and a book, then its owner picks it up. Teach the possessive use before sentence-final uses."
+  },
+  {
+    "char": "咗",
+    "jyutping": "zo2",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "Kaiti SC Bold",
+    "template_path": "templates_trad/hk_咗.png",
+    "id": {
+      "meaning": "aksi selesai",
+      "meaning_tts": "aksi selesai",
+      "brief": "Pembelian belum terjadi, lalu pembeli menerima barang.",
+      "brief_tts": "Pembelian belum terjadi, lalu pembeli menerima barang."
+    },
+    "en": {
+      "meaning": "completed action",
+      "meaning_tts": "completed action",
+      "brief": "A purchase is pending, then the buyer receives the item.",
+      "brief_tts": "A purchase is pending, then the buyer receives the item."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_咗.png (1080x1920) on solid cream (#F9F5EC), preserving 咗 in its exact shape and position, illustrating cleanly behind it: A purchase is pending, then the buyer receives the item."
+  },
+  {
+    "char": "緊",
+    "jyutping": "gan2",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_緊.png",
+    "id": {
+      "meaning": "aksi berlangsung",
+      "meaning_tts": "aksi berlangsung",
+      "brief": "Seseorang mulai membaca, lalu masih membaca saat orang lain datang.",
+      "brief_tts": "Seseorang mulai membaca, lalu masih membaca saat orang lain datang."
+    },
+    "en": {
+      "meaning": "ongoing action",
+      "meaning_tts": "ongoing action",
+      "brief": "A person begins reading and is still doing so when someone arrives.",
+      "brief_tts": "A person begins reading and is still doing so when someone arrives."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_緊.png (1080x1920) on solid cream (#F9F5EC), preserving 緊 in its exact shape and position, illustrating cleanly behind it: A person begins reading and is still doing so when someone arrives."
+  },
+  {
+    "char": "未",
+    "jyutping": "mei6",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "Kaiti SC Bold",
+    "template_path": "templates_trad/hk_未.png",
+    "id": {
+      "meaning": "belum",
+      "meaning_tts": "belum",
+      "brief": "Satu kursi disiapkan untuk seseorang, lalu terlihat kursi itu masih kosong.",
+      "brief_tts": "Satu kursi disiapkan untuk seseorang, lalu terlihat kursi itu masih kosong."
+    },
+    "en": {
+      "meaning": "not yet",
+      "meaning_tts": "not yet",
+      "brief": "Set out a chair for someone, then show that they have not arrived yet.",
+      "brief_tts": "Set out a chair for someone, then show that they have not arrived yet."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_未.png (1080x1920) on solid cream (#F9F5EC), preserving 未 in its exact shape and position, illustrating cleanly behind it: Set out a chair for someone, then show that they have not arrived yet."
+  },
+  {
+    "char": "呀",
+    "jyutping": "aa3",
+    "voice_hk": "zh-HK-HiuMaanNeural",
+    "stroke_source": "hanzi-writer-data",
+    "template_path": "templates_trad/hk_呀.png",
+    "id": {
+      "meaning": "penanda nada ujaran",
+      "meaning_tts": "penanda nada ujaran",
+      "brief": "Satu pernyataan diucapkan, lalu putar contoh pertanyaan dengan intonasi alami dan sorot partikel.",
+      "brief_tts": "Satu pernyataan diucapkan, lalu putar contoh pertanyaan dengan intonasi alami dan sorot partikel."
+    },
+    "en": {
+      "meaning": "sentence-final particle",
+      "meaning_tts": "sentence final particle",
+      "brief": "Play an utterance, then a natural question and highlight the particle.",
+      "brief_tts": "Play an utterance, then a natural question and highlight the particle."
+    },
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_呀.png (1080x1920) on solid cream (#F9F5EC), preserving 呀 in its exact shape and position, illustrating cleanly behind it: Play an utterance, then a natural question and highlight the particle."
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "id": "zh_particle_01_de",
+    "language": "mandarin",
+    "particle": "的 de",
+    "char": "的",
+    "reading": "de",
+    "stage_1_id": "Dua orang dan satu buku di meja.",
+    "stage_1_en": "Two people and a book on a table.",
+    "stage_2_id": "Pemilik memegang buku. **我的书** (*wǒ de shū*) berarti buku saya.",
+    "stage_2_en": "The owner holds it. **的** links the owner to the book. Kenalkan **我** wǒ, saya / I, dan **书** shū, buku / book.",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin de.",
+      "s2": "Dua orang dan satu buku di meja.",
+      "s3": "Pemilik memegang buku. berarti buku saya.",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel de."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle de.",
+      "s2": "Two people and a book on a table.",
+      "s3": "The owner holds it. links the owner to the book. Kenalkan wǒ, saya atau I, dan shū, buku atau book.",
+      "s4": "Listen to the example sentence and repeat de."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 的 (de). Stage 1: Two people and a book on a table. Stage 2: The owner holds it. **的** links the owner to the book. Kenalkan **我** wǒ, saya / I, dan **书** shū, buku / book. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "zh_particle_02_de",
+    "language": "mandarin",
+    "particle": "地 de",
+    "char": "地",
+    "reading": "de",
+    "stage_1_id": "Seseorang hendak berjalan.",
+    "stage_1_en": "Someone is about to walk.",
+    "stage_2_id": "Ia berjalan pelan dan langkahnya diperlihatkan lebih lambat. **慢慢地走** (*mànmàn de zǒu*) berarti berjalan pelan-pelan.",
+    "stage_2_en": "They walk slowly. **地** links the manner to the action. Kenalkan **慢** màn, pelan / slow, dan **走** zǒu, berjalan / walk.",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin de.",
+      "s2": "Seseorang hendak berjalan.",
+      "s3": "Ia berjalan pelan dan langkahnya diperlihatkan lebih lambat. berarti berjalan pelan pelan.",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel de."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle de.",
+      "s2": "Someone is about to walk.",
+      "s3": "They walk slowly. links the manner to the action. Kenalkan màn, pelan atau slow, dan zǒu, berjalan atau walk.",
+      "s4": "Listen to the example sentence and repeat de."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 地 (de). Stage 1: Someone is about to walk. Stage 2: They walk slowly. **地** links the manner to the action. Kenalkan **慢** màn, pelan / slow, dan **走** zǒu, berjalan / walk. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "zh_particle_03_le",
+    "language": "mandarin",
+    "particle": "了 le setelah verba / after verb",
+    "char": "了",
+    "reading": "le",
+    "stage_1_id": "Buku masih di meja penjual.",
+    "stage_1_en": "The book is still on the seller’s table.",
+    "stage_2_id": "Pembeli menyelesaikan pembelian. **我买了书** (*wǒ mǎi le shū*) berarti saya membeli buku.",
+    "stage_2_en": "The purchase is completed. Highlight **了** immediately after **买** (*mǎi*, membeli / buy).",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin le.",
+      "s2": "Buku masih di meja penjual.",
+      "s3": "Pembeli menyelesaikan pembelian. berarti saya membeli buku.",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel le."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle le.",
+      "s2": "The book is still on the seller’s table.",
+      "s3": "The purchase is completed. Highlight immediately after.",
+      "s4": "Listen to the example sentence and repeat le."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 了 (le). Stage 1: The book is still on the seller’s table. Stage 2: The purchase is completed. Highlight **了** immediately after **买** (*mǎi*, membeli / buy). Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "zh_particle_04_le",
+    "language": "mandarin",
+    "particle": "了 le di akhir / sentence-final",
+    "char": "了",
+    "reading": "le",
+    "stage_1_id": "Tanah kering dan langit mendung.",
+    "stage_1_en": "Dry ground under clouds.",
+    "stage_2_id": "Hujan mulai turun. **下雨了** (*xiàyǔ le*) berarti sekarang turun hujan.",
+    "stage_2_en": "It starts raining. Sentence-final **了** flags a new situation. Kenalkan **下雨** secara utuh beserta **下** xià dan **雨** yǔ.",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin le.",
+      "s2": "Tanah kering dan langit mendung.",
+      "s3": "Hujan mulai turun. berarti sekarang turun hujan.",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel le."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle le.",
+      "s2": "Dry ground under clouds.",
+      "s3": "It starts raining. Sentence final flags a new situation. Kenalkan secara utuh beserta xià dan yǔ.",
+      "s4": "Listen to the example sentence and repeat le."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 了 (le). Stage 1: Dry ground under clouds. Stage 2: It starts raining. Sentence-final **了** flags a new situation. Kenalkan **下雨** secara utuh beserta **下** xià dan **雨** yǔ. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "zh_particle_05_ma",
+    "language": "mandarin",
+    "particle": "吗 ma / 嗎 ma",
+    "char": "吗",
+    "reading": "ma",
+    "stage_1_id": "Satu orang minum teh.",
+    "stage_1_en": "One person drinks tea.",
+    "stage_2_id": "Orang lain bertanya **你喝茶吗？** (*nǐ hē chá ma*), “Kamu minum teh?”",
+    "stage_2_en": "“Do you drink tea?” **吗** turns the statement into a yes/no question. Kenalkan **你** nǐ, kamu / you, **喝** hē, minum / drink, dan **茶** chá, teh / tea.",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin ma.",
+      "s2": "Satu orang minum teh.",
+      "s3": "Orang lain bertanya, “Kamu minum teh?”",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel ma."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle ma.",
+      "s2": "One person drinks tea.",
+      "s3": "“Do you drink tea?” turns the statement into a yes atau no question. Kenalkan nǐ, kamu atau you, hē, minum atau drink, dan chá, teh atau tea.",
+      "s4": "Listen to the example sentence and repeat ma."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 吗 (ma). Stage 1: One person drinks tea. Stage 2: “Do you drink tea?” **吗** turns the statement into a yes/no question. Kenalkan **你** nǐ, kamu / you, **喝** hē, minum / drink, dan **茶** chá, teh / tea. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "zh_particle_06_ne",
+    "language": "mandarin",
+    "particle": "呢 ne, aksi berlangsung / in progress",
+    "char": "呢",
+    "reading": "ne",
+    "stage_1_id": "Orang mulai membuka buku.",
+    "stage_1_en": "Someone opens a book.",
+    "stage_2_id": "Ia masih membaca ketika ditanya. **我在看书呢** (*wǒ zài kàn shū ne*) berarti saya sedang membaca.",
+    "stage_2_en": "“I’m reading.” **呢** highlights the ongoing situation with **在** (*zài*, sedang / in progress here).",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin ne.",
+      "s2": "Orang mulai membuka buku.",
+      "s3": "Ia masih membaca ketika ditanya. berarti saya sedang membaca.",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel ne."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle ne.",
+      "s2": "Someone opens a book.",
+      "s3": "“I’m reading.” highlights the ongoing situation with.",
+      "s4": "Listen to the example sentence and repeat ne."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 呢 (ne). Stage 1: Someone opens a book. Stage 2: “I’m reading.” **呢** highlights the ongoing situation with **在** (*zài*, sedang / in progress here). Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "zh_particle_07_ne",
+    "language": "mandarin",
+    "particle": "呢 ne, pertanyaan balik / follow-up question",
+    "char": "呢",
+    "reading": "ne",
+    "stage_1_id": "Seseorang menyebut pilihannya, kamera tetap pada dua teman.",
+    "stage_1_en": "One friend states a choice, with both friends in frame.",
+    "stage_2_id": "Lalu ia menoleh dan bertanya **你呢？** (*nǐ ne*), “Kalau kamu?”",
+    "stage_2_en": "“How about you?” **呢** carries forward the previous topic. Ajarkan sebagai perluasan konteks. / Teach as a contextual extension.",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin ne.",
+      "s2": "Seseorang menyebut pilihannya, kamera tetap pada dua teman.",
+      "s3": "Lalu ia menoleh dan bertanya, “Kalau kamu?”",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel ne."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle ne.",
+      "s2": "One friend states a choice, with both friends in frame.",
+      "s3": "“How about you?” carries forward the previous topic. Ajarkan sebagai perluasan konteks. atau Teach as a contextual extension.",
+      "s4": "Listen to the example sentence and repeat ne."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 呢 (ne). Stage 1: One friend states a choice, with both friends in frame. Stage 2: “How about you?” **呢** carries forward the previous topic. Ajarkan sebagai perluasan konteks. / Teach as a contextual extension. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "zh_particle_08_ba",
+    "language": "mandarin",
+    "particle": "吧 ba",
+    "char": "吧",
+    "reading": "ba",
+    "stage_1_id": "Dua teman menunggu di dekat pintu.",
+    "stage_1_en": "Two friends wait by a door.",
+    "stage_2_id": "Satu mengajak berjalan. **我们走吧** (*wǒmen zǒu ba*) berarti ayo kita pergi.",
+    "stage_2_en": "“Let’s go.” **吧** marks the suggestion. Kenalkan **们** men sebagai penanda jamak orang. / Introduce the human plural suffix **们**.",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "tts_id": {
+      "s1": "Partikel Mandarin ba.",
+      "s2": "Dua teman menunggu di dekat pintu.",
+      "s3": "Satu mengajak berjalan. berarti ayo kita pergi.",
+      "s4": "Dengarkan contoh kalimatnya lalu ulangi partikel ba."
+    },
+    "tts_en": {
+      "s1": "Mandarin particle ba.",
+      "s2": "Two friends wait by a door.",
+      "s3": "“Let’s go.” marks the suggestion. Kenalkan men sebagai penanda jamak orang. atau Introduce the human plural suffix.",
+      "s4": "Listen to the example sentence and repeat ba."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 吧 (ba). Stage 1: Two friends wait by a door. Stage 2: “Let’s go.” **吧** marks the suggestion. Kenalkan **们** men sebagai penanda jamak orang. / Introduce the human plural suffix **们**. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+  },
+  {
+    "id": "ja_particle_01_wa",
+    "language": "japanese",
+    "particle": "は wa",
+    "char": "は",
+    "reading": "wa",
+    "stage_desc_id": "Pilih satu orang dari dua figur, lalu sorot dia sebagai topik ketika pembicaraan dimulai.",
+    "stage_desc_en": "Select one of two figures, then highlight that person as the topic as the conversation begins.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang wa.",
+      "s2": "Pilih satu orang dari dua figur, lalu sorot dia sebagai topik ketika pembicaraan dimulai.",
+      "s3": "Partikel wa menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle wa.",
+      "s2": "Select one of two figures, then highlight that person as the topic as the conversation begins.",
+      "s3": "The particle wa attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle は (wa). Visual action: Select one of two figures, then highlight that person as the topic as the conversation begins. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_02_ga",
+    "language": "japanese",
+    "particle": "が ga",
+    "char": "が",
+    "reading": "ga",
+    "stage_desc_id": "Pertanyakan siapa yang datang, lalu sorot orang yang benar-benar muncul.",
+    "stage_desc_en": "Ask who is coming, then highlight the person who appears.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang ga.",
+      "s2": "Pertanyakan siapa yang datang, lalu sorot orang yang benar benar muncul.",
+      "s3": "Partikel ga menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle ga.",
+      "s2": "Ask who is coming, then highlight the person who appears.",
+      "s3": "The particle ga attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle が (ga). Visual action: Ask who is coming, then highlight the person who appears. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_03_o",
+    "language": "japanese",
+    "particle": "を o",
+    "char": "を",
+    "reading": "o",
+    "stage_desc_id": "Satu buku masih di meja, lalu orang mengambilnya. Sorot buku sebagai objek tindakan.",
+    "stage_desc_en": "A book is on the table, then someone picks it up. Highlight the book as the object of the action.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang o.",
+      "s2": "Satu buku masih di meja, lalu orang mengambilnya. Sorot buku sebagai objek tindakan.",
+      "s3": "Partikel o menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle o.",
+      "s2": "A book is on the table, then someone picks it up. Highlight the book as the object of the action.",
+      "s3": "The particle o attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle を (o). Visual action: A book is on the table, then someone picks it up. Highlight the book as the object of the action. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_04_e",
+    "language": "japanese",
+    "particle": "へ e",
+    "char": "へ",
+    "reading": "e",
+    "stage_desc_id": "Orang menghadap beberapa arah, lalu bergerak ke arah satu tujuan.",
+    "stage_desc_en": "A person faces several possible directions, then moves toward one destination.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang e.",
+      "s2": "Orang menghadap beberapa arah, lalu bergerak ke arah satu tujuan.",
+      "s3": "Partikel e menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle e.",
+      "s2": "A person faces several possible directions, then moves toward one destination.",
+      "s3": "The particle e attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle へ (e). Visual action: A person faces several possible directions, then moves toward one destination. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_05_ni",
+    "language": "japanese",
+    "particle": "に ni",
+    "char": "に",
+    "reading": "ni",
+    "stage_desc_id": "Tunjukkan pintu tujuan dan orang yang mendekat, lalu orang benar-benar tiba di pintu.",
+    "stage_desc_en": "Show a destination door and an approaching person, then show the person arriving.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang ni.",
+      "s2": "Tunjukkan pintu tujuan dan orang yang mendekat, lalu orang benar benar tiba di pintu.",
+      "s3": "Partikel ni menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle ni.",
+      "s2": "Show a destination door and an approaching person, then show the person arriving.",
+      "s3": "The particle ni attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle に (ni). Visual action: Show a destination door and an approaching person, then show the person arriving. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_06_de",
+    "language": "japanese",
+    "particle": "で de",
+    "char": "で",
+    "reading": "de",
+    "stage_desc_id": "Tunjukkan sebuah meja, lalu orang melakukan kegiatan di tempat itu.",
+    "stage_desc_en": "Show a table, then show someone doing an activity there.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang de.",
+      "s2": "Tunjukkan sebuah meja, lalu orang melakukan kegiatan di tempat itu.",
+      "s3": "Partikel de menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle de.",
+      "s2": "Show a table, then show someone doing an activity there.",
+      "s3": "The particle de attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle で (de). Visual action: Show a table, then show someone doing an activity there. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_07_no",
+    "language": "japanese",
+    "particle": "の no",
+    "char": "の",
+    "reading": "no",
+    "stage_desc_id": "Tampilkan dua barang, lalu pemilik mengambil salah satunya. Sorot hubungan pemilik dan barang.",
+    "stage_desc_en": "Show two items, then have the owner pick up one. Highlight the owner–item link.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang no.",
+      "s2": "Tampilkan dua barang, lalu pemilik mengambil salah satunya. Sorot hubungan pemilik dan barang.",
+      "s3": "Partikel no menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle no.",
+      "s2": "Show two items, then have the owner pick up one. Highlight the owner–item link.",
+      "s3": "The particle no attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle の (no). Visual action: Show two items, then have the owner pick up one. Highlight the owner–item link. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_08_mo",
+    "language": "japanese",
+    "particle": "も mo",
+    "char": "も",
+    "reading": "mo",
+    "stage_desc_id": "Orang pertama memilih teh dan orang kedua memilih teh juga.",
+    "stage_desc_en": "One person chooses tea, and a second chooses tea too.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang mo.",
+      "s2": "Orang pertama memilih teh dan orang kedua memilih teh juga.",
+      "s3": "Partikel mo menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle mo.",
+      "s2": "One person chooses tea, and a second chooses tea too.",
+      "s3": "The particle mo attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle も (mo). Visual action: One person chooses tea, and a second chooses tea too. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_09_to",
+    "language": "japanese",
+    "particle": "と to",
+    "char": "と",
+    "reading": "to",
+    "stage_desc_id": "Dua gelas terpisah, lalu disajikan bersama.",
+    "stage_desc_en": "Two glasses begin apart, then are served together.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang to.",
+      "s2": "Dua gelas terpisah, lalu disajikan bersama.",
+      "s3": "Partikel to menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle to.",
+      "s2": "Two glasses begin apart, then are served together.",
+      "s3": "The particle to attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle と (to). Visual action: Two glasses begin apart, then are served together. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  },
+  {
+    "id": "ja_particle_10_ka",
+    "language": "japanese",
+    "particle": "か ka",
+    "char": "か",
+    "reading": "ka",
+    "stage_desc_id": "Seorang menyatakan fakta sederhana, lalu lawan bicara menjadikannya pertanyaan.",
+    "stage_desc_en": "One person states a simple fact, then the listener turns it into a question.",
+    "voice_target": "ja-JP-NanamiNeural",
+    "tts_id": {
+      "s1": "Partikel Jepang ka.",
+      "s2": "Seorang menyatakan fakta sederhana, lalu lawan bicara menjadikannya pertanyaan.",
+      "s3": "Partikel ka menandai hubungan kata tepat di belakang kata utamanya.",
+      "s4": "Dengarkan contoh kalimat Jepangnya lalu tirukan."
+    },
+    "tts_en": {
+      "s1": "Japanese particle ka.",
+      "s2": "One person states a simple fact, then the listener turns it into a question.",
+      "s3": "The particle ka attaches right after the word it marks.",
+      "s4": "Listen to the Japanese example and repeat."
+    },
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle か (ka). Visual action: One person states a simple fact, then the listener turns it into a question. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+  }
+]
