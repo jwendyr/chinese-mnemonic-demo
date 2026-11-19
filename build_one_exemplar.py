@@ -424,6 +424,30 @@ BRUSH_SPECS = {
         },
         "comp_colors": [NAVY, NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA],
     },
+    "请": {
+        "crop_boxes": {
+            "comp1": (60, 620, 580, 1140),     # 520x520 centered on 讠 (speech bubble + waves)
+            "comp2": (220, 395, 1080, 1255),   # 860x860 centered on 青 (sprout + red pot)
+            "combined": (70, 395, 945, 1270),  # 875x875 centered on 请 (speech bubble + plant + pot)
+        },
+        "comp_colors": [NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA],
+    },
+    "晴": {
+        "crop_boxes": {
+            "comp1": (40, 565, 760, 1285),     # 720x720 centered on 日 (golden sun + rays)
+            "comp2": (205, 510, 1065, 1370),   # 860x860 centered on 青 (sprout + red pot)
+            "combined": (40, 510, 965, 1435),  # 925x925 centered on 晴 (sun + plant + pot)
+        },
+        "comp_colors": [NAVY, NAVY, NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA],
+    },
+    "情": {
+        "crop_boxes": {
+            "comp1": (85, 650, 625, 1190),     # 540x540 centered on 忄 (coral heart + arcs)
+            "comp2": (210, 415, 1080, 1285),   # 870x870 centered on 青 (sprout + red pot)
+            "combined": (85, 415, 965, 1295),  # 880x880 centered on 情 (heart + plant + pot)
+        },
+        "comp_colors": [NAVY, NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA],
+    },
 }
 
 _STROKE_JSON_CACHE: dict[str, dict] = {}
@@ -788,6 +812,63 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
         def keep_c2(x, y, rgb):
             r, g, b = rgb
             return (x >= 432) and not (b > r + 6)
+
+        c1_full = build_masked_canvas(keep_c1)
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "请":
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            return (x < 520) and (b > r + 6)
+
+        def keep_c2(x, y, rgb):
+            r, g, b = rgb
+            return (x >= 445) and not (b > r + 6)
+
+        c1_full = build_masked_canvas(keep_c1)
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "晴":
+        sun_gold = (242, 183, 47)
+        qing_mask = _build_canvas_stroke_mask("晴", list(range(4, 12))).filter(ImageFilter.MaxFilter(5)).load()
+
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            if g > r + 4:  # green leaves
+                return False
+            if x >= 445 and qing_mask[x, y] > 0:  # any terracotta 青 stroke or AA fringe
+                return False
+            if x >= 520 and (r - g >= 60) and (g < 185):  # peach pot rim
+                return False
+            return x < 588
+
+        def keep_c2(x, y, rgb):
+            r, g, b = rgb
+            is_dark_navy = (b > r + 6) and (r < 110)
+            if is_dark_navy or x < 450:
+                return False
+            if (r - b > 140 and g > 170) or (x < 605 and r > 235 and g > 215 and b < 200):
+                return False
+            return True
+
+        c1_full = build_masked_canvas(keep_c1)
+        c1_px = c1_full.load()
+        for y in range(740, 1130):
+            for x in range(445, 575):
+                if c1_px[x, y] == BG_COLOR and qing_mask[x, y] > 0 and ((x - 392) ** 2 + (y - 932) ** 2 <= 184 ** 2):
+                    c1_px[x, y] = sun_gold
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "情":
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            if g > r + 6:  # green leaves
+                return False
+            if x >= 432 and r - g > 55 and g < 130:  # terracotta 青 strokes
+                return False
+            return x < 500
+
+        def keep_c2(x, y, rgb):
+            r, g, b = rgb
+            is_dark_navy = (b > r + 6) and (r < 110)
+            return (x >= 438) and (not is_dark_navy)
 
         c1_full = build_masked_canvas(keep_c1)
         c2_full = build_masked_canvas(keep_c2)
@@ -2216,6 +2297,453 @@ EXEMPLARS = {
             ],
         },
     },
+    "请": {
+        "target_pinyin": "qǐng",
+        "target_tone": 3,
+        "stroke_split": 2,
+        "c1_indices": [0, 1],
+        "c2_indices": [2, 3, 4, 5, 6, 7, 8, 9],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 3  ·  Turun-Naik",
+            "combined_pill": "GABUNGAN:  讠  +  青  =  请",
+            "meaning": "Arti:  Silakan / Meminta / Mengundang",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Ucapkan kata sopan (讠) di depan tunas hijau (青),",
+                "untuk mengundang atau bilang silakan (请)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "讠",
+                "pinyin": "yán",
+                "tone": 2,
+                "tone_label": "Nada 2  ·  Naik",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Ucapan / Kata  ·  Nada 2",
+                "meaning_full": "Arti:  Ucapan / Berbicara",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Gelembung ucapan ramah & sopan",
+                "scene_origin": "Berasal dari gelembung ucapan dan kata yang ramah.",
+                "audio_part_a": [
+                    (VOICE_ZH, "言。", 80),
+                    (VOICE_ID, "Artinya ucapan atau berkata.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gelembung ucapan yang ramah.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Nada 1  ·  Datar Tinggi",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Hijau / Petunjuk Bunyi  ·  Nada 1",
+                "meaning_full": "Arti:  Hijau / Tunas Muda",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Tunas hijau di pot merah (bunyi qīng)",
+                "scene_origin": "Berasal dari tunas hijau di pot merah sebagai petunjuk bunyi.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_ID, "Artinya tunas hijau sekaligus petunjuk bunyi.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari tunas hijau di dalam pot merah.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Ucapkan kata sopan,", 60),
+                (VOICE_ZH, "言，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "di depan tunas hijau,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "untuk mempersilakan,", 70),
+                (VOICE_ZH, "请。", 140),
+                (VOICE_ID, "Artinya silakan atau meminta.", 120),
+                (VOICE_ZH, "请。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 3  ·  Dipping",
+            "combined_pill": "COMBINED:  讠  +  青  =  请",
+            "meaning": "Meaning:  Please / Invite / Request",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "Polite words (讠) beside a green plant (青),",
+                "warmly say please or invite (请)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "讠",
+                "pinyin": "yán",
+                "tone": 2,
+                "tone_label": "Tone 2  ·  Rising",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Speech / Words  ·  Tone 2",
+                "meaning_full": "Meaning:  Speech / Words",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Polite welcoming speech bubble",
+                "scene_origin": "Coming from a polite welcoming speech bubble.",
+                "audio_part_a": [
+                    (VOICE_ZH, "言。", 80),
+                    (VOICE_EN, "Means speech or words.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a polite speech bubble.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Tone 1  ·  High Level",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Green / Sound Cue  ·  Tone 1",
+                "meaning_full": "Meaning:  Green / Young Sprout",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Green leaves in a pot (sound cue)",
+                "scene_origin": "Coming from a green sprout in a red pot.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_EN, "Means green sprout and sound cue.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a green sprout in a pot.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "Speak polite words,", 60),
+                (VOICE_ZH, "言，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "beside the green plant,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "to say please or invite,", 70),
+                (VOICE_ZH, "请。", 140),
+                (VOICE_EN, "Meaning please or to invite.", 120),
+                (VOICE_ZH, "请。", 0),
+            ],
+        },
+    },
+    "晴": {
+        "target_pinyin": "qíng",
+        "target_tone": 2,
+        "stroke_split": 4,
+        "c1_indices": [0, 1, 2, 3],
+        "c2_indices": [4, 5, 6, 7, 8, 9, 10, 11],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 2  ·  Naik",
+            "combined_pill": "GABUNGAN:  日  +  青  =  晴",
+            "meaning": "Arti:  Cerah (Cuaca)",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Matahari (日) menyinari tanaman hijau (青),",
+                "pertanda cuaca cerah bersinar (晴)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "日",
+                "pinyin": "rì",
+                "tone": 4,
+                "tone_label": "Nada 4  ·  Turun Tegas",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Matahari  ·  Nada 4",
+                "meaning_full": "Arti:  Matahari",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Matahari cerah dengan sinarnya",
+                "scene_origin": "Berasal dari gambar matahari yang bersinar cerah.",
+                "audio_part_a": [
+                    (VOICE_ZH, "日。", 80),
+                    (VOICE_ID, "Artinya matahari.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar matahari yang bersinar.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Nada 1  ·  Datar Tinggi",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Hijau / Petunjuk Bunyi  ·  Nada 1",
+                "meaning_full": "Arti:  Hijau / Tunas Muda",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Tunas hijau di pot merah (bunyi qīng)",
+                "scene_origin": "Berasal dari tunas hijau di pot merah sebagai petunjuk bunyi.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_ID, "Artinya tunas hijau sekaligus petunjuk bunyi.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari tunas hijau di dalam pot merah.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Matahari,", 60),
+                (VOICE_ZH, "日，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "menyinari tunas hijau,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "cuaca pun menjadi cerah,", 70),
+                (VOICE_ZH, "晴。", 140),
+                (VOICE_ID, "Artinya cerah atau tidak hujan.", 120),
+                (VOICE_ZH, "晴。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 2  ·  Rising",
+            "combined_pill": "COMBINED:  日  +  青  =  晴",
+            "meaning": "Meaning:  Sunny / Clear Weather",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "The sun (日) shines on a green plant (青),",
+                "making the weather sunny and clear (晴)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "日",
+                "pinyin": "rì",
+                "tone": 4,
+                "tone_label": "Tone 4  ·  Sharp Falling",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Sun  ·  Tone 4",
+                "meaning_full": "Meaning:  Sun",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Bright sun radiating golden beams",
+                "scene_origin": "Coming from a bright shining sun.",
+                "audio_part_a": [
+                    (VOICE_ZH, "日。", 80),
+                    (VOICE_EN, "Means sun.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a bright shining sun.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Tone 1  ·  High Level",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Green / Sound Cue  ·  Tone 1",
+                "meaning_full": "Meaning:  Green / Young Sprout",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Green leaves in a pot (sound cue)",
+                "scene_origin": "Coming from a green sprout in a red pot.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_EN, "Means green sprout and sound cue.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a green sprout in a pot.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "The sun,", 60),
+                (VOICE_ZH, "日，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "shines on the green plant,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "bringing sunny clear skies,", 70),
+                (VOICE_ZH, "晴。", 140),
+                (VOICE_EN, "Meaning sunny or clear weather.", 120),
+                (VOICE_ZH, "晴。", 0),
+            ],
+        },
+    },
+    "情": {
+        "target_pinyin": "qíng",
+        "target_tone": 2,
+        "stroke_split": 3,
+        "c1_indices": [0, 1, 2],
+        "c2_indices": [3, 4, 5, 6, 7, 8, 9, 10],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 2  ·  Naik",
+            "combined_pill": "GABUNGAN:  忄  +  青  =  情",
+            "meaning": "Arti:  Perasaan / Emosi",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Hati yang bergetar (忄) di dekat tunas hijau (青),",
+                "melahirkan rasa dan perasaan (情)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "忄",
+                "pinyin": "xīn",
+                "tone": 1,
+                "tone_label": "Nada 1  ·  Datar Tinggi",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Hati  ·  Nada 1",
+                "meaning_full": "Arti:  Hati / Perasaan",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Hati hangat yang berdebar",
+                "scene_origin": "Berasal dari gambar hati yang sedang berdebar.",
+                "audio_part_a": [
+                    (VOICE_ZH, "心。", 80),
+                    (VOICE_ID, "Artinya hati atau perasaan.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar hati yang berdebar.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Nada 1  ·  Datar Tinggi",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Hijau / Petunjuk Bunyi  ·  Nada 1",
+                "meaning_full": "Arti:  Hijau / Tunas Muda",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Tunas hijau di pot merah (bunyi qīng)",
+                "scene_origin": "Berasal dari tunas hijau di pot merah sebagai petunjuk bunyi.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_ID, "Artinya tunas hijau sekaligus petunjuk bunyi.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari tunas hijau di dalam pot merah.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Hati yang bergetar,", 60),
+                (VOICE_ZH, "心，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "di dekat tunas hijau,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "menumbuhkan perasaan,", 70),
+                (VOICE_ZH, "情。", 140),
+                (VOICE_ID, "Artinya perasaan atau emosi.", 120),
+                (VOICE_ZH, "情。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 2  ·  Rising",
+            "combined_pill": "COMBINED:  忄  +  青  =  情",
+            "meaning": "Meaning:  Feeling / Emotion",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "A warm heart (忄) beside a green plant (青),",
+                "sparks deep feelings and emotion (情)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "忄",
+                "pinyin": "xīn",
+                "tone": 1,
+                "tone_label": "Tone 1  ·  High Level",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Heart  ·  Tone 1",
+                "meaning_full": "Meaning:  Heart / Feeling",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Warm heart pulsing with emotion",
+                "scene_origin": "Coming from a heart pulsing with emotion.",
+                "audio_part_a": [
+                    (VOICE_ZH, "心。", 80),
+                    (VOICE_EN, "Means heart or feeling.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a heart pulsing with emotion.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Tone 1  ·  High Level",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Green / Sound Cue  ·  Tone 1",
+                "meaning_full": "Meaning:  Green / Young Sprout",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Green leaves in a pot (sound cue)",
+                "scene_origin": "Coming from a green sprout in a red pot.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_EN, "Means green sprout and sound cue.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a green sprout in a pot.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "A warm heart,", 60),
+                (VOICE_ZH, "心，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "beside the green plant,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "sparks deep feelings,", 70),
+                (VOICE_ZH, "情。", 140),
+                (VOICE_EN, "Meaning feeling or emotion.", 120),
+                (VOICE_ZH, "情。", 0),
+            ],
+        },
+    },
 }
 
 
@@ -2895,7 +3423,7 @@ def build_exemplar_for_char(char: str, lang: str, artworks: dict[str, Image.Imag
 
 
 def main() -> None:
-    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休", "息", "清")
+    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休", "息", "清", "请", "晴", "情")
     for char in targets:
         artworks = build_aligned_ai_artworks(char)
         for lang in ("id", "en"):
