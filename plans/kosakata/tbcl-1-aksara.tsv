@@ -1,0 +1,247 @@
+id	level	traditional	pinyin	zhuyin	meaning_id	meaning_en	written_per_million	spoken_per_million
+TBCL-C0001	1	的	de	ㄉㄜ˙	partikel kepemilikan atau penerang kata benda	particle linking a possessor or modifier to a noun	40289	43113
+TBCL-C0002	1	是	shì	ㄕˋ	adalah, benar	to be, yes	15019	23520
+TBCL-C0003	1	一	yī	ㄧ	satu	one	16218	17583
+TBCL-C0004	1	個	gè / ge	ㄍㄜˋ / ˙ㄍㄜ	kata penggolong umum	general classifier	6511	13886
+TBCL-C0005	1	我	wǒ	ㄨㄛˇ	saya, aku	I, me	11260	19178
+TBCL-C0006	1	有	yǒu	ㄧㄡˇ	punya, ada	to have, there is	9868	13459
+TBCL-C0007	1	不	bù	ㄅㄨˋ	tidak	not	12381	11496
+TBCL-C0008	1	也	yě	ㄧㄝˇ	juga	also	4277	5017
+TBCL-C0009	1	們	men	˙ㄇㄣ	akhiran jamak untuk orang	plural suffix for people	5759	12063
+TBCL-C0010	1	你	nǐ	ㄋㄧˇ	kamu	you	4021	6673
+TBCL-C0011	1	都	dōu	ㄉㄡ	semua	all, both	3083	4817
+TBCL-C0012	1	說	shuō	ㄕㄨㄛ	berkata, berbicara	to say, to speak	4773	5478
+TBCL-C0013	1	要	yào	ㄧㄠˋ	mau, perlu, akan	to want, need to, going to	4559	7985
+TBCL-C0014	1	人	rén	ㄖㄣˊ	orang	person	9577	6851
+TBCL-C0015	1	對	duì	ㄉㄨㄟˋ	benar, terhadap	correct, toward	3601	4994
+TBCL-C0016	1	很	hěn	ㄏㄣˇ	sangat, penanda sifat	very, marker before a descriptive predicate	2335	5619
+TBCL-C0017	1	來	lái	ㄌㄞˊ	datang	to come	6026	9074
+TBCL-C0018	1	和	hàn / hé	ㄏㄢˋ / ㄏㄜˊ	dan, dengan	and, with	3793	1636
+TBCL-C0019	1	她	tā	ㄊㄚ	dia, perempuan	she, her	3052	1669
+TBCL-C0020	1	好	hǎo	ㄏㄠˇ	baik, bagus	good, fine	2789	6060
+TBCL-C0021	1	以	yǐ	ㄧˇ	dengan, memakai	by means of, with	5037	8689
+TBCL-C0022	1	年	nián	ㄋㄧㄢˊ	tahun	year	3252	3635
+TBCL-C0023	1	到	dào	ㄉㄠˋ	tiba, sampai	to arrive, to reach	5754	6949
+TBCL-C0024	1	沒	méi	ㄇㄟˊ	tidak, belum	not, not yet	2614	3630
+TBCL-C0025	1	大	dà	ㄉㄚˋ	besar	big	5469	6140
+TBCL-C0026	1	去	qù	ㄑㄩˋ	pergi	to go	2486	4002
+TBCL-C0027	1	他	tā	ㄊㄚ	dia, laki-laki	he, him	9004	6508
+TBCL-C0028	1	做	zuò	ㄗㄨㄛˋ	membuat, melakukan	to make, to do	1623	3024
+TBCL-C0029	1	看	kàn	ㄎㄢˋ	melihat, menonton, membaca	to look, watch, read	2610	4194
+TBCL-C0030	1	兩	liǎng	ㄌㄧㄤˇ	dua sebelum kata penggolong	two before a classifier	1519	1365
+TBCL-C0031	1	後	hòu	ㄏㄡˋ	belakang, setelah	behind, after	3500	4810
+TBCL-C0032	1	什	shén	ㄕㄣˊ	apa, dalam 什麼	what, in 什麼	1413	2339
+TBCL-C0033	1	麼	me	˙ㄇㄜ	suku akhir dalam 什麼 dan 怎麼	final syllable in 什麼 and 怎麼	2631	4938
+TBCL-C0034	1	時	shí	ㄕˊ	waktu, jam	time, hour	4965	5039
+TBCL-C0035	1	候	hòu	ㄏㄡˋ	menunggu, saat	to wait, time	744	3024
+TBCL-C0036	1	台 / 臺	tái	ㄊㄞˊ	panggung, Taiwan dalam 台灣	platform, Taiwan in 台灣	837	1675
+TBCL-C0037	1	多	duō	ㄉㄨㄛ	banyak	many, much	2774	4073
+TBCL-C0038	1	用	yòng	ㄩㄥˋ	menggunakan	to use	2429	2909
+TBCL-C0039	1	想	xiǎng	ㄒㄧㄤˇ	ingin, berpikir	to want, to think	2497	2440
+TBCL-C0040	1	現	xiàn	ㄒㄧㄢˋ	tampak, sekarang	to appear, present	2233	2830
+TBCL-C0041	1	天	tiān	ㄊㄧㄢ	hari, langit	day, sky	2519	3034
+TBCL-C0042	1	前	qián	ㄑㄧㄢˊ	depan, sebelum	front, before	1955	1772
+TBCL-C0043	1	可	kě	ㄎㄜˇ	boleh, bisa	may, can	4226	5726
+TBCL-C0044	1	能	néng	ㄋㄥˊ	mampu, bisa	can, be able to	3777	3662
+TBCL-C0045	1	月	yuè	ㄩㄝˋ	bulan	month, moon	891	833
+TBCL-C0046	1	小	xiǎo	ㄒㄧㄠˇ	kecil	small	2483	2805
+TBCL-C0047	1	知	zhī	ㄓ	mengetahui	to know	1871	1408
+TBCL-C0048	1	道	dào	ㄉㄠˋ	jalan, cara	road, way	2349	1864
+TBCL-C0049	1	家	jiā	ㄐㄧㄚ	rumah, keluarga	home, family	3026	4161
+TBCL-C0050	1	嗎	ma	˙ㄇㄚ	partikel pertanyaan ya atau tidak	yes–no question particle	606	1171
+TBCL-C0051	1	問	wèn	ㄨㄣˋ	bertanya	to ask	1565	1256
+TBCL-C0052	1	新	xīn	ㄒㄧㄣ	baru	new	1171	1008
+TBCL-C0053	1	給	gěi	ㄍㄟˇ	memberi, untuk	to give, for	1119	1294
+TBCL-C0054	1	呢	ne	˙ㄋㄜ	partikel untuk balas bertanya atau menanyakan keadaan	particle for follow-up or contextual questions	511	1191
+TBCL-C0055	1	三	sān	ㄙㄢ	tiga	three	1834	1217
+TBCL-C0056	1	位	wèi	ㄨㄟˋ	kata penggolong sopan untuk orang	polite classifier for people	1282	1088
+TBCL-C0057	1	吃	chī	ㄔ	makan	to eat	632	1413
+TBCL-C0058	1	元	yuán	ㄩㄢˊ	satuan uang, yuan	currency unit, yuan	514	278
+TBCL-C0059	1	工	gōng	ㄍㄨㄥ	kerja, keterampilan	work, craft	1251	1616
+TBCL-C0060	1	日	rì	ㄖˋ	hari, matahari	day, sun	1372	773
+TBCL-C0061	1	子	zǐ / zi	ㄗˇ / ˙ㄗ	anak, akhiran kata benda	child, noun suffix	4259	3724
+TBCL-C0062	1	歲	suì	ㄙㄨㄟˋ	tahun usia	years old	412	385
+TBCL-C0063	1	灣	wān	ㄨㄢ	teluk	bay	382	1050
+TBCL-C0064	1	太	tài	ㄊㄞˋ	terlalu, sangat	too, extremely	1469	1149
+TBCL-C0065	1	東	dōng	ㄉㄨㄥ	timur	east	885	1286
+TBCL-C0066	1	西	xī	ㄒㄧ	barat	west	1127	1407
+TBCL-C0067	1	媽	mā	ㄇㄚ	ibu	mom	514	1766
+TBCL-C0068	1	老	lǎo	ㄌㄠˇ	tua	old	1472	1717
+TBCL-C0069	1	師	shī	ㄕ	guru, ahli	teacher, master	835	1726
+TBCL-C0070	1	怎	zěn	ㄗㄣˇ	bagaimana, dalam 怎麼	how, in 怎麼	561	1381
+TBCL-C0071	1	幾	jǐ	ㄐㄧˇ	berapa, beberapa	how many, a few	1048	888
+TBCL-C0072	1	高	gāo	ㄍㄠ	tinggi	tall, high	1390	1387
+TBCL-C0073	1	妳	nǐ	ㄋㄧˇ	kamu, untuk perempuan	you, addressing a woman or girl	301	1161
+TBCL-C0074	1	學	xué	ㄒㄩㄝˊ	belajar	to learn	3074	2471
+TBCL-C0075	1	生	shēng	ㄕㄥ	tumbuh, lahir, hidup	to grow, be born, live	4305	4125
+TBCL-C0076	1	美	měi	ㄇㄟˇ	indah	beautiful	1162	1217
+TBCL-C0077	1	國	guó	ㄍㄨㄛˊ	negara	country	2757	3093
+TBCL-C0078	1	今	jīn	ㄐㄧㄣ	kini, saat ini	now, present	554	1076
+TBCL-C0079	1	本	běn	ㄅㄣˇ	akar, asal, kata penggolong buku	root, origin, classifier for books	1832	1440
+TBCL-C0080	1	中	zhōng	ㄓㄨㄥ	tengah, di dalam	middle, within	4383	2600
+TBCL-C0081	1	水	shuǐ	ㄕㄨㄟˇ	air	water	951	2442
+TBCL-C0082	1	書	shū	ㄕㄨ	buku	book	1133	665
+TBCL-C0083	1	吧	ba	˙ㄅㄚ	partikel saran atau dugaan	particle for suggestions or assumptions	466	498
+TBCL-C0084	1	愛	ài	ㄞˋ	mencintai, sangat suka	to love, be fond of	889	821
+TBCL-C0085	1	帶	dài	ㄉㄞˋ	membawa	to bring	764	963
+TBCL-C0086	1	起	qǐ	ㄑㄧˇ	bangkit, mulai	to rise, start	2131	1993
+TBCL-C0087	1	請	qǐng	ㄑㄧㄥˇ	silakan, mohon	please, to invite	499	546
+TBCL-C0088	1	走	zǒu	ㄗㄡˇ	berjalan, pergi	to walk, leave	1074	859
+TBCL-C0089	1	二	èr	ㄦˋ	dua	two	1758	882
+TBCL-C0090	1	喜	xǐ	ㄒㄧˇ	gembira, menyukai	joy, to like	589	538
+TBCL-C0091	1	歡	huān	ㄏㄨㄢ	gembira, senang	joyful, pleased	464	640
+TBCL-C0092	1	外	wài	ㄨㄞˋ	luar	outside	1366	1453
+TBCL-C0093	1	點	diǎn	ㄉㄧㄢˇ	pukul, titik, sedikit	o’clock, dot, a little	1557	1814
+TBCL-C0094	1	話	huà	ㄏㄨㄚˋ	ucapan, perkataan	speech, words	1290	1462
+TBCL-C0095	1	四	sì	ㄙˋ	empat	four	1141	688
+TBCL-C0096	1	昨	zuó	ㄗㄨㄛˊ	kemarin	yesterday	56	60
+TBCL-C0097	1	校	xiào	ㄒㄧㄠˋ	sekolah	school	380	484
+TBCL-C0098	1	找	zhǎo	ㄓㄠˇ	mencari	to look for	671	577
+TBCL-C0099	1	叫	jiào	ㄐㄧㄠˋ	memanggil, bernama	to call, to be named	582	634
+TBCL-C0100	1	分	fēn	ㄈㄣ	menit, bagian	minute, part	1887	1845
+TBCL-C0101	1	爸	bà	ㄅㄚˋ	ayah	dad	274	1017
+TBCL-C0102	1	朋	péng	ㄆㄥˊ	teman, dalam 朋友	friend, in 朋友	362	690
+TBCL-C0103	1	友	yǒu	ㄧㄡˇ	teman, kawan	friend, companion	535	874
+TBCL-C0104	1	寫	xiě	ㄒㄧㄝˇ	menulis	to write	635	423
+TBCL-C0105	1	聽	tīng	ㄊㄧㄥ	mendengarkan	to listen	985	650
+TBCL-C0106	1	買	mǎi	ㄇㄞˇ	membeli	to buy	288	380
+TBCL-C0107	1	五	wǔ	ㄨˇ	lima	five	1109	648
+TBCL-C0108	1	先	xiān	ㄒㄧㄢ	terlebih dahulu	first, beforehand	1287	960
+TBCL-C0109	1	半	bàn	ㄅㄢˋ	setengah	half	449	388
+TBCL-C0110	1	錢	qián	ㄑㄧㄢˊ	uang	money	418	509
+TBCL-C0111	1	您	nín	ㄋㄧㄣˊ	Anda, sapaan hormat	you, polite	224	510
+TBCL-C0112	1	車	chē	ㄔㄜ	mobil, kendaraan	car, vehicle	773	715
+TBCL-C0113	1	誰	shéi	ㄕㄟˊ	siapa	who	293	189
+TBCL-C0114	1	打	dǎ	ㄉㄚˇ	memukul, menelepon	to hit, to make a call	1078	804
+TBCL-C0115	1	拿	ná	ㄋㄚˊ	mengambil, memegang	to take, to hold	421	522
+TBCL-C0116	1	路	lù	ㄌㄨˋ	jalan	road, way	787	744
+TBCL-C0117	1	快	kuài	ㄎㄨㄞˋ	cepat, sebentar lagi	fast, soon	719	840
+TBCL-C0118	1	哪	nǎ	ㄋㄚˇ	yang mana	which	372	518
+TBCL-C0119	1	十	shí	ㄕˊ	sepuluh	ten	2241	1281
+TBCL-C0120	1	謝	xiè	ㄒㄧㄝˋ	berterima kasih	to thank	233	933
+TBCL-C0121	1	坐	zuò	ㄗㄨㄛˋ	duduk, naik kendaraan	to sit, ride	416	221
+TBCL-C0122	1	少	shǎo	ㄕㄠˇ	sedikit	few, little	883	887
+TBCL-C0123	1	久	jiǔ	ㄐㄧㄡˇ	lama	a long time	395	293
+TBCL-C0124	1	字	zì	ㄗˋ	aksara, huruf	character, letter	642	353
+TBCL-C0125	1	六	liù	ㄌㄧㄡˋ	enam	six	739	406
+TBCL-C0126	1	喝	hē	ㄏㄜ	minum	to drink	209	239
+TBCL-C0127	1	裡 / 裏	lǐ	ㄌㄧˇ	di dalam	inside	2377	3126
+TBCL-C0128	1	兒	ér	ㄦˊ	anak	child	1198	508
+TBCL-C0129	1	同	tóng	ㄊㄨㄥˊ	sama, bersama	same, together	1896	1301
+TBCL-C0130	1	早	zǎo	ㄗㄠˇ	awal, pagi	early, morning	542	526
+TBCL-C0131	1	女	nǚ	ㄋㄩˇ	perempuan	female	1289	505
+TBCL-C0132	1	七	qī	ㄑㄧ	tujuh	seven	647	318
+TBCL-C0133	1	晚	wǎn	ㄨㄢˇ	malam, terlambat	evening, late	379	270
+TBCL-C0134	1	上	shàng	ㄕㄤˋ	atas, naik	above, to go up	5321	4322
+TBCL-C0135	1	八	bā	ㄅㄚ	delapan	eight	766	383
+TBCL-C0136	1	英	yīng	ㄧㄥ	Inggris, dalam 英文	English, in 英文	402	308
+TBCL-C0137	1	下	xià	ㄒㄧㄚˋ	bawah, turun	below, to go down	3238	3347
+TBCL-C0138	1	午	wǔ	ㄨˇ	tengah hari	noon	162	128
+TBCL-C0139	1	茶	chá	ㄔㄚˊ	teh	tea	138	600
+TBCL-C0140	1	姐	jiě	ㄐㄧㄝˇ	kakak perempuan	older sister	273	71
+TBCL-C0141	1	電	diàn	ㄉㄧㄢˋ	listrik	electricity	974	971
+TBCL-C0142	1	百	bǎi	ㄅㄞˇ	seratus	hundred	765	646
+TBCL-C0143	1	手	shǒu	ㄕㄡˇ	tangan	hand	1489	1037
+TBCL-C0144	1	機	jī	ㄐㄧ	mesin, alat	machine, device	1062	1293
+TBCL-C0145	1	名	míng	ㄇㄧㄥˊ	nama	name	1080	569
+TBCL-C0146	1	號	hào	ㄏㄠˋ	nomor, tanggal	number, day of the month	279	341
+TBCL-C0147	1	哥	gē	ㄍㄜ	kakak laki-laki	older brother	305	353
+TBCL-C0148	1	法	fǎ	ㄈㄚˇ	hukum, cara	law, method	2010	1582
+TBCL-C0149	1	千	qiān	ㄑㄧㄢ	seribu	thousand	420	454
+TBCL-C0150	1	九	jiǔ	ㄐㄧㄡˇ	sembilan	nine	1027	227
+TBCL-C0151	1	咖	kā	ㄎㄚ	suku pertama kata kopi 咖啡	first syllable of 咖啡, coffee	67	106
+TBCL-C0152	1	啡	fēi	ㄈㄟ	suku kedua kata kopi 咖啡	second syllable of 咖啡, coffee	63	95
+TBCL-C0153	1	妹	mèi	ㄇㄟˋ	adik perempuan	younger sister	187	170
+TBCL-C0154	1	飯	fàn	ㄈㄢˋ	nasi matang, makanan	cooked rice, meal	203	254
+TBCL-C0155	1	弟	dì	ㄉㄧˋ	adik laki-laki	younger brother	306	219
+TBCL-C0156	1	明	míng	ㄇㄧㄥˊ	terang, berikutnya dalam 明天	bright, next in 明天	1369	816
+TBCL-C0157	1	覺	jué / jiào	ㄐㄩㄝˊ / ㄐㄧㄠˋ	merasa, tidur dalam 睡覺	to feel, sleep in 睡覺	1129	2274
+TBCL-C0158	1	再	zài	ㄗㄞˋ	lagi, kemudian	again, then	1158	1372
+TBCL-C0159	1	見	jiàn	ㄐㄧㄢˋ	melihat, bertemu	to see, to meet	1334	505
+TBCL-C0160	1	姓	xìng	ㄒㄧㄥˋ	nama keluarga, bermarga	surname, to be surnamed	147	50
+TBCL-C0161	1	星	xīng	ㄒㄧㄥ	bintang	star	357	201
+TBCL-C0162	1	期	qí	ㄑㄧˊ	masa, periode	period, term	863	732
+TBCL-C0163	1	安	ān	ㄢ	tenang, aman	peaceful, safe	901	722
+TBCL-C0164	1*	又	yòu	ㄧㄡˋ	lagi, dan juga	again, also	1436	993
+TBCL-C0165	1*	口	kǒu	ㄎㄡˇ	mulut, bukaan	mouth, opening	849	530
+TBCL-C0166	1*	山	shān	ㄕㄢ	gunung	mountain	938	911
+TBCL-C0167	1*	己	jǐ	ㄐㄧˇ	diri, dalam 自己	self, in 自己	1888	1562
+TBCL-C0168	1*	公	gōng	ㄍㄨㄥ	umum, publik	public	1497	1137
+TBCL-C0169	1*	心	xīn	ㄒㄧㄣ	hati, pikiran	heart, mind	2896	2373
+TBCL-C0170	1*	文	wén	ㄨㄣˊ	tulisan, bahasa	writing, language	1372	822
+TBCL-C0171	1*	方	fāng	ㄈㄤ	arah, sisi	direction, side	2223	2251
+TBCL-C0172	1*	比	bǐ	ㄅㄧˇ	dibandingkan dengan, membandingkan	than, to compare	1258	2260
+TBCL-C0173	1*	火	huǒ	ㄏㄨㄛˇ	api	fire	378	447
+TBCL-C0174	1*	牛	niú	ㄋㄧㄡˊ	sapi	cow, cattle	221	146
+TBCL-C0175	1*	王	wáng	ㄨㄤˊ	raja	king	848	334
+TBCL-C0176	1*	出	chū	ㄔㄨ	keluar	to go out	3762	2530
+TBCL-C0177	1*	包	bāo	ㄅㄠ	bungkus, tas	package, bag	480	571
+TBCL-C0178	1*	句	jù	ㄐㄩˋ	kalimat, penggolong ujaran	sentence, classifier for utterances	280	195
+TBCL-C0179	1*	只	zhǐ	ㄓˇ	hanya	only	1917	1473
+TBCL-C0180	1*	右	yòu	ㄧㄡˋ	kanan	right	218	183
+TBCL-C0181	1*	奶	nǎi	ㄋㄞˇ	susu	milk	144	140
+TBCL-C0182	1*	它	tā	ㄊㄚ	ia, untuk benda atau hewan	it	1051	3701
+TBCL-C0183	1*	左	zuǒ	ㄗㄨㄛˇ	kiri	left	239	169
+TBCL-C0184	1*	白	bái	ㄅㄞˊ	putih	white	839	466
+TBCL-C0185	1*	件	jiàn	ㄐㄧㄢˋ	kata penggolong pakaian atau perkara	classifier for garments or matters	724	518
+TBCL-C0186	1*	休	xiū	ㄒㄧㄡ	beristirahat	to rest	196	177
+TBCL-C0187	1*	共	gòng	ㄍㄨㄥˋ	seluruhnya, total	altogether, in total	405	339
+TBCL-C0188	1*	因	yīn	ㄧㄣ	sebab	cause, reason	2341	3446
+TBCL-C0189	1*	在	zài	ㄗㄞˋ	berada di, sedang	to be at, progressive marker	9740	10280
+TBCL-C0190	1*	地	dì / de	ㄉㄧˋ / ˙ㄉㄜ	tanah, partikel pembentuk keterangan	ground, adverbial particle	3433	3608
+TBCL-C0191	1*	自	zì	ㄗˋ	diri sendiri, dari	self, from	3744	2738
+TBCL-C0192	1*	衣	yī	ㄧ	pakaian	clothes	285	287
+TBCL-C0193	1*	住	zhù	ㄓㄨˋ	tinggal, menetap	to live, reside	711	521
+TBCL-C0194	1*	別	bié	ㄅㄧㄝˊ	jangan, lain	don’t, other	1018	887
+TBCL-C0195	1*	每	měi	ㄇㄟˇ	setiap	each, every	934	1189
+TBCL-C0196	1*	男	nán	ㄋㄢˊ	laki-laki	male	497	160
+TBCL-C0197	1*	那	nà	ㄋㄚˋ	itu	that	2986	7117
+TBCL-C0198	1*	事	shì	ㄕˋ	urusan, hal	matter, affair	2884	1901
+TBCL-C0199	1*	些	xiē	ㄒㄧㄝ	beberapa, sedikit	some, a few	1995	2503
+TBCL-C0200	1*	店	diàn	ㄉㄧㄢˋ	toko	shop	261	127
+TBCL-C0201	1*	念	niàn	ㄋㄧㄢˋ	membaca nyaring, belajar	to read aloud, study	475	468
+TBCL-C0202	1*	房	fáng	ㄈㄤˊ	ruangan, rumah	room, house	488	310
+TBCL-C0203	1*	所	suǒ	ㄙㄨㄛˇ	tempat, penggolong bangunan atau lembaga	place, classifier for buildings or institutions	2705	4609
+TBCL-C0204	1*	服	fú	ㄈㄨˊ	pakaian, dalam 衣服	clothing, in 衣服	556	476
+TBCL-C0205	1*	杯	bēi	ㄅㄟ	cangkir, kata penggolong minuman	cup, classifier for drinks	100	106
+TBCL-C0206	1*	果	guǒ	ㄍㄨㄛˇ	buah, hasil	fruit, result	1623	1945
+TBCL-C0207	1*	枝	zhī	ㄓ	ranting, kata penggolong benda panjang	branch, classifier for slender objects	88	66
+TBCL-C0208	1*	玩	wán	ㄨㄢˊ	bermain	to play	276	345
+TBCL-C0209	1*	空	kōng / kòng	ㄎㄨㄥ / ㄎㄨㄥˋ	kosong, waktu luang	empty, free time	572	557
+TBCL-C0210	1*	花	huā	ㄏㄨㄚ	bunga	flower	703	729
+TBCL-C0211	1*	長	cháng	ㄔㄤˊ	panjang	long	1669	1512
+TBCL-C0212	1*	門	mén	ㄇㄣˊ	pintu	door	863	375
+TBCL-C0213	1*	雨	yǔ	ㄩˇ	hujan	rain	168	533
+TBCL-C0214	1*	非	fēi	ㄈㄟ	bukan, tidak	not, non-	891	1278
+TBCL-C0215	1*	室	shì	ㄕˋ	ruangan	room	344	272
+TBCL-C0216	1*	為	wéi / wèi	ㄨㄟˊ / ㄨㄟˋ	menjadi, demi atau untuk	to be, for the sake of	5510	5496
+TBCL-C0217	1*	紅	hóng	ㄏㄨㄥˊ	merah	red	353	338
+TBCL-C0218	1*	面	miàn	ㄇㄧㄢˋ	wajah, sisi atau permukaan	face, side or surface	1881	3120
+TBCL-C0219	1*	風	fēng	ㄈㄥ	angin	wind	598	887
+TBCL-C0220	1*	飛	fēi	ㄈㄟ	terbang	to fly	367	191
+TBCL-C0221	1*	息	xí / xī	ㄒㄧˊ / ㄒㄧ	istirahat, napas	rest, breath	380	237
+TBCL-C0222	1*	氣	qì	ㄑㄧˋ	udara, napas	air, breath	1065	1323
+TBCL-C0223	1*	真 / 眞	zhēn	ㄓㄣ	benar, sungguh	true, really	1224	1730
+TBCL-C0224	1*	馬	mǎ	ㄇㄚˇ	kuda	horse	864	621
+TBCL-C0225	1*	唸	niàn	ㄋㄧㄢˋ	membaca nyaring, belajar	to read aloud, study	43	76
+TBCL-C0226	1*	夠	gòu	ㄍㄡˋ	cukup	enough	409	964
+TBCL-C0227	1*	常	cháng	ㄔㄤˊ	sering	often	1545	2330
+TBCL-C0228	1*	張	zhāng	ㄓㄤ	kata penggolong benda datar	classifier for flat objects	752	425
+TBCL-C0229	1*	得	de / děi	˙ㄉㄜ / ㄉㄟˇ	partikel penghubung verba dengan keterangan hasil atau derajat / harus	particle linking a verb to a result or degree complement / must, have to	3663	3765
+TBCL-C0230	1*	從	cóng	ㄘㄨㄥˊ	dari, sejak	from, since	1814	1623
+TBCL-C0231	1*	教	jiāo	ㄐㄧㄠ	mengajar	to teach	1226	1281
+TBCL-C0232	1*	這	zhè	ㄓㄜˋ	ini	this	7779	15333
+TBCL-C0233	1*	就	jiù	ㄐㄧㄡˋ	langsung, lalu	right away, then	4932	11918
+TBCL-C0234	1*	最	zuì	ㄗㄨㄟˋ	paling	most, -est	1863	2115
+TBCL-C0235	1*	短	duǎn	ㄉㄨㄢˇ	pendek, singkat	short, brief	195	146
+TBCL-C0236	1*	開	kāi	ㄎㄞ	membuka, mengemudi	to open, to drive	2140	2258
+TBCL-C0237	1*	黑	hēi	ㄏㄟ	hitam	black	366	238
+TBCL-C0238	1*	塊	kuài	ㄎㄨㄞˋ	potong, sebutan sehari-hari untuk satuan uang	piece, colloquial currency unit	209	436
+TBCL-C0239	1*	會	huì	ㄏㄨㄟˋ	bisa karena sudah belajar, akan	to know how to, will	4808	6830
+TBCL-C0240	1*	跟	gēn	ㄍㄣ	dengan, mengikuti	with, to follow	728	2671
+TBCL-C0241	1*	過	guò	ㄍㄨㄛˋ	melewati, pernah	to pass, experiential particle	3355	3330
+TBCL-C0242	1*	樂	lè / yuè	ㄌㄜˋ / ㄩㄝˋ	gembira, musik	joy, music	682	473
+TBCL-C0243	1*	樣	yàng	ㄧㄤˋ	jenis, bentuk	kind, appearance	1963	4443
+TBCL-C0244	1*	頭	tóu	ㄊㄡˊ	kepala	head	1539	855
+TBCL-C0245	1*	還	hái	ㄏㄞˊ	masih, juga	still, also	2108	3489
+TBCL-C0246	1*	鐘	zhōng	ㄓㄨㄥ	lonceng, jam	bell, clock	229	138

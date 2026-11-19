@@ -408,6 +408,22 @@ BRUSH_SPECS = {
         },
         "comp_colors": [TERRACOTTA, TERRACOTTA, NAVY, NAVY, NAVY, NAVY],
     },
+    "息": {
+        "crop_boxes": {
+            "comp1": (280, 505, 960, 1185),    # 680x680 centered on 自 (nose + breath swirls)
+            "comp2": (220, 825, 880, 1485),    # 660x660 centered on 心 (heart + pulse arcs)
+            "combined": (195, 550, 995, 1350), # 800x800 centered on 息 (nose + breath + heart)
+        },
+        "comp_colors": [NAVY, NAVY, NAVY, NAVY, NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA],
+    },
+    "清": {
+        "crop_boxes": {
+            "comp1": (0, 505, 790, 1295),      # 790x790 centered on 氵 (stream + 3 droplets)
+            "comp2": (210, 410, 1080, 1280),   # 870x870 centered on 青 (sprout + red pot)
+            "combined": (100, 405, 1010, 1315),# 910x910 centered on 清 (water + plant + pot)
+        },
+        "comp_colors": [NAVY, NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA],
+    },
 }
 
 _STROKE_JSON_CACHE: dict[str, dict] = {}
@@ -717,6 +733,61 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
             r, g, b = rgb
             is_dark_navy = (r < 115 and g < 125 and b < 150)
             return x >= 428 and (is_sage(r, g, b) or (is_dark_navy and y >= 735))
+
+        c1_full = build_masked_canvas(keep_c1)
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "息":
+        zi_keep = _build_canvas_stroke_mask("息", [0, 1, 2, 3, 4, 5]).filter(ImageFilter.MaxFilter(3)).load()
+        xin_keep = _build_canvas_stroke_mask("息", [6, 7, 8, 9]).filter(ImageFilter.MaxFilter(3)).load()
+        for y in range(580, 1340):
+            for x in range(230, 960):
+                r, g, b = px[x, y]
+                if (r, g, b) == BG_COLOR:
+                    continue
+                is_dark_navy = (r < 105 and g < 115 and b < 140)
+                if is_dark_navy and y <= 1035 and zi_keep[x, y] == 0:
+                    px[x, y] = BG_COLOR
+                elif r - g > 65 and g < 120 and y >= 980 and xin_keep[x, y] == 0:
+                    px[x, y] = BG_COLOR
+
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            is_dark_navy = (b > r + 6) and (r < 95)
+            is_coral_or_terra = (r - g > 28) and (g < 185)
+            if is_dark_navy and y <= 1035:
+                return True
+            return (y <= 1005) and (not is_coral_or_terra)
+
+        def keep_c2(x, y, rgb):
+            r, g, b = rgb
+            is_dark_navy = (b > r + 6) and (r < 95)
+            if is_dark_navy:
+                return False
+            return (y >= 945) and (r - g > 28) and (g < 185)
+
+        c1_full = build_masked_canvas(keep_c1)
+        c2_full = build_masked_canvas(keep_c2)
+        c2_px = c2_full.load()
+        heart_coral = (242, 169, 146)
+        for y in range(965, 1036):
+            for x in range(425, 665):
+                if c2_px[x, y] == BG_COLOR and zi_keep[x, y] > 0:
+                    if (abs(x - 545) > 18 and y >= 972) or (y >= 995):
+                        c2_px[x, y] = heart_coral
+    elif char == "清":
+        # Clip very top/bottom tail of vertical water ribbon so 3 droplets + stream frame cleanly
+        for y in range(0, 1920):
+            if y < 520 or y > 1280:
+                for x in range(250, 470):
+                    px[x, y] = BG_COLOR
+
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            return (x < 468) and (b > r + 6)
+
+        def keep_c2(x, y, rgb):
+            r, g, b = rgb
+            return (x >= 432) and not (b > r + 6)
 
         c1_full = build_masked_canvas(keep_c1)
         c2_full = build_masked_canvas(keep_c2)
@@ -1847,6 +1918,304 @@ EXEMPLARS = {
             ],
         },
     },
+    "息": {
+        "target_pinyin": "xī",
+        "target_tone": 1,
+        "stroke_split": 6,
+        "c1_indices": [0, 1, 2, 3, 4, 5],
+        "c2_indices": [6, 7, 8, 9],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 1  ·  Datar Tinggi",
+            "combined_pill": "GABUNGAN:  自  +  心  =  息",
+            "meaning": "Arti:  Istirahat / Bernapas",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Saat hidung (自) menarik napas dari hati (心),",
+                "tubuh beristirahat tenang (息)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "自",
+                "pinyin": "zì",
+                "tone": 4,
+                "tone_label": "Nada 4  ·  Turun Tegas",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Hidung / Diri  ·  Nada 4",
+                "meaning_full": "Arti:  Hidung / Diri Sendiri",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Hidung manusia yang menghembus napas",
+                "scene_origin": "Berasal dari gambar hidung yang menghembuskan napas.",
+                "audio_part_a": [
+                    (VOICE_ZH, "自。", 80),
+                    (VOICE_ID, "Artinya hidung atau diri sendiri.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar hidung yang menghembuskan napas.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "心",
+                "pinyin": "xīn",
+                "tone": 1,
+                "tone_label": "Nada 1  ·  Datar Tinggi",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Hati / Jantung  ·  Nada 1",
+                "meaning_full": "Arti:  Hati / Jantung",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Jantung yang berdetak tenang",
+                "scene_origin": "Berasal dari gambar jantung yang berdetak tenang.",
+                "audio_part_a": [
+                    (VOICE_ZH, "心。", 80),
+                    (VOICE_ID, "Artinya hati atau jantung.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar jantung yang berdetak tenang.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Saat hidung,", 60),
+                (VOICE_ZH, "自，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "menarik napas dari hati,", 60),
+                (VOICE_ZH, "心，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "tubuh beristirahat,", 70),
+                (VOICE_ZH, "息。", 140),
+                (VOICE_ID, "Artinya beristirahat atau bernapas.", 120),
+                (VOICE_ZH, "息。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 1  ·  High Level",
+            "combined_pill": "COMBINED:  自  +  心  =  息",
+            "meaning": "Meaning:  Rest / Breath",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "When breath flows from nose (自) to heart (心),",
+                "we rest calmly and breathe (息)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "自",
+                "pinyin": "zì",
+                "tone": 4,
+                "tone_label": "Tone 4  ·  Sharp Falling",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Nose / Self  ·  Tone 4",
+                "meaning_full": "Meaning:  Nose / Self",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Human nose exhaling gentle breath",
+                "scene_origin": "Coming from a human nose exhaling breath.",
+                "audio_part_a": [
+                    (VOICE_ZH, "自。", 80),
+                    (VOICE_EN, "Means nose or self.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a human nose exhaling breath.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "心",
+                "pinyin": "xīn",
+                "tone": 1,
+                "tone_label": "Tone 1  ·  High Level",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Heart / Mind  ·  Tone 1",
+                "meaning_full": "Meaning:  Heart / Mind",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Heart beating softly at rest",
+                "scene_origin": "Coming from a heart beating calmly.",
+                "audio_part_a": [
+                    (VOICE_ZH, "心。", 80),
+                    (VOICE_EN, "Means heart or mind.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a heart beating calmly.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "From the nose,", 60),
+                (VOICE_ZH, "自，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "down to the heart,", 60),
+                (VOICE_ZH, "心，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "we rest calmly,", 70),
+                (VOICE_ZH, "息。", 140),
+                (VOICE_EN, "Meaning to rest or breathe.", 120),
+                (VOICE_ZH, "息。", 0),
+            ],
+        },
+    },
+    "清": {
+        "target_pinyin": "qīng",
+        "target_tone": 1,
+        "stroke_split": 3,
+        "c1_indices": [0, 1, 2],
+        "c2_indices": [3, 4, 5, 6, 7, 8, 9, 10],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 1  ·  Datar Tinggi",
+            "combined_pill": "GABUNGAN:  氵  +  青  =  清",
+            "meaning": "Arti:  Jernih / Bersih",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Air (氵) menyirami tunas hijau (青),",
+                "tampak bersih dan jernih (清)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "氵",
+                "pinyin": "shuǐ",
+                "tone": 3,
+                "tone_label": "Nada 3  ·  Turun-Naik",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Air  ·  Nada 3",
+                "meaning_full": "Arti:  Air Mengalir",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Aliran dan tetesan air yang jernih",
+                "scene_origin": "Berasal dari aliran sungai dan tetesan air.",
+                "audio_part_a": [
+                    (VOICE_ZH, "水。", 80),
+                    (VOICE_ID, "Artinya air.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari aliran sungai dan tetesan air.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Nada 1  ·  Datar Tinggi",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Hijau / Tunas  ·  Nada 1",
+                "meaning_full": "Arti:  Hijau / Tunas Muda",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Tunas hijau di dalam pot merah",
+                "scene_origin": "Berasal dari tanaman hijau yang tumbuh di pot merah.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_ID, "Artinya hijau atau tunas muda.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari tanaman hijau yang tumbuh di pot merah.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Air,", 60),
+                (VOICE_ZH, "水，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "menyirami tunas hijau,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "tampak bersih dan jernih,", 70),
+                (VOICE_ZH, "清。", 140),
+                (VOICE_ID, "Artinya jernih atau bersih.", 120),
+                (VOICE_ZH, "清。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 1  ·  High Level",
+            "combined_pill": "COMBINED:  氵  +  青  =  清",
+            "meaning": "Meaning:  Clear / Pure",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "Clear water (氵) feeds a green plant (青),",
+                "pure and crystal clear (清)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "氵",
+                "pinyin": "shuǐ",
+                "tone": 3,
+                "tone_label": "Tone 3  ·  Dipping",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Water  ·  Tone 3",
+                "meaning_full": "Meaning:  Flowing Water",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Rippling stream and water droplets",
+                "scene_origin": "Coming from a flowing water stream.",
+                "audio_part_a": [
+                    (VOICE_ZH, "水。", 80),
+                    (VOICE_EN, "Means water.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a flowing water stream.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "青",
+                "pinyin": "qīng",
+                "tone": 1,
+                "tone_label": "Tone 1  ·  High Level",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Green / Sprout  ·  Tone 1",
+                "meaning_full": "Meaning:  Green / Young Sprout",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Green leaves in a terracotta pot",
+                "scene_origin": "Coming from a green sprout in a pot.",
+                "audio_part_a": [
+                    (VOICE_ZH, "青。", 80),
+                    (VOICE_EN, "Means green or young sprout.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a green sprout in a pot.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "Clear water,", 60),
+                (VOICE_ZH, "水，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "feeds the green plant,", 60),
+                (VOICE_ZH, "青，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "crystal pure and clear,", 70),
+                (VOICE_ZH, "清。", 140),
+                (VOICE_EN, "Meaning clear or pure.", 120),
+                (VOICE_ZH, "清。", 0),
+            ],
+        },
+    },
 }
 
 
@@ -2526,7 +2895,7 @@ def build_exemplar_for_char(char: str, lang: str, artworks: dict[str, Image.Imag
 
 
 def main() -> None:
-    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休")
+    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休", "息", "清")
     for char in targets:
         artworks = build_aligned_ai_artworks(char)
         for lang in ("id", "en"):

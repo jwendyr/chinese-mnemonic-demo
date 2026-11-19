@@ -25,6 +25,10 @@ cards/*
 !cards/明_card.png
 !cards/休.png
 !cards/休_card.png
+!cards/息.png
+!cards/息_card.png
+!cards/清.png
+!cards/清_card.png
 
 cards_en/*
 !cards_en/好.png
@@ -35,18 +39,26 @@ cards_en/*
 !cards_en/明_card.png
 !cards_en/休.png
 !cards_en/休_card.png
+!cards_en/息.png
+!cards_en/息_card.png
+!cards_en/清.png
+!cards_en/清_card.png
 
 char_videos/*
 !char_videos/好.mp4
 !char_videos/看.mp4
 !char_videos/明.mp4
 !char_videos/休.mp4
+!char_videos/息.mp4
+!char_videos/清.mp4
 
 char_videos_en/*
 !char_videos_en/好.mp4
 !char_videos_en/看.mp4
 !char_videos_en/明.mp4
 !char_videos_en/休.mp4
+!char_videos_en/息.mp4
+!char_videos_en/清.mp4
 
 templates/*
 !templates/好.png

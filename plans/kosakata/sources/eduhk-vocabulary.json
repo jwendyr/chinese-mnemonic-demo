@@ -1,0 +1,1346 @@
+[
+  {
+    "chapter": 1,
+    "title": "Greetings and Introducing oneself",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/nrr7wadq7i1vp5jm531cwigy",
+    "entries": [
+      {
+        "id": 94,
+        "word": "我",
+        "pronunciation": "ngo5",
+        "meaning": "I",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 95,
+        "word": "你",
+        "pronunciation": "nei5",
+        "meaning": "You",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 96,
+        "word": "佢",
+        "pronunciation": "keoi5",
+        "meaning": "He/she",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 97,
+        "word": "我哋",
+        "pronunciation": "ngo5 dei6",
+        "meaning": "We",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 98,
+        "word": "你哋",
+        "pronunciation": "nei5 dei6",
+        "meaning": "You (plural)",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 99,
+        "word": "佢哋",
+        "pronunciation": "keoi5 dei6",
+        "meaning": "They",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 100,
+        "word": "係",
+        "pronunciation": "hai6",
+        "meaning": "Is",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 101,
+        "word": "去",
+        "pronunciation": "heoi3",
+        "meaning": "Go to",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 102,
+        "word": "返",
+        "pronunciation": "faan1",
+        "meaning": "Go back /return to",
+        "partOfSpeech": null
+      },
+      {
+        "id": 103,
+        "word": "都",
+        "pronunciation": "dou1",
+        "meaning": "Also",
+        "partOfSpeech": null
+      },
+      {
+        "id": 104,
+        "word": "名",
+        "pronunciation": "meng2",
+        "meaning": "name",
+        "partOfSpeech": null
+      },
+      {
+        "id": 105,
+        "word": "人",
+        "pronunciation": "jan4",
+        "meaning": "People",
+        "partOfSpeech": null
+      },
+      {
+        "id": 106,
+        "word": "咩",
+        "pronunciation": "me1",
+        "meaning": "What",
+        "partOfSpeech": null
+      },
+      {
+        "id": 107,
+        "word": "邊度",
+        "pronunciation": "bin1 dou6",
+        "meaning": "Where",
+        "partOfSpeech": null
+      },
+      {
+        "id": 108,
+        "word": "邊個",
+        "pronunciation": "bin1 go3",
+        "meaning": "Who",
+        "partOfSpeech": null
+      },
+      {
+        "id": 109,
+        "word": "香港",
+        "pronunciation": "hoeng1 gong2",
+        "meaning": "Hong Kong",
+        "partOfSpeech": null
+      },
+      {
+        "id": 110,
+        "word": "英國",
+        "pronunciation": "jing1 gwok3",
+        "meaning": "UK",
+        "partOfSpeech": null
+      },
+      {
+        "id": 111,
+        "word": "早晨",
+        "pronunciation": "zou2 san4",
+        "meaning": "Good morning",
+        "partOfSpeech": null
+      },
+      {
+        "id": 112,
+        "word": "同/同埋",
+        "pronunciation": "tung4 / tung4 maai4",
+        "meaning": "and",
+        "partOfSpeech": null
+      },
+      {
+        "id": 113,
+        "word": "兄弟姊妹",
+        "pronunciation": "hing1 dai6 zi2 mui6",
+        "meaning": "siblings",
+        "partOfSpeech": null
+      },
+      {
+        "id": 114,
+        "word": "宿舍",
+        "pronunciation": "suk1 se2",
+        "meaning": "dormitory",
+        "partOfSpeech": null
+      },
+      {
+        "id": 115,
+        "word": "屋企",
+        "pronunciation": "uk1 kei2",
+        "meaning": "Family/home",
+        "partOfSpeech": null
+      },
+      {
+        "id": 116,
+        "word": "獨生子/女",
+        "pronunciation": "duk6 sang1 zi2/neoi2",
+        "meaning": "Only son/daughter",
+        "partOfSpeech": null
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "Number and Time",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/c81ch7jec3d23uy7no57ml9c",
+    "entries": [
+      {
+        "id": 25,
+        "word": "酒家",
+        "pronunciation": "zau2 gaa1",
+        "meaning": "Restaurant",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 26,
+        "word": "長腳蟹",
+        "pronunciation": "coeng4 goek3 haai5",
+        "meaning": "King crab",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 117,
+        "word": "全包宴",
+        "pronunciation": "cyun4 baau1 jin3",
+        "meaning": "Banquet set (all fees inclusive)",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 118,
+        "word": "星期",
+        "pronunciation": "sing1 kei4",
+        "meaning": "Week/day of the week",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 119,
+        "word": "錢",
+        "pronunciation": "cin2",
+        "meaning": "Money",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 120,
+        "word": "半圍",
+        "pronunciation": "bun3 wai4",
+        "meaning": "Half banquet",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 121,
+        "word": "問題",
+        "pronunciation": "man6 tai4",
+        "meaning": "Problem",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 122,
+        "word": "貴姓",
+        "pronunciation": "gwai3 sing3",
+        "meaning": "Honorable surname",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 123,
+        "word": "小姐",
+        "pronunciation": "siu2 ze2",
+        "meaning": "Miss",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 124,
+        "word": "電話號碼",
+        "pronunciation": "din6 waa2 hou6 maa5",
+        "meaning": "Phone number",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 125,
+        "word": "幫",
+        "pronunciation": "bong1",
+        "meaning": "Help",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 126,
+        "word": "訂",
+        "pronunciation": "deng6",
+        "meaning": "Book/reserve",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 127,
+        "word": "咁",
+        "pronunciation": "gam2",
+        "meaning": "Then",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 128,
+        "word": "已經",
+        "pronunciation": "ji5 ging1",
+        "meaning": "Already",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 129,
+        "word": "晒",
+        "pronunciation": "saai2",
+        "meaning": "Entirely, completely",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 130,
+        "word": "逢",
+        "pronunciation": "fung4",
+        "meaning": "Every",
+        "partOfSpeech": "(Adj.)"
+      },
+      {
+        "id": 131,
+        "word": "至",
+        "pronunciation": "zi3",
+        "meaning": "…to…",
+        "partOfSpeech": "(Prep.)"
+      },
+      {
+        "id": 132,
+        "word": "嘅話",
+        "pronunciation": "ge3 waa2",
+        "meaning": "For…",
+        "partOfSpeech": "(Conj.)"
+      },
+      {
+        "id": 133,
+        "word": "請問",
+        "pronunciation": "ceng2 man6",
+        "meaning": "May I ask",
+        "partOfSpeech": "(Ph.)"
+      },
+      {
+        "id": 134,
+        "word": "幾/幾多",
+        "pronunciation": "gei2 / gei2 do1",
+        "meaning": "How many/much",
+        "partOfSpeech": "(QW)"
+      },
+      {
+        "id": 135,
+        "word": "位",
+        "pronunciation": "wai2",
+        "meaning": "Polite form of quantifier for counting people",
+        "partOfSpeech": null
+      },
+      {
+        "id": 136,
+        "word": "唔該",
+        "pronunciation": "m4 goi1",
+        "meaning": "Thank you",
+        "partOfSpeech": "(Ph.)"
+      },
+      {
+        "id": 137,
+        "word": "就係",
+        "pronunciation": "zau6 hai6",
+        "meaning": "V-to-be (stressing)",
+        "partOfSpeech": "(v.)"
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "Place and Transport",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/qg8pw3phzyhskpz6sl755o3w",
+    "entries": [
+      {
+        "id": 27,
+        "word": "下午茶",
+        "pronunciation": "haa6 ng5 caa4",
+        "meaning": "Afternoon tea",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 28,
+        "word": "餐廳",
+        "pronunciation": "caan1 teng1",
+        "meaning": "Restaurant",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 138,
+        "word": "郵局",
+        "pronunciation": "jau4 guk2",
+        "meaning": "Post office",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 139,
+        "word": "…道...號",
+        "pronunciation": "… dou6... hou6",
+        "meaning": "…road…no",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 140,
+        "word": "出口",
+        "pronunciation": "ceot1 hau2",
+        "meaning": "Exit",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 141,
+        "word": "香港藝術館",
+        "pronunciation": "hoeng1 gong2 ngai6 seot6 gun2",
+        "meaning": "Hong Kong Museum of Art",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 142,
+        "word": "展覽",
+        "pronunciation": "zin2 laam5",
+        "meaning": "Exhibition",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 143,
+        "word": "天星小輪",
+        "pronunciation": "tin1 sing1 siu2 leon4",
+        "meaning": "Ferry",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 144,
+        "word": "港鐵",
+        "pronunciation": "gong2 tit3",
+        "meaning": "MTR",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 145,
+        "word": "食/ 食飯",
+        "pronunciation": "sik6 / sik6 faan6",
+        "meaning": "To eat/ have meal (lit: eat-rice)",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 146,
+        "word": "去",
+        "pronunciation": "heoi3",
+        "meaning": "To go to",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 147,
+        "word": "約",
+        "pronunciation": "joek3",
+        "meaning": "To make appoint with sb",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 148,
+        "word": "睇",
+        "pronunciation": "tai2",
+        "meaning": "To see",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 149,
+        "word": "搭",
+        "pronunciation": "daap3",
+        "meaning": "To take (transport)",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 150,
+        "word": "打算",
+        "pronunciation": "daa2 syun3",
+        "meaning": "Plan to",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 151,
+        "word": "肯定",
+        "pronunciation": "hang2 ding6",
+        "meaning": "Be sure",
+        "partOfSpeech": "(Adj.)"
+      },
+      {
+        "id": 152,
+        "word": "近",
+        "pronunciation": "kan5",
+        "meaning": "Close",
+        "partOfSpeech": "(Adj.)"
+      },
+      {
+        "id": 153,
+        "word": "而家",
+        "pronunciation": "ji4 gaa1",
+        "meaning": "Now",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 154,
+        "word": "再",
+        "pronunciation": "zoi3",
+        "meaning": "Again",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 155,
+        "word": "一齊",
+        "pronunciation": "jat1 cai4",
+        "meaning": "Together",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 156,
+        "word": "由...到...",
+        "pronunciation": "jau4... dou3...",
+        "meaning": "From…to…",
+        "partOfSpeech": "(Prep.)"
+      },
+      {
+        "id": 157,
+        "word": "對面",
+        "pronunciation": "deoi3 min6",
+        "meaning": "Opposite ",
+        "partOfSpeech": "(Prep.)"
+      },
+      {
+        "id": 158,
+        "word": "間",
+        "pronunciation": "gaan1",
+        "meaning": "Quantifier for building/landmark",
+        "partOfSpeech": "(quantifier)"
+      },
+      {
+        "id": 159,
+        "word": "啲",
+        "pronunciation": "di1",
+        "meaning": "A little bit",
+        "partOfSpeech": "(quantifier)"
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "Social Life",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/oh5zw89v6898c2anb5h2rhrq",
+    "entries": [
+      {
+        "id": 39,
+        "word": "音樂節",
+        "pronunciation": "jam1 ngok6 zit3",
+        "meaning": "Music festival",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 40,
+        "word": "巴士",
+        "pronunciation": "baa1 si2",
+        "meaning": "Bus",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 160,
+        "word": "西九文化區",
+        "pronunciation": "sai1 gau2 man4 faa3 keoi1",
+        "meaning": "West Kowloon Cultural District",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 161,
+        "word": "中式",
+        "pronunciation": "zung1 sik1",
+        "meaning": "Chinese style",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 162,
+        "word": "西式",
+        "pronunciation": "sai1 sik1",
+        "meaning": "Western style",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 163,
+        "word": "劇",
+        "pronunciation": "kek6",
+        "meaning": "TV drama",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 164,
+        "word": "韓國",
+        "pronunciation": "hon4 gwok3",
+        "meaning": "Korea",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 165,
+        "word": "嘢",
+        "pronunciation": "je5",
+        "meaning": "thing",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 166,
+        "word": "開始",
+        "pronunciation": "hoi1 ci2",
+        "meaning": "To start",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 167,
+        "word": "期待",
+        "pronunciation": "kei4 doi6 ",
+        "meaning": "to look forward to",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 168,
+        "word": "決定",
+        "pronunciation": "kyut3 ding6",
+        "meaning": "to decide",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 169,
+        "word": "試",
+        "pronunciation": "si3",
+        "meaning": "to try",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 170,
+        "word": "嘅",
+        "pronunciation": "ge3",
+        "meaning": "of’s ",
+        "partOfSpeech": "(Prep.)"
+      },
+      {
+        "id": 171,
+        "word": "最近",
+        "pronunciation": "zeoi3 gan6",
+        "meaning": "Recently",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 172,
+        "word": "成日",
+        "pronunciation": "sing4 jat6",
+        "meaning": "Always",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 173,
+        "word": "太",
+        "pronunciation": "taai3",
+        "meaning": "Very",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 174,
+        "word": "再",
+        "pronunciation": "zoi3",
+        "meaning": "And then",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 175,
+        "word": "超",
+        "pronunciation": "ciu1",
+        "meaning": "Super",
+        "partOfSpeech": "(Adj.)"
+      },
+      {
+        "id": 176,
+        "word": "…下",
+        "pronunciation": "haa5",
+        "meaning": "(slightly try-to-be)",
+        "partOfSpeech": null
+      },
+      {
+        "id": 177,
+        "word": "不如",
+        "pronunciation": "bat1 jyu4",
+        "meaning": "how about",
+        "partOfSpeech": "(Ph.)"
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "Shopping",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/qa743xv086hrekf1rcjksg2p",
+    "entries": [
+      {
+        "id": 49,
+        "word": "忙",
+        "pronunciation": "mong4",
+        "meaning": "Busy",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 51,
+        "word": "抖",
+        "pronunciation": "dau2",
+        "meaning": "To rest",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 50,
+        "word": "完",
+        "pronunciation": "jyun4 ",
+        "meaning": "to end",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 178,
+        "word": "帶",
+        "pronunciation": "daai3 ",
+        "meaning": "to bring",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 179,
+        "word": "行街",
+        "pronunciation": "haang4 gaai1",
+        "meaning": "to shop",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 180,
+        "word": "買",
+        "pronunciation": "maai5",
+        "meaning": "to buy",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 181,
+        "word": "鍾意",
+        "pronunciation": "zung1 ji3 ",
+        "meaning": "to like",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 182,
+        "word": "記得",
+        "pronunciation": "gei3 dak1 ",
+        "meaning": "to remember",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 183,
+        "word": "掃",
+        "pronunciation": "sou3",
+        "meaning": "to scan(qr code)/ to swap(floor)",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 184,
+        "word": "附近",
+        "pronunciation": "fu6 gan6",
+        "meaning": "Nearby",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 185,
+        "word": "商場",
+        "pronunciation": "soeng1 coeng4 ",
+        "meaning": "Shopping mall",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 186,
+        "word": "sem ",
+        "pronunciation": "sem6 (*this is the tone pronunciation in Cantonese)",
+        "meaning": "Semester",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 187,
+        "word": "衫",
+        "pronunciation": "saam1 ",
+        "meaning": "Clothes",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 188,
+        "word": "綠色",
+        "pronunciation": "luk6 sik1",
+        "meaning": "Green",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 189,
+        "word": "銀包",
+        "pronunciation": "ngan4 baau1 ",
+        "meaning": "Wallet",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 190,
+        "word": "二維碼",
+        "pronunciation": "ji6 wai4 maa5 ",
+        "meaning": "Qr code",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 191,
+        "word": "不過",
+        "pronunciation": "bat1 gwo3",
+        "meaning": "However",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 192,
+        "word": "之前",
+        "pronunciation": "zi1 cin4 ",
+        "meaning": "Before",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 193,
+        "word": "終於",
+        "pronunciation": "zung1 jyu1 ",
+        "meaning": "Finally",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 194,
+        "word": "原來",
+        "pronunciation": "jyun4 loi4 ",
+        "meaning": "Turn out to be",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 195,
+        "word": "咁啱",
+        "pronunciation": "gam3 ngaam1 ",
+        "meaning": "Coincidentally",
+        "partOfSpeech": "(Adj.)"
+      },
+      {
+        "id": 196,
+        "word": "個",
+        "pronunciation": "go3",
+        "meaning": "the most general quantifier; used for people, objects",
+        "partOfSpeech": "(quantifier)"
+      },
+      {
+        "id": 197,
+        "word": "件",
+        "pronunciation": "gin6 ",
+        "meaning": "quantifier for clothes",
+        "partOfSpeech": "(quantifier)"
+      },
+      {
+        "id": 198,
+        "word": "好睇",
+        "pronunciation": "hou2 tai2",
+        "meaning": "Good looking",
+        "partOfSpeech": "(Ph.)"
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "School Life",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/stta5mjxnauoglqbuo81x0ca",
+    "entries": [
+      {
+        "id": 56,
+        "word": "內容",
+        "pronunciation": "noi6 jung4",
+        "meaning": "Content",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 57,
+        "word": "關於",
+        "pronunciation": "gwaan1 jyu1",
+        "meaning": "About",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 199,
+        "word": "問題",
+        "pronunciation": "man6 tai4",
+        "meaning": "Question",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 200,
+        "word": "今次",
+        "pronunciation": "gam1 ci3 ",
+        "meaning": "this time",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 201,
+        "word": "考試",
+        "pronunciation": "haau2 si3 ",
+        "meaning": "Examination",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 202,
+        "word": "範圍",
+        "pronunciation": "faan6 wai4",
+        "meaning": "Scope/Syllabus",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 203,
+        "word": "課",
+        "pronunciation": "fo3",
+        "meaning": "Chapter",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 204,
+        "word": "課本",
+        "pronunciation": "fo3 bun2",
+        "meaning": "Textbook",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 205,
+        "word": "內聯網",
+        "pronunciation": "noi6 lyun4 mong5",
+        "meaning": "intranet",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 206,
+        "word": "一陣",
+        "pronunciation": "jat1 zan6",
+        "meaning": "A while later",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 207,
+        "word": "筆記",
+        "pronunciation": "bat1 gei3 ",
+        "meaning": "notes",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 208,
+        "word": "貼士",
+        "pronunciation": "tip1 si2",
+        "meaning": "Tips",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 209,
+        "word": "同學",
+        "pronunciation": "tung4 hok6",
+        "meaning": "classmate",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 210,
+        "word": "好似",
+        "pronunciation": "hou2 ci5",
+        "meaning": "Seems like",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 211,
+        "word": "上面",
+        "pronunciation": "soeng5 min6",
+        "meaning": "On top of",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 212,
+        "word": "補課",
+        "pronunciation": "bou2 fo3",
+        "meaning": "make-up class",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 213,
+        "word": "講",
+        "pronunciation": "gong2",
+        "meaning": "To talk/speak",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 214,
+        "word": "舉手",
+        "pronunciation": "geoi2 sau2",
+        "meaning": "To raise hand",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 215,
+        "word": "考",
+        "pronunciation": "wan1 / wan1 syu1 ",
+        "meaning": "To test",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 216,
+        "word": "温/温書",
+        "pronunciation": "wan1 / wan1 syu1 ",
+        "meaning": "to study",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 217,
+        "word": "派",
+        "pronunciation": "paai3",
+        "meaning": "To deliver",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 218,
+        "word": "起身",
+        "pronunciation": "hei2 san1 ",
+        "meaning": "To wake up",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 219,
+        "word": "開始",
+        "pronunciation": "hoi1 ci2",
+        "meaning": "To start",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 220,
+        "word": "打開",
+        "pronunciation": "daa2 hoi1",
+        "meaning": "to turn to/open",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 221,
+        "word": "份",
+        "pronunciation": "fan6 ",
+        "meaning": "quantifier for notes/document",
+        "partOfSpeech": "(quantifier)"
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "Emergency",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/hidlfx1cg2ptxam2jz4850nj",
+    "entries": [
+      {
+        "id": 88,
+        "word": "面",
+        "pronunciation": "min6",
+        "meaning": "Face",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 89,
+        "word": "廁所",
+        "pronunciation": "ci3 so2",
+        "meaning": "Toilet/Washroom",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 222,
+        "word": "盲腸炎",
+        "pronunciation": "maang4 coeng2 jim4 ",
+        "meaning": "appendicitis",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 223,
+        "word": "醫院",
+        "pronunciation": "ji1 jyun2 ",
+        "meaning": "hospital",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 224,
+        "word": "白車",
+        "pronunciation": "baak6 ce1 (gau3 wu6 ce1)",
+        "meaning": "ambulance",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 225,
+        "word": "護士",
+        "pronunciation": "wu6 si6 ",
+        "meaning": "nurse",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 226,
+        "word": "同學",
+        "pronunciation": "tung4 hok6 ",
+        "meaning": "classmate",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 227,
+        "word": "褸",
+        "pronunciation": "lau1 ",
+        "meaning": "coat",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 228,
+        "word": "病房",
+        "pronunciation": "beng6 fong2 ",
+        "meaning": "ward",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 229,
+        "word": "肚痛",
+        "pronunciation": "tou5 tung3 ",
+        "meaning": "stomachache",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 230,
+        "word": "唔舒服",
+        "pronunciation": "m4 syu1 fuk6 ",
+        "meaning": "not well",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 231,
+        "word": "幫",
+        "pronunciation": "bong1 ",
+        "meaning": "to help",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 232,
+        "word": "叫 ",
+        "pronunciation": "giu3 ",
+        "meaning": "to call",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 233,
+        "word": "探病",
+        "pronunciation": "taam3 beng6 ",
+        "meaning": "to visit the sick",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 234,
+        "word": "青",
+        "pronunciation": "ceng1 ",
+        "meaning": "pale (literally meaning: green) ",
+        "partOfSpeech": "(Adj.)"
+      },
+      {
+        "id": 235,
+        "word": "…離...",
+        "pronunciation": "… lei4...",
+        "meaning": "…distance from...",
+        "partOfSpeech": "(Prep)"
+      },
+      {
+        "id": 236,
+        "word": "…至...",
+        "pronunciation": "… zi3...",
+        "meaning": "from…to...",
+        "partOfSpeech": "(Prep)"
+      },
+      {
+        "id": 237,
+        "word": "冇咩事",
+        "pronunciation": "mou5 me1 si6 ",
+        "meaning": "it’s fine (literally meaning: no special issue)",
+        "partOfSpeech": "(Ph.)"
+      },
+      {
+        "id": 238,
+        "word": "頂住",
+        "pronunciation": "ding2 zyu6 ",
+        "meaning": "hang in there",
+        "partOfSpeech": "(Ph.)"
+      },
+      {
+        "id": 239,
+        "word": "塊",
+        "pronunciation": "faai3 ",
+        "meaning": "塊 quantifier similar usage of “slice of”/“chunk of”",
+        "partOfSpeech": "(quantifier)"
+      },
+      {
+        "id": 240,
+        "word": "藥",
+        "pronunciation": "joek6",
+        "meaning": "medicine",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 241,
+        "word": "嘔",
+        "pronunciation": "au2",
+        "meaning": "vomit",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 242,
+        "word": "發燒",
+        "pronunciation": "faat3 siu1",
+        "meaning": "fever",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 243,
+        "word": "喉嚨痛",
+        "pronunciation": "hau4 lung4 tung3",
+        "meaning": "sore throat",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 244,
+        "word": "發冷",
+        "pronunciation": "faat3 laang5",
+        "meaning": "chills",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 245,
+        "word": "肚屙",
+        "pronunciation": "tou5 o1",
+        "meaning": "diarrhea",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 246,
+        "word": "抽血",
+        "pronunciation": "cau1 hyut3",
+        "meaning": "to draw blood",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 247,
+        "word": "打針",
+        "pronunciation": "daa2 zam1",
+        "meaning": "to inject",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 248,
+        "word": "頭暈",
+        "pronunciation": "tau4 wan4",
+        "meaning": "dizzy",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 249,
+        "word": "頭痛",
+        "pronunciation": "tau4 tung3",
+        "meaning": "headache",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 250,
+        "word": "食物中毒",
+        "pronunciation": "sik6 mat6 zung3 duk6",
+        "meaning": "food poisoning",
+        "partOfSpeech": "(Ph.)"
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "Integrated Exercise",
+    "source": "https://cantonese-self-learning-class.eduhk.hk/api/chapters/s6u40ug2v2buj5ecshdsy7w8",
+    "entries": [
+      {
+        "id": 90,
+        "word": "量詞",
+        "pronunciation": "loeng6 ci4",
+        "meaning": "Quantifier",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 91,
+        "word": "小巴",
+        "pronunciation": "siu2 baa1",
+        "meaning": "Minibus",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 251,
+        "word": "數字",
+        "pronunciation": "sou3 zi6",
+        "meaning": "numbers",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 252,
+        "word": "畢業",
+        "pronunciation": "bat1 jip6",
+        "meaning": "graduation",
+        "partOfSpeech": "(n./v.)"
+      },
+      {
+        "id": 253,
+        "word": "之後",
+        "pronunciation": "zi1 hau6",
+        "meaning": "after",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 254,
+        "word": "小學",
+        "pronunciation": "siu2 hok6",
+        "meaning": "primary school",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 255,
+        "word": "學生",
+        "pronunciation": "hok6 saang1",
+        "meaning": "student",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 256,
+        "word": "每日",
+        "pronunciation": "mui5 jat6",
+        "meaning": "daily",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 257,
+        "word": "學",
+        "pronunciation": "hok6",
+        "meaning": "to learn",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 258,
+        "word": "練習",
+        "pronunciation": "lin6 zaap6",
+        "meaning": "to practice",
+        "partOfSpeech": "(v.)"
+      },
+      {
+        "id": 259,
+        "word": "尤其是",
+        "pronunciation": "jau4 kei4 si6",
+        "meaning": "especially",
+        "partOfSpeech": "(n.)"
+      },
+      {
+        "id": 260,
+        "word": "真係",
+        "pronunciation": "zan1 hai6",
+        "meaning": "really",
+        "partOfSpeech": "(Adv.)"
+      },
+      {
+        "id": 261,
+        "word": "難",
+        "pronunciation": "naan4",
+        "meaning": "difficult",
+        "partOfSpeech": "(Adj.)"
+      },
+      {
+        "id": 262,
+        "word": "加油",
+        "pronunciation": "gaa1 jau2",
+        "meaning": "keep it up  (literal meaning: add oil)",
+        "partOfSpeech": "(Ph.)"
+      }
+    ]
+  }
+]

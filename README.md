@@ -1,16 +1,18 @@
 # Chinese Mnemonic HSK 1 — Exemplar Kartu & Video 9:16 (Gaya Kaligrafi Kuas / Kaiti)
 
-Showcase exemplar pipeline kartu mnemonik visual bergaya Chineasy (`1080×1920`) dan video animasi YouTube Shorts 9:16 ter-sinkron audio (`20–30 detik`) dalam **Bahasa Indonesia** dan **English**, disertai pelafalan Mandarin asli (`zh-CN-XiaoxiaoNeural`) yang kini mencakup **seluruh 4 nada Mandarin** (Nada 1, 2, 3, dan 4).
+Showcase exemplar pipeline kartu mnemonik visual bergaya Chineasy (`1080×1920`) dan video animasi YouTube Shorts 9:16 ter-sinkron audio (`20–30 detik`) dalam **Bahasa Indonesia** dan **English**, disertai pelafalan Mandarin asli (`zh-CN-XiaoxiaoNeural`) yang mencakup **seluruh 4 nada Mandarin** (Nada 1, 2, 3, dan 4) pada **6 karakter exemplar terverifikasi**.
 
-Seluruh komponen huruf (`休`/`人`/`木`, `明`/`日`/`月`, `好`/`女`/`子`, `看`/`手`/`目`) — termasuk judul hero, mini-card asal karakter, teks sebaris (`Kaiti SC Bold`), template guratan, animasi urutan guratan 30fps di kotak `米字格`, strip langkah `1..N`, serta ilustrasi AI Chineasy — menggunakan **gaya kaligrafi kuas bulat (`coretan kuas` / Kaiti) yang 100% seragam** tanpa font kotak.
+Seluruh komponen huruf (`休`/`人`/`木`, `息`/`自`/`心`, `清`/`氵`/`青`, `明`/`日`/`月`, `好`/`女`/`子`, `看`/`手`/`目`) — termasuk judul hero, mini-card asal karakter, teks sebaris (`Kaiti SC Bold`), template guratan, animasi urutan guratan 30fps di kotak `米字格`, strip langkah `1..N`, serta ilustrasi AI Chineasy — menggunakan **gaya kaligrafi kuas bulat (`coretan kuas` / Kaiti) yang 100% seragam** tanpa font kotak.
 
 ---
 
-## Ringkasan 4 Exemplar Terverifikasi (Nada 1 – 4)
+## Ringkasan 6 Exemplar Terverifikasi (Nada 1 – 4)
 
 | Karakter | Nada | Pinyin | Komponen | Arti (ID / EN) | Kartu Final (ID / EN) | Video 9:16 (ID / EN) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **休** | Nada 1 (Datar Tinggi) | `xiū` | `人` + `木` | Istirahat / Bersantai · Rest / Relax | [cards/休.png](cards/休.png) · [cards_en/休.png](cards_en/休.png) | [char_videos/休.mp4](char_videos/休.mp4) (`23.67s`) · [char_videos_en/休.mp4](char_videos_en/休.mp4) (`20.77s`) |
+| **息** | Nada 1 (Datar Tinggi) | `xī` | `自` + `心` | Istirahat / Bernapas · Rest / Breath | [cards/息.png](cards/息.png) · [cards_en/息.png](cards_en/息.png) | [char_videos/息.mp4](char_videos/息.mp4) (`24.03s`) · [char_videos_en/息.mp4](char_videos_en/息.mp4) (`20.82s`) |
+| **清** | Nada 1 (Datar Tinggi) | `qīng` | `氵` + `青` | Jernih / Bersih · Clear / Pure | [cards/清.png](cards/清.png) · [cards_en/清.png](cards_en/清.png) | [char_videos/清.mp4](char_videos/清.mp4) (`22.89s`) · [char_videos_en/清.mp4](char_videos_en/清.mp4) (`20.77s`) |
 | **明** | Nada 2 (Naik) | `míng` | `日` + `月` | Terang / Besok · Bright / Tomorrow | [cards/明.png](cards/明.png) · [cards_en/明.png](cards_en/明.png) | [char_videos/明.mp4](char_videos/明.mp4) (`22.15s`) · [char_videos_en/明.mp4](char_videos_en/明.mp4) (`20.77s`) |
 | **好** | Nada 3 (Turun-Naik) | `hǎo` | `女` + `子` | Baik / Bagus / Suka · Good / Fine / To Like | [cards/好.png](cards/好.png) · [cards_en/好.png](cards_en/好.png) | [char_videos/好.mp4](char_videos/好.mp4) (`22.43s`) · [char_videos_en/好.mp4](char_videos_en/好.mp4) (`20.73s`) |
 | **看** | Nada 4 (Turun Tegas) | `kàn` | `手` + `目` | Melihat / Menonton · To Look / Watch | [cards/看.png](cards/看.png) · [cards_en/看.png](cards_en/看.png) | [char_videos/看.mp4](char_videos/看.mp4) (`20.37s`) · [char_videos_en/看.mp4](char_videos_en/看.mp4) (`20.79s`) |
@@ -22,13 +24,21 @@ Seluruh komponen huruf (`休`/`人`/`木`, `明`/`日`/`月`, `好`/`女`/`子`,
 ### Bahasa Indonesia (`cards/`)
 <table>
   <tr>
-    <th width="25%">休 (xiū · Nada 1)</th>
-    <th width="25%">明 (míng · Nada 2)</th>
-    <th width="25%">好 (hǎo · Nada 3)</th>
-    <th width="25%">看 (kàn · Nada 4)</th>
+    <th width="33%">休 (xiū · Nada 1)</th>
+    <th width="33%">息 (xī · Nada 1)</th>
+    <th width="33%">清 (qīng · Nada 1)</th>
   </tr>
   <tr>
     <td><img src="cards/休.png" alt="休 Indonesia card" /></td>
+    <td><img src="cards/息.png" alt="息 Indonesia card" /></td>
+    <td><img src="cards/清.png" alt="清 Indonesia card" /></td>
+  </tr>
+  <tr>
+    <th width="33%">明 (míng · Nada 2)</th>
+    <th width="33%">好 (hǎo · Nada 3)</th>
+    <th width="33%">看 (kàn · Nada 4)</th>
+  </tr>
+  <tr>
     <td><img src="cards/明.png" alt="明 Indonesia card" /></td>
     <td><img src="cards/好.png" alt="好 Indonesia card" /></td>
     <td><img src="cards/看.png" alt="看 Indonesia card" /></td>
@@ -38,13 +48,21 @@ Seluruh komponen huruf (`休`/`人`/`木`, `明`/`日`/`月`, `好`/`女`/`子`,
 ### English (`cards_en/`)
 <table>
   <tr>
-    <th width="25%">休 (xiū · Tone 1)</th>
-    <th width="25%">明 (míng · Tone 2)</th>
-    <th width="25%">好 (hǎo · Tone 3)</th>
-    <th width="25%">看 (kàn · Tone 4)</th>
+    <th width="33%">休 (xiū · Tone 1)</th>
+    <th width="33%">息 (xī · Tone 1)</th>
+    <th width="33%">清 (qīng · Tone 1)</th>
   </tr>
   <tr>
     <td><img src="cards_en/休.png" alt="休 English card" /></td>
+    <td><img src="cards_en/息.png" alt="息 English card" /></td>
+    <td><img src="cards_en/清.png" alt="清 English card" /></td>
+  </tr>
+  <tr>
+    <th width="33%">明 (míng · Tone 2)</th>
+    <th width="33%">好 (hǎo · Tone 3)</th>
+    <th width="33%">看 (kàn · Tone 4)</th>
+  </tr>
+  <tr>
     <td><img src="cards_en/明.png" alt="明 English card" /></td>
     <td><img src="cards_en/好.png" alt="好 English card" /></td>
     <td><img src="cards_en/看.png" alt="看 English card" /></td>

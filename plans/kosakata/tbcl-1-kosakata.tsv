@@ -1,0 +1,401 @@
+id	level	traditional	pinyin	zhuyin	meaning_id	meaning_en	topic_zh	source_word	tocfl_spelling_matches
+TBCL-W0001	1	愛	ài	ㄞˋ	mencintai, sangat suka	to love, be fond of	核心詞	愛	TOCFL-Level3-0003; TOCFL-Novice2-0025
+TBCL-W0002	1	吧	ba	˙ㄅㄚ	partikel saran atau dugaan	particle for suggestions or assumptions	核心詞	吧	TOCFL-Novice1-0110
+TBCL-W0003	1	八	bā	ㄅㄚ	delapan	eight	核心詞	八	TOCFL-Novice1-0038
+TBCL-W0004	1	爸爸 / 爸	bàba / bà	ㄅㄚˋ ˙ㄅㄚ / ㄅㄚˋ	ayah	dad	核心詞	爸爸/爸	TOCFL-Novice1-0046
+TBCL-W0005	1	百	bǎi	ㄅㄞˇ	seratus	hundred	核心詞	百	TOCFL-Novice1-0043
+TBCL-W0006	1	半	bàn	ㄅㄢˋ	setengah	half	核心詞	半	TOCFL-Novice1-0044
+TBCL-W0007	1	本	běn	ㄅㄣˇ	kata penggolong buku	classifier for books	核心詞	本	TOCFL-Level3-0038; TOCFL-Level5-0064; TOCFL-Novice2-0055
+TBCL-W0008	1	不	bù	ㄅㄨˋ	tidak	not	核心詞	不	TOCFL-Novice1-0151
+TBCL-W0009	1	茶	chá	ㄔㄚˊ	teh	tea	餐飲、烹飪	茶	TOCFL-Novice2-0105
+TBCL-W0010	1	車子 / 車	chēzi / chē	ㄔㄜ ˙ㄗ / ㄔㄜ	mobil, kendaraan	car, vehicle	核心詞	車子/車	
+TBCL-W0011	1	吃	chī	ㄔ	makan	to eat	核心詞	吃	TOCFL-Novice1-0148
+TBCL-W0012	1	吃飯	chīfàn	ㄔ ㄈㄢˋ	makan, makan nasi	to have a meal	核心詞	吃飯	
+TBCL-W0013	1	打	dǎ	ㄉㄚˇ	memukul, menelepon	to hit, to make a call	核心詞	打	TOCFL-Level4-0287; TOCFL-Level5-0344; TOCFL-Novice2-0115
+TBCL-W0014	1	大	dà	ㄉㄚˋ	besar	big	核心詞	大	TOCFL-Novice1-0138
+TBCL-W0015	1	帶	dài	ㄉㄞˋ	membawa	to bring	核心詞	帶	TOCFL-Novice2-0146
+TBCL-W0016	1	大家	dàjiā	ㄉㄚˋ ㄐㄧㄚ	semua orang	everyone	核心詞	大家	TOCFL-Novice2-0009
+TBCL-W0017	1	到	dào	ㄉㄠˋ	tiba, sampai	to arrive, to reach	核心詞	到	TOCFL-Level3-0154; TOCFL-Novice1-0125
+TBCL-W0018	1	大學	dàxué	ㄉㄚˋ ㄒㄩㄝˊ	universitas	university	教育、學習	大學	TOCFL-Novice1-0078
+TBCL-W0019	1	的	de	ㄉㄜ˙	partikel kepemilikan atau penerang kata benda	particle linking a possessor or modifier to a noun	核心詞	的	TOCFL-Novice1-0053
+TBCL-W0020	1	點	diǎn	ㄉㄧㄢˇ	pukul, titik, sedikit	o’clock, dot, a little	核心詞	點	TOCFL-Level3-0183; TOCFL-Novice1-0056
+TBCL-W0021	1	電話	diànhuà	ㄉㄧㄢˋ ㄏㄨㄚˋ	telepon	telephone	核心詞	電話	TOCFL-Novice1-0018
+TBCL-W0022	1	弟弟 / 弟	dìdi / dì	ㄉㄧˋ ˙ㄉㄧ / ㄉㄧˋ	adik laki-laki	younger brother	核心詞	弟弟/弟	TOCFL-Novice1-0049
+TBCL-W0023	1	東西	dōngxi	ㄉㄨㄥ ˙ㄒㄧ	barang, benda	thing, object	核心詞	東西	TOCFL-Novice1-0109
+TBCL-W0024	1	都	dōu	ㄉㄡ	semua	all, both	核心詞	都	TOCFL-Novice1-0153
+TBCL-W0025	1	對	duì	ㄉㄨㄟˋ	benar, terhadap	correct, toward	核心詞	對	TOCFL-Level3-0199; TOCFL-Novice1-0089
+TBCL-W0026	1	對不起	duìbùqǐ	ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ	maaf	sorry	社交、人際	對不起	TOCFL-Novice1-0119
+TBCL-W0027	1	多	duō	ㄉㄨㄛ	banyak	many, much	核心詞	多	TOCFL-Novice2-0201
+TBCL-W0028	1	多少	duōshǎo	ㄉㄨㄛ ㄕㄠˇ	berapa	how much, how many	核心詞	多少	TOCFL-Level4-0437; TOCFL-Novice1-0134
+TBCL-W0029	1	二	èr	ㄦˋ	dua	two	核心詞	二	TOCFL-Novice1-0032
+TBCL-W0030	1	兒子	érzi	ㄦˊ ˙ㄗ	anak laki-laki	son	個人資料	兒子	TOCFL-Novice2-0008
+TBCL-W0031	1	分	fēn	ㄈㄣ	menit, bagian	minute, part	核心詞	分	TOCFL-Novice1-0055
+TBCL-W0032	1	高	gāo	ㄍㄠ	tinggi	tall, high	核心詞	高	TOCFL-Novice1-0068
+TBCL-W0033	1	個	ge	˙ㄍㄜ	kata penggolong umum	general classifier	核心詞	個	TOCFL-Level3-0261; TOCFL-Novice1-0057
+TBCL-W0034	1	哥哥 / 哥	gēge / gē	ㄍㄜ ˙ㄍㄜ / ㄍㄜ	kakak laki-laki	older brother	核心詞	哥哥/哥	TOCFL-Novice1-0048
+TBCL-W0035	1	給	gěi	ㄍㄟˇ	memberi, untuk	to give, for	核心詞	給	TOCFL-Level3-0267; TOCFL-Novice1-0135
+TBCL-W0036	1	工作	gōngzuò	ㄍㄨㄥ ㄗㄨㄛˋ	bekerja, pekerjaan	to work, job	職業	工作	TOCFL-Level3-0288; TOCFL-Novice2-0051
+TBCL-W0037	1	國	guó	ㄍㄨㄛˊ	negara	country	核心詞	國	TOCFL-Novice1-0011
+TBCL-W0038	1	孩子	háizi	ㄏㄞˊ ˙ㄗ	anak	child	核心詞	孩子	TOCFL-Novice2-0003
+TBCL-W0039	1	和	hàn / hé	ㄏㄢˋ / ㄏㄜˊ	dan, dengan	and, with	核心詞	和1	TOCFL-Level3-0336; TOCFL-Novice2-0223
+TBCL-W0040	1	好	hǎo	ㄏㄠˇ	baik, bagus	good, fine	核心詞	好1	TOCFL-Level3-0333; TOCFL-Level4-0693; TOCFL-Novice1-0070
+TBCL-W0041	1	號	hào	ㄏㄠˋ	nomor, tanggal	number, day of the month	核心詞	號1	TOCFL-Level5-0792; TOCFL-Novice2-0021
+TBCL-W0042	1	喝	hē	ㄏㄜ	minum	to drink	核心詞	喝	TOCFL-Novice2-0199
+TBCL-W0043	1	很	hěn	ㄏㄣˇ	sangat, penanda sifat	very, marker before a descriptive predicate	核心詞	很	TOCFL-Novice1-0071
+TBCL-W0044	1	後	hòu	ㄏㄡˋ	belakang, setelah	behind, after	核心詞	後	TOCFL-Level3-0347
+TBCL-W0045	1	話	huà	ㄏㄨㄚˋ	ucapan, perkataan	speech, words	核心詞	話	
+TBCL-W0046	1	幾	jǐ	ㄐㄧˇ	berapa, beberapa	how many, a few	核心詞	幾	TOCFL-Novice1-0144
+TBCL-W0047	1	家	jiā	ㄐㄧㄚ	rumah, keluarga	home, family	核心詞	家	TOCFL-Level3-0388; TOCFL-Novice1-0017
+TBCL-W0048	1	腳	jiǎo	ㄐㄧㄠˇ	kaki, telapak kaki	foot, leg	核心詞	腳	TOCFL-Novice2-0159
+TBCL-W0049	1	叫	jiào	ㄐㄧㄠˋ	memanggil, bernama	to call, to be named	核心詞	叫	TOCFL-Novice1-0117
+TBCL-W0050	1	姊姊 / 姐姐 / 姊 / 姐	jiějie / jiě	ㄐㄧㄝˇ ˙ㄐㄧㄝ / ㄐㄧㄝˇ	kakak perempuan	older sister	核心詞	姊姊/姐姐/姊/姐	TOCFL-Novice1-0050
+TBCL-W0051	1	今年	jīnnián	ㄐㄧㄣ ㄋㄧㄢˊ	tahun ini	this year	核心詞	今年	TOCFL-Novice1-0022
+TBCL-W0052	1	今天	jīntiān	ㄐㄧㄣ ㄊㄧㄢ	hari ini	today	核心詞	今天	TOCFL-Novice1-0023
+TBCL-W0053	1	久	jiǔ	ㄐㄧㄡˇ	lama	a long time	核心詞	久	TOCFL-Novice1-0096
+TBCL-W0054	1	九	jiǔ	ㄐㄧㄡˇ	sembilan	nine	核心詞	九	TOCFL-Novice1-0039
+TBCL-W0055	1	就	jiù	ㄐㄧㄡˋ	langsung, lalu	right away, then	核心詞	就	TOCFL-Level3-0458; TOCFL-Level5-1085; TOCFL-Novice1-0106
+TBCL-W0056	1	咖啡	kāfēi	ㄎㄚ ㄈㄟ	kopi	coffee	餐飲、烹飪	咖啡	TOCFL-Novice2-0104
+TBCL-W0057	1	看	kàn	ㄎㄢˋ	melihat, menonton, membaca	to look, watch, read	核心詞	看1	TOCFL-Level4-0991; TOCFL-Novice1-0105
+TBCL-W0058	1	可能	kěnéng	ㄎㄜˇ ㄋㄥˊ	mungkin	maybe, possible	核心詞	可能	TOCFL-Level2-0427; TOCFL-Novice2-0227
+TBCL-W0059	1	可以	kěyǐ	ㄎㄜˇ ㄧˇ	boleh, bisa	may, can	核心詞	可以	TOCFL-Level3-0494; TOCFL-Novice1-0091
+TBCL-W0060	1	塊	kuài	ㄎㄨㄞˋ	potong, sebutan sehari-hari untuk satuan uang	piece, colloquial currency unit	核心詞	塊	TOCFL-Novice1-0145
+TBCL-W0061	1	來	lái	ㄌㄞˊ	datang	to come	核心詞	來	TOCFL-Level3-0514; TOCFL-Level4-1037; TOCFL-Novice1-0061
+TBCL-W0062	1	老	lǎo	ㄌㄠˇ	tua	old	核心詞	老	TOCFL-Level4-1053; TOCFL-Novice1-0069
+TBCL-W0063	1	老師	lǎoshī	ㄌㄠˇ ㄕ	guru	teacher	教育、學習	老師	TOCFL-Novice1-0074
+TBCL-W0064	1	冷	lěng	ㄌㄥˇ	dingin	cold	核心詞	冷	TOCFL-Novice2-0092
+TBCL-W0065	1	兩	liǎng	ㄌㄧㄤˇ	dua sebelum kata penggolong	two before a classifier	核心詞	兩	TOCFL-Novice1-0041
+TBCL-W0066	1	六	liù	ㄌㄧㄡˋ	enam	six	核心詞	六	TOCFL-Novice1-0036
+TBCL-W0067	1	路	lù	ㄌㄨˋ	jalan	road, way	核心詞	路	TOCFL-Novice2-0010
+TBCL-W0068	1	嗎	ma	˙ㄇㄚ	partikel pertanyaan ya atau tidak	yes–no question particle	核心詞	嗎	TOCFL-Novice1-0112
+TBCL-W0069	1	買	mǎi	ㄇㄞˇ	membeli	to buy	核心詞	買	TOCFL-Novice1-0075
+TBCL-W0070	1	媽媽 / 媽	māma / ma	ㄇㄚ ˙ㄇㄚ / ㄇㄚ	ibu	mom	核心詞	媽媽/媽	TOCFL-Novice1-0047
+TBCL-W0071	1	沒	méi	ㄇㄟˊ	tidak, belum	not, not yet	核心詞	沒	TOCFL-Level3-0581; TOCFL-Novice1-0152
+TBCL-W0072	1	沒關係	méiguānxi	ㄇㄟˊ ㄍㄨㄢ ˙ㄒㄧ	tidak apa-apa	it’s okay, no problem	核心詞	沒關係	
+TBCL-W0073	1	妹妹 / 妹	mèimei / mèi	ㄇㄟˋ ˙ㄇㄟ / ㄇㄟˋ	adik perempuan	younger sister	核心詞	妹妹/妹	TOCFL-Novice1-0051
+TBCL-W0074	1	沒有	méiyǒu	ㄇㄟˊ ㄧㄡˇ	tidak ada, tidak punya, belum	there is none, to not have, haven’t	核心詞	沒有	TOCFL-Novice1-0160
+TBCL-W0075	1	們	men	˙ㄇㄣ	akhiran jamak untuk orang	plural suffix for people	核心詞	們	
+TBCL-W0076	1	名字	míng zi	ㄇㄧㄥˊ ˙ㄗ	nama	name	核心詞	名字	
+TBCL-W0077	1	明天	míngtiān	ㄇㄧㄥˊ ㄊㄧㄢ	besok	tomorrow	核心詞	明天	TOCFL-Novice1-0024
+TBCL-W0078	1	拿	ná	ㄋㄚˊ	mengambil, memegang	to take, to hold	核心詞	拿	TOCFL-Level5-1411; TOCFL-Novice2-0147
+TBCL-W0079	1	哪	nǎ	ㄋㄚˇ	yang mana	which	核心詞	哪1	TOCFL-Level1-0013; TOCFL-Novice2-0131
+TBCL-W0080	1	那	nà	ㄋㄚˋ	itu	that	核心詞	那	TOCFL-Level3-0614; TOCFL-Novice1-0122
+TBCL-W0081	1	哪裡 / 哪裏 / 哪兒	nǎlǐ / nǎlǐ / nǎr	ㄋㄚˇ ㄌㄧˇ / ㄋㄚˇ ㄌㄧˇ / ㄋㄚˇ ㄦ	di mana	where	核心詞	哪裡/哪裏/哪兒	TOCFL-Novice1-0131
+TBCL-W0082	1	那裡 / 那裏 / 那兒	nàlǐ / nàr	ㄋㄚˋ ㄌㄧˇ / ㄋㄚˋ ㄦ	di sana	there	核心詞	那裡/那裏/那兒	TOCFL-Novice1-0130
+TBCL-W0083	1	難	nán	ㄋㄢˊ	sulit	difficult	核心詞	難1	TOCFL-Novice1-0140
+TBCL-W0084	1	呢	ne	˙ㄋㄜ	partikel untuk balas bertanya atau menanyakan keadaan	particle for follow-up or contextual questions	核心詞	呢	TOCFL-Novice1-0111
+TBCL-W0085	1	你	nǐ	ㄋㄧˇ	kamu	you	核心詞	你	TOCFL-Novice1-0002
+TBCL-W0086	1	妳	nǐ	ㄋㄧˇ	kamu, untuk perempuan	you, addressing a woman or girl	核心詞	妳	TOCFL-Novice1-0002
+TBCL-W0087	1	年	nián	ㄋㄧㄢˊ	tahun	year	核心詞	年	TOCFL-Level3-0627; TOCFL-Novice1-0059
+TBCL-W0088	1	你們	nǐmen	ㄋㄧˇ ˙ㄇㄣ	kalian	you, plural	核心詞	你們	TOCFL-Novice1-0005
+TBCL-W0089	1	您	nín	ㄋㄧㄣˊ	Anda, sapaan hormat	you, polite	核心詞	您	TOCFL-Novice1-0007
+TBCL-W0090	1	女兒	nǚér	ㄋㄩˇ ㄦˊ	anak perempuan	daughter	個人資料	女兒	TOCFL-Novice2-0007
+TBCL-W0091	1	朋友	péngyǒu	ㄆㄥˊ ㄧㄡˇ	teman	friend	核心詞	朋友	TOCFL-Novice1-0108
+TBCL-W0092	1	七	qī	ㄑㄧ	tujuh	seven	核心詞	七	TOCFL-Novice1-0037
+TBCL-W0093	1	千	qiān	ㄑㄧㄢ	seribu	thousand	核心詞	千	TOCFL-Novice1-0045
+TBCL-W0094	1	前	qián	ㄑㄧㄢˊ	depan, sebelum	front, before	核心詞	前	TOCFL-Level3-0666
+TBCL-W0095	1	錢	qián	ㄑㄧㄢˊ	uang	money	核心詞	錢	TOCFL-Novice1-0133
+TBCL-W0096	1	請	qǐng	ㄑㄧㄥˇ	silakan, mohon	please, to invite	核心詞	請	TOCFL-Novice1-0149
+TBCL-W0097	1	請問	qǐngwèn	ㄑㄧㄥˇ ㄨㄣˋ	permisi, boleh saya tanya?	excuse me, may I ask?	核心詞	請問	TOCFL-Novice1-0120
+TBCL-W0098	1	去	qù	ㄑㄩˋ	pergi	to go	核心詞	去	TOCFL-Level3-0699; TOCFL-Novice1-0126
+TBCL-W0099	1	去年	qùnián	ㄑㄩˋ ㄋㄧㄢˊ	tahun lalu	last year	核心詞	去年	TOCFL-Novice2-0013
+TBCL-W0100	1	熱	rè	ㄖㄜˋ	panas	hot	核心詞	熱	TOCFL-Novice2-0093
+TBCL-W0101	1	人	rén	ㄖㄣˊ	orang	person	核心詞	人	TOCFL-Novice1-0010
+TBCL-W0102	1	日	rì	ㄖˋ	hari, matahari	day, sun	核心詞	日	TOCFL-Novice2-0016
+TBCL-W0103	1	容易	róngyì	ㄖㄨㄥˊ ㄧˋ	mudah	easy	核心詞	容易	TOCFL-Novice1-0141
+TBCL-W0104	1	三	sān	ㄙㄢ	tiga	three	核心詞	三	TOCFL-Novice1-0033
+TBCL-W0105	1	上	shàng	ㄕㄤˋ	atas, naik	above, to go up	核心詞	上	TOCFL-Level2-0295; TOCFL-Level3-0760; TOCFL-Level4-1472
+TBCL-W0106	1	上午	shàngwǔ	ㄕㄤˋ ㄨˇ	pagi menjelang siang	morning, before noon	核心詞	上午	TOCFL-Novice1-0027
+TBCL-W0107	1	少	shǎo	ㄕㄠˇ	sedikit	few, little	核心詞	少	TOCFL-Level3-0766; TOCFL-Novice2-0200
+TBCL-W0108	1	誰	shéi	ㄕㄟˊ	siapa	who	核心詞	誰	TOCFL-Novice1-0008
+TBCL-W0109	1	什麼 / 甚麼	shénme	ㄕㄣˊ ˙ㄇㄜ	apa	what	核心詞	什麼/甚麼	TOCFL-Novice1-0107
+TBCL-W0110	1	十	shí	ㄕˊ	sepuluh	ten	核心詞	十	TOCFL-Novice1-0040
+TBCL-W0111	1	是	shì	ㄕˋ	adalah, benar	to be, yes	核心詞	是	TOCFL-Novice1-0062
+TBCL-W0112	1	時候	shíhòu	ㄕˊ ㄏㄡˋ	waktu, saat	time, moment	核心詞	時候	TOCFL-Novice1-0042
+TBCL-W0113	1	時間	shíjiān	ㄕˊ ㄐㄧㄢ	waktu	time	核心詞	時間	TOCFL-Novice1-0019
+TBCL-W0114	1	手機	shǒujī	ㄕㄡˇ ㄐㄧ	ponsel	mobile phone	社交、人際	手機	TOCFL-Novice2-0011
+TBCL-W0115	1	書	shū	ㄕㄨ	buku	book	核心詞	書	TOCFL-Novice1-0099
+TBCL-W0116	1	水	shuǐ	ㄕㄨㄟˇ	air	water	核心詞	水	TOCFL-Novice1-0095
+TBCL-W0117	1	睡覺	shuìjiào	ㄕㄨㄟˋ ㄐㄧㄠˋ	tidur	to sleep	核心詞	睡覺	TOCFL-Novice2-0110
+TBCL-W0118	1	說	shuō	ㄕㄨㄛ	berkata, berbicara	to say, to speak	核心詞	說	TOCFL-Novice1-0086
+TBCL-W0119	1	四	sì	ㄙˋ	empat	four	核心詞	四	TOCFL-Novice1-0034
+TBCL-W0120	1	歲	suì	ㄙㄨㄟˋ	tahun usia	years old	核心詞	歲	TOCFL-Novice1-0058
+TBCL-W0121	1	她	tā	ㄊㄚ	dia, perempuan	she, her	核心詞	她	TOCFL-Novice1-0003
+TBCL-W0122	1	他	tā	ㄊㄚ	dia, laki-laki	he, him	核心詞	他	TOCFL-Novice1-0003
+TBCL-W0123	1	太	tài	ㄊㄞˋ	terlalu, sangat	too, extremely	核心詞	太	TOCFL-Novice2-0027
+TBCL-W0124	1	太太	tàitai	ㄊㄞˋ ˙ㄊㄞ	istri, nyonya	wife, Mrs.	核心詞	太太	TOCFL-Novice2-0006
+TBCL-W0125	1	台灣 / 臺灣	táiwān	ㄊㄞˊ ㄨㄢ	Taiwan	Taiwan	個人資料	台灣/臺灣	TOCFL-Novice1-0015
+TBCL-W0126	1	臺灣人 / 台灣人	táiwānrén	ㄊㄞˊ ㄨㄢ  ㄖㄣˊ	orang Taiwan	Taiwanese person	個人資料	臺灣人/台灣人	
+TBCL-W0127	1	他們	tāmen	ㄊㄚ ˙ㄇㄣ	mereka	they, them	核心詞	他們	TOCFL-Novice1-0006
+TBCL-W0128	1	天	tiān	ㄊㄧㄢ	hari, langit	day, sky	核心詞	天	TOCFL-Novice2-0022
+TBCL-W0129	1	聽	tīng	ㄊㄧㄥ	mendengarkan	to listen	核心詞	聽	TOCFL-Novice1-0088
+TBCL-W0130	1	同學	tóngxué	ㄊㄨㄥˊ ㄒㄩㄝˊ	teman sekelas	classmate	核心詞	同學	TOCFL-Novice1-0081
+TBCL-W0131	1	外	wài	ㄨㄞˋ	luar	outside	核心詞	外	
+TBCL-W0132	1	晚安	wǎnān	ㄨㄢˇ ㄢ	selamat malam saat berpisah	good night	核心詞	晚安	
+TBCL-W0133	1	晚上	wǎnshàng	ㄨㄢˇ ㄕㄤˋ	malam hari	evening, nighttime	核心詞	晚上	TOCFL-Novice1-0030
+TBCL-W0134	1	位	wèi	ㄨㄟˋ	kata penggolong sopan untuk orang	polite classifier for people	核心詞	位	TOCFL-Novice1-0146
+TBCL-W0135	1	問	wèn	ㄨㄣˋ	bertanya	to ask	核心詞	問	TOCFL-Novice1-0085
+TBCL-W0136	1	問題	wèntí	ㄨㄣˋ ㄊㄧˊ	pertanyaan, masalah	question, problem	核心詞	問題	TOCFL-Novice2-0059
+TBCL-W0137	1	我	wǒ	ㄨㄛˇ	saya, aku	I, me	核心詞	我	TOCFL-Novice1-0001
+TBCL-W0138	1	我們	wǒmen	ㄨㄛˇ ˙ㄇㄣ	kami, kita	we, us	核心詞	我們	TOCFL-Novice1-0004
+TBCL-W0139	1	五	wǔ	ㄨˇ	lima	five	核心詞	五	TOCFL-Novice1-0035
+TBCL-W0140	1	想	xiǎng	ㄒㄧㄤˇ	ingin, berpikir	to want, to think	核心詞	想	TOCFL-Novice1-0143
+TBCL-W0141	1	先生	xiānshēng	ㄒㄧㄢ ㄕㄥ	Tuan, Bapak	Mr., sir	核心詞	先生	TOCFL-Novice2-0005
+TBCL-W0142	1	現在	xiànzài	ㄒㄧㄢˋ ㄗㄞˋ	sekarang	now	核心詞	現在	TOCFL-Novice1-0021
+TBCL-W0143	1	小	xiǎo	ㄒㄧㄠˇ	kecil	small	核心詞	小	TOCFL-Novice1-0139
+TBCL-W0144	1	小孩 / 小孩子	xiǎohái / xiǎoháizi	ㄒㄧㄠˇ ㄏㄞˊ / ㄒㄧㄠˇ ㄏㄞˊ ˙ㄗ	anak kecil	young child	核心詞	小孩/小孩子	
+TBCL-W0145	1	小姐	xiǎojiě	ㄒㄧㄠˇ ㄐㄧㄝˇ	Nona	Miss	核心詞	小姐	TOCFL-Novice2-0004
+TBCL-W0146	1	小時	xiǎoshí	ㄒㄧㄠˇ ㄕˊ	jam, satuan waktu	hour	核心詞	小時	TOCFL-Novice1-0020
+TBCL-W0147	1	下午	xiàwǔ	ㄒㄧㄚˋ ㄨˇ	siang hingga sore	afternoon	核心詞	下午	TOCFL-Novice1-0029
+TBCL-W0148	1	寫	xiě	ㄒㄧㄝˇ	menulis	to write	核心詞	寫	TOCFL-Novice1-0087
+TBCL-W0149	1	謝謝	xièxie	ㄒㄧㄝˋ ˙ㄒㄧㄝ	terima kasih	thank you	核心詞	謝謝	TOCFL-Novice1-0118
+TBCL-W0150	1	喜歡	xǐhuān	ㄒㄧˇ ㄏㄨㄢ	menyukai	to like	核心詞	喜歡	TOCFL-Novice1-0065
+TBCL-W0151	1	新	xīn	ㄒㄧㄣ	baru	new	核心詞	新	TOCFL-Novice2-0180
+TBCL-W0152	1	姓名	xìngmíng	ㄒㄧㄥˋ ㄇㄧㄥˊ	nama lengkap	full name	核心詞	姓名	TOCFL-Novice1-0009
+TBCL-W0153	1	星期天 / 星期日	xīngqítiān / xīngqírì	ㄒㄧㄥ ㄑㄧˊ ㄊㄧㄢ / ㄒㄧㄥ ㄑㄧˊ ㄖˋ	hari Minggu	Sunday	核心詞	星期天/星期日	TOCFL-Novice2-0018
+TBCL-W0154	1	星期一	xīngqíyī	ㄒㄧㄥ ㄑㄧˊ ㄧ	hari Senin	Monday	核心詞	星期一	
+TBCL-W0155	1	學	xué	ㄒㄩㄝˊ	belajar	to learn	核心詞	學	TOCFL-Novice1-0084
+TBCL-W0156	1	學生	xuéshēng	ㄒㄩㄝˊ ㄕㄥ	murid, pelajar	student	核心詞	學生	TOCFL-Novice1-0077
+TBCL-W0157	1	學校	xuéxiào	ㄒㄩㄝˊ ㄒㄧㄠˋ	sekolah	school	教育、學習	學校	TOCFL-Novice1-0079
+TBCL-W0158	1	要	yào	ㄧㄠˋ	mau, perlu, akan	to want, need to, going to	核心詞	要	TOCFL-Level3-1001; TOCFL-Novice2-0178
+TBCL-W0159	1	也	yě	ㄧㄝˇ	juga	also	核心詞	也	TOCFL-Novice1-0150
+TBCL-W0160	1	一	yī	ㄧ	satu	one	核心詞	一	TOCFL-Novice1-0031
+TBCL-W0161	1	英文	yīngwén	ㄧㄥ ㄨㄣˊ	bahasa Inggris	English	教育、學習	英文	TOCFL-Novice2-0057
+TBCL-W0162	1	一起	yìqǐ	ㄧˋ ㄑㄧˇ	bersama	together	核心詞	一起	TOCFL-Novice2-0221
+TBCL-W0163	1	醫生 / 醫師	yīshēng / yīshī	ㄧ ㄕㄥ / ㄧ ㄕ	dokter	doctor	身體、醫療	醫生/醫師	TOCFL-Novice2-0052
+TBCL-W0164	1	一月	yīyuè	ㄧ ㄩㄝˋ	Januari	January	核心詞	一月	
+TBCL-W0165	1	用	yòng	ㄩㄥˋ	menggunakan	to use	核心詞	用	TOCFL-Level3-1037; TOCFL-Novice2-0106
+TBCL-W0166	1	有	yǒu	ㄧㄡˇ	punya, ada	to have, there is	核心詞	有	TOCFL-Novice1-0142
+TBCL-W0167	1	元	yuán	ㄩㄢˊ	satuan uang, yuan	currency unit, yuan	核心詞	元	TOCFL-Novice2-0174
+TBCL-W0168	1	月	yuè	ㄩㄝˋ	bulan	month, moon	核心詞	月	TOCFL-Novice2-0015
+TBCL-W0169	1	再見	zàijiàn	ㄗㄞˋ ㄐㄧㄢˋ	sampai jumpa	goodbye	核心詞	再見	TOCFL-Novice1-0115
+TBCL-W0170	1	早	zǎo	ㄗㄠˇ	awal, pagi	early, morning	核心詞	早	TOCFL-Level3-1069; TOCFL-Novice1-0097
+TBCL-W0171	1	早安	zǎoān	ㄗㄠˇ ㄢ	selamat pagi	good morning	核心詞	早安	
+TBCL-W0172	1	早上	zǎoshàng	ㄗㄠˇ ㄕㄤˋ	pagi hari	morning	核心詞	早上	TOCFL-Novice1-0026
+TBCL-W0173	1	怎麼	zěnme	ㄗㄣˇ ˙ㄇㄜ	bagaimana	how	核心詞	怎麼	TOCFL-Novice2-0130
+TBCL-W0174	1	找	zhǎo	ㄓㄠˇ	mencari	to look for	核心詞	找	TOCFL-Novice1-0113
+TBCL-W0175	1	這	zhè	ㄓㄜˋ	ini	this	核心詞	這	TOCFL-Novice1-0121
+TBCL-W0176	1	這裡 / 這裏 / 這兒	zhèlǐ / zhèlǐ / zhèr	ㄓㄜˋ ㄌㄧˇ / ㄓㄜˋ ㄌㄧˇ / ㄓㄜˋ ㄦ	di sini	here	核心詞	這裡/這裏/這兒	TOCFL-Novice1-0129
+TBCL-W0177	1	知道	zhīdào	ㄓ ㄉㄠˋ	tahu	to know	核心詞	知道	TOCFL-Novice1-0093
+TBCL-W0178	1	中文	zhōngwén	ㄓㄨㄥ ㄨㄣˊ	bahasa Tionghoa	Chinese language	核心詞	中文	TOCFL-Novice1-0080
+TBCL-W0179	1	中午	zhōngwǔ	ㄓㄨㄥ ㄨˇ	tengah hari	noon	核心詞	中午	TOCFL-Novice1-0028
+TBCL-W0180	1	字	zì	ㄗˋ	aksara, huruf	character, letter	核心詞	字	TOCFL-Novice1-0082
+TBCL-W0181	1	走	zǒu	ㄗㄡˇ	berjalan, pergi	to walk, leave	核心詞	走	TOCFL-Novice1-0103
+TBCL-W0182	1	做	zuò	ㄗㄨㄛˋ	membuat, melakukan	to make, to do	核心詞	做	TOCFL-Novice1-0114
+TBCL-W0183	1	坐	zuò	ㄗㄨㄛˋ	duduk, naik kendaraan	to sit, ride	核心詞	坐	TOCFL-Novice1-0128
+TBCL-W0184	1	昨天	zuótiān	ㄗㄨㄛˊ ㄊㄧㄢ	kemarin	yesterday	核心詞	昨天	TOCFL-Novice1-0025
+TBCL-W0185	1*	矮	ǎi	ㄞˇ	pendek, bertubuh pendek	short in height	核心詞	矮	TOCFL-Novice2-0033
+TBCL-W0186	1*	白	bái	ㄅㄞˊ	putih	white	核心詞	白	TOCFL-Level3-0014; TOCFL-Level3-0015
+TBCL-W0187	1*	飽	bǎo	ㄅㄠˇ	kenyang	full after eating	核心詞	飽	TOCFL-Novice2-0187
+TBCL-W0188	1*	包子	bāozi	ㄅㄠ ˙ㄗ	bakpao	steamed stuffed bun	餐飲、烹飪	包子	TOCFL-Novice2-0208
+TBCL-W0189	1*	杯	bēi	ㄅㄟ	cangkir, kata penggolong minuman	cup, classifier for drinks		杯	TOCFL-Novice2-0194
+TBCL-W0190	1*	杯子	bēizi	ㄅㄟ ˙ㄗ	gelas, cangkir	cup, glass	核心詞	杯子	
+TBCL-W0191	1*	筆	bǐ	ㄅㄧˇ	pena, alat tulis	pen, writing instrument	核心詞	筆	TOCFL-Level3-0041; TOCFL-Novice1-0083
+TBCL-W0192	1*	比	bǐ	ㄅㄧˇ	dibandingkan dengan, membandingkan	than, to compare	核心詞	比	TOCFL-Level3-0042; TOCFL-Novice2-0177
+TBCL-W0193	1*	邊	biān	ㄅㄧㄢ	sisi, tepi	side, edge	核心詞	邊	TOCFL-Novice2-0228
+TBCL-W0194	1*	別	bié	ㄅㄧㄝˊ	jangan, lain	don’t, other	核心詞	別	TOCFL-Level5-0113; TOCFL-Novice2-0229
+TBCL-W0195	1*	冰	bīng	ㄅㄧㄥ	es	ice	餐飲、烹飪	冰	TOCFL-Level4-0092; TOCFL-Novice2-0220
+TBCL-W0196	1*	病	bìng	ㄅㄧㄥˋ	penyakit, sakit	illness, to be ill	身體、醫療	病	TOCFL-Level3-0057; TOCFL-Novice2-0172
+TBCL-W0197	1*	鼻子 / 鼻	bízi / bí	ㄅㄧˊ ˙ㄗ / ㄅㄧˊ	hidung	nose	核心詞	鼻子/鼻	
+TBCL-W0198	1*	不錯	búcuò	ㄅㄨˊ ㄘㄨㄛˋ	lumayan bagus	pretty good	核心詞	不錯	TOCFL-Novice2-0089
+TBCL-W0199	1*	菜	cài	ㄘㄞˋ	sayur, hidangan	vegetables, dish	餐飲、烹飪	菜	TOCFL-Novice2-0196
+TBCL-W0200	1*	餐廳	cāntīng	ㄘㄢ ㄊㄧㄥ	restoran, ruang makan	restaurant, dining room	餐飲、烹飪	餐廳	TOCFL-Novice2-0061
+TBCL-W0201	1*	長	cháng	ㄔㄤˊ	panjang	long	核心詞	長1	TOCFL-Level1-0143; TOCFL-Novice2-0179
+TBCL-W0202	1*	唱	chàng	ㄔㄤˋ	bernyanyi	to sing	核心詞	唱	TOCFL-Novice2-0122
+TBCL-W0203	1*	唱歌	chàng gē	ㄔㄤˋ ㄍㄜ	menyanyikan lagu	to sing a song	休閒、娛樂	唱歌	TOCFL-Novice2-0119
+TBCL-W0204	1*	常常 / 常	chángcháng / cháng	ㄔㄤˊ ㄔㄤˊ / ㄔㄤˊ	sering	often	核心詞	常常/常	TOCFL-Novice2-0113
+TBCL-W0205	1*	出	chū	ㄔㄨ	keluar	to go out	核心詞	出	TOCFL-Level4-0232; TOCFL-Novice2-0155
+TBCL-W0206	1*	穿	chuān	ㄔㄨㄢ	memakai pakaian	to wear, to put on	日常起居	穿	TOCFL-Novice2-0107
+TBCL-W0207	1*	床	chuáng	ㄔㄨㄤˊ	tempat tidur	bed	核心詞	床	TOCFL-Level4-0237; TOCFL-Novice2-0086
+TBCL-W0208	1*	從	cóng	ㄘㄨㄥˊ	dari, sejak	from, since	核心詞	從	TOCFL-Level4-0273; TOCFL-Novice2-0023
+TBCL-W0209	1*	錯	cuò	ㄘㄨㄛˋ	salah	wrong	核心詞	錯	TOCFL-Level3-0130; TOCFL-Novice2-0074
+TBCL-W0210	1*	蛋	dàn	ㄉㄢˋ	telur	egg	餐飲、烹飪	蛋	TOCFL-Novice2-0204
+TBCL-W0211	1*	得	de	˙ㄉㄜ	partikel penghubung verba dengan keterangan hasil atau derajat	particle linking a verb to a result or degree complement	核心詞	得2	TOCFL-Level3-0168; TOCFL-Novice1-0158; TOCFL-Novice2-0232
+TBCL-W0212	1*	得	děi	ㄉㄟˇ	harus	must, have to	核心詞	得1	TOCFL-Level3-0168; TOCFL-Novice1-0158; TOCFL-Novice2-0232
+TBCL-W0213	1*	等	děng	ㄉㄥˇ	menunggu	to wait	核心詞	等	TOCFL-Level2-0435; TOCFL-Novice1-0104
+TBCL-W0214	1*	低	dī	ㄉㄧ	rendah	low	核心詞	低	TOCFL-Novice2-0088
+TBCL-W0215	1*	店	diàn	ㄉㄧㄢˋ	toko	shop	核心詞	店	TOCFL-Novice2-0185
+TBCL-W0216	1*	電腦	diànnǎo	ㄉㄧㄢˋ ㄋㄠˇ	komputer	computer	核心詞	電腦	TOCFL-Novice1-0073
+TBCL-W0217	1*	電視	diànshì	ㄉㄧㄢˋ ㄕˋ	televisi	television	日常起居	電視	
+TBCL-W0218	1*	電影	diànyǐng	ㄉㄧㄢˋ ㄧㄥˇ	film	movie	休閒、娛樂	電影	TOCFL-Novice1-0100
+TBCL-W0219	1*	地方	dìfāng	ㄉㄧˋ ㄈㄤ	tempat	place	核心詞	地方	TOCFL-Novice2-0144
+TBCL-W0220	1*	懂	dǒng	ㄉㄨㄥˇ	mengerti	to understand	核心詞	懂	TOCFL-Novice2-0069
+TBCL-W0221	1*	讀	dú	ㄉㄨˊ	membaca, bersekolah	to read, to study	核心詞	讀	TOCFL-Novice2-0063
+TBCL-W0222	1*	短	duǎn	ㄉㄨㄢˇ	pendek, singkat	short, brief	核心詞	短	TOCFL-Novice2-0186
+TBCL-W0223	1*	多久	duōjiǔ	ㄉㄨㄛ ㄐㄧㄡˇ	berapa lama	how long	核心詞	多久	
+TBCL-W0224	1*	餓	è	ㄜˋ	lapar	hungry	核心詞	餓	TOCFL-Novice2-0169
+TBCL-W0225	1*	耳朵	ěrduo	ㄦˇ ˙ㄉㄨㄛ	telinga	ear	身體、醫療	耳朵	TOCFL-Novice2-0166
+TBCL-W0226	1*	飯	fàn	ㄈㄢˋ	nasi matang, makanan	cooked rice, meal	核心詞	飯	TOCFL-Novice1-0147
+TBCL-W0227	1*	方便	fāngbiàn	ㄈㄤ ㄅㄧㄢˋ	praktis, mudah	convenient	核心詞	方便	TOCFL-Novice2-0109
+TBCL-W0228	1*	房間	fángjiān	ㄈㄤˊ ㄐㄧㄢ	kamar, ruangan	room	核心詞	房間	TOCFL-Novice2-0080
+TBCL-W0229	1*	房子	fángzi	ㄈㄤˊ ˙ㄗ	rumah	house	核心詞	房子	
+TBCL-W0230	1*	非常	fēicháng	ㄈㄟ ㄔㄤˊ	sangat	very, extremely	核心詞	非常	TOCFL-Novice2-0050
+TBCL-W0231	1*	飛機	fēijī	ㄈㄟ ㄐㄧ	pesawat terbang	airplane	交通、旅遊	飛機	TOCFL-Novice2-0153
+TBCL-W0232	1*	風	fēng	ㄈㄥ	angin	wind	核心詞	風	TOCFL-Novice2-0096
+TBCL-W0233	1*	分鐘	fēnzhōng	ㄈㄣ ㄓㄨㄥ	menit	minute	核心詞	分鐘	TOCFL-Novice2-0030
+TBCL-W0234	1*	附近	fùjìn	ㄈㄨˋ ㄐㄧㄣˋ	sekitar, dekat	nearby, vicinity	核心詞	附近	TOCFL-Novice2-0145
+TBCL-W0235	1*	感冒	gǎnmào	ㄍㄢˇ ㄇㄠˋ	pilek, selesma	a cold, to catch a cold	身體、醫療	感冒	TOCFL-Novice2-0167
+TBCL-W0236	1*	告訴	gàosù	ㄍㄠˋ ㄙㄨˋ	memberi tahu	to tell	核心詞	告訴1	TOCFL-Novice2-0073
+TBCL-W0237	1*	歌	gē	ㄍㄜ	lagu	song	核心詞	歌	TOCFL-Novice2-0123
+TBCL-W0238	1*	跟	gēn	ㄍㄣ	dengan, mengikuti	with, to follow	核心詞	跟	TOCFL-Level3-0269; TOCFL-Novice2-0225
+TBCL-W0239	1*	公車	gōngchē	ㄍㄨㄥ ㄔㄜ	bus umum	public bus	交通、旅遊	公車	TOCFL-Novice1-0123
+TBCL-W0240	1*	功課	gōngkè	ㄍㄨㄥ ㄎㄜˋ	pekerjaan rumah, pelajaran	homework, schoolwork	教育、學習	功課	TOCFL-Novice2-0075
+TBCL-W0241	1*	公園	gōngyuán	ㄍㄨㄥ ㄩㄢˊ	taman umum	public park	日常起居	公園	TOCFL-Novice2-0028
+TBCL-W0242	1*	夠	gòu	ㄍㄡˋ	cukup	enough	核心詞	夠	TOCFL-Level3-0292; TOCFL-Novice2-0191
+TBCL-W0243	1*	貴	guì	ㄍㄨㄟˋ	mahal, terhormat	expensive, honorable	個人資料	貴	TOCFL-Level5-0759; TOCFL-Novice1-0136
+TBCL-W0244	1*	過	guò	ㄍㄨㄛˋ	melewati, pernah	to pass, experiential particle	核心詞	過	TOCFL-Level1-0329; TOCFL-Level4-0657; TOCFL-Novice1-0159
+TBCL-W0245	1*	國家	guójiā	ㄍㄨㄛˊ ㄐㄧㄚ	negara	country	交通、旅遊	國家	TOCFL-Novice2-0029
+TBCL-W0246	1*	還	hái	ㄏㄞˊ	masih, juga	still, also	核心詞	還1	TOCFL-Level1-0098; TOCFL-Novice2-0121
+TBCL-W0247	1*	還是	háishì	ㄏㄞˊ ㄕˋ	atau dalam pertanyaan, tetap	or in questions, still	核心詞	還是	TOCFL-Level3-0325; TOCFL-Novice1-0156
+TBCL-W0248	1*	黑	hēi	ㄏㄟ	hitam	black	核心詞	黑	TOCFL-Level3-0339
+TBCL-W0249	1*	紅	hóng	ㄏㄨㄥˊ	merah	red	核心詞	紅	TOCFL-Level3-0342
+TBCL-W0250	1*	後年	hòunián	ㄏㄡˋ ㄋㄧㄢˊ	dua tahun lagi	the year after next	核心詞	後年	TOCFL-Novice2-0041
+TBCL-W0251	1*	後天	hòutiān	ㄏㄡˋ ㄊㄧㄢ	lusa	the day after tomorrow	核心詞	後天	TOCFL-Novice2-0039
+TBCL-W0252	1*	花	huā	ㄏㄨㄚ	bunga	flower	核心詞	花1	TOCFL-Level2-0339; TOCFL-Novice2-0098
+TBCL-W0253	1*	畫	huà	ㄏㄨㄚˋ	menggambar, lukisan	to draw, painting	核心詞	畫	TOCFL-Novice2-0062
+TBCL-W0254	1*	會	huì	ㄏㄨㄟˋ	bisa karena sudah belajar, akan	to know how to, will	核心詞	會	TOCFL-Level3-0361; TOCFL-Novice2-0064
+TBCL-W0255	1*	火車	huǒchē	ㄏㄨㄛˇ ㄔㄜ	kereta api	train	交通、旅遊	火車	TOCFL-Novice2-0152
+TBCL-W0256	1*	雞	jī	ㄐㄧ	ayam	chicken	個人資料	雞	TOCFL-Novice2-0101
+TBCL-W0257	1*	見	jiàn	ㄐㄧㄢˋ	melihat, bertemu	to see, to meet	核心詞	見	TOCFL-Novice2-0182
+TBCL-W0258	1*	件	jiàn	ㄐㄧㄢˋ	kata penggolong pakaian atau perkara	classifier for garments or matters	核心詞	件	TOCFL-Novice2-0193
+TBCL-W0259	1*	教	jiāo	ㄐㄧㄠ	mengajar	to teach	核心詞	教1	TOCFL-Level3-0415; TOCFL-Novice2-0072
+TBCL-W0260	1*	教室	jiàoshì	ㄐㄧㄠˋ ㄕˋ	ruang kelas	classroom	教育、學習	教室	TOCFL-Novice2-0076
+TBCL-W0261	1*	家人	jiārén	ㄐㄧㄚ ㄖㄣˊ	anggota keluarga	family member	個人資料	家人	TOCFL-Novice2-0031
+TBCL-W0262	1*	計程車	jìchéngchē	ㄐㄧˋ ㄔㄥˊ ㄔㄜ	taksi	taxi	交通、旅遊	計程車	TOCFL-Novice2-0151
+TBCL-W0263	1*	介紹	jièshào	ㄐㄧㄝˋ ㄕㄠˋ	memperkenalkan	to introduce	社交、人際	介紹	TOCFL-Novice2-0127
+TBCL-W0264	1*	進	jìn	ㄐㄧㄣˋ	masuk	to enter	核心詞	進	TOCFL-Level3-0446; TOCFL-Novice2-0156
+TBCL-W0265	1*	酒	jiǔ	ㄐㄧㄡˇ	minuman beralkohol	alcoholic drink	餐飲、烹飪	酒	TOCFL-Novice2-0198
+TBCL-W0266	1*	舊	jiù	ㄐㄧㄡˋ	lama, bekas	old, used	核心詞	舊	TOCFL-Novice2-0188
+TBCL-W0267	1*	覺得	juéde	ㄐㄩㄝˊ ˙ㄉㄜ	merasa, berpendapat	to feel, to think	核心詞	覺得	TOCFL-Novice1-0064
+TBCL-W0268	1*	句子	jùzi	ㄐㄩˋ ˙ㄗ	kalimat	sentence	教育、學習	句子	TOCFL-Novice2-0077
+TBCL-W0269	1*	開	kāi	ㄎㄞ	membuka, mengemudi	to open, to drive	核心詞	開	TOCFL-Level4-0980; TOCFL-Novice2-0087
+TBCL-W0270	1*	開車	kāichē	ㄎㄞ ㄔㄜ	mengemudi	to drive	交通、旅遊	開車	TOCFL-Novice1-0132
+TBCL-W0271	1*	看病	kànbìng	ㄎㄢˋ ㄅㄧㄥˋ	berobat, memeriksa pasien	to see a doctor, treat a patient	身體、醫療	看病	TOCFL-Novice2-0173
+TBCL-W0272	1*	看到	kàndào	ㄎㄢˋ ㄉㄠˋ	berhasil melihat	to catch sight of	核心詞	看到	
+TBCL-W0273	1*	看見	kànjiàn	ㄎㄢˋ ㄐㄧㄢˋ	melihat	to see	核心詞	看見	TOCFL-Novice2-0183
+TBCL-W0274	1*	考試	kǎoshì	ㄎㄠˇ ㄕˋ	ujian, mengikuti ujian	exam, to take an exam	教育、學習	考試	TOCFL-Novice2-0068
+TBCL-W0275	1*	課	kè	ㄎㄜˋ	pelajaran, kelas	lesson, class	教育、學習	課	TOCFL-Novice2-0071
+TBCL-W0276	1*	可是	kěshì	ㄎㄜˇ ㄕˋ	tetapi	but	核心詞	可是	TOCFL-Level4-1010; TOCFL-Novice1-0155
+TBCL-W0277	1*	空氣	kōngqì	ㄎㄨㄥ ㄑㄧˋ	udara	air	自然環境	空氣	TOCFL-Novice2-0091
+TBCL-W0278	1*	快	kuài	ㄎㄨㄞˋ	cepat, sebentar lagi	fast, soon	核心詞	快	TOCFL-Level3-0508; TOCFL-Novice2-0149
+TBCL-W0279	1*	快樂	kuàilè	ㄎㄨㄞˋ ㄌㄜˋ	gembira	happy	核心詞	快樂	TOCFL-Novice2-0026
+TBCL-W0280	1*	筷子 / 筷	kuàizi / kuài	ㄎㄨㄞˋ ˙ㄗ / ㄎㄨㄞˋ	sumpit	chopsticks	餐飲、烹飪	筷子/筷	
+TBCL-W0281	1*	累	lèi	ㄌㄟˋ	lelah	tired	核心詞	累1	TOCFL-Novice2-0164
+TBCL-W0282	1*	裡 / 裏	lǐ	ㄌㄧˇ	di dalam	inside	核心詞	裡/裏	TOCFL-Level3-1007; TOCFL-Novice2-0142
+TBCL-W0283	1*	輛	liàng	ㄌㄧㄤˋ	kata penggolong kendaraan	classifier for vehicles	核心詞	輛	TOCFL-Novice2-0154
+TBCL-W0284	1*	禮拜天	lǐbàitiān	ㄌㄧˇ ㄅㄞˋ ㄊㄧㄢ	hari Minggu	Sunday	核心詞	禮拜天	TOCFL-Novice2-0019
+TBCL-W0285	1*	裡面 / 裏面	lǐmiàn	ㄌㄧˇ ㄇㄧㄢˋ	bagian dalam, di dalam	interior, inside	核心詞	裡面/裏面	TOCFL-Novice2-0132
+TBCL-W0286	1*	樓	lóu	ㄌㄡˊ	gedung bertingkat, lantai	building, floor	日常起居	樓	TOCFL-Novice2-0081
+TBCL-W0287	1*	慢	màn	ㄇㄢˋ	pelan, lambat	slow	核心詞	慢	TOCFL-Novice2-0150
+TBCL-W0288	1*	忙	máng	ㄇㄤˊ	sibuk	busy	核心詞	忙	TOCFL-Novice1-0076
+TBCL-W0289	1*	馬上	mǎshàng	ㄇㄚˇ ㄕㄤˋ	segera	right away	核心詞	馬上	TOCFL-Novice2-0230
+TBCL-W0290	1*	美	měi	ㄇㄟˇ	indah	beautiful	核心詞	美	TOCFL-Novice2-0047
+TBCL-W0291	1*	每	měi	ㄇㄟˇ	setiap	each, every	核心詞	每	TOCFL-Level3-0582; TOCFL-Novice2-0114
+TBCL-W0292	1*	門	mén	ㄇㄣˊ	pintu	door	核心詞	門	TOCFL-Level3-0586; TOCFL-Novice2-0082
+TBCL-W0293	1*	門口	ménkǒu	ㄇㄣˊ ㄎㄡˇ	pintu masuk, depan pintu	entrance, doorway	核心詞	門口	TOCFL-Novice2-0083
+TBCL-W0294	1*	麵	miàn	ㄇㄧㄢˋ	mi, tepung terigu	noodles, wheat flour	餐飲、烹飪	麵	TOCFL-Novice2-0206
+TBCL-W0295	1*	麵包	miànbāo	ㄇㄧㄢˋ ㄅㄠ	roti	bread	餐飲、烹飪	麵包	TOCFL-Novice2-0210
+TBCL-W0296	1*	明年	míngnián	ㄇㄧㄥˊ ㄋㄧㄢˊ	tahun depan	next year	核心詞	明年	TOCFL-Novice2-0012
+TBCL-W0297	1*	男	nán	ㄋㄢˊ	laki-laki	male	核心詞	男	TOCFL-Novice2-0001
+TBCL-W0298	1*	能	néng	ㄋㄥˊ	mampu, bisa	can, be able to	核心詞	能	TOCFL-Novice1-0090
+TBCL-W0299	1*	唸 / 念	niàn	ㄋㄧㄢˋ	membaca nyaring, belajar	to read aloud, study	核心詞	唸/念	TOCFL-Novice2-0070
+TBCL-W0300	1*	牛	niú	ㄋㄧㄡˊ	sapi	cow, cattle	個人資料	牛	TOCFL-Novice2-0102
+TBCL-W0301	1*	牛奶	niúnǎi	ㄋㄧㄡˊ ㄋㄞˇ	susu sapi	cow’s milk	餐飲、烹飪	牛奶	TOCFL-Novice2-0203
+TBCL-W0302	1*	女	nǚ	ㄋㄩˇ	perempuan	female	核心詞	女	TOCFL-Novice2-0002
+TBCL-W0303	1*	怕	pà	ㄆㄚˋ	takut	to fear	核心詞	怕	TOCFL-Novice2-0046
+TBCL-W0304	1*	胖	pàng	ㄆㄤˋ	gemuk	fat, overweight	身體、醫療	胖	TOCFL-Novice2-0032
+TBCL-W0305	1*	旁邊 / 旁	pángbiān / páng	ㄆㄤˊ ㄅㄧㄢ / ㄆㄤˊ	di samping	beside	核心詞	旁邊/旁	
+TBCL-W0306	1*	便宜	piányí	ㄆㄧㄢˊ ㄧˊ	murah	cheap, inexpensive	日常起居	便宜	TOCFL-Level5-1491; TOCFL-Novice1-0137
+TBCL-W0307	1*	漂亮	piàoliàng	ㄆㄧㄠˋ ㄌㄧㄤˋ	cantik, bagus	pretty, beautiful	核心詞	漂亮	TOCFL-Novice1-0067
+TBCL-W0308	1*	前面	qiánmiàn	ㄑㄧㄢˊ ㄇㄧㄢˋ	di depan	in front	核心詞	前面	
+TBCL-W0309	1*	前年	qiánnián	ㄑㄧㄢˊ ㄋㄧㄢˊ	dua tahun lalu	the year before last	核心詞	前年	TOCFL-Novice2-0040
+TBCL-W0310	1*	前天	qiántiān	ㄑㄧㄢˊ ㄊㄧㄢ	kemarin lusa	the day before yesterday	核心詞	前天	TOCFL-Novice2-0038
+TBCL-W0311	1*	起床	qǐchuáng	ㄑㄧˇ ㄔㄨㄤˊ	bangun dari tempat tidur	to get out of bed	日常起居	起床	TOCFL-Novice2-0108
+TBCL-W0312	1*	起來	qǐlái	ㄑㄧˇ ㄌㄞˊ	bangkit, berdiri	to get up, rise	核心詞	起來	TOCFL-Level3-0675; TOCFL-Novice2-0111
+TBCL-W0313	1*	球	qiú	ㄑㄧㄡˊ	bola	ball	休閒、娛樂	球	TOCFL-Novice2-0126
+TBCL-W0314	1*	然後	ránhòu	ㄖㄢˊ ㄏㄡˋ	lalu, kemudian	then, afterwards	核心詞	然後	TOCFL-Novice2-0231
+TBCL-W0315	1*	肉	ròu	ㄖㄡˋ	daging	meat	餐飲、烹飪	肉	TOCFL-Novice2-0197
+TBCL-W0316	1*	山	shān	ㄕㄢ	gunung	mountain	核心詞	山	TOCFL-Novice2-0097
+TBCL-W0317	1*	上課	shàngkè	ㄕㄤˋ ㄎㄜˋ	mengikuti atau mengajar kelas	to attend or teach a class	教育、學習	上課	TOCFL-Novice1-0092
+TBCL-W0318	1*	生病	shēngbìng	ㄕㄥ ㄅㄧㄥˋ	jatuh sakit	to fall ill	身體、醫療	生病	TOCFL-Novice2-0168
+TBCL-W0319	1*	生日	shēngrì	ㄕㄥ ㄖˋ	ulang tahun	birthday	個人資料	生日	TOCFL-Novice2-0014
+TBCL-W0320	1*	身體	shēntǐ	ㄕㄣ ㄊㄧˇ	tubuh, kesehatan	body, health	身體、醫療	身體	TOCFL-Novice2-0160
+TBCL-W0321	1*	事	shì / shìr	ㄕˋ / ㄕˋ ㄦ	urusan, hal	matter, affair	核心詞	事	TOCFL-Novice2-0129
+TBCL-W0322	1*	手	shǒu	ㄕㄡˇ	tangan	hand	核心詞	手	TOCFL-Novice2-0158
+TBCL-W0323	1*	瘦	shòu	ㄕㄡˋ	kurus	thin, slim	身體、醫療	瘦	TOCFL-Novice2-0034
+TBCL-W0324	1*	雙	shuāng	ㄕㄨㄤ	pasang, kata penggolong benda berpasangan	pair, classifier for pairs	核心詞	雙	TOCFL-Level1-0275; TOCFL-Level3-0798
+TBCL-W0325	1*	舒服	shūfu	ㄕㄨ ˙ㄈㄨ	nyaman, enak badan	comfortable, feeling well	核心詞	舒服	
+TBCL-W0326	1*	水果	shuǐguǒ	ㄕㄨㄟˇ ㄍㄨㄛˇ	buah-buahan	fruit	餐飲、烹飪	水果	TOCFL-Novice2-0211
+TBCL-W0327	1*	說話	shuōhuà	ㄕㄨㄛ ㄏㄨㄚˋ	berbicara	to speak	核心詞	說話	TOCFL-Novice2-0067
+TBCL-W0328	1*	所以	suǒyǐ	ㄙㄨㄛˇ ㄧˇ	jadi, oleh karena itu	so, therefore	核心詞	所以	TOCFL-Novice2-0224
+TBCL-W0329	1*	它	tā	ㄊㄚ	ia, untuk benda atau hewan	it	核心詞	它	TOCFL-Novice2-0043
+TBCL-W0330	1*	湯	tāng	ㄊㄤ	sup, kuah	soup, broth	餐飲、烹飪	湯	TOCFL-Novice2-0207
+TBCL-W0331	1*	甜	tián	ㄊㄧㄢˊ	manis	sweet	餐飲、烹飪	甜	TOCFL-Novice2-0216
+TBCL-W0332	1*	天氣	tiānqì	ㄊㄧㄢ ㄑㄧˋ	cuaca	weather	交通、旅遊	天氣	TOCFL-Novice2-0090
+TBCL-W0333	1*	跳	tiào	ㄊㄧㄠˋ	melompat	to jump	核心詞	跳	TOCFL-Novice2-0120
+TBCL-W0334	1*	跳舞	tiàowǔ	ㄊㄧㄠˋ ㄨˇ	menari	to dance	休閒、娛樂	跳舞	TOCFL-Novice2-0124
+TBCL-W0335	1*	聽見	tīngjiàn	ㄊㄧㄥ ㄐㄧㄢˋ	mendengar	to hear	核心詞	聽見	TOCFL-Novice2-0184
+TBCL-W0336	1*	痛	tòng	ㄊㄨㄥˋ	sakit, nyeri	painful, to hurt	核心詞	痛	TOCFL-Novice2-0170
+TBCL-W0337	1*	頭	tóu	ㄊㄡˊ	kepala	head	核心詞	頭	TOCFL-Level3-0857; TOCFL-Level4-1727; TOCFL-Novice2-0165
+TBCL-W0338	1*	外國	wàiguó	ㄨㄞˋ ㄍㄨㄛˊ	negara asing	foreign country	核心詞	外國	TOCFL-Novice2-0157
+TBCL-W0339	1*	外頭	wàitou	ㄨㄞˋ ˙ㄊㄡ	di luar	outside	核心詞	外頭	
+TBCL-W0340	1*	玩	wán	ㄨㄢˊ	bermain	to play	核心詞	玩	TOCFL-Novice2-0116
+TBCL-W0341	1*	晚	wǎn	ㄨㄢˇ	malam, terlambat	evening, late	核心詞	晚	TOCFL-Level3-0878; TOCFL-Novice2-0037
+TBCL-W0342	1*	碗	wǎn	ㄨㄢˇ	mangkuk	bowl	餐飲、烹飪	碗	TOCFL-Novice2-0219
+TBCL-W0343	1*	萬	wàn	ㄨㄢˋ	sepuluh ribu	ten thousand	核心詞	萬	TOCFL-Novice2-0035
+TBCL-W0344	1*	晚餐 / 晚飯	wǎncān / wǎnfàn	ㄨㄢˇ ㄘㄢ / ㄨㄢˇ ㄈㄢˋ	makan malam	dinner	核心詞	晚餐/晚飯	
+TBCL-W0345	1*	為什麼	wèishénme	ㄨㄟˋ ㄕㄣˊ ˙ㄇㄛ	mengapa	why	核心詞	為什麼	TOCFL-Novice2-0065
+TBCL-W0346	1*	午餐 / 午飯	wǔcān / wǔfàn	ㄨˇ ㄘㄢ / ㄨˇ ㄈㄢˋ	makan siang	lunch	核心詞	午餐/午飯	
+TBCL-W0347	1*	下	xià	ㄒㄧㄚˋ	bawah, turun	below, to go down	核心詞	下	TOCFL-Level2-0294; TOCFL-Level3-0922
+TBCL-W0348	1*	下課	xiàkè	ㄒㄧㄚˋ ㄎㄜˋ	selesai kelas	class ends	教育、學習	下課	TOCFL-Novice2-0066
+TBCL-W0349	1*	先	xiān	ㄒㄧㄢ	terlebih dahulu	first, beforehand	核心詞	先	TOCFL-Novice2-0112
+TBCL-W0350	1*	像	xiàng	ㄒㄧㄤˋ	mirip, seperti	to resemble, like	核心詞	像	TOCFL-Novice2-0189
+TBCL-W0351	1*	小吃	xiǎochī	ㄒㄧㄠˇ ㄔ	jajanan, makanan ringan	snack, street food	購物、商店	小吃	TOCFL-Novice2-0202
+TBCL-W0352	1*	下雨	xiàyǔ	ㄒㄧㄚˋ ㄩˇ	turun hujan	to rain	自然環境	下雨	TOCFL-Novice2-0095
+TBCL-W0353	1*	鞋子 / 鞋	xiézi / xié	ㄒㄧㄝˊ ˙ㄗ / ㄒㄧㄝˊ	sepatu	shoe	核心詞	鞋子/鞋	
+TBCL-W0354	1*	姓	xìng	ㄒㄧㄥˋ	nama keluarga, bermarga	surname, to be surnamed	個人資料	姓	TOCFL-Level3-0965; TOCFL-Novice1-0063
+TBCL-W0355	1*	星期	xīngqí	ㄒㄧㄥ ㄑㄧˊ	pekan, hari dalam pekan	week, day of the week	核心詞	星期	TOCFL-Novice2-0017
+TBCL-W0356	1*	休息	xiūxí	ㄒㄧㄡ ㄒㄧˊ	beristirahat	to rest	身體、醫療	休息	TOCFL-Novice2-0078
+TBCL-W0357	1*	眼睛	yǎnjīng	ㄧㄢˇ ㄐㄧㄥ	mata	eyes	身體、醫療	眼睛	TOCFL-Novice2-0161
+TBCL-W0358	1*	藥	yào	ㄧㄠˋ	obat	medicine	身體、醫療	藥	TOCFL-Novice2-0163
+TBCL-W0359	1*	一點 / 一點點 / 一點兒	yìdiǎn / yìdiǎndiǎn / yìdiǎr	ㄧˋ ㄉㄧㄢˇ / ㄧˋ ㄉㄧㄢˇ ㄉㄧㄢˇ / ㄧˋ ㄉㄧㄢˇ ㄦ	sedikit	a little	核心詞	一點/一點點/一點兒	TOCFL-Level3-1009; TOCFL-Novice2-0053
+TBCL-W0360	1*	一定	yídìng	ㄧˊ ㄉㄧㄥˋ	pasti	certainly, definitely	核心詞	一定	TOCFL-Level5-2344; TOCFL-Novice2-0226
+TBCL-W0361	1*	衣服 / 衣	yīfú / yī	ㄧ ㄈㄨˊ / ㄧ	pakaian	clothes	核心詞	衣服/衣	TOCFL-Novice2-0176
+TBCL-W0362	1*	一共 / 共	yígòng / gòng	ㄧˊ ㄍㄨㄥˋ / ㄍㄨㄥˋ	seluruhnya, total	altogether, in total	核心詞	一共/共	TOCFL-Novice2-0190
+TBCL-W0363	1*	以後	yǐhòu	ㄧˇ ㄏㄡˋ	setelah itu, nanti	afterward, later	核心詞	以後	TOCFL-Novice1-0102
+TBCL-W0364	1*	應該 / 應	yīnggāi / yīng	ㄧㄥ ㄍㄞ / ㄧㄥ	seharusnya	should, ought to	核心詞	應該/應1	TOCFL-Level5-2401; TOCFL-Novice2-0048
+TBCL-W0365	1*	因為	yīnwèi	ㄧㄣ ㄨㄟˋ	karena	because	核心詞	因為	TOCFL-Novice2-0222
+TBCL-W0366	1*	以前	yǐqián	ㄧˇ ㄑㄧㄢˊ	sebelumnya, dahulu	before, formerly	核心詞	以前	TOCFL-Novice1-0101
+TBCL-W0367	1*	意思	yìsi	ㄧˋ ˙ㄙ	makna, maksud	meaning, intention	核心詞	意思	TOCFL-Novice2-0060
+TBCL-W0368	1*	一些	yìxiē	ㄧˋ　ㄒㄧㄝ	beberapa, sedikit	some, a few	核心詞	一些	TOCFL-Novice2-0054
+TBCL-W0369	1*	一樣	yíyàng	ㄧˊ ㄧㄤˋ	sama	the same	核心詞	一樣	TOCFL-Level3-1018; TOCFL-Novice2-0181
+TBCL-W0370	1*	椅子 / 椅	yǐzi / yǐ	ㄧˇ ˙ㄗ / ㄧˇ	kursi	chair	核心詞	椅子/椅	
+TBCL-W0371	1*	右	yòu	ㄧㄡˋ	kanan	right	核心詞	右	
+TBCL-W0372	1*	又	yòu	ㄧㄡˋ	lagi, dan juga	again, also	核心詞	又	TOCFL-Novice2-0125
+TBCL-W0373	1*	右邊	yòubiān	ㄧㄡˋ ㄅㄧㄢ	sebelah kanan	right side	核心詞	右邊	
+TBCL-W0374	1*	有點 / 有一點 / 有點兒	yǒudiǎn / yǒuyìdiǎn / yǒudiǎnr	ㄧㄡˇ ㄉㄧㄢˇ / ㄧㄡˇ ㄧˋ ㄉㄧㄢˇ / ㄧㄡˇ ㄉㄧㄢˇ ㄦ	agak, sedikit	a bit, somewhat	核心詞	有點/有一點/有點兒	TOCFL-Novice2-0234
+TBCL-W0375	1*	有時候 / 有時	yǒushíhòu / yǒushí	ㄧㄡˇ ㄕˊ ㄏㄡˋ / ㄧㄡˇ ㄕˊ	kadang-kadang	sometimes	核心詞	有時候/有時	TOCFL-Level1-0179
+TBCL-W0376	1*	魚	yú	ㄩˊ	ikan	fish	餐飲、烹飪	魚	TOCFL-Novice2-0100
+TBCL-W0377	1*	雨	yǔ	ㄩˇ	hujan	rain	自然環境	雨	TOCFL-Novice2-0094
+TBCL-W0378	1*	運動	yùndòng	ㄩㄣˋ ㄉㄨㄥˋ	berolahraga, olahraga	to exercise, sport	休閒、娛樂	運動	TOCFL-Novice2-0117
+TBCL-W0379	1*	再	zài	ㄗㄞˋ	lagi, kemudian	again, then	核心詞	再	TOCFL-Novice1-0098
+TBCL-W0380	1*	在	zài	ㄗㄞˋ	berada di, sedang	to be at, progressive marker	核心詞	在	TOCFL-Level1-0012; TOCFL-Level3-1066; TOCFL-Novice2-0024
+TBCL-W0381	1*	早餐 / 早飯	zǎocān / zǎofàn	ㄗㄠˇ ㄘㄢ / ㄗㄠˇ ㄈㄢˋ	sarapan	breakfast	核心詞	早餐/早飯	
+TBCL-W0382	1*	怎麼樣	zěnmeyàng	ㄗㄣˇ ˙ㄇㄜ ㄧㄤˋ	bagaimana, gimana?	how is it, how about it?	核心詞	怎麼樣	TOCFL-Novice1-0116
+TBCL-W0383	1*	站	zhàn	ㄓㄢˋ	berdiri, stasiun	to stand, station	核心詞	站	TOCFL-Level3-1095; TOCFL-Novice2-0148
+TBCL-W0384	1*	張	zhāng	ㄓㄤ	kata penggolong benda datar	classifier for flat objects	核心詞	張	TOCFL-Level4-2158; TOCFL-Novice2-0056
+TBCL-W0385	1*	真	zhēn	ㄓㄣ	benar, sungguh	true, really	核心詞	真	TOCFL-Novice1-0072
+TBCL-W0386	1*	真的	zhēnde	ㄓㄣ ˙ㄉㄜ	benar-benar, sungguhan	really, for real	核心詞	真的	TOCFL-Novice2-0049
+TBCL-W0387	1*	枝	zhī	ㄓ	ranting, kata penggolong benda panjang	branch, classifier for slender objects	核心詞	枝	TOCFL-Novice2-0099
+TBCL-W0388	1*	紙	zhǐ	ㄓˇ	kertas	paper	核心詞	紙	TOCFL-Novice2-0058
+TBCL-W0389	1*	只	zhǐ	ㄓˇ	hanya	only	核心詞	只	TOCFL-Level4-2213; TOCFL-Novice1-0154
+TBCL-W0390	1*	中	zhōng	ㄓㄨㄥ	tengah, di dalam	middle, within	核心詞	中1	TOCFL-Level4-2244; TOCFL-Level4-2247; TOCFL-Novice2-0143
+TBCL-W0391	1*	鐘頭	zhōngtóu	ㄓㄨㄥ ㄊㄡˊ	jam, satuan waktu	hour	核心詞	鐘頭	TOCFL-Novice2-0036
+TBCL-W0392	1*	週末 / 周末	zhōumò	ㄓㄡ ㄇㄛˋ	akhir pekan	weekend	核心詞	週末/周末	TOCFL-Novice2-0020
+TBCL-W0393	1*	豬	zhū	ㄓㄨ	babi	pig	個人資料	豬	TOCFL-Novice2-0103
+TBCL-W0394	1*	住	zhù	ㄓㄨˋ	tinggal, menetap	to live, reside	核心詞	住	TOCFL-Novice1-0060
+TBCL-W0395	1*	桌子 / 桌	zhuōzi / zhuō	ㄓㄨㄛ ˙ㄗ / ㄓㄨㄛ	meja	table	核心詞	桌子/桌	TOCFL-Level4-2299
+TBCL-W0396	1*	自己	zìjǐ	ㄗˋ ㄐㄧˇ	diri sendiri	oneself	核心詞	自己	TOCFL-Novice2-0042
+TBCL-W0397	1*	走路	zǒulù	ㄗㄡˇ ㄌㄨˋ	berjalan kaki	to walk	核心詞	走路	TOCFL-Novice2-0118
+TBCL-W0398	1*	最	zuì	ㄗㄨㄟˋ	paling	most, -est	核心詞	最	TOCFL-Novice2-0045
+TBCL-W0399	1*	嘴巴 / 嘴	zuǐba / zuǐ	ㄗㄨㄟˇ ˙ㄅㄚ / ㄗㄨㄟˇ	mulut	mouth	身體、醫療	嘴巴/嘴	TOCFL-Novice2-0171
+TBCL-W0400	1*	左	zuǒ	ㄗㄨㄛˇ	kiri	left	核心詞	左	

@@ -1,5 +1,7 @@
 # Kanton Hong Kong / Hong Kong Cantonese
 
+[184 entri pemula dari delapan bab EdUHK / 184 beginner entries from eight EdUHK chapters](kosakata/kanton-pemula-kosakata.md)
+
 **ID.** Jalur ini memakai bahasa Kanton lisan Hong Kong, aksara tradisional setempat, dan **Jyutping**. Tiap kartu menampilkan Jyutping bernomor nada, arti Indonesia dan Inggris, serta audio Kanton untuk kata dan kalimat. Catat dua register bila perlu, yaitu tulisan standar yang bisa dibaca dalam Kanton dan bentuk yang memang dipakai dalam percakapan. Rencana tingkat awal mengikuti kebutuhan percakapan sehari-hari dengan rujukan CUHK dan EDB. Label HSK dan TOCFL tetap milik jalur Mandarin. [Skema Jyutping LSHK](https://jyutping.org/en/jyutping/) · [Panduan pengajaran EDB](https://www.edb.gov.hk/attachment/en/student-parents/ncs-students/support-to-school/sg%20to%20chi%20lang%20curr%20ncs%20proper%20eng%20upload.pdf) · [Rujukan pembelajaran CUHK](https://www.cuhk.edu.hk/clc/ssp_faq.htm)
 
 **EN.** This track teaches everyday spoken Hong Kong Cantonese, local traditional glyph forms, and **Jyutping**. Each card supplies tone-numbered Jyutping, Indonesian and English glosses, and Cantonese recordings at word and sentence level. Track standard written Chinese read in Cantonese and genuinely colloquial written Cantonese as distinct registers when both are useful. Build a starter sequence from everyday uses with CUHK and EDB references. HSK and TOCFL labels belong to the Mandarin tracks. [LSHK Jyutping](https://jyutping.org/en/jyutping/) · [EDB teaching guide](https://www.edb.gov.hk/attachment/en/student-parents/ncs-students/support-to-school/sg%20to%20chi%20lang%20curr%20ncs%20proper%20eng%20upload.pdf) · [CUHK Cantonese study reference](https://www.cuhk.edu.hk/clc/ssp_faq.htm)
@@ -21,6 +23,37 @@
 | **緊 gan2** · aksi berlangsung / ongoing action | Seseorang mulai membaca, lalu masih membaca saat orang lain datang. / A person begins reading and is still doing so when someone arrives. |
 | **未 mei6** · belum / not yet | Satu kursi disiapkan untuk seseorang, lalu terlihat kursi itu masih kosong. / Set out a chair for someone, then show that they have not arrived yet. |
 | **呀 aa3** · penanda nada ujaran / sentence-final particle | Satu pernyataan diucapkan, lalu putar contoh pertanyaan dengan intonasi alami dan sorot partikel. / Play an utterance, then a natural question and highlight the particle. |
+
+## Contoh mnemonik arti dan bunyi / Example of meaning and sound cues
+
+**唔 m4** · tidak / not
+
+**ID.** Dalam dialog sehari-hari, seseorang ditawari minuman dan menolak dengan halus. Tahap pertama, cangkir disodorkan. Tahap kedua, orang itu menutup bibir sambil mengeluarkan dengung pendek `m` dan memberi isyarat menolak. Penolakan memancing arti *tidak*, bibir tertutup memancing bunyi `m`. Putar audio **m4** agar pembelajar mendengar nada rendah menurun. Dialog latihan bisa memakai **唔舒服** (*m4 syu1 fuk6*, tidak enak badan) setelah pembelajar mengenal **舒服** (*syu1 fuk6*, merasa nyaman atau enak badan).
+
+**EN.** In an everyday exchange, someone offers a drink and the other person politely declines. In stage one, the cup is offered. In stage two, the person keeps their lips together, hums a short `m`, and gestures to decline. The refusal cues *not* and the closed lips cue `m`. Play **m4** so the learner hears its low falling tone. For dialogue practice, introduce **舒服** (*syu1 fuk6*, to feel comfortable or well) before using **唔舒服** (*m4 syu1 fuk6*, to feel unwell).
+
+[Skema dan audio Jyutping / Jyutping scheme and audio](https://jyutping.org/en/jyutping/) · [Katalog EdUHK bab 7 / EdUHK chapter 7 catalog](kosakata/kanton-pemula-kosakata.md)
+
+## Uji pakai kata di adegan baru / Using a word in a new scene
+
+**ID.** Untuk **食飯** (*sik6 faan6*, makan), mulai dengan audio dan adegan makan bersama. Putar **我想食飯** (*ngo5 soeng2 sik6 faan6*, saya mau makan) jika **我** (*ngo5*, saya) dan **想** (*soeng2*, ingin) sudah diajarkan. Pada review berikutnya, putar kalimat itu tanpa teks dan minta pembelajar menyebutkan maksudnya. Pada sesi lain, beri situasi baru, misalnya waktunya makan setelah kelas, dan minta pembelajar menyampaikan bahwa ia mau makan. Tampilkan Jyutping serta mnemonik setelah percobaan bila dibutuhkan.
+
+**EN.** For **食飯** (*sik6 faan6*, to have a meal), start with audio and a shared meal scene. Play **我想食飯** (*ngo5 soeng2 sik6 faan6*, I want to eat) once **我** (*ngo5*, I) and **想** (*soeng2*, want) have been taught. At the next review, play the sentence without text and ask what it means. In a later session, give a new situation such as mealtime after class, and ask the learner to say they want to eat. Reveal Jyutping and the mnemonic after the attempt if needed.
+
+[Lihat alur latihan lintas jalur / See the cross-track practice sequence](kurikulum-lintas-jalur-id-en.md#menguasai-kata-dalam-konteks--using-words-independently)
+
+## Contoh makna dalam kalimat / Examples by sense
+
+**問題** (*man6 tai4*)
+
+| Makna / Sense | Situasi / Situation | Kalimat dan bacaan / Sentence and reading | Indonesia | English |
+|---|---|---|---|---|
+| pertanyaan / question | Murid ingin bertanya di kelas / A student wants to ask something in class | 我有個**問題**。 · *ngo5 jau5 go3 man6 tai4* | Saya punya pertanyaan. | I have a question. |
+| masalah / problem | Mobil perlu diperiksa / A car needs checking | 架車有**問題**。 · *gaa3 ce1 jau5 man6 tai4* | Mobilnya bermasalah. | There’s a problem with the car. |
+
+**Kata pendukung / Support words** · **我** (*ngo5*) saya / I · **有** (*jau5*) punya, ada / have, there is · **個** (*go3*) penggolong umum / general classifier · **架** (*gaa3*) penggolong kendaraan / vehicle classifier · **車** (*ce1*) mobil / car.
+
+[Rujukan makna dan bacaan 問題 / 問題 meanings and reading](https://words.hk/zidin/%E5%95%8F%E9%A1%8C)
 
 ## Urutan dan pemeriksaan bunyi / Sequence and sound checks
 
