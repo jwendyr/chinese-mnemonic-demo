@@ -448,6 +448,14 @@ BRUSH_SPECS = {
         },
         "comp_colors": [NAVY, NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA, TERRACOTTA],
     },
+    "渴": {
+        "crop_boxes": {
+            "comp1": (0, 520, 880, 1400),      # 880x880 centered on 氵 (stream + 3 droplets)
+            "comp2": (135, 470, 1080, 1415),   # 945x945 centered on 曷 (sun + thirsty runner + bottle)
+            "combined": (85, 470, 1045, 1430), # 960x960 centered on 渴 (water + sun + runner)
+        },
+        "comp_colors": [NAVY, NAVY, NAVY] + [TERRACOTTA] * 9,
+    },
 }
 
 _STROKE_JSON_CACHE: dict[str, dict] = {}
@@ -869,6 +877,19 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
             r, g, b = rgb
             is_dark_navy = (b > r + 6) and (r < 110)
             return (x >= 438) and (not is_dark_navy)
+
+        c1_full = build_masked_canvas(keep_c1)
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "渴":
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            return (x < 500) and (b > r + 6)
+
+        def keep_c2(x, y, rgb):
+            r, g, b = rgb
+            if x < 500 and (b > r + 6):
+                return False
+            return x >= 432
 
         c1_full = build_masked_canvas(keep_c1)
         c2_full = build_masked_canvas(keep_c2)
@@ -2744,6 +2765,155 @@ EXEMPLARS = {
             ],
         },
     },
+    "渴": {
+        "target_pinyin": "kě",
+        "target_tone": 3,
+        "stroke_split": 3,
+        "c1_indices": [0, 1, 2],
+        "c2_indices": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 3  ·  Turun-Naik",
+            "combined_pill": "GABUNGAN:  氵  +  曷  =  渴",
+            "meaning": "Arti:  Haus / Dahaga",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Mencari air (氵) di bawah terik matahari (曷),",
+                "karena merasa sangat haus (渴)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "氵",
+                "pinyin": "shuǐ",
+                "tone": 3,
+                "tone_label": "Nada 3  ·  Turun-Naik",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Air  ·  Nada 3",
+                "meaning_full": "Arti:  Air",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Tetesan dan aliran air dingin",
+                "scene_origin": "Berasal dari aliran sungai dan tiga tetes air.",
+                "audio_part_a": [
+                    (VOICE_ZH, "水。", 80),
+                    (VOICE_ID, "Artinya air.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari aliran dan tetesan air.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "曷",
+                "pinyin": "hé",
+                "tone": 2,
+                "tone_label": "Nada 2  ·  Naik",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Terik / Memohon  ·  Nada 2",
+                "meaning_full": "Arti:  Terik Matahari / Memohon",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Berlari di bawah terik membawa botol kosong",
+                "scene_origin": "Berasal dari sosok di bawah terik matahari yang butuh minum.",
+                "audio_part_a": [
+                    (VOICE_ZH, "曷。", 80),
+                    (VOICE_ID, "Menandakan terik matahari dan rasa butuh minum.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari orang kepanasan di bawah matahari.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Mencari air,", 60),
+                (VOICE_ZH, "水，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "di bawah terik matahari,", 60),
+                (VOICE_ZH, "曷，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "karena merasa sangat haus,", 70),
+                (VOICE_ZH, "渴。", 140),
+                (VOICE_ID, "Artinya haus atau dahaga.", 120),
+                (VOICE_ZH, "渴。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 3  ·  Dipping",
+            "combined_pill": "COMBINED:  氵  +  曷  =  渴",
+            "meaning": "Meaning:  Thirsty",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "Craving water (氵) under the blazing sun (曷),",
+                "when feeling very thirsty (渴)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "氵",
+                "pinyin": "shuǐ",
+                "tone": 3,
+                "tone_label": "Tone 3  ·  Dipping",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Water  ·  Tone 3",
+                "meaning_full": "Meaning:  Water",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Cool stream and three water droplets",
+                "scene_origin": "Coming from a flowing water stream.",
+                "audio_part_a": [
+                    (VOICE_ZH, "水。", 80),
+                    (VOICE_EN, "Means water.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a flowing water stream.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "曷",
+                "pinyin": "hé",
+                "tone": 2,
+                "tone_label": "Tone 2  ·  Rising",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Heat / Crave  ·  Tone 2",
+                "meaning_full": "Meaning:  Blazing Sun / Crave",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Runner with an empty bottle in heat",
+                "scene_origin": "Coming from someone needing water in the sun.",
+                "audio_part_a": [
+                    (VOICE_ZH, "曷。", 80),
+                    (VOICE_EN, "Evokes heat and craving.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from a hot runner needing water.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "Craving water,", 60),
+                (VOICE_ZH, "水，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "under the blazing sun,", 60),
+                (VOICE_ZH, "曷，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "feeling deeply thirsty,", 70),
+                (VOICE_ZH, "渴。", 140),
+                (VOICE_EN, "Meaning thirsty.", 120),
+                (VOICE_ZH, "渴。", 0),
+            ],
+        },
+    },
 }
 
 
@@ -2950,8 +3120,8 @@ def render_component_synced_scene(
     art_tile = _build_aligned_illustration_tile(art_comp, center_size)
     completed_strokes_tile = _render_char_strokes_tile(sdata, n_strokes - 1, 1.0, all_done=True)
 
-    mini_size = 114
-    mini_gap = 20
+    mini_gap = 20 if n_strokes <= 6 else 10
+    mini_size = 114 if n_strokes <= 6 else min(98, (W - 180 - (n_strokes - 1) * mini_gap) // n_strokes)
     mini_tiles = _build_static_stroke_strip_tiles(char, crop_key, stroke_indices, mini_size)
     strip_w = n_strokes * mini_size + (n_strokes - 1) * mini_gap
     sx0 = (W - strip_w) // 2
@@ -3423,7 +3593,7 @@ def build_exemplar_for_char(char: str, lang: str, artworks: dict[str, Image.Imag
 
 
 def main() -> None:
-    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休", "息", "清", "请", "晴", "情")
+    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休", "息", "清", "请", "晴", "情", "渴")
     for char in targets:
         artworks = build_aligned_ai_artworks(char)
         for lang in ("id", "en"):

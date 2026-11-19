@@ -1,12 +1,12 @@
 # Chinese Mnemonic HSK 1 — Exemplar Kartu & Video 9:16 (Gaya Kaligrafi Kuas / Kaiti)
 
-Showcase exemplar pipeline kartu mnemonik visual bergaya Chineasy (`1080×1920`) dan video animasi YouTube Shorts 9:16 ter-sinkron audio (`20–30 detik`) dalam **Bahasa Indonesia** dan **English**, disertai pelafalan Mandarin asli (`zh-CN-XiaoxiaoNeural`) yang mencakup **seluruh 4 nada Mandarin** (Nada 1, 2, 3, dan 4) pada **9 karakter terverifikasi** (termasuk keluarga penuh `水 + 青 → 清 / 请 / 晴 / 情`).
+Showcase exemplar pipeline kartu mnemonik visual bergaya Chineasy (`1080×1920`) dan video animasi YouTube Shorts 9:16 ter-sinkron audio (`20–30 detik`) dalam **Bahasa Indonesia** dan **English**, disertai pelafalan Mandarin asli (`zh-CN-XiaoxiaoNeural`) yang mencakup **seluruh 4 nada Mandarin** (Nada 1, 2, 3, dan 4) pada **10 karakter terverifikasi** (termasuk keluarga penuh `水 + 青 → 清 / 请 / 晴 / 情`, pasangan `休 / 息`, dan `渴`).
 
-Seluruh komponen huruf (`休`/`人`/`木`, `息`/`自`/`心`, `清`/`氵`/`青`, `请`/`讠`/`青`, `晴`/`日`/`青`, `情`/`忄`/`青`, `明`/`日`/`月`, `好`/`女`/`子`, `看`/`手`/`目`) — termasuk judul hero, mini-card asal karakter, teks sebaris (`Kaiti SC Bold`), template guratan, animasi urutan guratan 30fps di kotak `米字格`, strip langkah `1..N`, serta ilustrasi AI Chineasy — menggunakan **gaya kaligrafi kuas bulat (`coretan kuas` / Kaiti) yang 100% seragam** tanpa font kotak.
+Seluruh komponen huruf (`休`/`人`/`木`, `息`/`自`/`心`, `清`/`氵`/`青`, `请`/`讠`/`青`, `晴`/`日`/`青`, `情`/`忄`/`青`, `渴`/`氵`/`曷`, `明`/`日`/`月`, `好`/`女`/`子`, `看`/`手`/`目`) — termasuk judul hero, mini-card asal karakter, teks sebaris (`Kaiti SC Bold`), template guratan, animasi urutan guratan 30fps di kotak `米字格`, strip langkah `1..N`, serta ilustrasi AI Chineasy — menggunakan **gaya kaligrafi kuas bulat (`coretan kuas` / Kaiti) yang 100% seragam** tanpa font kotak.
 
 ---
 
-## Ringkasan 9 Karakter Terverifikasi (Nada 1 – 4)
+## Ringkasan 10 Karakter Terverifikasi (Nada 1 – 4)
 
 | Karakter | Nada | Pinyin | Komponen | Arti (ID / EN) | Kartu Final (ID / EN) | Video 9:16 (ID / EN) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -16,7 +16,8 @@ Seluruh komponen huruf (`休`/`人`/`木`, `息`/`自`/`心`, `清`/`氵`/`青`,
 | **请** | Nada 3 (Turun-Naik) | `qǐng` | `讠` + `青` | Silakan / Meminta · Please / Invite | [cards/请.png](cards/请.png) · [cards_en/请.png](cards_en/请.png) | [char_videos/请.mp4](char_videos/请.mp4) (`24.89s`) · [char_videos_en/请.mp4](char_videos_en/请.mp4) (`20.59s`) |
 | **晴** | Nada 2 (Naik) | `qíng` | `日` + `青` | Cerah (Cuaca) · Sunny / Clear | [cards/晴.png](cards/晴.png) · [cards_en/晴.png](cards_en/晴.png) | [char_videos/晴.mp4](char_videos/晴.mp4) (`23.96s`) · [char_videos_en/晴.mp4](char_videos_en/晴.mp4) (`20.77s`) |
 | **情** | Nada 2 (Naik) | `qíng` | `忄` + `青` | Perasaan / Emosi · Feeling / Emotion | [cards/情.png](cards/情.png) · [cards_en/情.png](cards_en/情.png) | [char_videos/情.mp4](char_videos/情.mp4) (`24.80s`) · [char_videos_en/情.mp4](char_videos_en/情.mp4) (`20.47s`) |
-| **明** | Nada 2 (Naik) | `míng` | `日` + `月` | Terang / Besok · Bright / Tomorrow | [cards/明.png](cards/明.png) · [cards_en/明.png](cards_en/明.png) | [char_videos/明.mp4](char_videos/明.mp4) (`22.15s`) · [char_videos_en/明.mp4](char_videos_en/明.png) |
+| **渴** | Nada 3 (Turun-Naik) | `kě` | `氵` + `曷` | Haus / Dahaga · Thirsty | [cards/渴.png](cards/渴.png) · [cards_en/渴.png](cards_en/渴.png) | [char_videos/渴.mp4](char_videos/渴.mp4) (`23.59s`) · [char_videos_en/渴.mp4](char_videos_en/渴.mp4) (`20.76s`) |
+| **明** | Nada 2 (Naik) | `míng` | `日` + `月` | Terang / Besok · Bright / Tomorrow | [cards/明.png](cards/明.png) · [cards_en/明.png](cards_en/明.png) | [char_videos/明.mp4](char_videos/明.mp4) (`22.15s`) · [char_videos_en/明.mp4](char_videos_en/明.mp4) (`20.77s`) |
 | **好** | Nada 3 (Turun-Naik) | `hǎo` | `女` + `子` | Baik / Bagus / Suka · Good / Fine / To Like | [cards/好.png](cards/好.png) · [cards_en/好.png](cards_en/好.png) | [char_videos/好.mp4](char_videos/好.mp4) (`22.43s`) · [char_videos_en/好.mp4](char_videos_en/好.mp4) (`20.73s`) |
 | **看** | Nada 4 (Turun Tegas) | `kàn` | `手` + `目` | Melihat / Menonton · To Look / Watch | [cards/看.png](cards/看.png) · [cards_en/看.png](cards_en/看.png) | [char_videos/看.mp4](char_videos/看.mp4) (`20.37s`) · [char_videos_en/看.mp4](char_videos_en/看.mp4) (`20.79s`) |
 

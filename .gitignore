@@ -35,6 +35,8 @@ cards/*
 !cards/晴_card.png
 !cards/情.png
 !cards/情_card.png
+!cards/渴.png
+!cards/渴_card.png
 
 cards_en/*
 !cards_en/好.png
@@ -55,6 +57,8 @@ cards_en/*
 !cards_en/晴_card.png
 !cards_en/情.png
 !cards_en/情_card.png
+!cards_en/渴.png
+!cards_en/渴_card.png
 
 char_videos/*
 !char_videos/好.mp4
@@ -66,6 +70,7 @@ char_videos/*
 !char_videos/请.mp4
 !char_videos/晴.mp4
 !char_videos/情.mp4
+!char_videos/渴.mp4
 
 char_videos_en/*
 !char_videos_en/好.mp4
@@ -77,6 +82,7 @@ char_videos_en/*
 !char_videos_en/请.mp4
 !char_videos_en/晴.mp4
 !char_videos_en/情.mp4
+!char_videos_en/渴.mp4
 
 templates/*
 !templates/好.png
