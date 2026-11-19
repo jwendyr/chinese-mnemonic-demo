@@ -456,6 +456,14 @@ BRUSH_SPECS = {
         },
         "comp_colors": [NAVY, NAVY, NAVY] + [TERRACOTTA] * 9,
     },
+    "吃": {
+        "crop_boxes": {
+            "comp1": (80, 640, 600, 1160),     # 520x520 centered on 口 (open smiling mouth)
+            "comp2": (290, 560, 1040, 1310),   # 750x750 centered on 乞 (steaming rice bowl + chopsticks)
+            "combined": (110, 480, 1020, 1390),# 910x910 centered on 吃 (mouth + rice + chopsticks)
+        },
+        "comp_colors": [NAVY, NAVY, NAVY, TERRACOTTA, TERRACOTTA, TERRACOTTA],
+    },
 }
 
 _STROKE_JSON_CACHE: dict[str, dict] = {}
@@ -890,6 +898,27 @@ def build_aligned_ai_artworks(char: str) -> dict[str, Image.Image]:
             if x < 500 and (b > r + 6):
                 return False
             return x >= 432
+
+        c1_full = build_masked_canvas(keep_c1)
+        c2_full = build_masked_canvas(keep_c2)
+    elif char == "吃":
+        qi_mask = _build_canvas_stroke_mask("吃", [3, 4, 5]).filter(ImageFilter.MaxFilter(5)).load()
+
+        def keep_c1(x, y, rgb):
+            r, g, b = rgb
+            if x >= 462 and qi_mask[x, y] > 0:
+                return False
+            if x < 464:
+                return True
+            return (x < 532) and (795 <= y <= 885) and not (x >= 468 and y >= 865)
+
+        def keep_c2(x, y, rgb):
+            r, g, b = rgb
+            if x < 460:
+                return False
+            if x < 538 and 790 <= y <= 985 and qi_mask[x, y] == 0 and (r - b > 35) and (r > 140):
+                return False
+            return True
 
         c1_full = build_masked_canvas(keep_c1)
         c2_full = build_masked_canvas(keep_c2)
@@ -2914,6 +2943,155 @@ EXEMPLARS = {
             ],
         },
     },
+    "吃": {
+        "target_pinyin": "chī",
+        "target_tone": 1,
+        "stroke_split": 3,
+        "c1_indices": [0, 1, 2],
+        "c2_indices": [3, 4, 5],
+        "id": {
+            "badge_final": "HSK 1  ·  ASAL-USUL & MNEMONIK",
+            "tone_label": "Nada 1  ·  Datar Tinggi",
+            "combined_pill": "GABUNGAN:  口  +  乞  =  吃",
+            "meaning": "Arti:  Makan",
+            "hook_pill": "MNEMONIK 3 KARAKTER",
+            "hook_lines": [
+                "Membuka mulut (口) menyuap nasi hangat (乞),",
+                "saat sedang makan (吃)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "口",
+                "pinyin": "kǒu",
+                "tone": 3,
+                "tone_label": "Nada 3  ·  Turun-Naik",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "LANGKAH 1 / 3  ·  ASAL KARAKTER 1",
+                "card_title": "ASAL KARAKTER 1",
+                "meaning_short": "Mulut  ·  Nada 3",
+                "meaning_full": "Arti:  Mulut",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Mulut terbuka yang siap menyuap",
+                "scene_origin": "Berasal dari gambar mulut yang terbuka.",
+                "audio_part_a": [
+                    (VOICE_ZH, "口。", 80),
+                    (VOICE_ID, "Artinya mulut.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gambar mulut yang terbuka.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "乞",
+                "pinyin": "qǐ",
+                "tone": 3,
+                "tone_label": "Nada 3  ·  Turun-Naik",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "LANGKAH 2 / 3  ·  ASAL KARAKTER 2",
+                "card_title": "ASAL KARAKTER 2",
+                "meaning_short": "Suapan / Meminta  ·  Nada 3",
+                "meaning_full": "Arti:  Meminta / Suapan Nasi",
+                "origin_pill": "DARI GAMBAR KE HURUF",
+                "mini_origin": "Mangkuk nasi hangat dengan sumpit",
+                "scene_origin": "Berasal dari gerakan sumpit menyuap nasi hangat.",
+                "audio_part_a": [
+                    (VOICE_ZH, "乞。", 80),
+                    (VOICE_ID, "Menandakan suapan nasi hangat.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_ID, "Berasal dari gerakan sumpit mengambil nasi.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_ID, "Membuka mulut,", 60),
+                (VOICE_ZH, "口，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_ID, "menyuap nasi hangat,", 60),
+                (VOICE_ZH, "乞，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_ID, "saat sedang makan,", 70),
+                (VOICE_ZH, "吃。", 140),
+                (VOICE_ID, "Artinya makan.", 120),
+                (VOICE_ZH, "吃。", 0),
+            ],
+        },
+        "en": {
+            "badge_final": "HSK 1  ·  ORIGINS & MNEMONIC",
+            "tone_label": "Tone 1  ·  High Level",
+            "combined_pill": "COMBINED:  口  +  乞  =  吃",
+            "meaning": "Meaning:  To Eat",
+            "hook_pill": "3-CHARACTER MNEMONIC",
+            "hook_lines": [
+                "Open your mouth (口) for a bite of rice (乞),",
+                "to enjoy a meal and eat (吃)!",
+            ],
+            "c1": {
+                "step": 1,
+                "hanzi": "口",
+                "pinyin": "kǒu",
+                "tone": 3,
+                "tone_label": "Tone 3  ·  Dipping",
+                "color": NAVY,
+                "soft_bg": SOFT_NAVY,
+                "scene_badge": "STEP 1 / 3  ·  CHARACTER 1 ORIGIN",
+                "card_title": "CHARACTER 1 ORIGIN",
+                "meaning_short": "Mouth  ·  Tone 3",
+                "meaning_full": "Meaning:  Mouth",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Open mouth ready for a bite",
+                "scene_origin": "Coming from an open smiling mouth.",
+                "audio_part_a": [
+                    (VOICE_ZH, "口。", 80),
+                    (VOICE_EN, "Means mouth.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from an open smiling mouth.", 0),
+                ],
+            },
+            "c2": {
+                "step": 2,
+                "hanzi": "乞",
+                "pinyin": "qǐ",
+                "tone": 3,
+                "tone_label": "Tone 3  ·  Dipping",
+                "color": TERRACOTTA,
+                "soft_bg": SOFT_TERRACOTTA,
+                "scene_badge": "STEP 2 / 3  ·  CHARACTER 2 ORIGIN",
+                "card_title": "CHARACTER 2 ORIGIN",
+                "meaning_short": "Beg / Bite  ·  Tone 3",
+                "meaning_full": "Meaning:  Ask / Bite of Rice",
+                "origin_pill": "FROM PICTURE TO CHARACTER",
+                "mini_origin": "Steaming rice bowl with chopsticks",
+                "scene_origin": "Coming from chopsticks lifting a bite of rice.",
+                "audio_part_a": [
+                    (VOICE_ZH, "乞。", 80),
+                    (VOICE_EN, "Evokes asking for a bite.", 90),
+                ],
+                "audio_part_b": [
+                    (VOICE_EN, "Coming from chopsticks lifting rice.", 0),
+                ],
+            },
+            "s3_phase1": [
+                (VOICE_EN, "Open your mouth,", 60),
+                (VOICE_ZH, "口，", 80),
+            ],
+            "s3_phase2": [
+                (VOICE_EN, "for a bite of rice,", 60),
+                (VOICE_ZH, "乞，", 80),
+            ],
+            "s3_phase3": [
+                (VOICE_EN, "when you eat,", 70),
+                (VOICE_ZH, "吃。", 140),
+                (VOICE_EN, "Meaning to eat.", 120),
+                (VOICE_ZH, "吃。", 0),
+            ],
+        },
+    },
 }
 
 
@@ -3593,7 +3771,7 @@ def build_exemplar_for_char(char: str, lang: str, artworks: dict[str, Image.Imag
 
 
 def main() -> None:
-    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休", "息", "清", "请", "晴", "情", "渴")
+    targets = tuple(sys.argv[1:]) if len(sys.argv) > 1 else ("好", "看", "明", "休", "息", "清", "请", "晴", "情", "渴", "吃")
     for char in targets:
         artworks = build_aligned_ai_artworks(char)
         for lang in ("id", "en"):

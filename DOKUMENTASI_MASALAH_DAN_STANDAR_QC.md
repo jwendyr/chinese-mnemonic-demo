@@ -1,6 +1,6 @@
 # Dokumentasi Masalah, Akar Penyebab & Standar QC — Kartu & Video Mnemonik HSK 1
 
-Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipeline pembuatan kartu dan video 9:16 HSK 1, akar penyebab teknisnya, perbaikan yang sudah dibuktikan pada 10 karakter terverifikasi lintas 4 nada Mandarin (**`休`**, **`息`**, **`清`**, **`请`**, **`晴`**, **`情`**, **`渴`**, **`明`**, **`好`**, **`看`**), serta aturan wajib sebelum menjalankan proses batch apa pun.
+Dokumentasi ini merangkum seluruh masalah yang ditemukan pada iterasi awal pipeline pembuatan kartu dan video 9:16 HSK 1, akar penyebab teknisnya, perbaikan yang sudah dibuktikan pada 11 karakter terverifikasi lintas 4 nada Mandarin (**`休`**, **`息`**, **`清`**, **`请`**, **`晴`**, **`情`**, **`渴`**, **`吃`**, **`明`**, **`好`**, **`看`**), serta aturan wajib sebelum menjalankan proses batch apa pun.
 
 **Implementasi acuan yang sudah terverifikasi (Gaya Kaligrafi Kuas Bulat / Kaiti Seragam):**
 - Skrip exemplar: [`build_one_exemplar.py`](file:///Volumes/App/Workspace/chinese-mnemonic-demo/build_one_exemplar.py)
