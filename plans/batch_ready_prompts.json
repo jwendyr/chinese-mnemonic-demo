@@ -1,0 +1,1520 @@
+[
+  {
+    "char": "喝",
+    "pinyin": "hē",
+    "tone": 1,
+    "layout": "LR",
+    "stroke_split": 3,
+    "total_strokes": 12,
+    "c1": {
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "tone": 3,
+      "bbox": [
+        297,
+        814,
+        463,
+        1009
+      ]
+    },
+    "c2": {
+      "hanzi": "曷",
+      "pinyin": "hé",
+      "tone": 2,
+      "bbox": [
+        450,
+        716,
+        768,
+        1206
+      ]
+    },
+    "id": {
+      "meaning": "Minum",
+      "hook_lines": [
+        "Membuka mulut (口) di bawah terik (曷),",
+        "untuk minum air segar (喝)!"
+      ],
+      "c1_origin": "Mulut yang siap meneguk air.",
+      "c2_origin": "Orang di bawah terik yang butuh minum.",
+      "s3": [
+        "Membuka mulut,",
+        "di bawah terik,",
+        "untuk minum air segar."
+      ],
+      "c1_origin_tts": "Mulut yang siap meneguk air.",
+      "c2_origin_tts": "Orang di bawah terik yang butuh minum.",
+      "meaning_tts": "Minum"
+    },
+    "en": {
+      "meaning": "To Drink",
+      "hook_lines": [
+        "Open your mouth (口) in the heat (曷),",
+        "to take a refreshing drink (喝)!"
+      ],
+      "c1_origin": "An open mouth ready to sip.",
+      "c2_origin": "Someone under the sun craving a drink.",
+      "s3": [
+        "Open your mouth,",
+        "in the hot sun,",
+        "to drink fresh water."
+      ],
+      "c1_origin_tts": "An open mouth ready to sip.",
+      "c2_origin_tts": "Someone under the sun craving a drink.",
+      "meaning_tts": "To Drink"
+    },
+    "template_path": "templates/喝.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/喝.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 喝 (口 on left, 曷 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 口 (left): illustrate a cute open mouth sipping from a small cup rim (staying cleanly to the left of x = 456).\n3. Behind 曷 (right): illustrate a thirsty traveler under a warm yellow sun holding a water cup (staying cleanly to the right of x = 456).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "妈",
+    "pinyin": "mā",
+    "tone": 1,
+    "layout": "LR",
+    "stroke_split": 3,
+    "total_strokes": 6,
+    "c1": {
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "tone": 3,
+      "bbox": [
+        272,
+        726,
+        500,
+        1151
+      ]
+    },
+    "c2": {
+      "hanzi": "马",
+      "pinyin": "mǎ",
+      "tone": 3,
+      "bbox": [
+        480,
+        735,
+        766,
+        1195
+      ]
+    },
+    "id": {
+      "meaning": "Ibu / Mama",
+      "hook_lines": [
+        "Ibu tersenyum (女) bersama kuda jinak (马),",
+        "mudah diingat sebagai mama (妈)!"
+      ],
+      "c1_origin": "Sosok ibu yang anggun bersimpuh.",
+      "c2_origin": "Seekor kuda (petunjuk bunyi mā).",
+      "s3": [
+        "Sosok ibu,",
+        "berbunyi seperti kuda,",
+        "artinya mama atau ibu."
+      ],
+      "c1_origin_tts": "Sosok ibu yang anggun bersimpuh.",
+      "c2_origin_tts": "Seekor kuda.",
+      "meaning_tts": "Ibu atau Mama"
+    },
+    "en": {
+      "meaning": "Mother / Mom",
+      "hook_lines": [
+        "A gentle woman (女) with a horse cue (马),",
+        "warmly means mother or mom (妈)!"
+      ],
+      "c1_origin": "A kneeling graceful mother.",
+      "c2_origin": "A gentle horse (sound cue).",
+      "s3": [
+        "A gentle woman,",
+        "with the horse sound cue,",
+        "means mother or mom."
+      ],
+      "c1_origin_tts": "A kneeling graceful mother.",
+      "c2_origin_tts": "A gentle horse.",
+      "meaning_tts": "Mother or Mom"
+    },
+    "template_path": "templates/妈.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/妈.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 妈 (女 on left, 马 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a gentle smiling mother kneeling in a soft coral dress (staying cleanly to the left of x = 490).\n3. Behind 马 (right): illustrate a cute friendly flat-vector horse in warm tan (staying cleanly to the right of x = 490).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "爸",
+    "pinyin": "bà",
+    "tone": 4,
+    "layout": "TB",
+    "stroke_split": 4,
+    "total_strokes": 8,
+    "c1": {
+      "hanzi": "父",
+      "pinyin": "fù",
+      "tone": 4,
+      "bbox": [
+        279,
+        711,
+        806,
+        993
+      ]
+    },
+    "c2": {
+      "hanzi": "巴",
+      "pinyin": "bā",
+      "tone": 1,
+      "bbox": [
+        396,
+        929,
+        719,
+        1192
+      ]
+    },
+    "id": {
+      "meaning": "Ayah / Papa",
+      "hook_lines": [
+        "Ayah penuh wibawa (父) dengan bunyi ba (巴),",
+        "dipanggil papa atau ayah (爸)!"
+      ],
+      "c1_origin": "Ayah yang gagah penuh wibawa.",
+      "c2_origin": "Ekor melingkar (petunjuk bunyi bà).",
+      "s3": [
+        "Ayah berwibawa,",
+        "berbunyi ba,",
+        "artinya papa atau ayah."
+      ],
+      "c1_origin_tts": "Ayah yang gagah penuh wibawa.",
+      "c2_origin_tts": "Ekor melingkar.",
+      "meaning_tts": "Ayah atau Papa"
+    },
+    "en": {
+      "meaning": "Father / Dad",
+      "hook_lines": [
+        "A strong father (父) with the ba cue (巴),",
+        "warmly means father or dad (爸)!"
+      ],
+      "c1_origin": "A strong, caring father.",
+      "c2_origin": "A curled tail motif (sound cue).",
+      "s3": [
+        "A strong father,",
+        "with the ba sound cue,",
+        "means father or dad."
+      ],
+      "c1_origin_tts": "A strong, caring father.",
+      "c2_origin_tts": "A curled tail motif.",
+      "meaning_tts": "Father or Dad"
+    },
+    "template_path": "templates/爸.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/爸.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 爸 (父 on top, 巴 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 父 (top): illustrate a kind smiling father face and strong shoulders (staying cleanly above y = 961).\n3. Behind 巴 (bottom): illustrate a warm-peach curled scroll tail motif (staying cleanly below y = 961).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "姐",
+    "pinyin": "jiě",
+    "tone": 3,
+    "layout": "LR",
+    "stroke_split": 3,
+    "total_strokes": 8,
+    "c1": {
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "tone": 3,
+      "bbox": [
+        272,
+        714,
+        515,
+        1154
+      ]
+    },
+    "c2": {
+      "hanzi": "且",
+      "pinyin": "qiě",
+      "tone": 3,
+      "bbox": [
+        476,
+        791,
+        804,
+        1163
+      ]
+    },
+    "id": {
+      "meaning": "Kakak Perempuan",
+      "hook_lines": [
+        "Perempuan (女) yang berdiri lebih tinggi (且),",
+        "dialah kakak perempuan (姐)!"
+      ],
+      "c1_origin": "Sosok perempuan yang lembut.",
+      "c2_origin": "Meja susun tinggi (petunjuk bunyi).",
+      "s3": [
+        "Perempuan,",
+        "berdiri lebih tinggi,",
+        "dialah kakak perempuan."
+      ],
+      "c1_origin_tts": "Sosok perempuan yang lembut.",
+      "c2_origin_tts": "Meja susun tinggi.",
+      "meaning_tts": "Kakak Perempuan"
+    },
+    "en": {
+      "meaning": "Older Sister",
+      "hook_lines": [
+        "A woman (女) standing taller (且),",
+        "is your older sister (姐)!"
+      ],
+      "c1_origin": "A gentle woman.",
+      "c2_origin": "A tall stacked stand (sound cue).",
+      "s3": [
+        "A woman,",
+        "standing taller,",
+        "is your older sister."
+      ],
+      "c1_origin_tts": "A gentle woman.",
+      "c2_origin_tts": "A tall stacked stand.",
+      "meaning_tts": "Older Sister"
+    },
+    "template_path": "templates/姐.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/姐.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 姐 (女 on left, 且 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a graceful smiling young woman in soft teal dress (staying cleanly to the left of x = 495).\n3. Behind 且 (right): illustrate a stacked wooden tiers / tall pedestal behind 且 (staying cleanly to the right of x = 495).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "他",
+    "pinyin": "tā",
+    "tone": 1,
+    "layout": "LR",
+    "stroke_split": 2,
+    "total_strokes": 5,
+    "c1": {
+      "hanzi": "亻",
+      "pinyin": "rén",
+      "tone": 2,
+      "bbox": [
+        288,
+        718,
+        466,
+        1166
+      ]
+    },
+    "c2": {
+      "hanzi": "也",
+      "pinyin": "yě",
+      "tone": 3,
+      "bbox": [
+        429,
+        725,
+        800,
+        1130
+      ]
+    },
+    "id": {
+      "meaning": "Dia (Laki-laki)",
+      "hook_lines": [
+        "Sosok orang (亻) di samping kendi (也),",
+        "menunjuk dia laki-laki (他)!"
+      ],
+      "c1_origin": "Sosok orang yang berdiri.",
+      "c2_origin": "Kendi air / kalajengking (bunyi yě).",
+      "s3": [
+        "Sosok orang,",
+        "di samping kendi,",
+        "menunjuk dia laki-laki."
+      ],
+      "c1_origin_tts": "Sosok orang yang berdiri.",
+      "c2_origin_tts": "Kendi air atau kalajengking.",
+      "meaning_tts": "Dia"
+    },
+    "en": {
+      "meaning": "He / Him",
+      "hook_lines": [
+        "A person standing (亻) beside a vessel (也),",
+        "points to him or he (他)!"
+      ],
+      "c1_origin": "A standing person.",
+      "c2_origin": "A curved vessel (sound cue).",
+      "s3": [
+        "A standing person,",
+        "with the sound cue,",
+        "means he or him."
+      ],
+      "c1_origin_tts": "A standing person.",
+      "c2_origin_tts": "A curved vessel.",
+      "meaning_tts": "He or Him"
+    },
+    "template_path": "templates/他.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/他.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 他 (亻 on left, 也 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a friendly young man standing in profile (staying cleanly to the left of x = 447).\n3. Behind 也 (right): illustrate a warm tan curved gourd/vessel motif (staying cleanly to the right of x = 447).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "她",
+    "pinyin": "tā",
+    "tone": 1,
+    "layout": "LR",
+    "stroke_split": 3,
+    "total_strokes": 6,
+    "c1": {
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "tone": 3,
+      "bbox": [
+        269,
+        734,
+        488,
+        1158
+      ]
+    },
+    "c2": {
+      "hanzi": "也",
+      "pinyin": "yě",
+      "tone": 3,
+      "bbox": [
+        475,
+        722,
+        800,
+        1164
+      ]
+    },
+    "id": {
+      "meaning": "Dia (Perempuan)",
+      "hook_lines": [
+        "Sosok perempuan (女) di samping kendi (也),",
+        "menunjuk dia perempuan (她)!"
+      ],
+      "c1_origin": "Sosok perempuan yang anggun.",
+      "c2_origin": "Kendi air melengkung (bunyi yě).",
+      "s3": [
+        "Sosok perempuan,",
+        "di samping kendi,",
+        "menunjuk dia perempuan."
+      ],
+      "c1_origin_tts": "Sosok perempuan yang anggun.",
+      "c2_origin_tts": "Kendi air melengkung.",
+      "meaning_tts": "Dia"
+    },
+    "en": {
+      "meaning": "She / Her",
+      "hook_lines": [
+        "A graceful woman (女) with the vessel cue (也),",
+        "points to her or she (她)!"
+      ],
+      "c1_origin": "A graceful kneeling woman.",
+      "c2_origin": "A curved vessel (sound cue).",
+      "s3": [
+        "A graceful woman,",
+        "with the sound cue,",
+        "means she or her."
+      ],
+      "c1_origin_tts": "A graceful kneeling woman.",
+      "c2_origin_tts": "A curved vessel.",
+      "meaning_tts": "She or Her"
+    },
+    "template_path": "templates/她.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/她.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 她 (女 on left, 也 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a graceful smiling woman with hair bun (staying cleanly to the left of x = 481).\n3. Behind 也 (right): illustrate a warm tan curved gourd/vessel motif (staying cleanly to the right of x = 481).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "你",
+    "pinyin": "nǐ",
+    "tone": 3,
+    "layout": "LR",
+    "stroke_split": 2,
+    "total_strokes": 7,
+    "c1": {
+      "hanzi": "亻",
+      "pinyin": "rén",
+      "tone": 2,
+      "bbox": [
+        278,
+        707,
+        477,
+        1168
+      ]
+    },
+    "c2": {
+      "hanzi": "尔",
+      "pinyin": "ěr",
+      "tone": 3,
+      "bbox": [
+        460,
+        698,
+        766,
+        1207
+      ]
+    },
+    "id": {
+      "meaning": "Kamu / Anda",
+      "hook_lines": [
+        "Satu orang (亻) menyapa dirimu (尔),",
+        "artinya kamu atau Anda (你)!"
+      ],
+      "c1_origin": "Sosok orang yang menyapa.",
+      "c2_origin": "Seseorang di hadapanmu (尔).",
+      "s3": [
+        "Satu orang,",
+        "menyapa dirimu,",
+        "artinya kamu atau Anda."
+      ],
+      "c1_origin_tts": "Sosok orang yang menyapa.",
+      "c2_origin_tts": "Seseorang di hadapanmu.",
+      "meaning_tts": "Kamu atau Anda"
+    },
+    "en": {
+      "meaning": "You",
+      "hook_lines": [
+        "One person (亻) greeting you face to face (尔),",
+        "warmly means you (你)!"
+      ],
+      "c1_origin": "A friendly person greeting.",
+      "c2_origin": "Someone facing you (尔).",
+      "s3": [
+        "One person,",
+        "facing you directly,",
+        "means you."
+      ],
+      "c1_origin_tts": "A friendly person greeting.",
+      "c2_origin_tts": "Someone facing you.",
+      "meaning_tts": "You"
+    },
+    "template_path": "templates/你.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/你.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 你 (亻 on left, 尔 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a smiling person waving politely in warm peach (staying cleanly to the left of x = 468).\n3. Behind 尔 (right): illustrate a gentle figure nodding back in soft sky-blue (staying cleanly to the right of x = 468).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "们",
+    "pinyin": "men",
+    "tone": 0,
+    "layout": "LR",
+    "stroke_split": 2,
+    "total_strokes": 5,
+    "c1": {
+      "hanzi": "亻",
+      "pinyin": "rén",
+      "tone": 2,
+      "bbox": [
+        271,
+        710,
+        461,
+        1180
+      ]
+    },
+    "c2": {
+      "hanzi": "门",
+      "pinyin": "mén",
+      "tone": 2,
+      "bbox": [
+        441,
+        773,
+        741,
+        1198
+      ]
+    },
+    "id": {
+      "meaning": "Jamak (Kami / Kalian / Mereka)",
+      "hook_lines": [
+        "Orang-orang (亻) berkumpul di depan pintu (门),",
+        "menjadi penanda banyak orang (们)!"
+      ],
+      "c1_origin": "Sosok orang yang berdiri.",
+      "c2_origin": "Gerbang pintu dua daun.",
+      "s3": [
+        "Banyak orang,",
+        "di depan pintu,",
+        "menandai bentuk jamak."
+      ],
+      "c1_origin_tts": "Sosok orang yang berdiri.",
+      "c2_origin_tts": "Gerbang pintu dua daun.",
+      "meaning_tts": "Jamak"
+    },
+    "en": {
+      "meaning": "Plural Marker (People)",
+      "hook_lines": [
+        "People (亻) gathered by a doorway gate (门),",
+        "marks plural groups of people (们)!"
+      ],
+      "c1_origin": "A standing person.",
+      "c2_origin": "A two-leaf doorway gate.",
+      "s3": [
+        "People gathered,",
+        "by a doorway gate,",
+        "marks the plural."
+      ],
+      "c1_origin_tts": "A standing person.",
+      "c2_origin_tts": "A two-leaf doorway gate.",
+      "meaning_tts": "Plural Marker"
+    },
+    "template_path": "templates/们.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/们.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 们 (亻 on left, 门 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person standing beside a group silhouette (staying cleanly to the left of x = 451).\n3. Behind 门 (right): illustrate a warm wooden two-leaf courtyard door gate (staying cleanly to the right of x = 451).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "朋",
+    "pinyin": "péng",
+    "tone": 2,
+    "layout": "LR",
+    "stroke_split": 4,
+    "total_strokes": 8,
+    "c1": {
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "tone": 4,
+      "bbox": [
+        291,
+        742,
+        514,
+        1160
+      ]
+    },
+    "c2": {
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "tone": 4,
+      "bbox": [
+        506,
+        731,
+        740,
+        1181
+      ]
+    },
+    "id": {
+      "meaning": "Teman / Sahabat",
+      "hook_lines": [
+        "Dua bulan (月) bersinar berdampingan (月),",
+        "seperti sahabat dekat (朋)!"
+      ],
+      "c1_origin": "Bulan sabit di langit malam.",
+      "c2_origin": "Bulan kedua bersanding akrab.",
+      "s3": [
+        "Satu bulan,",
+        "bersanding dengan bulan lain,",
+        "seperti teman dekat."
+      ],
+      "c1_origin_tts": "Bulan sabit di langit malam.",
+      "c2_origin_tts": "Bulan kedua bersanding akrab.",
+      "meaning_tts": "Teman atau Sahabat"
+    },
+    "en": {
+      "meaning": "Friend",
+      "hook_lines": [
+        "Two moons (月) shining side by side (月),",
+        "like best friends together (朋)!"
+      ],
+      "c1_origin": "A crescent moon in the night sky.",
+      "c2_origin": "A second moon right beside it.",
+      "s3": [
+        "One crescent moon,",
+        "shining beside another,",
+        "means friend."
+      ],
+      "c1_origin_tts": "A crescent moon in the night sky.",
+      "c2_origin_tts": "A second moon right beside it.",
+      "meaning_tts": "Friend"
+    },
+    "template_path": "templates/朋.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/朋.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 朋 (月 on left, 月 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 月 (left): illustrate a soft slate-blue crescent moon with tiny star (staying cleanly to the left of x = 510).\n3. Behind 月 (right): illustrate a warm golden-cream crescent moon with tiny star (staying cleanly to the right of x = 510).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "住",
+    "pinyin": "zhù",
+    "tone": 4,
+    "layout": "LR",
+    "stroke_split": 2,
+    "total_strokes": 7,
+    "c1": {
+      "hanzi": "亻",
+      "pinyin": "rén",
+      "tone": 2,
+      "bbox": [
+        288,
+        728,
+        487,
+        1191
+      ]
+    },
+    "c2": {
+      "hanzi": "主",
+      "pinyin": "zhǔ",
+      "tone": 3,
+      "bbox": [
+        441,
+        738,
+        784,
+        1152
+      ]
+    },
+    "id": {
+      "meaning": "Tinggal / Menetap",
+      "hook_lines": [
+        "Orang (亻) menetap dekat pelita rumah (主),",
+        "artinya tinggal atau bermukim (住)!"
+      ],
+      "c1_origin": "Sosok orang yang berdiri.",
+      "c2_origin": "Lampu obor tuan rumah (主).",
+      "s3": [
+        "Seorang,",
+        "dekat pelita rumah,",
+        "artinya tinggal atau menetap."
+      ],
+      "c1_origin_tts": "Sosok orang yang berdiri.",
+      "c2_origin_tts": "Lampu obor tuan rumah.",
+      "meaning_tts": "Tinggal atau Menetap"
+    },
+    "en": {
+      "meaning": "To Live / Reside",
+      "hook_lines": [
+        "A person (亻) staying by the home lamp (主),",
+        "means to live or reside (住)!"
+      ],
+      "c1_origin": "A standing person.",
+      "c2_origin": "A host's warm lantern flame (主).",
+      "s3": [
+        "A person,",
+        "by the home lamp,",
+        "means to live or reside."
+      ],
+      "c1_origin_tts": "A standing person.",
+      "c2_origin_tts": "A host's warm lantern flame.",
+      "meaning_tts": "To Live or Reside"
+    },
+    "template_path": "templates/住.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/住.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 住 (亻 on left, 主 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a calm person resting at home (staying cleanly to the left of x = 464).\n3. Behind 主 (right): illustrate a warm glowing traditional lantern on stand (staying cleanly to the right of x = 464).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "作",
+    "pinyin": "zuò",
+    "tone": 4,
+    "layout": "LR",
+    "stroke_split": 2,
+    "total_strokes": 7,
+    "c1": {
+      "hanzi": "亻",
+      "pinyin": "rén",
+      "tone": 2,
+      "bbox": [
+        283,
+        714,
+        486,
+        1166
+      ]
+    },
+    "c2": {
+      "hanzi": "乍",
+      "pinyin": "zhà",
+      "tone": 4,
+      "bbox": [
+        464,
+        701,
+        782,
+        1217
+      ]
+    },
+    "id": {
+      "meaning": "Bekerja / Membuat Karya",
+      "hook_lines": [
+        "Orang (亻) mengukir dengan tekun (乍),",
+        "untuk bekerja dan berkarya (作)!"
+      ],
+      "c1_origin": "Sosok orang yang aktif.",
+      "c2_origin": "Alat pahat kayu atau baju (乍).",
+      "s3": [
+        "Seseorang,",
+        "mengukir dengan tekun,",
+        "artinya bekerja atau berkarya."
+      ],
+      "c1_origin_tts": "Sosok orang yang aktif.",
+      "c2_origin_tts": "Alat pahat kayu atau baju.",
+      "meaning_tts": "Bekerja atau Membuat Karya"
+    },
+    "en": {
+      "meaning": "To Work / Make",
+      "hook_lines": [
+        "A person (亻) crafting carefully (乍),",
+        "to work and create (作)!"
+      ],
+      "c1_origin": "An active working person.",
+      "c2_origin": "Crafting tools or tailored garment (乍).",
+      "s3": [
+        "A person,",
+        "crafting steadily,",
+        "means to work or make."
+      ],
+      "c1_origin_tts": "An active working person.",
+      "c2_origin_tts": "Crafting tools or tailored garment.",
+      "meaning_tts": "To Work or Make"
+    },
+    "template_path": "templates/作.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/作.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 作 (亻 on left, 乍 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person leaning forward actively (staying cleanly to the left of x = 475).\n3. Behind 乍 (right): illustrate a warm wooden workbench and craft chisel (staying cleanly to the right of x = 475).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "做",
+    "pinyin": "zuò",
+    "tone": 4,
+    "layout": "LR",
+    "stroke_split": 2,
+    "total_strokes": 11,
+    "c1": {
+      "hanzi": "亻",
+      "pinyin": "rén",
+      "tone": 2,
+      "bbox": [
+        274,
+        729,
+        453,
+        1169
+      ]
+    },
+    "c2": {
+      "hanzi": "故",
+      "pinyin": "gù",
+      "tone": 4,
+      "bbox": [
+        412,
+        724,
+        809,
+        1164
+      ]
+    },
+    "id": {
+      "meaning": "Melakukan / Mengerjakan",
+      "hook_lines": [
+        "Orang (亻) mengerjakan tugas nyata (故),",
+        "artinya melakukan atau membuat (做)!"
+      ],
+      "c1_origin": "Sosok orang yang bergerak.",
+      "c2_origin": "Kerajinan bersejarah dengan tangan (故).",
+      "s3": [
+        "Seseorang,",
+        "mengerjakan tugas,",
+        "artinya melakukan atau membuat."
+      ],
+      "c1_origin_tts": "Sosok orang yang bergerak.",
+      "c2_origin_tts": "Kerajinan bersejarah dengan tangan.",
+      "meaning_tts": "Melakukan atau Mengerjakan"
+    },
+    "en": {
+      "meaning": "To Do / Make",
+      "hook_lines": [
+        "A person (亻) completing a task (故),",
+        "means to do or make (做)!"
+      ],
+      "c1_origin": "A person in action.",
+      "c2_origin": "Careful handiwork and craft (故).",
+      "s3": [
+        "A person,",
+        "carrying out a task,",
+        "means to do or make."
+      ],
+      "c1_origin_tts": "A person in action.",
+      "c2_origin_tts": "Careful handiwork and craft.",
+      "meaning_tts": "To Do or Make"
+    },
+    "template_path": "templates/做.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/做.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 做 (亻 on left, 故 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person holding tools ready to act (staying cleanly to the left of x = 432).\n3. Behind 故 (right): illustrate a hands crafting an origami or clay bowl (staying cleanly to the right of x = 432).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "坐",
+    "pinyin": "zuò",
+    "tone": 4,
+    "layout": "TB",
+    "stroke_split": 4,
+    "total_strokes": 7,
+    "c1": {
+      "hanzi": "从",
+      "pinyin": "cóng",
+      "tone": 2,
+      "bbox": [
+        329,
+        787,
+        730,
+        1002
+      ]
+    },
+    "c2": {
+      "hanzi": "土",
+      "pinyin": "tǔ",
+      "tone": 3,
+      "bbox": [
+        345,
+        717,
+        772,
+        1182
+      ]
+    },
+    "id": {
+      "meaning": "Duduk",
+      "hook_lines": [
+        "Dua orang (从) beristirahat di atas tanah (土),",
+        "sedang duduk bersama (坐)!"
+      ],
+      "c1_origin": "Dua orang saling berdampingan.",
+      "c2_origin": "Gundukan tanah atau bangku alam.",
+      "s3": [
+        "Dua orang,",
+        "di atas tanah,",
+        "sedang duduk bersama."
+      ],
+      "c1_origin_tts": "Dua orang saling berdampingan.",
+      "c2_origin_tts": "Gundukan tanah atau bangku alam.",
+      "meaning_tts": "Duduk"
+    },
+    "en": {
+      "meaning": "To Sit",
+      "hook_lines": [
+        "Two people (从) resting on the earth (土),",
+        "sitting comfortably together (坐)!"
+      ],
+      "c1_origin": "Two people side by side.",
+      "c2_origin": "A mound of earth or natural bench.",
+      "s3": [
+        "Two people,",
+        "on the earth mound,",
+        "are sitting down."
+      ],
+      "c1_origin_tts": "Two people side by side.",
+      "c2_origin_tts": "A mound of earth or natural bench.",
+      "meaning_tts": "To Sit"
+    },
+    "template_path": "templates/坐.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/坐.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 坐 (从 on top, 土 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 从 (top): illustrate a two friendly small figures sitting side by side (staying cleanly above y = 859).\n3. Behind 土 (bottom): illustrate a warm earthy hillside mound and grass (staying cleanly below y = 859).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "想",
+    "pinyin": "xiǎng",
+    "tone": 3,
+    "layout": "TB",
+    "stroke_split": 9,
+    "total_strokes": 13,
+    "c1": {
+      "hanzi": "相",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "bbox": [
+        315,
+        695,
+        714,
+        1034
+      ]
+    },
+    "c2": {
+      "hanzi": "心",
+      "pinyin": "xīn",
+      "tone": 1,
+      "bbox": [
+        332,
+        1025,
+        764,
+        1206
+      ]
+    },
+    "id": {
+      "meaning": "Berpikir / Rindu / Ingin",
+      "hook_lines": [
+        "Memandang jauh (相) hingga menyentuh hati (心),",
+        "saat berpikir atau merindu (想)!"
+      ],
+      "c1_origin": "Mata memandang pohon di kejauhan (相).",
+      "c2_origin": "Hati yang penuh perasaan (心).",
+      "s3": [
+        "Memandang jauh,",
+        "sampai ke dalam hati,",
+        "artinya berpikir atau rindu."
+      ],
+      "c1_origin_tts": "Mata memandang pohon di kejauhan.",
+      "c2_origin_tts": "Hati yang penuh perasaan.",
+      "meaning_tts": "Berpikir atau Rindu atau Ingin"
+    },
+    "en": {
+      "meaning": "To Think / Miss / Want",
+      "hook_lines": [
+        "Gazing far (相) deep into your heart (心),",
+        "means to think, miss, or want (想)!"
+      ],
+      "c1_origin": "Eyes looking across a tree (相).",
+      "c2_origin": "A warm beating heart (心).",
+      "s3": [
+        "Gazing from afar,",
+        "deep inside the heart,",
+        "means to think or miss."
+      ],
+      "c1_origin_tts": "Eyes looking across a tree.",
+      "c2_origin_tts": "A warm beating heart.",
+      "meaning_tts": "To Think or Miss or Want"
+    },
+    "template_path": "templates/想.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/想.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 想 (相 on top, 心 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 相 (top): illustrate a sage tree beside a thoughtful eye looking out (staying cleanly above y = 1029).\n3. Behind 心 (bottom): illustrate a soft coral heart with gentle thought bubbles (staying cleanly below y = 1029).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "听",
+    "pinyin": "tīng",
+    "tone": 1,
+    "layout": "LR",
+    "stroke_split": 3,
+    "total_strokes": 7,
+    "c1": {
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "tone": 3,
+      "bbox": [
+        292,
+        823,
+        457,
+        1014
+      ]
+    },
+    "c2": {
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "tone": 1,
+      "bbox": [
+        384,
+        728,
+        774,
+        1226
+      ]
+    },
+    "id": {
+      "meaning": "Mendengar",
+      "hook_lines": [
+        "Suara dari mulut (口) berdenting jelas (斤),",
+        "membuat kita mendengar (听)!"
+      ],
+      "c1_origin": "Mulut yang berbicara atau menyimak.",
+      "c2_origin": "Kapak kecil (petunjuk bunyi / irama).",
+      "s3": [
+        "Suara mulut,",
+        "berdenting jelas,",
+        "untuk kita dengar."
+      ],
+      "c1_origin_tts": "Mulut yang berbicara atau menyimak.",
+      "c2_origin_tts": "Kapak kecil.",
+      "meaning_tts": "Mendengar"
+    },
+    "en": {
+      "meaning": "To Listen / Hear",
+      "hook_lines": [
+        "Voices from a mouth (口) ringing clear (斤),",
+        "reach your ears to listen (听)!"
+      ],
+      "c1_origin": "An open mouth speaking.",
+      "c2_origin": "A small axe (sound & rhythm cue).",
+      "s3": [
+        "Voice from a mouth,",
+        "ringing clearly,",
+        "is what you listen to."
+      ],
+      "c1_origin_tts": "An open mouth speaking.",
+      "c2_origin_tts": "A small axe.",
+      "meaning_tts": "To Listen or Hear"
+    },
+    "template_path": "templates/听.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/听.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 听 (口 on left, 斤 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 口 (left): illustrate a open mouth with gentle curved sound waves (staying cleanly to the left of x = 420).\n3. Behind 斤 (right): illustrate a clean flat-vector small axe and sound chime (staying cleanly to the right of x = 420).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "杯",
+    "pinyin": "bēi",
+    "tone": 1,
+    "layout": "LR",
+    "stroke_split": 4,
+    "total_strokes": 8,
+    "c1": {
+      "hanzi": "木",
+      "pinyin": "mù",
+      "tone": 4,
+      "bbox": [
+        276,
+        696,
+        501,
+        1180
+      ]
+    },
+    "c2": {
+      "hanzi": "不",
+      "pinyin": "bù",
+      "tone": 4,
+      "bbox": [
+        461,
+        782,
+        790,
+        1194
+      ]
+    },
+    "id": {
+      "meaning": "Cangkir / Gelas",
+      "hook_lines": [
+        "Kayu halus (木) dibentuk dengan bunyi bu (不),",
+        "menjadi cangkir atau gelas (杯)!"
+      ],
+      "c1_origin": "Pohon atau kayu alami.",
+      "c2_origin": "Pola cangkir terbalik (petunjuk bunyi).",
+      "s3": [
+        "Kayu halus,",
+        "berbentuk pola cangkir,",
+        "menjadi cangkir atau gelas."
+      ],
+      "c1_origin_tts": "Pohon atau kayu alami.",
+      "c2_origin_tts": "Pola cangkir terbalik.",
+      "meaning_tts": "Cangkir atau Gelas"
+    },
+    "en": {
+      "meaning": "Cup / Glass",
+      "hook_lines": [
+        "Fine wood (木) shaped with the bu cue (不),",
+        "forms a sturdy cup or mug (杯)!"
+      ],
+      "c1_origin": "Wood from a tree.",
+      "c2_origin": "Inverted cup silhouette (sound cue).",
+      "s3": [
+        "Fine wood,",
+        "with the sound cue,",
+        "becomes a cup or mug."
+      ],
+      "c1_origin_tts": "Wood from a tree.",
+      "c2_origin_tts": "Inverted cup silhouette.",
+      "meaning_tts": "Cup or Glass"
+    },
+    "template_path": "templates/杯.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/杯.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 杯 (木 on left, 不 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (left): illustrate a warm wooden plank and small leafy branch (staying cleanly to the left of x = 481).\n3. Behind 不 (right): illustrate a cute ceramic mug and warm tea steam (staying cleanly to the right of x = 481).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "本",
+    "pinyin": "běn",
+    "tone": 3,
+    "layout": "TB",
+    "stroke_split": 4,
+    "total_strokes": 5,
+    "c1": {
+      "hanzi": "木",
+      "pinyin": "mù",
+      "tone": 4,
+      "bbox": [
+        284,
+        699,
+        821,
+        1224
+      ]
+    },
+    "c2": {
+      "hanzi": "一",
+      "pinyin": "yī",
+      "tone": 1,
+      "bbox": [
+        416,
+        1051,
+        625,
+        1097
+      ]
+    },
+    "id": {
+      "meaning": "Pangkal / Buku (Satuan)",
+      "hook_lines": [
+        "Pohon kokoh (木) ditandai garis pangkalnya (一),",
+        "berarti akar asal atau buku (本)!"
+      ],
+      "c1_origin": "Pohon lengkap dengan batang dan dahan.",
+      "c2_origin": "Garis penanda pangkal akar di bawah.",
+      "s3": [
+        "Pohon kokoh,",
+        "ditandai garis di akarnya,",
+        "artinya pangkal atau buku."
+      ],
+      "c1_origin_tts": "Pohon lengkap dengan batang dan dahan.",
+      "c2_origin_tts": "Garis penanda pangkal akar di bawah.",
+      "meaning_tts": "Pangkal atau Buku"
+    },
+    "en": {
+      "meaning": "Root / Origin / Book",
+      "hook_lines": [
+        "A sturdy tree (木) marked at its base (一),",
+        "means root, origin, or book (本)!"
+      ],
+      "c1_origin": "A tree with trunk and branches.",
+      "c2_origin": "A short line marking the root base.",
+      "s3": [
+        "A sturdy tree,",
+        "marked at its root base,",
+        "means origin or book."
+      ],
+      "c1_origin_tts": "A tree with trunk and branches.",
+      "c2_origin_tts": "A short line marking the root base.",
+      "meaning_tts": "Root or Origin or Book"
+    },
+    "template_path": "templates/本.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/本.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 本 (木 on top, 一 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (top): illustrate a sage leafy tree with dark navy trunk (staying cleanly above y = 1137).\n3. Behind 一 (bottom): illustrate a warm earth soil highlight marking the root line and open book (staying cleanly below y = 1137).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "菜",
+    "pinyin": "cài",
+    "tone": 4,
+    "layout": "TB",
+    "stroke_split": 3,
+    "total_strokes": 11,
+    "c1": {
+      "hanzi": "艹",
+      "pinyin": "cǎo",
+      "tone": 3,
+      "bbox": [
+        356,
+        690,
+        722,
+        831
+      ]
+    },
+    "c2": {
+      "hanzi": "采",
+      "pinyin": "cǎi",
+      "tone": 3,
+      "bbox": [
+        333,
+        804,
+        786,
+        1219
+      ]
+    },
+    "id": {
+      "meaning": "Sayuran / Hidangan",
+      "hook_lines": [
+        "Tumbuhan hijau (艹) yang segar dipetik (采),",
+        "menjadi sayuran atau hidangan (菜)!"
+      ],
+      "c1_origin": "Tunas rumput dan tumbuhan hijau.",
+      "c2_origin": "Tangan memetik buah dari pohon.",
+      "s3": [
+        "Tumbuhan hijau,",
+        "yang baru dipetik,",
+        "menjadi sayuran."
+      ],
+      "c1_origin_tts": "Tunas rumput dan tumbuhan hijau.",
+      "c2_origin_tts": "Tangan memetik buah dari pohon.",
+      "meaning_tts": "Sayuran atau Hidangan"
+    },
+    "en": {
+      "meaning": "Vegetable / Dish",
+      "hook_lines": [
+        "Fresh green plants (艹) freshly picked (采),",
+        "become vegetables or a dish (菜)!"
+      ],
+      "c1_origin": "Green grass sprouts.",
+      "c2_origin": "Hand picking leaves from a tree.",
+      "s3": [
+        "Green plants,",
+        "freshly picked,",
+        "become vegetables."
+      ],
+      "c1_origin_tts": "Green grass sprouts.",
+      "c2_origin_tts": "Hand picking leaves from a tree.",
+      "meaning_tts": "Vegetable or Dish"
+    },
+    "template_path": "templates/菜.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/菜.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 菜 (艹 on top, 采 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 艹 (top): illustrate a two cute fresh sage-green grass sprouts (staying cleanly above y = 817).\n3. Behind 采 (bottom): illustrate a hand picking fresh green leaves from a small tree (staying cleanly below y = 817).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "茶",
+    "pinyin": "chá",
+    "tone": 2,
+    "layout": "TB",
+    "stroke_split": 3,
+    "total_strokes": 9,
+    "c1": {
+      "hanzi": "艹",
+      "pinyin": "cǎo",
+      "tone": 3,
+      "bbox": [
+        361,
+        696,
+        727,
+        846
+      ]
+    },
+    "c2": {
+      "hanzi": "余",
+      "pinyin": "yú",
+      "tone": 2,
+      "bbox": [
+        301,
+        831,
+        808,
+        1212
+      ]
+    },
+    "id": {
+      "meaning": "Teh",
+      "hook_lines": [
+        "Daun hijau (艹) diseduh tenang di rumah (余),",
+        "menghasilkan teh hangat (茶)!"
+      ],
+      "c1_origin": "Daun tumbuhan hijau segar.",
+      "c2_origin": "Orang di bawah atap kebun teh.",
+      "s3": [
+        "Daun hijau,",
+        "diseduh di bawah atap,",
+        "menghasilkan teh."
+      ],
+      "c1_origin_tts": "Daun tumbuhan hijau segar.",
+      "c2_origin_tts": "Orang di bawah atap kebun teh.",
+      "meaning_tts": "Teh"
+    },
+    "en": {
+      "meaning": "Tea",
+      "hook_lines": [
+        "Green leaves (艹) brewed beneath a roof (余),",
+        "give warm fragrant tea (茶)!"
+      ],
+      "c1_origin": "Fresh green plant leaves.",
+      "c2_origin": "A person under a tea-house roof.",
+      "s3": [
+        "Green leaves,",
+        "under a cozy roof,",
+        "make fragrant tea."
+      ],
+      "c1_origin_tts": "Fresh green plant leaves.",
+      "c2_origin_tts": "A person under a tea-house roof.",
+      "meaning_tts": "Tea"
+    },
+    "template_path": "templates/茶.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/茶.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 茶 (艹 on top, 余 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 艹 (top): illustrate a fresh green tea leaves sprouting on top (staying cleanly above y = 838).\n3. Behind 余 (bottom): illustrate a cozy tea-house roof above a warm steaming cup of tea (staying cleanly below y = 838).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "字",
+    "pinyin": "zì",
+    "tone": 4,
+    "layout": "TB",
+    "stroke_split": 3,
+    "total_strokes": 6,
+    "c1": {
+      "hanzi": "宀",
+      "pinyin": "mián",
+      "tone": 2,
+      "bbox": [
+        338,
+        692,
+        756,
+        909
+      ]
+    },
+    "c2": {
+      "hanzi": "子",
+      "pinyin": "zǐ",
+      "tone": 3,
+      "bbox": [
+        317,
+        847,
+        775,
+        1208
+      ]
+    },
+    "id": {
+      "meaning": "Huruf / Aksara",
+      "hook_lines": [
+        "Anak kecil (子) belajar di bawah atap rumah (宀),",
+        "mengenal huruf dan aksara (字)!"
+      ],
+      "c1_origin": "Atap rumah yang menaungi.",
+      "c2_origin": "Anak atau bayi di dalam rumah.",
+      "s3": [
+        "Atap rumah,",
+        "menaungi anak belajar,",
+        "mengenal huruf dan aksara."
+      ],
+      "c1_origin_tts": "Atap rumah yang menaungi.",
+      "c2_origin_tts": "Anak atau bayi di dalam rumah.",
+      "meaning_tts": "Huruf atau Aksara"
+    },
+    "en": {
+      "meaning": "Character / Word",
+      "hook_lines": [
+        "A child (子) learning beneath a roof (宀),",
+        "masters written characters (字)!"
+      ],
+      "c1_origin": "A sheltering house roof.",
+      "c2_origin": "A swaddled child inside.",
+      "s3": [
+        "A house roof,",
+        "sheltering a child,",
+        "means written character."
+      ],
+      "c1_origin_tts": "A sheltering house roof.",
+      "c2_origin_tts": "A swaddled child inside.",
+      "meaning_tts": "Character or Word"
+    },
+    "template_path": "templates/字.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/字.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 字 (宀 on top, 子 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 宀 (top): illustrate a warm terracotta house roof sheltering from above (staying cleanly above y = 878).\n3. Behind 子 (bottom): illustrate a cute child reading or writing with brush inside (staying cleanly below y = 878).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "学",
+    "pinyin": "xué",
+    "tone": 2,
+    "layout": "TB",
+    "stroke_split": 5,
+    "total_strokes": 8,
+    "c1": {
+      "hanzi": "⺍",
+      "pinyin": "xué",
+      "tone": 2,
+      "bbox": [
+        326,
+        709,
+        765,
+        969
+      ]
+    },
+    "c2": {
+      "hanzi": "子",
+      "pinyin": "zǐ",
+      "tone": 3,
+      "bbox": [
+        334,
+        897,
+        769,
+        1206
+      ]
+    },
+    "id": {
+      "meaning": "Belajar",
+      "hook_lines": [
+        "Di bawah atap sekolah (⺍) anak kecil (子),",
+        "tekun belajar setiap hari (学)!"
+      ],
+      "c1_origin": "Tangan dan atap sekolah di atas.",
+      "c2_origin": "Anak yang tekun menimba ilmu.",
+      "s3": [
+        "Di atap sekolah,",
+        "seorang anak,",
+        "tekun belajar."
+      ],
+      "c1_origin_tts": "Tangan dan atap sekolah di atas.",
+      "c2_origin_tts": "Anak yang tekun menimba ilmu.",
+      "meaning_tts": "Belajar"
+    },
+    "en": {
+      "meaning": "To Study / Learn",
+      "hook_lines": [
+        "Under a school roof (⺍) a young child (子),",
+        "loves to study and learn (学)!"
+      ],
+      "c1_origin": "Hands and school roof above.",
+      "c2_origin": "A young child eager to learn.",
+      "s3": [
+        "Under a school roof,",
+        "a young child,",
+        "studies and learns."
+      ],
+      "c1_origin_tts": "Hands and school roof above.",
+      "c2_origin_tts": "A young child eager to learn.",
+      "meaning_tts": "To Study or Learn"
+    },
+    "template_path": "templates/学.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/学.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 学 (⺍ on top, 子 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind ⺍ (top): illustrate a warm schoolhouse roof and bright star sparks (staying cleanly above y = 933).\n3. Behind 子 (bottom): illustrate a happy child sitting with an open book (staying cleanly below y = 933).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "家",
+    "pinyin": "jiā",
+    "tone": 1,
+    "layout": "TB",
+    "stroke_split": 3,
+    "total_strokes": 10,
+    "c1": {
+      "hanzi": "宀",
+      "pinyin": "mián",
+      "tone": 2,
+      "bbox": [
+        333,
+        684,
+        756,
+        891
+      ]
+    },
+    "c2": {
+      "hanzi": "豕",
+      "pinyin": "shǐ",
+      "tone": 3,
+      "bbox": [
+        347,
+        834,
+        812,
+        1222
+      ]
+    },
+    "id": {
+      "meaning": "Rumah / Keluarga",
+      "hook_lines": [
+        "Di bawah atap rumah (宀) ada peliharaan (豕),",
+        "itulah rumah dan keluarga hangat (家)!"
+      ],
+      "c1_origin": "Atap rumah yang hangat.",
+      "c2_origin": "Babi ternak peliharaan keluarga.",
+      "s3": [
+        "Di bawah atap,",
+        "hidup bersama keluarga,",
+        "itulah rumah yang hangat."
+      ],
+      "c1_origin_tts": "Atap rumah yang hangat.",
+      "c2_origin_tts": "Babi ternak peliharaan keluarga.",
+      "meaning_tts": "Rumah atau Keluarga"
+    },
+    "en": {
+      "meaning": "Home / Family",
+      "hook_lines": [
+        "Under a warm roof (宀) with family livestock (豕),",
+        "makes a cozy home and family (家)!"
+      ],
+      "c1_origin": "A warm sheltering roof.",
+      "c2_origin": "A cozy family piglet indoors.",
+      "s3": [
+        "Under one roof,",
+        "living together safely,",
+        "is home and family."
+      ],
+      "c1_origin_tts": "A warm sheltering roof.",
+      "c2_origin_tts": "A cozy family piglet indoors.",
+      "meaning_tts": "Home or Family"
+    },
+    "template_path": "templates/家.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/家.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 家 (宀 on top, 豕 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 宀 (top): illustrate a warm terracotta roof protecting from above (staying cleanly above y = 862).\n3. Behind 豕 (bottom): illustrate a cute pink piglet resting happily inside (staying cleanly below y = 862).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  },
+  {
+    "char": "校",
+    "pinyin": "xiào",
+    "tone": 4,
+    "layout": "LR",
+    "stroke_split": 4,
+    "total_strokes": 10,
+    "c1": {
+      "hanzi": "木",
+      "pinyin": "mù",
+      "tone": 4,
+      "bbox": [
+        280,
+        705,
+        489,
+        1200
+      ]
+    },
+    "c2": {
+      "hanzi": "交",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "bbox": [
+        454,
+        723,
+        799,
+        1175
+      ]
+    },
+    "id": {
+      "meaning": "Sekolah",
+      "hook_lines": [
+        "Di bawah pohon rindang (木) kita bertemu (交),",
+        "untuk belajar di sekolah (校)!"
+      ],
+      "c1_origin": "Pohon kayu rindang di halaman.",
+      "c2_origin": "Orang bersila kaki saling bertemu (交).",
+      "s3": [
+        "Di bawah pohon,",
+        "saling bertemu,",
+        "itulah sekolah."
+      ],
+      "c1_origin_tts": "Pohon kayu rindang di halaman.",
+      "c2_origin_tts": "Orang bersila kaki saling bertemu.",
+      "meaning_tts": "Sekolah"
+    },
+    "en": {
+      "meaning": "School",
+      "hook_lines": [
+        "By a courtyard tree (木) friends meet (交),",
+        "to learn together at school (校)!"
+      ],
+      "c1_origin": "A shady tree in a courtyard.",
+      "c2_origin": "Friends crossing paths to meet (交).",
+      "s3": [
+        "By a shady tree,",
+        "meeting friends,",
+        "that is school."
+      ],
+      "c1_origin_tts": "A shady tree in a courtyard.",
+      "c2_origin_tts": "Friends crossing paths to meet.",
+      "meaning_tts": "School"
+    },
+    "template_path": "templates/校.png",
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/校.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 校 (木 on left, 交 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (left): illustrate a sage-green leafy courtyard tree (staying cleanly to the left of x = 471).\n3. Behind 交 (right): illustrate a warm school gate with two friendly students meeting (staying cleanly to the right of x = 471).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+  }
+]
