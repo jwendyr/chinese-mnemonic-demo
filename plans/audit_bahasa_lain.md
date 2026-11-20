@@ -32,3 +32,13 @@ Tanggal audit: 19 November 2026
 ## 4. Jalur Partikel Mandarin & Jepang (`partikel-rencana-id-en.md`)
 - **Cakupan:** `18` pelajaran partikel (`8` Mandarin HSK 3.0 Level 1: `的, 地, 了 (verba), 了 (akhir kalimat), 吗/嗎, 呢 (berlangsung), 呢 (pertanyaan balik), 吧` + `10` Jepang: `は, が, を, へ, に, で, の, も, と, か`).
 - **Audit TTS & Prompt:** [partikel_ready_prompts.json](file:///Volumes/App/Workspace/chinese-mnemonic-demo/plans/partikel_ready_prompts.json) (`18` entri lengkap dengan prompt ilustrasi dua tahap `9:16` serta skrip `tts_id` & `tts_en`, `0` error `validate_tts_segment`).
+
+## 5. Jalur Huruf Yunani (`yunani-rencana-id-en.md`)
+- **Cakupan:** `24` huruf alfabet Yunani berpasangan huruf besar & kecil (`Α α` s.d. `Ω ω`).
+- **Suara TTS Native (`edge-tts`):** Terverifikasi tersedia `el-GR-AthinaNeural` dan `el-GR-NestorasNeural`.
+- **Template & Audit TTS:** `24 / 24` template (`Georgia Bold.ttf`) di [templates_greek/](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates_greek) + [yunani_ready_prompts.json](file:///Volumes/App/Workspace/chinese-mnemonic-demo/plans/yunani_ready_prompts.json) (`24` entri, `0` error `validate_tts_segment`).
+
+## 6. Jalur Aksara Devanagari (`devanagari-rencana-id-en.md`)
+- **Cakupan:** `46` aksara inti Devanagari (`13` vokal Swara + `33` konsonan Vyanjana).
+- **Suara TTS Native (`edge-tts`):** Terverifikasi tersedia `hi-IN-SwaraNeural`, `hi-IN-MadhurNeural` (serta `mr-IN-AarohiNeural`, `mr-IN-ManoharNeural`, `ne-NP-HemkalaNeural`, `ne-NP-SagarNeural`).
+- **Template & Audit TTS:** `46 / 46` template (`Kohinoor.ttc`) di [templates_devanagari/](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates_devanagari) + [devanagari_ready_prompts.json](file:///Volumes/App/Workspace/chinese-mnemonic-demo/plans/devanagari_ready_prompts.json) (`46` entri, `0` error `validate_tts_segment`).

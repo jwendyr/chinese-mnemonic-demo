@@ -1,0 +1,530 @@
+[
+  {
+    "id": "el_01_alpha",
+    "upper": "Α",
+    "lower": "α",
+    "name": "Alpha",
+    "sound": "a",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/01_alpha.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Alpha. Bunyinya a seperti ayah.",
+      "s2": "Bentuknya seperti tanduk banteng terbalik.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Alpha."
+    },
+    "tts_en": {
+      "s1": "Greek letter Alpha. It sounds like a as in father.",
+      "s2": "Picture inverted ox head horns.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Alpha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Α α (Alpha) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of inverted ox head horns in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_02_beta",
+    "upper": "Β",
+    "lower": "β",
+    "name": "Beta",
+    "sound": "v",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/02_beta.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Beta. Bunyinya v di Yunani modern, b di istilah sains.",
+      "s2": "Bentuknya seperti dua ruangan rumah.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Beta."
+    },
+    "tts_en": {
+      "s1": "Greek letter Beta. It sounds like v in modern Greek, b in science.",
+      "s2": "Picture two rooms of a house.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Beta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Β β (Beta) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of two rooms of a house in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_03_gamma",
+    "upper": "Γ",
+    "lower": "γ",
+    "name": "Gamma",
+    "sound": "g",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/03_gamma.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Gamma. Bunyinya g lembut atau y sebelum e dan i.",
+      "s2": "Bentuknya seperti sudut siku tukang kayu.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Gamma."
+    },
+    "tts_en": {
+      "s1": "Greek letter Gamma. It sounds like soft g or y before e and i.",
+      "s2": "Picture carpenter corner square.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Gamma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Γ γ (Gamma) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of carpenter corner square in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_04_delta",
+    "upper": "Δ",
+    "lower": "δ",
+    "name": "Delta",
+    "sound": "dh",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/04_delta.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Delta. Bunyinya th lembut seperti this.",
+      "s2": "Bentuknya seperti pintu tenda segitiga.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Delta."
+    },
+    "tts_en": {
+      "s1": "Greek letter Delta. It sounds like soft th as in this.",
+      "s2": "Picture triangular tent doorway.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Delta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Δ δ (Delta) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of triangular tent doorway in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_05_epsilon",
+    "upper": "Ε",
+    "lower": "ε",
+    "name": "Epsilon",
+    "sound": "e",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/05_epsilon.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Epsilon. Bunyinya e pendek seperti ember.",
+      "s2": "Bentuknya seperti sisir tiga gigi.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Epsilon."
+    },
+    "tts_en": {
+      "s1": "Greek letter Epsilon. It sounds like short e as in met.",
+      "s2": "Picture three-pronged comb.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Epsilon."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ε ε (Epsilon) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of three-pronged comb in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_06_zeta",
+    "upper": "Ζ",
+    "lower": "ζ",
+    "name": "Zeta",
+    "sound": "z",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/06_zeta.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Zeta. Bunyinya z berdengung.",
+      "s2": "Bentuknya seperti kilat zigzag di langit.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Zeta."
+    },
+    "tts_en": {
+      "s1": "Greek letter Zeta. It sounds like voiced z as in zoo.",
+      "s2": "Picture zigzag lightning bolt.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Zeta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ζ ζ (Zeta) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of zigzag lightning bolt in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_07_eta",
+    "upper": "Η",
+    "lower": "η",
+    "name": "Eta",
+    "sound": "i",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/07_eta.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Eta. Bunyinya i panjang di Yunani modern.",
+      "s2": "Bentuknya seperti dua tiang gerbang tinggi.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Eta."
+    },
+    "tts_en": {
+      "s1": "Greek letter Eta. It sounds like ee sound in modern Greek.",
+      "s2": "Picture tall twin gate pillars.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Eta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Η η (Eta) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of tall twin gate pillars in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_08_theta",
+    "upper": "Θ",
+    "lower": "θ",
+    "name": "Theta",
+    "sound": "th",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/08_theta.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Theta. Bunyinya th tajam seperti think.",
+      "s2": "Bentuknya seperti lingkaran dengan garis tengah.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Theta."
+    },
+    "tts_en": {
+      "s1": "Greek letter Theta. It sounds like voiceless th as in think.",
+      "s2": "Picture circle split by a horizon line.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Theta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Θ θ (Theta) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of circle split by a horizon line in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_09_iota",
+    "upper": "Ι",
+    "lower": "ι",
+    "name": "Iota",
+    "sound": "i",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/09_iota.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Iota. Bunyinya i singkat dan ramping.",
+      "s2": "Bentuknya seperti tetesan embun di ujung daun.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Iota."
+    },
+    "tts_en": {
+      "s1": "Greek letter Iota. It sounds like short crisp ee.",
+      "s2": "Picture single drop on a slender stem.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Iota."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ι ι (Iota) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of single drop on a slender stem in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_10_kappa",
+    "upper": "Κ",
+    "lower": "κ",
+    "name": "Kappa",
+    "sound": "k",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/10_kappa.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Kappa. Bunyinya k bersih tanpa letupan keras.",
+      "s2": "Bentuknya seperti telapak tangan terbuka.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Kappa."
+    },
+    "tts_en": {
+      "s1": "Greek letter Kappa. It sounds like clean crisp k.",
+      "s2": "Picture open palm branching out.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Kappa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Κ κ (Kappa) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of open palm branching out in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_11_lambda",
+    "upper": "Λ",
+    "lower": "λ",
+    "name": "Lambda",
+    "sound": "l",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/11_lambda.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Lambda. Bunyinya l ringan.",
+      "s2": "Bentuknya seperti puncak gunung kembar.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Lambda."
+    },
+    "tts_en": {
+      "s1": "Greek letter Lambda. It sounds like light clear l.",
+      "s2": "Picture pointed mountain peak.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Lambda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Λ λ (Lambda) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of pointed mountain peak in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_12_mu",
+    "upper": "Μ",
+    "lower": "μ",
+    "name": "Mu",
+    "sound": "m",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/12_mu.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Mu. Bunyinya m seperti mama.",
+      "s2": "Bentuknya seperti gelombang air dua puncak.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Mu."
+    },
+    "tts_en": {
+      "s1": "Greek letter Mu. It sounds like m as in mother.",
+      "s2": "Picture two-crested water wave.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Mu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Μ μ (Mu) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of two-crested water wave in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_13_nu",
+    "upper": "Ν",
+    "lower": "ν",
+    "name": "Nu",
+    "sound": "n",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/13_nu.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Nu. Bunyinya n seperti nama.",
+      "s2": "Bentuknya seperti gelombang menanjak ke kanan.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Nu."
+    },
+    "tts_en": {
+      "s1": "Greek letter Nu. It sounds like n as in name.",
+      "s2": "Picture rising wave diagonal.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Nu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ν ν (Nu) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of rising wave diagonal in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_14_xi",
+    "upper": "Ξ",
+    "lower": "ξ",
+    "name": "Xi",
+    "sound": "ks",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/14_xi.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Xi. Bunyinya ks seperti teks.",
+      "s2": "Bentuknya seperti tiga anak tangga melayang.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Xi."
+    },
+    "tts_en": {
+      "s1": "Greek letter Xi. It sounds like ks as in box.",
+      "s2": "Picture three floating steps.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Xi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ξ ξ (Xi) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of three floating steps in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_15_omicron",
+    "upper": "Ο",
+    "lower": "ο",
+    "name": "Omicron",
+    "sound": "o",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/15_omicron.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Omicron. Bunyinya o pendek bulat.",
+      "s2": "Bentuknya seperti mata terbuka bulat.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Omicron."
+    },
+    "tts_en": {
+      "s1": "Greek letter Omicron. It sounds like short round o.",
+      "s2": "Picture wide open eye.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Omicron."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ο ο (Omicron) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of wide open eye in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_16_pi",
+    "upper": "Π",
+    "lower": "π",
+    "name": "Pi",
+    "sound": "p",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/16_pi.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Pi. Bunyinya p seperti pagi.",
+      "s2": "Bentuknya seperti gerbang kuil dua tiang.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Pi."
+    },
+    "tts_en": {
+      "s1": "Greek letter Pi. It sounds like p as in pie.",
+      "s2": "Picture two-pillar temple gate.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Pi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Π π (Pi) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of two-pillar temple gate in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_17_rho",
+    "upper": "Ρ",
+    "lower": "ρ",
+    "name": "Rho",
+    "sound": "r",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/17_rho.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Rho. Bunyinya r bergetar ringan.",
+      "s2": "Bentuknya seperti kepala menghadap ke kanan.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Rho."
+    },
+    "tts_en": {
+      "s1": "Greek letter Rho. It sounds like lightly rolled r.",
+      "s2": "Picture profile head facing right.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Rho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ρ ρ (Rho) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of profile head facing right in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_18_sigma",
+    "upper": "Σ",
+    "lower": "σ",
+    "name": "Sigma",
+    "sound": "s",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/18_sigma.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Sigma. Bunyinya s tajam, bentuk akhir ς.",
+      "s2": "Bentuknya seperti busur miring dan gulungan akhir.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Sigma."
+    },
+    "tts_en": {
+      "s1": "Greek letter Sigma. It sounds like sharp s, final form ς.",
+      "s2": "Picture angled bow and final curl.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Sigma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Σ σ (Sigma) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of angled bow and final curl in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_19_tau",
+    "upper": "Τ",
+    "lower": "τ",
+    "name": "Tau",
+    "sound": "t",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/19_tau.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Tau. Bunyinya t bersih.",
+      "s2": "Bentuknya seperti palang kayu sederhana.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Tau."
+    },
+    "tts_en": {
+      "s1": "Greek letter Tau. It sounds like clean t.",
+      "s2": "Picture simple wooden crossbar.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Tau."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Τ τ (Tau) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of simple wooden crossbar in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_20_upsilon",
+    "upper": "Υ",
+    "lower": "υ",
+    "name": "Upsilon",
+    "sound": "i",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/20_upsilon.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Upsilon. Bunyinya i atau y modern.",
+      "s2": "Bentuknya seperti cabang tunas berbentuk Y.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Upsilon."
+    },
+    "tts_en": {
+      "s1": "Greek letter Upsilon. It sounds like ee or y in modern Greek.",
+      "s2": "Picture sprouting Y-shaped branch.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Upsilon."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Υ υ (Upsilon) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of sprouting Y-shaped branch in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_21_phi",
+    "upper": "Φ",
+    "lower": "φ",
+    "name": "Phi",
+    "sound": "f",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/21_phi.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Phi. Bunyinya f lembut seperti foto.",
+      "s2": "Bentuknya seperti lingkaran ditembus tiang lurus.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Phi."
+    },
+    "tts_en": {
+      "s1": "Greek letter Phi. It sounds like f as in photo.",
+      "s2": "Picture circle pierced by a pillar.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Phi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Φ φ (Phi) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of circle pierced by a pillar in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_22_chi",
+    "upper": "Χ",
+    "lower": "χ",
+    "name": "Chi",
+    "sound": "kh",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/22_chi.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Chi. Bunyinya kh gesek lembut.",
+      "s2": "Bentuknya seperti dua garis silang seimbang.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Chi."
+    },
+    "tts_en": {
+      "s1": "Greek letter Chi. It sounds like soft guttural kh.",
+      "s2": "Picture two balanced crossed strokes.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Chi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Χ χ (Chi) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of two balanced crossed strokes in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_23_psi",
+    "upper": "Ψ",
+    "lower": "ψ",
+    "name": "Psi",
+    "sound": "ps",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/23_psi.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Psi. Bunyinya ps seperti kapsul.",
+      "s2": "Bentuknya seperti trisula tiga cabang.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Psi."
+    },
+    "tts_en": {
+      "s1": "Greek letter Psi. It sounds like ps as in lapse.",
+      "s2": "Picture three-pronged trident.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Psi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ψ ψ (Psi) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of three-pronged trident in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  },
+  {
+    "id": "el_24_omega",
+    "upper": "Ω",
+    "lower": "ω",
+    "name": "Omega",
+    "sound": "o",
+    "voice_el": "el-GR-AthinaNeural",
+    "template_path": "templates_greek/24_omega.png",
+    "tts_id": {
+      "s1": "Huruf Yunani Omega. Bunyinya o bulat panjang di ujung alfabet.",
+      "s2": "Bentuknya seperti sepatu tapal kuda besar.",
+      "s3": "Perhatikan huruf besar dan huruf kecilnya berpasangan.",
+      "s4": "Ucapkan bersama, Omega."
+    },
+    "tts_en": {
+      "s1": "Greek letter Omega. It sounds like long round o at the end.",
+      "s2": "Picture grand horseshoe arch.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, Omega."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Greek letter Ω ω (Omega) on warm cream rice paper (#F9F5EC). Keep the exact uppercase and lowercase letterforms sharp and legible while weaving a subtle visual mnemonic of grand horseshoe arch in warm navy and terracotta brush-ink accents. Minimalist aesthetic, no extra text, no watermarks."
+  }
+]
