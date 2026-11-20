@@ -603,6 +603,210 @@ SCRIPTS: list[dict[str, Any]] = [
             "en": "All human beings are born free and equal in dignity and rights.",
         },
     },
+    {
+        "slug": "hebrew",
+        "name_id": "Abjad Ibrani (Alef-Bet + Sofit)",
+        "name_en": "Hebrew Abjad (Alef-Bet + Sofit)",
+        "native_name": "אָלֶף־בֵּית עִבְרִי",
+        "type_key": "abjad",
+        "type_id": "Abjad (22 Huruf + 5 Bentuk Akhir)",
+        "type_en": "Abjad (22 Letters + 5 Final Forms)",
+        "unicode": "U+0590–U+05FF (Hebrew)",
+        "direction": "Kanan ke kiri",
+        "lineage": "Fenisia → Aram Kuno → Abjad Ibrani Persegi (Square Script)",
+        "languages": "Ibrani Modern & Alkitabiah, Yiddish, Ladino",
+        "speech_lang": "he-IL",
+        "tts_voice": "he-IL-HilaNeural",
+        "omniglot_url": "https://omniglot.com/writing/hebrew.htm",
+        "prompt_file": "plans/ibrani_ready_prompts.json",
+        "related": ["arabic", "greek"],
+        "summary_id": "27 huruf Ibrani lengkap (22 konsonan inti + 5 bentuk akhir sofit: ך, ם, ן, ף, ץ).",
+        "summary_en": "27 Hebrew letters (22 core consonants + 5 final sofit forms: ך, ם, ן, ף, ץ).",
+        "features_id": [
+            "Ditulis dari kanan ke kiri tanpa perbedaan huruf besar dan kecil.",
+            "Lima huruf berubah menjadi bentuk ekor panjang (sofit) di akhir kata: ך, ם, ן, ף, ץ.",
+        ],
+        "features_en": [
+            "Written right-to-left with no uppercase/lowercase distinction.",
+            "Five letters take a special final (sofit) form at the end of words: ך, ם, ן, ף, ץ.",
+        ],
+        "sample": {
+            "native": "כּל בני האדם נולדו בני חורין ושווים בערכם ובזכויותיהם.",
+            "translit": "Kol benei ha-adam noldu benei chorin ve-shavim be-erkam u-ve-zechuyoteihem.",
+            "id": "Semua manusia dilahirkan merdeka dan setara dalam martabat serta hak.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "georgian",
+        "name_id": "Alfabet Georgia (Mkhedruli)",
+        "name_en": "Georgian Alphabet (Mkhedruli)",
+        "native_name": "ქართული დამწერლობა",
+        "type_key": "alphabet",
+        "type_id": "Alfabet Sejati (Unicase)",
+        "type_en": "True Alphabet (Unicase)",
+        "unicode": "U+10A0–U+10FF (Georgian)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Asomtavruli → Nuskhuri → Mkhedruli (~Abad ke-10 M)",
+        "languages": "Georgia, Mingrelia, Svan, Laz",
+        "speech_lang": "ka-GE",
+        "tts_voice": "ka-GE-EkaNeural",
+        "omniglot_url": "https://omniglot.com/writing/georgian.htm",
+        "prompt_file": "plans/georgia_ready_prompts.json",
+        "related": ["greek", "cyrillic"],
+        "summary_id": "33 huruf Mkhedruli Georgia modern yang unik dan sangat fonemis (satu huruf tepat satu bunyi).",
+        "summary_en": "33 modern Georgian Mkhedruli letters with strict one-to-one phonemic spelling.",
+        "features_id": [
+            "Alfabet unicase tanpa huruf kapital, dengan bentuk melengkung organik khas Kaukasus.",
+            "Ejaan sangat konsisten: setiap huruf selalu dibaca satu bunyi tetap.",
+        ],
+        "features_en": [
+            "Unicase alphabet with flowing rounded arches and zero silent letters.",
+            "Distinguishes aspirated vs ejective stops (თ/ტ, ფ/პ, ქ/კ).",
+        ],
+        "sample": {
+            "native": "ყველა ადამიანი იბადება თავისუფალი და თანასწორი თავისი ღირსებითა და უფლებებით.",
+            "translit": "Qvela adamiani ibadeba tavisupali da tanasts'ori tavisi ghirsebita da uplebebit.",
+            "id": "Semua manusia dilahirkan merdeka dan setara dalam martabat serta hak.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "myanmar",
+        "name_id": "Aksara Myanmar (Burma)",
+        "name_en": "Burmese / Myanmar Script",
+        "native_name": "မြန်မာအက္ခရာ",
+        "type_key": "abugida",
+        "type_id": "Abugida (Lingkaran Mulus)",
+        "type_en": "Abugida (Circular Brahmic Script)",
+        "unicode": "U+1000–U+109F (Myanmar)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Kadamba/Pallava → Pyu/Mon → Aksara Myanmar (~Abad ke-11 M)",
+        "languages": "Burma (Myanmar), Shan, Mon, Karen",
+        "speech_lang": "my-MM",
+        "tts_voice": "my-MM-NilarNeural",
+        "omniglot_url": "https://omniglot.com/writing/burmese.htm",
+        "prompt_file": "plans/myanmar_ready_prompts.json",
+        "related": ["devanagari", "thai", "khmer"],
+        "summary_id": "33 konsonan inti Myanmar berbentuk lingkaran mulus karena tradisi menulis di atas daun lontar.",
+        "summary_en": "33 core Myanmar consonants famed for their circular forms evolved on palm-leaf manuscripts.",
+        "features_id": [
+            "Bentuk huruf hampir seluruhnya terdiri dari lingkaran agar stylus tidak merobek daun lontar.",
+            "Menggunakan vokal bawaan 'a' dan tanda diakritik di sekeliling konsonan.",
+        ],
+        "features_en": [
+            "Rounded shapes avoided tearing dried palm leaves when incised with a stylus.",
+            "Carries an inherent 'a' vowel modified by surrounding vowel & tone signs.",
+        ],
+        "sample": {
+            "native": "လူတိုင်းသည် တူညီလွတ်လပ်သော ဂုဏ်သိက္ခာဖြင့် မွေးဖွားလာသူများ ဖြစ်သည်။",
+            "translit": "Lu-taing-thi tu-nyi lut-lat-thaw gon-theik-kha-hpyint mwe-hpwa-la-thu-mya hpyit-thi.",
+            "id": "Semua manusia dilahirkan merdeka dan setara dalam martabat serta hak.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "khmer",
+        "name_id": "Aksara Khmer (Kamboja)",
+        "name_en": "Khmer Script (Cambodian)",
+        "native_name": "អក្សរខ្មែរ",
+        "type_key": "abugida",
+        "type_id": "Abugida (Dua Seri Vokal Bawaan)",
+        "type_en": "Abugida (Two-Register Inherent Vowel)",
+        "unicode": "U+1780–U+17FF (Khmer)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Pallava → Khmer Kuno (~Abad ke-7 M)",
+        "languages": "Khmer (Kamboja)",
+        "speech_lang": "km-KH",
+        "tts_voice": "km-KH-SreymomNeural",
+        "omniglot_url": "https://omniglot.com/writing/khmer.htm",
+        "prompt_file": "plans/khmer_ready_prompts.json",
+        "related": ["thai", "lao", "devanagari"],
+        "summary_id": "33 konsonan inti aksara Khmer yang terbagi dalam dua seri vokal bawaan (seri a dan seri o).",
+        "summary_en": "33 core Khmer consonants divided into two inherent-vowel registers (a-series and o-series).",
+        "features_id": [
+            "Setiap konsonan termasuk seri 'a' atau seri 'o' yang mengubah bunyi tanda vokal yang menempel.",
+            "Menjadi induk langsung bagi bentuk aksara Thai dan Lao.",
+        ],
+        "features_en": [
+            "Each consonant belongs to the a-series or o-series register, shifting attached vowel quality.",
+            "Historical ancestor of both the Thai and Lao scripts.",
+        ],
+        "sample": {
+            "native": "មនុស្សទាំងអស់ កើតមកមានសេរីភាព និងភាពស្មើគ្នា ក្នុងសិទ្ធិ និងសេចក្ដីថ្លៃថ្នូរ។",
+            "translit": "Monuh teang ah kaet mok mean sereipheap ning pheap smae knea.",
+            "id": "Semua manusia dilahirkan merdeka dan setara dalam martabat serta hak.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "lao",
+        "name_id": "Aksara Lao",
+        "name_en": "Lao Script",
+        "native_name": "ອັກສອນລາວ",
+        "type_key": "abugida",
+        "type_id": "Abugida (Bernada)",
+        "type_en": "Abugida (Tonal)",
+        "unicode": "U+0E80–U+0EFF (Lao)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Khmer → Sukhothai → Aksara Lao",
+        "languages": "Lao, Khmu, Hmong Daw",
+        "speech_lang": "lo-LA",
+        "tts_voice": "lo-LA-KeomanyNeural",
+        "omniglot_url": "https://omniglot.com/writing/lao.htm",
+        "prompt_file": "plans/lao_ready_prompts.json",
+        "related": ["thai", "khmer"],
+        "summary_id": "27 konsonan inti aksara Lao yang lebih ringkas dan membulat dibandingkan Thai, dengan ejaan fonemis modern.",
+        "summary_en": "27 core Lao consonants — sleeker, more rounded, and more strictly phonemic than Thai.",
+        "features_id": [
+            "Direformasi agar jauh lebih fonemis: huruf-huruf konsonan ganda historis disederhanakan menjadi 27 konsonan inti.",
+            "Kerabat terdekat aksara Thai sehingga banyak bentuk huruf sangat mirip namun lebih membulat.",
+        ],
+        "features_en": [
+            "Reformed for phonemic spelling, streamlining historical consonants down to 27 core letters.",
+            "Closely related to Thai, with smoother rounded loops and no word spaces.",
+        ],
+        "sample": {
+            "native": "ມະນຸດທຸກຄົນເກີດມາມີອິດສະຫຼະ ແລະ ສະເໝີພາບກັນໃນສັກສີ ແລະ ສິດທິ.",
+            "translit": "Manut thuk khon koet ma mi itsala lae samoe phap kan nai saksi lae sitthi.",
+            "id": "Semua manusia dilahirkan merdeka dan setara dalam martabat serta hak.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "tamil",
+        "name_id": "Aksara Tamil",
+        "name_en": "Tamil Script",
+        "native_name": "தமிழ் அரிச்சுவடி",
+        "type_key": "abugida",
+        "type_id": "Abugida (Dravida)",
+        "type_en": "Abugida (Dravidian)",
+        "unicode": "U+0B80–U+0BFF (Tamil)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Tamil-Brahmi (~Abad ke-3 SM) → Vatteluttu → Aksara Tamil Modern",
+        "languages": "Tamil (India Selatan, Sri Lanka, Singapura, Malaysia)",
+        "speech_lang": "ta-IN",
+        "tts_voice": "ta-IN-PallaviNeural",
+        "omniglot_url": "https://omniglot.com/writing/tamil.htm",
+        "prompt_file": "plans/tamil_ready_prompts.json",
+        "related": ["devanagari"],
+        "summary_id": "30 aksara inti Tamil (12 vokal Uyir + 18 konsonan Mei) tanpa huruf konsonan berhembus.",
+        "summary_en": "30 core Tamil letters (12 Uyir vowels + 18 Mei consonants) with a streamlined non-aspirated inventory.",
+        "features_id": [
+            "Membedakan vokal (Uyir / 'jiwa') dan konsonan (Mei / 'tubuh') yang bergabung menjadi aksara suku kata.",
+            "Satu konsonan (mis. க) dapat berbunyi k, g, atau h bergantung pada posisinya di awal atau tengah kata.",
+        ],
+        "features_en": [
+            "Separates 12 Uyir ('soul') vowels and 18 Mei ('body') consonants that fuse into syllabic glyphs.",
+            "Single stop letters voice or soften allophonically between word-initial and intervocalic positions.",
+        ],
+        "sample": {
+            "native": "மனிதப் பிறவியினர் சகலரும் சுதந்திரமாகவே பிறக்கின்றனர்.",
+            "translit": "Manitap piraviyinar cakalarum cutantiramakave pirakkinranar.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
 ]
 
 GREEK_VOWELS = {"Α", "Ε", "Η", "Ι", "Ο", "Υ", "Ω"}
@@ -625,16 +829,30 @@ def classify_group(slug: str, row: dict[str, Any], idx: int) -> str:
             return "Tanda Keras & Lembut / Signs (2)"
         return "Konsonan / Consonants (21)"
     if slug == "hangul":
-        return "Konsonan / Consonants (14)" if idx < 14 else "Vokal / Vowels (10)"
+        if idx < 14:
+            return "Konsonan Dasar / Basic Consonants (14)"
+        if idx < 24:
+            return "Vokal Dasar / Basic Vowels (10)"
+        if idx < 29:
+            return "Konsonan Ganda / Double Consonants (5)"
+        return "Vokal Gabungan / Compound Vowels (11)"
     if slug == "arabic":
-        return "28 Huruf Inti Abjad Arab"
+        return "28 Huruf Inti Abjad Arab" if idx < 28 else "Harakat & Diakritik Vokal (8)"
     if slug == "thai":
+        if idx >= 44:
+            return "Vokal (Sara) & Tanda Nada (20)"
         g = row.get("glyph", "")
         if g in THAI_MID:
             return "Kelas Tengah / Mid Class (9)"
         if g in THAI_HIGH:
             return "Kelas Tinggi / High Class (11)"
         return "Kelas Rendah / Low Class (24)"
+    if slug == "hebrew":
+        return "22 Huruf Inti / Core Letters (22)" if idx < 22 else "Bentuk Akhir / Final Sofit (5)"
+    if slug == "tamil":
+        return "12 Vokal / Uyir (12)" if idx < 12 else "18 Konsonan / Mei (18)"
+    if slug in ("georgian", "myanmar", "khmer", "lao"):
+        return f"Huruf Inti / Core Letters ({33 if slug != 'lao' else 27})"
     if slug == "devanagari":
         if idx < 13:
             return "Vokal / Swara (13)"
@@ -656,7 +874,7 @@ def classify_group(slug: str, row: dict[str, Any], idx: int) -> str:
             return "Medial / Medials (3)"
         return "Vokal & Akhir / Finals (13)"
     if slug in ("hiragana", "katakana"):
-        return "Gojūon Matrix (46)"
+        return "Dakuten & Handakuten (25)" if row.get("variant") == "dakuten" else "Gojūon Matrix (46)"
     if slug == "particles":
         return "Mandarin HSK 3.0 L1 (8)" if row.get("language") == "mandarin" else "Jepang / Japanese (10)"
     if slug == "cantonese":

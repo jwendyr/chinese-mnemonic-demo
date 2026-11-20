@@ -1,0 +1,21 @@
+{
+  "slug": "khmer",
+  "omniglot_url": "https://omniglot.com/writing/khmer.htm",
+  "title": "Khmer (Cambodian) alphabet and language",
+  "at_a_glance": [
+    "Native name: ភាសាខ្មែរ (phiəsaa khma) [pʰiə.ˈsaː kʰmae]",
+    "Language family: Austroasiatic, Mon-Khmer",
+    "Number of speakers: c. 18.6 million",
+    "Spoken in: Cambodia, Vietnam, Thailand",
+    "First written: 9th century"
+  ],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: Abugida / Syllabic Alphabet in which each consonant has two forms, one with an inherent /ɑː/ (first series) and one with an inherent /ɔː/ (second series).",
+    "Writing direction: left to right in horizontal lines.",
+    "Vowels are indicated using either separate letters or diacritics, which written above, below, in front of, after or around consonants. The pronunciation of the vowels depends on whether a consonant they are attached to is of the first or second series.",
+    "All consonants have a subscript form which is used to write the second consonant of a cluster.",
+    "In a Khmer text there are no spaces between words, instead spaces indicate the end of a clause or sentence."
+  ],
+  "sample_text": []
+}

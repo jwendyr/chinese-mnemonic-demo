@@ -1,0 +1,596 @@
+[
+  {
+    "id": "hebrew_01",
+    "glyph": "א",
+    "reading": "Alef",
+    "meaning_id": "hening atau pembawa vokal",
+    "meaning_en": "silent glottal stop",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/01_alef.png",
+    "tts_id": {
+      "s1": "Huruf Alef, bunyinya hening atau pembawa vokal.",
+      "s2": "Bayangkan garis miring dengan dua cabang berlawanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Alef."
+    },
+    "tts_en": {
+      "s1": "Letter Alef, sounding like silent glottal stop.",
+      "s2": "Picture diagonal bar with two opposing arms.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Alef."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter א (Alef) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating diagonal bar with two opposing arms in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_02",
+    "glyph": "ב",
+    "reading": "Bet",
+    "meaning_id": "b atau v",
+    "meaning_en": "b or v",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/02_bet.png",
+    "tts_id": {
+      "s1": "Huruf Bet, bunyinya b atau v.",
+      "s2": "Bayangkan rumah kotak terbuka ke arah kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Bet."
+    },
+    "tts_en": {
+      "s1": "Letter Bet, sounding like b or v.",
+      "s2": "Picture square house open to the left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Bet."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ב (Bet) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square house open to the left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_03",
+    "glyph": "ג",
+    "reading": "Gimel",
+    "meaning_id": "g",
+    "meaning_en": "g as in go",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/03_gimel.png",
+    "tts_id": {
+      "s1": "Huruf Gimel, bunyinya g.",
+      "s2": "Bayangkan kaki melangkah maju ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Gimel."
+    },
+    "tts_en": {
+      "s1": "Letter Gimel, sounding like g as in go.",
+      "s2": "Picture foot stepping forward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Gimel."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ג (Gimel) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating foot stepping forward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_04",
+    "glyph": "ד",
+    "reading": "Dalet",
+    "meaning_id": "d",
+    "meaning_en": "d as in door",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/04_dalet.png",
+    "tts_id": {
+      "s1": "Huruf Dalet, bunyinya d.",
+      "s2": "Bayangkan pintu sudut dengan atap menjorok.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Dalet."
+    },
+    "tts_en": {
+      "s1": "Letter Dalet, sounding like d as in door.",
+      "s2": "Picture corner door with overhanging roof.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Dalet."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ד (Dalet) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating corner door with overhanging roof in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_05",
+    "glyph": "ה",
+    "reading": "He",
+    "meaning_id": "h",
+    "meaning_en": "h as in house",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/05_he.png",
+    "tts_id": {
+      "s1": "Huruf He, bunyinya h.",
+      "s2": "Bayangkan jendela kecil terbuka di sisi kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, He."
+    },
+    "tts_en": {
+      "s1": "Letter He, sounding like h as in house.",
+      "s2": "Picture open window gap on the left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, He."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ה (He) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open window gap on the left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_06",
+    "glyph": "ו",
+    "reading": "Vav",
+    "meaning_id": "v atau o dan u",
+    "meaning_en": "v or vowel o u",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/06_vav.png",
+    "tts_id": {
+      "s1": "Huruf Vav, bunyinya v atau o dan u.",
+      "s2": "Bayangkan pasak tegak sederhana.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Vav."
+    },
+    "tts_en": {
+      "s1": "Letter Vav, sounding like v or vowel o u.",
+      "s2": "Picture simple upright tent peg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Vav."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ו (Vav) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple upright tent peg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_07",
+    "glyph": "ז",
+    "reading": "Zayin",
+    "meaning_id": "z",
+    "meaning_en": "z as in zoo",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/07_zayin.png",
+    "tts_id": {
+      "s1": "Huruf Zayin, bunyinya z.",
+      "s2": "Bayangkan pedang tegak dengan mahkota kecil.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Zayin."
+    },
+    "tts_en": {
+      "s1": "Letter Zayin, sounding like z as in zoo.",
+      "s2": "Picture upright sword with a small crown.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Zayin."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ז (Zayin) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright sword with a small crown in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_08",
+    "glyph": "ח",
+    "reading": "Het",
+    "meaning_id": "kh tenggorokan",
+    "meaning_en": "guttural ch",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/08_het.png",
+    "tts_id": {
+      "s1": "Huruf Het, bunyinya kh tenggorokan.",
+      "s2": "Bayangkan gerbang tertutup penuh dua tiang.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Het."
+    },
+    "tts_en": {
+      "s1": "Letter Het, sounding like guttural ch.",
+      "s2": "Picture closed two pillar gate.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Het."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ח (Het) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating closed two pillar gate in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_09",
+    "glyph": "ט",
+    "reading": "Tet",
+    "meaning_id": "t",
+    "meaning_en": "t as in top",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/09_tet.png",
+    "tts_id": {
+      "s1": "Huruf Tet, bunyinya t.",
+      "s2": "Bayangkan keranjang melingkar terbuka di atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tet."
+    },
+    "tts_en": {
+      "s1": "Letter Tet, sounding like t as in top.",
+      "s2": "Picture curled basket open at top.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Tet."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ט (Tet) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curled basket open at top in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_10",
+    "glyph": "י",
+    "reading": "Yod",
+    "meaning_id": "y atau i",
+    "meaning_en": "y or ee",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/10_yod.png",
+    "tts_id": {
+      "s1": "Huruf Yod, bunyinya y atau i.",
+      "s2": "Bayangkan tangan kecil menggantung di udara.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Yod."
+    },
+    "tts_en": {
+      "s1": "Letter Yod, sounding like y or ee.",
+      "s2": "Picture tiny hand floating at top.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Yod."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter י (Yod) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tiny hand floating at top in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_11",
+    "glyph": "כ",
+    "reading": "Kaf",
+    "meaning_id": "k atau kh",
+    "meaning_en": "k or kh",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/11_kaf.png",
+    "tts_id": {
+      "s1": "Huruf Kaf, bunyinya k atau kh.",
+      "s2": "Bayangkan telapak tangan melengkung ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Kaf."
+    },
+    "tts_en": {
+      "s1": "Letter Kaf, sounding like k or kh.",
+      "s2": "Picture curved palm facing left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Kaf."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter כ (Kaf) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved palm facing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_12",
+    "glyph": "ל",
+    "reading": "Lamed",
+    "meaning_id": "l",
+    "meaning_en": "l as in lamp",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/12_lamed.png",
+    "tts_id": {
+      "s1": "Huruf Lamed, bunyinya l.",
+      "s2": "Bayangkan tongkat tinggi menjulang di atas garis.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Lamed."
+    },
+    "tts_en": {
+      "s1": "Letter Lamed, sounding like l as in lamp.",
+      "s2": "Picture tall shepherd staff rising above.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Lamed."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ל (Lamed) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall shepherd staff rising above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_13",
+    "glyph": "מ",
+    "reading": "Mem",
+    "meaning_id": "m",
+    "meaning_en": "m as in water",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/13_mem.png",
+    "tts_id": {
+      "s1": "Huruf Mem, bunyinya m.",
+      "s2": "Bayangkan gelombang air dengan celah di kiri bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Mem."
+    },
+    "tts_en": {
+      "s1": "Letter Mem, sounding like m as in water.",
+      "s2": "Picture water wave with lower left opening.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Mem."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter מ (Mem) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating water wave with lower left opening in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_14",
+    "glyph": "נ",
+    "reading": "Nun",
+    "meaning_id": "n",
+    "meaning_en": "n as in name",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/14_nun.png",
+    "tts_id": {
+      "s1": "Huruf Nun, bunyinya n.",
+      "s2": "Bayangkan tunas kecil membungkuk ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Nun."
+    },
+    "tts_en": {
+      "s1": "Letter Nun, sounding like n as in name.",
+      "s2": "Picture slender sprout bending left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Nun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter נ (Nun) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slender sprout bending left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_15",
+    "glyph": "ס",
+    "reading": "Samekh",
+    "meaning_id": "s",
+    "meaning_en": "s as in sun",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/15_samekh.png",
+    "tts_id": {
+      "s1": "Huruf Samekh, bunyinya s.",
+      "s2": "Bayangkan lingkaran penopang tertutup rapat.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Samekh."
+    },
+    "tts_en": {
+      "s1": "Letter Samekh, sounding like s as in sun.",
+      "s2": "Picture closed circular ring.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Samekh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ס (Samekh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating closed circular ring in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_16",
+    "glyph": "ע",
+    "reading": "Ayin",
+    "meaning_id": "ain tenggorokan",
+    "meaning_en": "voiced pharyngeal ayin",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/16_ayin.png",
+    "tts_id": {
+      "s1": "Huruf Ayin, bunyinya ain tenggorokan.",
+      "s2": "Bayangkan dua mata melihat ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ayin."
+    },
+    "tts_en": {
+      "s1": "Letter Ayin, sounding like voiced pharyngeal ayin.",
+      "s2": "Picture two eyes looking upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Ayin."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ע (Ayin) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two eyes looking upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_17",
+    "glyph": "פ",
+    "reading": "Pe",
+    "meaning_id": "p atau f",
+    "meaning_en": "p or f",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/17_pe.png",
+    "tts_id": {
+      "s1": "Huruf Pe, bunyinya p atau f.",
+      "s2": "Bayangkan mulut terbuka dengan bibir melengkung ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Pe."
+    },
+    "tts_en": {
+      "s1": "Letter Pe, sounding like p or f.",
+      "s2": "Picture open mouth curling inward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Pe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter פ (Pe) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open mouth curling inward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_18",
+    "glyph": "צ",
+    "reading": "Tsadi",
+    "meaning_id": "ts",
+    "meaning_en": "ts as in cats",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/18_tsadi.png",
+    "tts_id": {
+      "s1": "Huruf Tsadi, bunyinya ts.",
+      "s2": "Bayangkan kail pancing bercabang dua ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tsadi."
+    },
+    "tts_en": {
+      "s1": "Letter Tsadi, sounding like ts as in cats.",
+      "s2": "Picture two pronged fishing hook.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Tsadi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter צ (Tsadi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two pronged fishing hook in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_19",
+    "glyph": "ק",
+    "reading": "Qof",
+    "meaning_id": "k dalam",
+    "meaning_en": "k as in kite",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/19_qof.png",
+    "tts_id": {
+      "s1": "Huruf Qof, bunyinya k dalam.",
+      "s2": "Bayangkan lubang jarum dengan kaki turun ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Qof."
+    },
+    "tts_en": {
+      "s1": "Letter Qof, sounding like k as in kite.",
+      "s2": "Picture needle eye with a descending leg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Qof."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ק (Qof) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating needle eye with a descending leg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_20",
+    "glyph": "ר",
+    "reading": "Resh",
+    "meaning_id": "r",
+    "meaning_en": "r",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/20_resh.png",
+    "tts_id": {
+      "s1": "Huruf Resh, bunyinya r.",
+      "s2": "Bayangkan kepala melengkung mulus ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Resh."
+    },
+    "tts_en": {
+      "s1": "Letter Resh, sounding like r.",
+      "s2": "Picture smooth curved head facing left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Resh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ר (Resh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth curved head facing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_21",
+    "glyph": "ש",
+    "reading": "Shin",
+    "meaning_id": "sy atau s",
+    "meaning_en": "sh or s",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/21_shin.png",
+    "tts_id": {
+      "s1": "Huruf Shin, bunyinya sy atau s.",
+      "s2": "Bayangkan tiga lidah api menjulang di atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Shin."
+    },
+    "tts_en": {
+      "s1": "Letter Shin, sounding like sh or s.",
+      "s2": "Picture three flames rising upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Shin."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ש (Shin) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three flames rising upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_22",
+    "glyph": "ת",
+    "reading": "Tav",
+    "meaning_id": "t",
+    "meaning_en": "t as in tall",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/22_tav.png",
+    "tts_id": {
+      "s1": "Huruf Tav, bunyinya t.",
+      "s2": "Bayangkan gerbang dengan kaki kiri melangkung keluar.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tav."
+    },
+    "tts_en": {
+      "s1": "Letter Tav, sounding like t as in tall.",
+      "s2": "Picture gate with an outward left foot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Tav."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ת (Tav) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating gate with an outward left foot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_23",
+    "glyph": "ך",
+    "reading": "Kaf Sofit",
+    "meaning_id": "k atau kh di akhir kata",
+    "meaning_en": "final kaf",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/23_kaf_sofit.png",
+    "tts_id": {
+      "s1": "Huruf Kaf Sofit, bunyinya k atau kh di akhir kata.",
+      "s2": "Bayangkan kaf dengan kaki panjang turun ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Kaf Sofit."
+    },
+    "tts_en": {
+      "s1": "Letter Kaf Sofit, sounding like final kaf.",
+      "s2": "Picture kaf with a long descending leg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Kaf Sofit."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ך (Kaf Sofit) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating kaf with a long descending leg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_24",
+    "glyph": "ם",
+    "reading": "Mem Sofit",
+    "meaning_id": "m di akhir kata",
+    "meaning_en": "final mem",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/24_mem_sofit.png",
+    "tts_id": {
+      "s1": "Huruf Mem Sofit, bunyinya m di akhir kata.",
+      "s2": "Bayangkan kotak tertutup rapat sempurna.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Mem Sofit."
+    },
+    "tts_en": {
+      "s1": "Letter Mem Sofit, sounding like final mem.",
+      "s2": "Picture fully closed square box.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Mem Sofit."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ם (Mem Sofit) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating fully closed square box in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_25",
+    "glyph": "ן",
+    "reading": "Nun Sofit",
+    "meaning_id": "n di akhir kata",
+    "meaning_en": "final nun",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/25_nun_sofit.png",
+    "tts_id": {
+      "s1": "Huruf Nun Sofit, bunyinya n di akhir kata.",
+      "s2": "Bayangkan garis lurus panjang turun ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Nun Sofit."
+    },
+    "tts_en": {
+      "s1": "Letter Nun Sofit, sounding like final nun.",
+      "s2": "Picture long straight descending line.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Nun Sofit."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ן (Nun Sofit) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating long straight descending line in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_26",
+    "glyph": "ף",
+    "reading": "Pe Sofit",
+    "meaning_id": "f di akhir kata",
+    "meaning_en": "final pe",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/26_pe_sofit.png",
+    "tts_id": {
+      "s1": "Huruf Pe Sofit, bunyinya f di akhir kata.",
+      "s2": "Bayangkan pe dengan kaki panjang turun ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Pe Sofit."
+    },
+    "tts_en": {
+      "s1": "Letter Pe Sofit, sounding like final pe.",
+      "s2": "Picture pe with a long descending leg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Pe Sofit."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ף (Pe Sofit) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pe with a long descending leg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hebrew_27",
+    "glyph": "ץ",
+    "reading": "Tsadi Sofit",
+    "meaning_id": "ts di akhir kata",
+    "meaning_en": "final tsadi",
+    "voice_target": "he-IL-HilaNeural",
+    "template_path": "templates_hebrew/27_tsadi_sofit.png",
+    "tts_id": {
+      "s1": "Huruf Tsadi Sofit, bunyinya ts di akhir kata.",
+      "s2": "Bayangkan tsadi lurus panjang turun ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tsadi Sofit."
+    },
+    "tts_en": {
+      "s1": "Letter Tsadi Sofit, sounding like final tsadi.",
+      "s2": "Picture long straight descending tsadi.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, Tsadi Sofit."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hebrew letter ץ (Tsadi Sofit) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating long straight descending tsadi in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

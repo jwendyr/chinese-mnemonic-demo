@@ -614,5 +614,181 @@
       "s4": "Try saying it aloud, Ya."
     },
     "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ي (Ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of swan curve with two dots underneath in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_29",
+    "glyph": "◌َ",
+    "reading": "Fathah",
+    "meaning_id": "vokal pendek a di atas huruf",
+    "meaning_en": "short vowel a above",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/29_fathah.png",
+    "tts_id": {
+      "s1": "Karakter Fathah, bunyinya vokal pendek a di atas huruf.",
+      "s2": "Bayangkan garis miring kecil di atas huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Fathah."
+    },
+    "tts_en": {
+      "s1": "Character Fathah, sounding like short vowel a above.",
+      "s2": "Picture small diagonal slash above the letter.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Fathah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌َ (Fathah) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating small diagonal slash above the letter in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_30",
+    "glyph": "◌ِ",
+    "reading": "Kasrah",
+    "meaning_id": "vokal pendek i di bawah huruf",
+    "meaning_en": "short vowel i below",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/30_kasrah.png",
+    "tts_id": {
+      "s1": "Karakter Kasrah, bunyinya vokal pendek i di bawah huruf.",
+      "s2": "Bayangkan garis miring kecil di bawah huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Kasrah."
+    },
+    "tts_en": {
+      "s1": "Character Kasrah, sounding like short vowel i below.",
+      "s2": "Picture small diagonal slash below the letter.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Kasrah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌ِ (Kasrah) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating small diagonal slash below the letter in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_31",
+    "glyph": "◌ُ",
+    "reading": "Dammah",
+    "meaning_id": "vokal pendek u melingkar di atas",
+    "meaning_en": "short vowel u above",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/31_dammah.png",
+    "tts_id": {
+      "s1": "Karakter Dammah, bunyinya vokal pendek u melingkar di atas.",
+      "s2": "Bayangkan koma kecil melingkar di atas huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Dammah."
+    },
+    "tts_en": {
+      "s1": "Character Dammah, sounding like short vowel u above.",
+      "s2": "Picture tiny comma loop perched above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Dammah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌ُ (Dammah) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tiny comma loop perched above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_32",
+    "glyph": "◌ْ",
+    "reading": "Sukun",
+    "meaning_id": "konsonan mati tanpa vokal",
+    "meaning_en": "vowelless consonant stop",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/32_sukun.png",
+    "tts_id": {
+      "s1": "Karakter Sukun, bunyinya konsonan mati tanpa vokal.",
+      "s2": "Bayangkan lingkaran kecil penanda berhenti di atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Sukun."
+    },
+    "tts_en": {
+      "s1": "Character Sukun, sounding like vowelless consonant stop.",
+      "s2": "Picture tiny zero circle marking a pause.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Sukun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌ْ (Sukun) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tiny zero circle marking a pause in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_33",
+    "glyph": "◌ّ",
+    "reading": "Shaddah",
+    "meaning_id": "konsonan ganda yang ditekan",
+    "meaning_en": "doubled geminate consonant",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/33_shaddah.png",
+    "tts_id": {
+      "s1": "Karakter Shaddah, bunyinya konsonan ganda yang ditekan.",
+      "s2": "Bayangkan mahkota w kecil di atas huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Shaddah."
+    },
+    "tts_en": {
+      "s1": "Character Shaddah, sounding like doubled geminate consonant.",
+      "s2": "Picture tiny three pronged crown above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Shaddah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌ّ (Shaddah) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tiny three pronged crown above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_34",
+    "glyph": "◌ً",
+    "reading": "Tanwin Fathah",
+    "meaning_id": "bunyi an di akhir kata",
+    "meaning_en": "final an ending",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/34_tanwin_fathah.png",
+    "tts_id": {
+      "s1": "Karakter Tanwin Fathah, bunyinya bunyi an di akhir kata.",
+      "s2": "Bayangkan dua garis miring sejajar di atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Tanwin Fathah."
+    },
+    "tts_en": {
+      "s1": "Character Tanwin Fathah, sounding like final an ending.",
+      "s2": "Picture twin parallel slashes above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Tanwin Fathah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌ً (Tanwin Fathah) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin parallel slashes above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_35",
+    "glyph": "◌ٍ",
+    "reading": "Tanwin Kasrah",
+    "meaning_id": "bunyi in di akhir kata",
+    "meaning_en": "final in ending",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/35_tanwin_kasrah.png",
+    "tts_id": {
+      "s1": "Karakter Tanwin Kasrah, bunyinya bunyi in di akhir kata.",
+      "s2": "Bayangkan dua garis miring sejajar di bawah.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Tanwin Kasrah."
+    },
+    "tts_en": {
+      "s1": "Character Tanwin Kasrah, sounding like final in ending.",
+      "s2": "Picture twin parallel slashes below.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Tanwin Kasrah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌ٍ (Tanwin Kasrah) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin parallel slashes below in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_36",
+    "glyph": "◌ٌ",
+    "reading": "Tanwin Dammah",
+    "meaning_id": "bunyi un di akhir kata",
+    "meaning_en": "final un ending",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/36_tanwin_dammah.png",
+    "tts_id": {
+      "s1": "Karakter Tanwin Dammah, bunyinya bunyi un di akhir kata.",
+      "s2": "Bayangkan dua koma kecil bertumpuk di atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, Tanwin Dammah."
+    },
+    "tts_en": {
+      "s1": "Character Tanwin Dammah, sounding like final un ending.",
+      "s2": "Picture twin stacked comma loops above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, Tanwin Dammah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic ◌ٌ (Tanwin Dammah) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin stacked comma loops above in navy and terracotta brush ink. No extra text, no watermarks."
   }
 ]

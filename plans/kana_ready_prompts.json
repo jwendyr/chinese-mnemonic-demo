@@ -1654,5 +1654,1305 @@
     },
     "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates_kana/katakana_n_ン.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the exact katakana brush strokes of ン (n):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes of ン in their exact position, shape, and color.\n2. Illustrate cleanly behind ン: One short left splash and a lower upward sweep.\n3. No text, no romaji, no extra characters, no borders, no 3D gradients.",
     "sound_tts": "n"
+  },
+  {
+    "id": "hiragana_93",
+    "glyph": "が",
+    "reading": "ga",
+    "meaning_id": "suku kata ga dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ga with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_ga_が.png",
+    "tts_id": {
+      "s1": "Karakter ga, bunyinya suku kata ga dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, sounding like syllable ga with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana が (ga) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "が",
+    "romaji": "ga",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_94",
+    "glyph": "ガ",
+    "reading": "ga",
+    "meaning_id": "suku kata ga dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ga with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_ga_ガ.png",
+    "tts_id": {
+      "s1": "Karakter ga, bunyinya suku kata ga dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, sounding like syllable ga with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ガ (ga) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ガ",
+    "romaji": "ga",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_95",
+    "glyph": "ぎ",
+    "reading": "gi",
+    "meaning_id": "suku kata gi dengan dakuten dua tanda petik",
+    "meaning_en": "syllable gi with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_gi_ぎ.png",
+    "tts_id": {
+      "s1": "Karakter gi, bunyinya suku kata gi dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, gi."
+    },
+    "tts_en": {
+      "s1": "Character gi, sounding like syllable gi with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, gi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぎ (gi) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぎ",
+    "romaji": "gi",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_96",
+    "glyph": "ギ",
+    "reading": "gi",
+    "meaning_id": "suku kata gi dengan dakuten dua tanda petik",
+    "meaning_en": "syllable gi with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_gi_ギ.png",
+    "tts_id": {
+      "s1": "Karakter gi, bunyinya suku kata gi dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, gi."
+    },
+    "tts_en": {
+      "s1": "Character gi, sounding like syllable gi with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, gi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ギ (gi) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ギ",
+    "romaji": "gi",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_97",
+    "glyph": "ぐ",
+    "reading": "gu",
+    "meaning_id": "suku kata gu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable gu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_gu_ぐ.png",
+    "tts_id": {
+      "s1": "Karakter gu, bunyinya suku kata gu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, gu."
+    },
+    "tts_en": {
+      "s1": "Character gu, sounding like syllable gu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, gu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぐ (gu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぐ",
+    "romaji": "gu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_98",
+    "glyph": "グ",
+    "reading": "gu",
+    "meaning_id": "suku kata gu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable gu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_gu_グ.png",
+    "tts_id": {
+      "s1": "Karakter gu, bunyinya suku kata gu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, gu."
+    },
+    "tts_en": {
+      "s1": "Character gu, sounding like syllable gu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, gu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana グ (gu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "グ",
+    "romaji": "gu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_99",
+    "glyph": "げ",
+    "reading": "ge",
+    "meaning_id": "suku kata ge dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ge with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_ge_げ.png",
+    "tts_id": {
+      "s1": "Karakter ge, bunyinya suku kata ge dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ge."
+    },
+    "tts_en": {
+      "s1": "Character ge, sounding like syllable ge with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ge."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana げ (ge) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "げ",
+    "romaji": "ge",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_100",
+    "glyph": "ゲ",
+    "reading": "ge",
+    "meaning_id": "suku kata ge dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ge with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_ge_ゲ.png",
+    "tts_id": {
+      "s1": "Karakter ge, bunyinya suku kata ge dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ge."
+    },
+    "tts_en": {
+      "s1": "Character ge, sounding like syllable ge with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ge."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ゲ (ge) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ゲ",
+    "romaji": "ge",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_101",
+    "glyph": "ご",
+    "reading": "go",
+    "meaning_id": "suku kata go dengan dakuten dua tanda petik",
+    "meaning_en": "syllable go with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_go_ご.png",
+    "tts_id": {
+      "s1": "Karakter go, bunyinya suku kata go dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, go."
+    },
+    "tts_en": {
+      "s1": "Character go, sounding like syllable go with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, go."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ご (go) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ご",
+    "romaji": "go",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_102",
+    "glyph": "ゴ",
+    "reading": "go",
+    "meaning_id": "suku kata go dengan dakuten dua tanda petik",
+    "meaning_en": "syllable go with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_go_ゴ.png",
+    "tts_id": {
+      "s1": "Karakter go, bunyinya suku kata go dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, go."
+    },
+    "tts_en": {
+      "s1": "Character go, sounding like syllable go with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, go."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ゴ (go) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ゴ",
+    "romaji": "go",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_103",
+    "glyph": "ざ",
+    "reading": "za",
+    "meaning_id": "suku kata za dengan dakuten dua tanda petik",
+    "meaning_en": "syllable za with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_za_ざ.png",
+    "tts_id": {
+      "s1": "Karakter za, bunyinya suku kata za dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, za."
+    },
+    "tts_en": {
+      "s1": "Character za, sounding like syllable za with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, za."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ざ (za) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ざ",
+    "romaji": "za",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_104",
+    "glyph": "ザ",
+    "reading": "za",
+    "meaning_id": "suku kata za dengan dakuten dua tanda petik",
+    "meaning_en": "syllable za with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_za_ザ.png",
+    "tts_id": {
+      "s1": "Karakter za, bunyinya suku kata za dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, za."
+    },
+    "tts_en": {
+      "s1": "Character za, sounding like syllable za with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, za."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ザ (za) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ザ",
+    "romaji": "za",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_105",
+    "glyph": "じ",
+    "reading": "ji",
+    "meaning_id": "suku kata ji dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ji with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_ji_じ.png",
+    "tts_id": {
+      "s1": "Karakter ji, bunyinya suku kata ji dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ji."
+    },
+    "tts_en": {
+      "s1": "Character ji, sounding like syllable ji with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ji."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana じ (ji) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "じ",
+    "romaji": "ji",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_106",
+    "glyph": "ジ",
+    "reading": "ji",
+    "meaning_id": "suku kata ji dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ji with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_ji_ジ.png",
+    "tts_id": {
+      "s1": "Karakter ji, bunyinya suku kata ji dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ji."
+    },
+    "tts_en": {
+      "s1": "Character ji, sounding like syllable ji with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ji."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ジ (ji) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ジ",
+    "romaji": "ji",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_107",
+    "glyph": "ず",
+    "reading": "zu",
+    "meaning_id": "suku kata zu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable zu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_zu_ず.png",
+    "tts_id": {
+      "s1": "Karakter zu, bunyinya suku kata zu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, zu."
+    },
+    "tts_en": {
+      "s1": "Character zu, sounding like syllable zu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, zu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ず (zu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ず",
+    "romaji": "zu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_108",
+    "glyph": "ズ",
+    "reading": "zu",
+    "meaning_id": "suku kata zu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable zu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_zu_ズ.png",
+    "tts_id": {
+      "s1": "Karakter zu, bunyinya suku kata zu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, zu."
+    },
+    "tts_en": {
+      "s1": "Character zu, sounding like syllable zu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, zu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ズ (zu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ズ",
+    "romaji": "zu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_109",
+    "glyph": "ぜ",
+    "reading": "ze",
+    "meaning_id": "suku kata ze dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ze with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_ze_ぜ.png",
+    "tts_id": {
+      "s1": "Karakter ze, bunyinya suku kata ze dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ze."
+    },
+    "tts_en": {
+      "s1": "Character ze, sounding like syllable ze with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ze."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぜ (ze) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぜ",
+    "romaji": "ze",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_110",
+    "glyph": "ゼ",
+    "reading": "ze",
+    "meaning_id": "suku kata ze dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ze with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_ze_ゼ.png",
+    "tts_id": {
+      "s1": "Karakter ze, bunyinya suku kata ze dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ze."
+    },
+    "tts_en": {
+      "s1": "Character ze, sounding like syllable ze with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ze."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ゼ (ze) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ゼ",
+    "romaji": "ze",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_111",
+    "glyph": "ぞ",
+    "reading": "zo",
+    "meaning_id": "suku kata zo dengan dakuten dua tanda petik",
+    "meaning_en": "syllable zo with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_zo_ぞ.png",
+    "tts_id": {
+      "s1": "Karakter zo, bunyinya suku kata zo dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, zo."
+    },
+    "tts_en": {
+      "s1": "Character zo, sounding like syllable zo with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, zo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぞ (zo) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぞ",
+    "romaji": "zo",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_112",
+    "glyph": "ゾ",
+    "reading": "zo",
+    "meaning_id": "suku kata zo dengan dakuten dua tanda petik",
+    "meaning_en": "syllable zo with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_zo_ゾ.png",
+    "tts_id": {
+      "s1": "Karakter zo, bunyinya suku kata zo dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, zo."
+    },
+    "tts_en": {
+      "s1": "Character zo, sounding like syllable zo with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, zo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ゾ (zo) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ゾ",
+    "romaji": "zo",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_113",
+    "glyph": "だ",
+    "reading": "da",
+    "meaning_id": "suku kata da dengan dakuten dua tanda petik",
+    "meaning_en": "syllable da with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_da_だ.png",
+    "tts_id": {
+      "s1": "Karakter da, bunyinya suku kata da dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, sounding like syllable da with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana だ (da) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "だ",
+    "romaji": "da",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_114",
+    "glyph": "ダ",
+    "reading": "da",
+    "meaning_id": "suku kata da dengan dakuten dua tanda petik",
+    "meaning_en": "syllable da with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_da_ダ.png",
+    "tts_id": {
+      "s1": "Karakter da, bunyinya suku kata da dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, sounding like syllable da with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ダ (da) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ダ",
+    "romaji": "da",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_115",
+    "glyph": "ぢ",
+    "reading": "ji",
+    "meaning_id": "suku kata ji dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ji with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_ji_ぢ.png",
+    "tts_id": {
+      "s1": "Karakter ji, bunyinya suku kata ji dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ji."
+    },
+    "tts_en": {
+      "s1": "Character ji, sounding like syllable ji with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ji."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぢ (ji) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぢ",
+    "romaji": "ji",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_116",
+    "glyph": "ヂ",
+    "reading": "ji",
+    "meaning_id": "suku kata ji dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ji with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_ji_ヂ.png",
+    "tts_id": {
+      "s1": "Karakter ji, bunyinya suku kata ji dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ji."
+    },
+    "tts_en": {
+      "s1": "Character ji, sounding like syllable ji with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ji."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ヂ (ji) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ヂ",
+    "romaji": "ji",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_117",
+    "glyph": "づ",
+    "reading": "zu",
+    "meaning_id": "suku kata zu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable zu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_zu_づ.png",
+    "tts_id": {
+      "s1": "Karakter zu, bunyinya suku kata zu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, zu."
+    },
+    "tts_en": {
+      "s1": "Character zu, sounding like syllable zu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, zu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana づ (zu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "づ",
+    "romaji": "zu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_118",
+    "glyph": "ヅ",
+    "reading": "zu",
+    "meaning_id": "suku kata zu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable zu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_zu_ヅ.png",
+    "tts_id": {
+      "s1": "Karakter zu, bunyinya suku kata zu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, zu."
+    },
+    "tts_en": {
+      "s1": "Character zu, sounding like syllable zu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, zu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ヅ (zu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ヅ",
+    "romaji": "zu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_119",
+    "glyph": "で",
+    "reading": "de",
+    "meaning_id": "suku kata de dengan dakuten dua tanda petik",
+    "meaning_en": "syllable de with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_de_で.png",
+    "tts_id": {
+      "s1": "Karakter de, bunyinya suku kata de dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, de."
+    },
+    "tts_en": {
+      "s1": "Character de, sounding like syllable de with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, de."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana で (de) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "で",
+    "romaji": "de",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_120",
+    "glyph": "デ",
+    "reading": "de",
+    "meaning_id": "suku kata de dengan dakuten dua tanda petik",
+    "meaning_en": "syllable de with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_de_デ.png",
+    "tts_id": {
+      "s1": "Karakter de, bunyinya suku kata de dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, de."
+    },
+    "tts_en": {
+      "s1": "Character de, sounding like syllable de with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, de."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana デ (de) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "デ",
+    "romaji": "de",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_121",
+    "glyph": "ど",
+    "reading": "do",
+    "meaning_id": "suku kata do dengan dakuten dua tanda petik",
+    "meaning_en": "syllable do with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_do_ど.png",
+    "tts_id": {
+      "s1": "Karakter do, bunyinya suku kata do dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, do."
+    },
+    "tts_en": {
+      "s1": "Character do, sounding like syllable do with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, do."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ど (do) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ど",
+    "romaji": "do",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_122",
+    "glyph": "ド",
+    "reading": "do",
+    "meaning_id": "suku kata do dengan dakuten dua tanda petik",
+    "meaning_en": "syllable do with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_do_ド.png",
+    "tts_id": {
+      "s1": "Karakter do, bunyinya suku kata do dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, do."
+    },
+    "tts_en": {
+      "s1": "Character do, sounding like syllable do with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, do."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ド (do) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ド",
+    "romaji": "do",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_123",
+    "glyph": "ば",
+    "reading": "ba",
+    "meaning_id": "suku kata ba dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ba with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_ba_ば.png",
+    "tts_id": {
+      "s1": "Karakter ba, bunyinya suku kata ba dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, sounding like syllable ba with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ば (ba) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ば",
+    "romaji": "ba",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_124",
+    "glyph": "バ",
+    "reading": "ba",
+    "meaning_id": "suku kata ba dengan dakuten dua tanda petik",
+    "meaning_en": "syllable ba with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_ba_バ.png",
+    "tts_id": {
+      "s1": "Karakter ba, bunyinya suku kata ba dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, sounding like syllable ba with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana バ (ba) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "バ",
+    "romaji": "ba",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_125",
+    "glyph": "び",
+    "reading": "bi",
+    "meaning_id": "suku kata bi dengan dakuten dua tanda petik",
+    "meaning_en": "syllable bi with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_bi_び.png",
+    "tts_id": {
+      "s1": "Karakter bi, bunyinya suku kata bi dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, bi."
+    },
+    "tts_en": {
+      "s1": "Character bi, sounding like syllable bi with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, bi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana び (bi) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "び",
+    "romaji": "bi",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_126",
+    "glyph": "ビ",
+    "reading": "bi",
+    "meaning_id": "suku kata bi dengan dakuten dua tanda petik",
+    "meaning_en": "syllable bi with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_bi_ビ.png",
+    "tts_id": {
+      "s1": "Karakter bi, bunyinya suku kata bi dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, bi."
+    },
+    "tts_en": {
+      "s1": "Character bi, sounding like syllable bi with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, bi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ビ (bi) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ビ",
+    "romaji": "bi",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_127",
+    "glyph": "ぶ",
+    "reading": "bu",
+    "meaning_id": "suku kata bu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable bu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_bu_ぶ.png",
+    "tts_id": {
+      "s1": "Karakter bu, bunyinya suku kata bu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, bu."
+    },
+    "tts_en": {
+      "s1": "Character bu, sounding like syllable bu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, bu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぶ (bu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぶ",
+    "romaji": "bu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_128",
+    "glyph": "ブ",
+    "reading": "bu",
+    "meaning_id": "suku kata bu dengan dakuten dua tanda petik",
+    "meaning_en": "syllable bu with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_bu_ブ.png",
+    "tts_id": {
+      "s1": "Karakter bu, bunyinya suku kata bu dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, bu."
+    },
+    "tts_en": {
+      "s1": "Character bu, sounding like syllable bu with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, bu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ブ (bu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ブ",
+    "romaji": "bu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_129",
+    "glyph": "べ",
+    "reading": "be",
+    "meaning_id": "suku kata be dengan dakuten dua tanda petik",
+    "meaning_en": "syllable be with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_be_べ.png",
+    "tts_id": {
+      "s1": "Karakter be, bunyinya suku kata be dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, be."
+    },
+    "tts_en": {
+      "s1": "Character be, sounding like syllable be with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, be."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana べ (be) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "べ",
+    "romaji": "be",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_130",
+    "glyph": "ベ",
+    "reading": "be",
+    "meaning_id": "suku kata be dengan dakuten dua tanda petik",
+    "meaning_en": "syllable be with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_be_ベ.png",
+    "tts_id": {
+      "s1": "Karakter be, bunyinya suku kata be dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, be."
+    },
+    "tts_en": {
+      "s1": "Character be, sounding like syllable be with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, be."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ベ (be) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ベ",
+    "romaji": "be",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_131",
+    "glyph": "ぼ",
+    "reading": "bo",
+    "meaning_id": "suku kata bo dengan dakuten dua tanda petik",
+    "meaning_en": "syllable bo with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_bo_ぼ.png",
+    "tts_id": {
+      "s1": "Karakter bo, bunyinya suku kata bo dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, bo."
+    },
+    "tts_en": {
+      "s1": "Character bo, sounding like syllable bo with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, bo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぼ (bo) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぼ",
+    "romaji": "bo",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_132",
+    "glyph": "ボ",
+    "reading": "bo",
+    "meaning_id": "suku kata bo dengan dakuten dua tanda petik",
+    "meaning_en": "syllable bo with twin dakuten voice marks",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_bo_ボ.png",
+    "tts_id": {
+      "s1": "Karakter bo, bunyinya suku kata bo dengan dakuten dua tanda petik.",
+      "s2": "Bayangkan bentuk dasar ditambah dakuten dua tanda petik di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, bo."
+    },
+    "tts_en": {
+      "s1": "Character bo, sounding like syllable bo with twin dakuten voice marks.",
+      "s2": "Picture base kana plus twin dakuten voice marks at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, bo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ボ (bo) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus twin dakuten voice marks at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ボ",
+    "romaji": "bo",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_133",
+    "glyph": "ぱ",
+    "reading": "pa",
+    "meaning_id": "suku kata pa dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pa with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_pa_ぱ.png",
+    "tts_id": {
+      "s1": "Karakter pa, bunyinya suku kata pa dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, sounding like syllable pa with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぱ (pa) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぱ",
+    "romaji": "pa",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_134",
+    "glyph": "パ",
+    "reading": "pa",
+    "meaning_id": "suku kata pa dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pa with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_pa_パ.png",
+    "tts_id": {
+      "s1": "Karakter pa, bunyinya suku kata pa dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, sounding like syllable pa with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana パ (pa) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "パ",
+    "romaji": "pa",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_135",
+    "glyph": "ぴ",
+    "reading": "pi",
+    "meaning_id": "suku kata pi dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pi with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_pi_ぴ.png",
+    "tts_id": {
+      "s1": "Karakter pi, bunyinya suku kata pi dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pi."
+    },
+    "tts_en": {
+      "s1": "Character pi, sounding like syllable pi with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぴ (pi) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぴ",
+    "romaji": "pi",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_136",
+    "glyph": "ピ",
+    "reading": "pi",
+    "meaning_id": "suku kata pi dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pi with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_pi_ピ.png",
+    "tts_id": {
+      "s1": "Karakter pi, bunyinya suku kata pi dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pi."
+    },
+    "tts_en": {
+      "s1": "Character pi, sounding like syllable pi with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ピ (pi) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ピ",
+    "romaji": "pi",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_137",
+    "glyph": "ぷ",
+    "reading": "pu",
+    "meaning_id": "suku kata pu dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pu with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_pu_ぷ.png",
+    "tts_id": {
+      "s1": "Karakter pu, bunyinya suku kata pu dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pu."
+    },
+    "tts_en": {
+      "s1": "Character pu, sounding like syllable pu with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぷ (pu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぷ",
+    "romaji": "pu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_138",
+    "glyph": "プ",
+    "reading": "pu",
+    "meaning_id": "suku kata pu dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pu with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_pu_プ.png",
+    "tts_id": {
+      "s1": "Karakter pu, bunyinya suku kata pu dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pu."
+    },
+    "tts_en": {
+      "s1": "Character pu, sounding like syllable pu with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana プ (pu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "プ",
+    "romaji": "pu",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_139",
+    "glyph": "ぺ",
+    "reading": "pe",
+    "meaning_id": "suku kata pe dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pe with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_pe_ぺ.png",
+    "tts_id": {
+      "s1": "Karakter pe, bunyinya suku kata pe dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pe."
+    },
+    "tts_en": {
+      "s1": "Character pe, sounding like syllable pe with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぺ (pe) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぺ",
+    "romaji": "pe",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_140",
+    "glyph": "ペ",
+    "reading": "pe",
+    "meaning_id": "suku kata pe dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable pe with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_pe_ペ.png",
+    "tts_id": {
+      "s1": "Karakter pe, bunyinya suku kata pe dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, pe."
+    },
+    "tts_en": {
+      "s1": "Character pe, sounding like syllable pe with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, pe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ペ (pe) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ペ",
+    "romaji": "pe",
+    "variant": "dakuten"
+  },
+  {
+    "id": "hiragana_141",
+    "glyph": "ぽ",
+    "reading": "po",
+    "meaning_id": "suku kata po dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable po with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/hiragana_po_ぽ.png",
+    "tts_id": {
+      "s1": "Karakter po, bunyinya suku kata po dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, po."
+    },
+    "tts_en": {
+      "s1": "Character po, sounding like syllable po with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, po."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hiragana ぽ (po) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "hiragana",
+    "kana": "ぽ",
+    "romaji": "po",
+    "variant": "dakuten"
+  },
+  {
+    "id": "katakana_142",
+    "glyph": "ポ",
+    "reading": "po",
+    "meaning_id": "suku kata po dengan handakuten lingkaran kecil",
+    "meaning_en": "syllable po with small handakuten circle",
+    "voice_target": "ja-JP-NanamiNeural",
+    "template_path": "templates_kana/katakana_po_ポ.png",
+    "tts_id": {
+      "s1": "Karakter po, bunyinya suku kata po dengan handakuten lingkaran kecil.",
+      "s2": "Bayangkan bentuk dasar ditambah handakuten lingkaran kecil di kanan atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, po."
+    },
+    "tts_en": {
+      "s1": "Character po, sounding like syllable po with small handakuten circle.",
+      "s2": "Picture base kana plus small handakuten circle at top right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, po."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of katakana ポ (po) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating base kana plus small handakuten circle at top right in navy and terracotta brush ink. No extra text, no watermarks.",
+    "script": "katakana",
+    "kana": "ポ",
+    "romaji": "po",
+    "variant": "dakuten"
   }
 ]

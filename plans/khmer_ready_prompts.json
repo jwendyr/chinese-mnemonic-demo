@@ -1,0 +1,728 @@
+[
+  {
+    "id": "khmer_01",
+    "glyph": "ក",
+    "reading": "ka",
+    "meaning_id": "k",
+    "meaning_en": "k",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/01_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, bunyinya k.",
+      "s2": "Bayangkan dua lengkung tegak dengan rambut atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Letter ka, sounding like k.",
+      "s2": "Picture twin upright legs with top hair curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ក (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin upright legs with top hair curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_02",
+    "glyph": "ខ",
+    "reading": "kha",
+    "meaning_id": "kh",
+    "meaning_en": "kh",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/02_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, bunyinya kh.",
+      "s2": "Bayangkan mangkuk kotak dengan rambut atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Letter kha, sounding like kh.",
+      "s2": "Picture square cup with top crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ខ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square cup with top crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_03",
+    "glyph": "គ",
+    "reading": "ko",
+    "meaning_id": "k seri o",
+    "meaning_en": "k o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/03_ko.png",
+    "tts_id": {
+      "s1": "Huruf ko, bunyinya k seri o.",
+      "s2": "Bayangkan lengkung kembar lembut tanpa rambut tajam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ko."
+    },
+    "tts_en": {
+      "s1": "Letter ko, sounding like k o series.",
+      "s2": "Picture soft twin arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ko."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter គ (ko) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft twin arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_04",
+    "glyph": "ឃ",
+    "reading": "kho",
+    "meaning_id": "kh seri o",
+    "meaning_en": "kh o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/04_kho.png",
+    "tts_id": {
+      "s1": "Huruf kho, bunyinya kh seri o.",
+      "s2": "Bayangkan mangkuk berombak dengan ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kho."
+    },
+    "tts_en": {
+      "s1": "Letter kho, sounding like kh o series.",
+      "s2": "Picture wavy bowl with right tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ឃ (kho) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wavy bowl with right tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_05",
+    "glyph": "ង",
+    "reading": "ngo",
+    "meaning_id": "ng",
+    "meaning_en": "ng",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/05_ngo.png",
+    "tts_id": {
+      "s1": "Huruf ngo, bunyinya ng.",
+      "s2": "Bayangkan lengkung sederhana berbelok ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ngo."
+    },
+    "tts_en": {
+      "s1": "Letter ngo, sounding like ng.",
+      "s2": "Picture simple curve turning left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ngo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ង (ngo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple curve turning left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_06",
+    "glyph": "ច",
+    "reading": "cha",
+    "meaning_id": "ch",
+    "meaning_en": "ch",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/06_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya ch.",
+      "s2": "Bayangkan lengkung dengan simpul tengah rapi.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like ch.",
+      "s2": "Picture arch with neat center loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ច (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating arch with neat center loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_07",
+    "glyph": "ឆ",
+    "reading": "chha",
+    "meaning_id": "chh",
+    "meaning_en": "chh",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/07_chha.png",
+    "tts_id": {
+      "s1": "Huruf chha, bunyinya chh.",
+      "s2": "Bayangkan mangkuk bertingkat dengan rambut atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chha."
+    },
+    "tts_en": {
+      "s1": "Letter chha, sounding like chh.",
+      "s2": "Picture stepped bowl with top crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ឆ (chha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stepped bowl with top crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_08",
+    "glyph": "ជ",
+    "reading": "cho",
+    "meaning_id": "ch seri o",
+    "meaning_en": "ch o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/08_cho.png",
+    "tts_id": {
+      "s1": "Huruf cho, bunyinya ch seri o.",
+      "s2": "Bayangkan dua lengkung berhadapan seri o.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cho."
+    },
+    "tts_en": {
+      "s1": "Letter cho, sounding like ch o series.",
+      "s2": "Picture facing twin curves.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ជ (cho) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating facing twin curves in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_09",
+    "glyph": "ឈ",
+    "reading": "chho",
+    "meaning_id": "chh seri o",
+    "meaning_en": "chh o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/09_chho.png",
+    "tts_id": {
+      "s1": "Huruf chho, bunyinya chh seri o.",
+      "s2": "Bayangkan huruf w melengkung dengan mahkota.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chho."
+    },
+    "tts_en": {
+      "s1": "Letter chho, sounding like chh o series.",
+      "s2": "Picture curved w under a top crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ឈ (chho) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved w under a top crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_10",
+    "glyph": "ញ",
+    "reading": "nyo",
+    "meaning_id": "ny",
+    "meaning_en": "ny",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/10_nyo.png",
+    "tts_id": {
+      "s1": "Huruf nyo, bunyinya ny.",
+      "s2": "Bayangkan huruf m lebar dengan alas bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nyo."
+    },
+    "tts_en": {
+      "s1": "Letter nyo, sounding like ny.",
+      "s2": "Picture wide m shape over a lower base.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nyo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ញ (nyo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide m shape over a lower base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_11",
+    "glyph": "ដ",
+    "reading": "da",
+    "meaning_id": "d",
+    "meaning_en": "d",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/11_da.png",
+    "tts_id": {
+      "s1": "Huruf da, bunyinya d.",
+      "s2": "Bayangkan lengkung melingkar ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Letter da, sounding like d.",
+      "s2": "Picture inward curling arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ដ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating inward curling arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_12",
+    "glyph": "ឋ",
+    "reading": "tha",
+    "meaning_id": "th",
+    "meaning_en": "th",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/12_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, bunyinya th.",
+      "s2": "Bayangkan mangkuk datar dengan topi tinggi.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Letter tha, sounding like th.",
+      "s2": "Picture flat bowl under a tall crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ឋ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat bowl under a tall crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_13",
+    "glyph": "ឌ",
+    "reading": "do",
+    "meaning_id": "d seri o",
+    "meaning_en": "d o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/13_do.png",
+    "tts_id": {
+      "s1": "Huruf do, bunyinya d seri o.",
+      "s2": "Bayangkan lengkung S lembut berangkai.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, do."
+    },
+    "tts_en": {
+      "s1": "Letter do, sounding like d o series.",
+      "s2": "Picture soft linked S curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, do."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ឌ (do) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft linked S curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_14",
+    "glyph": "ឍ",
+    "reading": "tho",
+    "meaning_id": "th seri o",
+    "meaning_en": "th o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/14_tho.png",
+    "tts_id": {
+      "s1": "Huruf tho, bunyinya th seri o.",
+      "s2": "Bayangkan mangkuk lebar bertopi ganda.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tho."
+    },
+    "tts_en": {
+      "s1": "Letter tho, sounding like th o series.",
+      "s2": "Picture wide bowl with double top crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ឍ (tho) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide bowl with double top crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_15",
+    "glyph": "ណ",
+    "reading": "na",
+    "meaning_id": "n",
+    "meaning_en": "n",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/15_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya n.",
+      "s2": "Bayangkan dua kaki lengkung dengan tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like n.",
+      "s2": "Picture two arches with right post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ណ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two arches with right post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_16",
+    "glyph": "ត",
+    "reading": "ta",
+    "meaning_id": "t",
+    "meaning_en": "t",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/16_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, bunyinya t.",
+      "s2": "Bayangkan lengkung terbelah dua simetris.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Letter ta, sounding like t.",
+      "s2": "Picture symmetrical split arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ត (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating symmetrical split arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_17",
+    "glyph": "ថ",
+    "reading": "tha gigi",
+    "meaning_id": "th",
+    "meaning_en": "th",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/17_tha_gigi.png",
+    "tts_id": {
+      "s1": "Huruf tha gigi, bunyinya th.",
+      "s2": "Bayangkan mangkuk tertutup rapi dengan ekor.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha gigi."
+    },
+    "tts_en": {
+      "s1": "Letter tha gigi, sounding like th.",
+      "s2": "Picture neat closed cup with crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha gigi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ថ (tha gigi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating neat closed cup with crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_18",
+    "glyph": "ទ",
+    "reading": "to",
+    "meaning_id": "t seri o",
+    "meaning_en": "t o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/18_to.png",
+    "tts_id": {
+      "s1": "Huruf to, bunyinya t seri o.",
+      "s2": "Bayangkan huruf u dengan lekukan lembut.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, to."
+    },
+    "tts_en": {
+      "s1": "Letter to, sounding like t o series.",
+      "s2": "Picture u shape with gentle curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, to."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ទ (to) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating u shape with gentle curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_19",
+    "glyph": "ធ",
+    "reading": "tho gigi",
+    "meaning_id": "th seri o",
+    "meaning_en": "th o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/19_tho_gigi.png",
+    "tts_id": {
+      "s1": "Huruf tho gigi, bunyinya th seri o.",
+      "s2": "Bayangkan mangkuk berombak tanpa tutup atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tho gigi."
+    },
+    "tts_en": {
+      "s1": "Letter tho gigi, sounding like th o series.",
+      "s2": "Picture open wavy cup.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tho gigi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ធ (tho gigi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open wavy cup in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_20",
+    "glyph": "ន",
+    "reading": "no",
+    "meaning_id": "n",
+    "meaning_en": "n",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/20_no.png",
+    "tts_id": {
+      "s1": "Huruf no, bunyinya n.",
+      "s2": "Bayangkan tiang kiri terhubung kaki kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, no."
+    },
+    "tts_en": {
+      "s1": "Letter no, sounding like n.",
+      "s2": "Picture left stem linked to right foot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, no."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ន (no) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left stem linked to right foot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_21",
+    "glyph": "ប",
+    "reading": "ba",
+    "meaning_id": "b",
+    "meaning_en": "b",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/21_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, bunyinya b.",
+      "s2": "Bayangkan mangkuk persegi terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Letter ba, sounding like b.",
+      "s2": "Picture square bowl open upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ប (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square bowl open upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_22",
+    "glyph": "ផ",
+    "reading": "pha",
+    "meaning_id": "ph",
+    "meaning_en": "ph",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/22_pha.png",
+    "tts_id": {
+      "s1": "Huruf pha, bunyinya ph.",
+      "s2": "Bayangkan mangkuk ganda dengan tiang tengah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pha."
+    },
+    "tts_en": {
+      "s1": "Letter pha, sounding like ph.",
+      "s2": "Picture double bowl with center post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ផ (pha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double bowl with center post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_23",
+    "glyph": "ព",
+    "reading": "po",
+    "meaning_id": "p seri o",
+    "meaning_en": "p o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/23_po.png",
+    "tts_id": {
+      "s1": "Huruf po, bunyinya p seri o.",
+      "s2": "Bayangkan huruf w terbuka lebar.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, po."
+    },
+    "tts_en": {
+      "s1": "Letter po, sounding like p o series.",
+      "s2": "Picture wide open w bowl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, po."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ព (po) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide open w bowl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_24",
+    "glyph": "ភ",
+    "reading": "pho",
+    "meaning_id": "ph seri o",
+    "meaning_en": "ph o series",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/24_pho.png",
+    "tts_id": {
+      "s1": "Huruf pho, bunyinya ph seri o.",
+      "s2": "Bayangkan dua lengkung bertumpuk.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pho."
+    },
+    "tts_en": {
+      "s1": "Letter pho, sounding like ph o series.",
+      "s2": "Picture stacked double curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ភ (pho) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stacked double curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_25",
+    "glyph": "ម",
+    "reading": "mo",
+    "meaning_id": "m",
+    "meaning_en": "m",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/25_mo.png",
+    "tts_id": {
+      "s1": "Huruf mo, bunyinya m.",
+      "s2": "Bayangkan mangkuk bersayap kiri dan kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mo."
+    },
+    "tts_en": {
+      "s1": "Letter mo, sounding like m.",
+      "s2": "Picture bowl flanked by side wings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, mo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ម (mo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bowl flanked by side wings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_26",
+    "glyph": "យ",
+    "reading": "yo",
+    "meaning_id": "y",
+    "meaning_en": "y",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/26_yo.png",
+    "tts_id": {
+      "s1": "Huruf yo, bunyinya y.",
+      "s2": "Bayangkan lengkung ombak tiga lekukan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yo."
+    },
+    "tts_en": {
+      "s1": "Letter yo, sounding like y.",
+      "s2": "Picture three fold wave curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, yo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter យ (yo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three fold wave curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_27",
+    "glyph": "រ",
+    "reading": "ro",
+    "meaning_id": "r",
+    "meaning_en": "r",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/27_ro.png",
+    "tts_id": {
+      "s1": "Huruf ro, bunyinya r.",
+      "s2": "Bayangkan tiang tegak dengan simpul bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ro."
+    },
+    "tts_en": {
+      "s1": "Letter ro, sounding like r.",
+      "s2": "Picture upright post with lower loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ro."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter រ (ro) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright post with lower loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_28",
+    "glyph": "ល",
+    "reading": "lo",
+    "meaning_id": "l",
+    "meaning_en": "l",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/28_lo.png",
+    "tts_id": {
+      "s1": "Huruf lo, bunyinya l.",
+      "s2": "Bayangkan lengkung kubah dengan kaki kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lo."
+    },
+    "tts_en": {
+      "s1": "Letter lo, sounding like l.",
+      "s2": "Picture dome arch with right leg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, lo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ល (lo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating dome arch with right leg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_29",
+    "glyph": "វ",
+    "reading": "vo",
+    "meaning_id": "v atau w",
+    "meaning_en": "v or w",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/29_vo.png",
+    "tts_id": {
+      "s1": "Huruf vo, bunyinya v atau w.",
+      "s2": "Bayangkan lingkaran bertopi melengkung.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, vo."
+    },
+    "tts_en": {
+      "s1": "Letter vo, sounding like v or w.",
+      "s2": "Picture circle under a curved crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, vo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter វ (vo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle under a curved crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_30",
+    "glyph": "ស",
+    "reading": "sa",
+    "meaning_id": "s",
+    "meaning_en": "s",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/30_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, bunyinya s.",
+      "s2": "Bayangkan lengkung dengan ekor panjang ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Letter sa, sounding like s.",
+      "s2": "Picture arch with tall rising tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ស (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating arch with tall rising tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_31",
+    "glyph": "ហ",
+    "reading": "ha",
+    "meaning_id": "h",
+    "meaning_en": "h",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/31_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, bunyinya h.",
+      "s2": "Bayangkan lengkung ganda dengan garis silang.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Letter ha, sounding like h.",
+      "s2": "Picture double arch with diagonal bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ហ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch with diagonal bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_32",
+    "glyph": "ឡ",
+    "reading": "la",
+    "meaning_id": "l",
+    "meaning_en": "l",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/32_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya l.",
+      "s2": "Bayangkan tiga lengkung bertumpuk dengan mahkota.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like l.",
+      "s2": "Picture three stacked curves with crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter ឡ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three stacked curves with crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "khmer_33",
+    "glyph": "អ",
+    "reading": "a",
+    "meaning_id": "pembawa vokal a",
+    "meaning_en": "glottal vowel carrier",
+    "voice_target": "km-KH-SreymomNeural",
+    "template_path": "templates_khmer/33_a.png",
+    "tts_id": {
+      "s1": "Huruf a, bunyinya pembawa vokal a.",
+      "s2": "Bayangkan lengkung ganda dengan titik tengah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a, sounding like glottal vowel carrier.",
+      "s2": "Picture double arch with center knot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of khmer letter អ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch with center knot in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

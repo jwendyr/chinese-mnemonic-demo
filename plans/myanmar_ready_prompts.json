@@ -1,0 +1,728 @@
+[
+  {
+    "id": "myanmar_01",
+    "glyph": "က",
+    "reading": "ka gyi",
+    "meaning_id": "k",
+    "meaning_en": "k",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/01_ka_gyi.png",
+    "tts_id": {
+      "s1": "Huruf ka gyi, bunyinya k.",
+      "s2": "Bayangkan dua lengkung bulat berdampingan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka gyi."
+    },
+    "tts_en": {
+      "s1": "Letter ka gyi, sounding like k.",
+      "s2": "Picture two round arches side by side.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka gyi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter က (ka gyi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two round arches side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_02",
+    "glyph": "ခ",
+    "reading": "kha khway",
+    "meaning_id": "kh",
+    "meaning_en": "kh",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/02_kha_khway.png",
+    "tts_id": {
+      "s1": "Huruf kha khway, bunyinya kh.",
+      "s2": "Bayangkan lengkung C terbuka menghadap kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha khway."
+    },
+    "tts_en": {
+      "s1": "Letter kha khway, sounding like kh.",
+      "s2": "Picture round C curve open to the right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kha khway."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ခ (kha khway) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round C curve open to the right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_03",
+    "glyph": "ဂ",
+    "reading": "ga nge",
+    "meaning_id": "g",
+    "meaning_en": "g",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/03_ga_nge.png",
+    "tts_id": {
+      "s1": "Huruf ga nge, bunyinya g.",
+      "s2": "Bayangkan lengkungan tunggal terbuka ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga nge."
+    },
+    "tts_en": {
+      "s1": "Letter ga nge, sounding like g.",
+      "s2": "Picture single arch open at the bottom.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ga nge."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဂ (ga nge) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single arch open at the bottom in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_04",
+    "glyph": "ဃ",
+    "reading": "gha gyi",
+    "meaning_id": "gh",
+    "meaning_en": "gh",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/04_gha_gyi.png",
+    "tts_id": {
+      "s1": "Huruf gha gyi, bunyinya gh.",
+      "s2": "Bayangkan tiga lengkung bulat tersambung.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gha gyi."
+    },
+    "tts_en": {
+      "s1": "Letter gha gyi, sounding like gh.",
+      "s2": "Picture three connected round arches.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, gha gyi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဃ (gha gyi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three connected round arches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_05",
+    "glyph": "င",
+    "reading": "nga",
+    "meaning_id": "ng",
+    "meaning_en": "ng",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/05_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, bunyinya ng.",
+      "s2": "Bayangkan lengkung terbuka menghadap ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Letter nga, sounding like ng.",
+      "s2": "Picture open crescent facing right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter င (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open crescent facing right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_06",
+    "glyph": "စ",
+    "reading": "sa lone",
+    "meaning_id": "s",
+    "meaning_en": "s",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/06_sa_lone.png",
+    "tts_id": {
+      "s1": "Huruf sa lone, bunyinya s.",
+      "s2": "Bayangkan lingkaran penuh dengan ekor ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa lone."
+    },
+    "tts_en": {
+      "s1": "Letter sa lone, sounding like s.",
+      "s2": "Picture full circle curling inward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sa lone."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter စ (sa lone) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating full circle curling inward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_07",
+    "glyph": "ဆ",
+    "reading": "hsa lein",
+    "meaning_id": "hs",
+    "meaning_en": "hs",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/07_hsa_lein.png",
+    "tts_id": {
+      "s1": "Huruf hsa lein, bunyinya hs.",
+      "s2": "Bayangkan lingkaran ganda melingkar seperti siput.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, hsa lein."
+    },
+    "tts_en": {
+      "s1": "Letter hsa lein, sounding like hs.",
+      "s2": "Picture double spiral shell loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, hsa lein."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဆ (hsa lein) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double spiral shell loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_08",
+    "glyph": "ဇ",
+    "reading": "za gwe",
+    "meaning_id": "z",
+    "meaning_en": "z",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/08_za_gwe.png",
+    "tts_id": {
+      "s1": "Huruf za gwe, bunyinya z.",
+      "s2": "Bayangkan dua lengkung bersambung dengan garis atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, za gwe."
+    },
+    "tts_en": {
+      "s1": "Letter za gwe, sounding like z.",
+      "s2": "Picture two connected loops under a top bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, za gwe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဇ (za gwe) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two connected loops under a top bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_09",
+    "glyph": "ဈ",
+    "reading": "zha myin zwe",
+    "meaning_id": "zh",
+    "meaning_en": "zh",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/09_zha_myin_zwe.png",
+    "tts_id": {
+      "s1": "Huruf zha myin zwe, bunyinya zh.",
+      "s2": "Bayangkan lengkung lebar dengan simpul kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, zha myin zwe."
+    },
+    "tts_en": {
+      "s1": "Letter zha myin zwe, sounding like zh.",
+      "s2": "Picture wide curve with a right loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, zha myin zwe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဈ (zha myin zwe) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide curve with a right loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_10",
+    "glyph": "ည",
+    "reading": "nya",
+    "meaning_id": "ny",
+    "meaning_en": "ny",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/10_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, bunyinya ny.",
+      "s2": "Bayangkan lengkung ganda menghadap bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Letter nya, sounding like ny.",
+      "s2": "Picture double arch open downward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ည (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch open downward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_11",
+    "glyph": "ဋ",
+    "reading": "ta tha lin cheik",
+    "meaning_id": "t retrofleks",
+    "meaning_en": "retroflex t",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/11_ta_tha_lin_cheik.png",
+    "tts_id": {
+      "s1": "Huruf ta tha lin cheik, bunyinya t retrofleks.",
+      "s2": "Bayangkan dua lingkaran kecil bertumpuk.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta tha lin cheik."
+    },
+    "tts_en": {
+      "s1": "Letter ta tha lin cheik, sounding like retroflex t.",
+      "s2": "Picture two stacked round loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta tha lin cheik."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဋ (ta tha lin cheik) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two stacked round loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_12",
+    "glyph": "ဌ",
+    "reading": "hta wun be",
+    "meaning_id": "ht retrofleks",
+    "meaning_en": "retroflex ht",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/12_hta_wun_be.png",
+    "tts_id": {
+      "s1": "Huruf hta wun be, bunyinya ht retrofleks.",
+      "s2": "Bayangkan lingkaran besar seperti bebek.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, hta wun be."
+    },
+    "tts_en": {
+      "s1": "Letter hta wun be, sounding like retroflex ht.",
+      "s2": "Picture round duck like loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, hta wun be."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဌ (hta wun be) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round duck like loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_13",
+    "glyph": "ဍ",
+    "reading": "da yin gauk",
+    "meaning_id": "d retrofleks",
+    "meaning_en": "retroflex d",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/13_da_yin_gauk.png",
+    "tts_id": {
+      "s1": "Huruf da yin gauk, bunyinya d retrofleks.",
+      "s2": "Bayangkan lengkung berombak ke kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da yin gauk."
+    },
+    "tts_en": {
+      "s1": "Letter da yin gauk, sounding like retroflex d.",
+      "s2": "Picture wavy curve dipping down right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da yin gauk."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဍ (da yin gauk) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wavy curve dipping down right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_14",
+    "glyph": "ဎ",
+    "reading": "dha yin hmok",
+    "meaning_id": "dh retrofleks",
+    "meaning_en": "retroflex dh",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/14_dha_yin_hmok.png",
+    "tts_id": {
+      "s1": "Huruf dha yin hmok, bunyinya dh retrofleks.",
+      "s2": "Bayangkan lengkung dalam dengan simpul kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha yin hmok."
+    },
+    "tts_en": {
+      "s1": "Letter dha yin hmok, sounding like retroflex dh.",
+      "s2": "Picture deep curve with right knot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dha yin hmok."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဎ (dha yin hmok) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating deep curve with right knot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_15",
+    "glyph": "ဏ",
+    "reading": "na gyi",
+    "meaning_id": "n retrofleks",
+    "meaning_en": "retroflex n",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/15_na_gyi.png",
+    "tts_id": {
+      "s1": "Huruf na gyi, bunyinya n retrofleks.",
+      "s2": "Bayangkan dua lengkung dengan ekor ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na gyi."
+    },
+    "tts_en": {
+      "s1": "Letter na gyi, sounding like retroflex n.",
+      "s2": "Picture twin arches with rising tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na gyi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဏ (na gyi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arches with rising tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_16",
+    "glyph": "တ",
+    "reading": "ta wun pu",
+    "meaning_id": "t",
+    "meaning_en": "t",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/16_ta_wun_pu.png",
+    "tts_id": {
+      "s1": "Huruf ta wun pu, bunyinya t.",
+      "s2": "Bayangkan dua lengkung bulat berdempet.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta wun pu."
+    },
+    "tts_en": {
+      "s1": "Letter ta wun pu, sounding like t.",
+      "s2": "Picture two tight round arches.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta wun pu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter တ (ta wun pu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two tight round arches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_17",
+    "glyph": "ထ",
+    "reading": "hta hsin htu",
+    "meaning_id": "ht",
+    "meaning_en": "ht",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/17_hta_hsin_htu.png",
+    "tts_id": {
+      "s1": "Huruf hta hsin htu, bunyinya ht.",
+      "s2": "Bayangkan dua lingkaran bertumpuk vertikal.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, hta hsin htu."
+    },
+    "tts_en": {
+      "s1": "Letter hta hsin htu, sounding like ht.",
+      "s2": "Picture two vertically stacked rings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, hta hsin htu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ထ (hta hsin htu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two vertically stacked rings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_18",
+    "glyph": "ဒ",
+    "reading": "da dwe",
+    "meaning_id": "d",
+    "meaning_en": "d",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/18_da_dwe.png",
+    "tts_id": {
+      "s1": "Huruf da dwe, bunyinya d.",
+      "s2": "Bayangkan kail bulat menghadap kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da dwe."
+    },
+    "tts_en": {
+      "s1": "Letter da dwe, sounding like d.",
+      "s2": "Picture round hook facing left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da dwe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဒ (da dwe) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round hook facing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_19",
+    "glyph": "ဓ",
+    "reading": "dha auk chai",
+    "meaning_id": "dh",
+    "meaning_en": "dh",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/19_dha_auk_chai.png",
+    "tts_id": {
+      "s1": "Huruf dha auk chai, bunyinya dh.",
+      "s2": "Bayangkan lingkaran dengan lengkung bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha auk chai."
+    },
+    "tts_en": {
+      "s1": "Letter dha auk chai, sounding like dh.",
+      "s2": "Picture ring with a lower curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dha auk chai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဓ (dha auk chai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ring with a lower curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_20",
+    "glyph": "န",
+    "reading": "na nge",
+    "meaning_id": "n",
+    "meaning_en": "n",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/20_na_nge.png",
+    "tts_id": {
+      "s1": "Huruf na nge, bunyinya n.",
+      "s2": "Bayangkan lengkung bulat dengan ekor kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na nge."
+    },
+    "tts_en": {
+      "s1": "Letter na nge, sounding like n.",
+      "s2": "Picture round curve tailing down right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na nge."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter န (na nge) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round curve tailing down right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_21",
+    "glyph": "ပ",
+    "reading": "pa sauk",
+    "meaning_id": "p",
+    "meaning_en": "p",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/21_pa_sauk.png",
+    "tts_id": {
+      "s1": "Huruf pa sauk, bunyinya p.",
+      "s2": "Bayangkan mangkuk bulat terbuka ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa sauk."
+    },
+    "tts_en": {
+      "s1": "Letter pa sauk, sounding like p.",
+      "s2": "Picture round bowl open upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pa sauk."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ပ (pa sauk) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl open upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_22",
+    "glyph": "ဖ",
+    "reading": "hpa ok htok",
+    "meaning_id": "hp",
+    "meaning_en": "hp",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/22_hpa_ok_htok.png",
+    "tts_id": {
+      "s1": "Huruf hpa ok htok, bunyinya hp.",
+      "s2": "Bayangkan mangkuk terbuka dengan lekuk kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, hpa ok htok."
+    },
+    "tts_en": {
+      "s1": "Letter hpa ok htok, sounding like hp.",
+      "s2": "Picture open bowl with right inward curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, hpa ok htok."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဖ (hpa ok htok) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open bowl with right inward curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_23",
+    "glyph": "ဗ",
+    "reading": "ba htet chai",
+    "meaning_id": "b",
+    "meaning_en": "b",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/23_ba_htet_chai.png",
+    "tts_id": {
+      "s1": "Huruf ba htet chai, bunyinya b.",
+      "s2": "Bayangkan dua lengkung berdampingan terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba htet chai."
+    },
+    "tts_en": {
+      "s1": "Letter ba htet chai, sounding like b.",
+      "s2": "Picture two side by side upward bowls.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ba htet chai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဗ (ba htet chai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two side by side upward bowls in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_24",
+    "glyph": "ဘ",
+    "reading": "bha gon",
+    "meaning_id": "bh",
+    "meaning_en": "bh",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/24_bha_gon.png",
+    "tts_id": {
+      "s1": "Huruf bha gon, bunyinya bh.",
+      "s2": "Bayangkan lengkung bulat besar menutup ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bha gon."
+    },
+    "tts_en": {
+      "s1": "Letter bha gon, sounding like bh.",
+      "s2": "Picture large round arch closing downward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, bha gon."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဘ (bha gon) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating large round arch closing downward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_25",
+    "glyph": "မ",
+    "reading": "ma",
+    "meaning_id": "m",
+    "meaning_en": "m",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/25_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, bunyinya m.",
+      "s2": "Bayangkan mangkuk bulat terbuka ke kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Letter ma, sounding like m.",
+      "s2": "Picture round bowl open up left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter မ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl open up left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_26",
+    "glyph": "ယ",
+    "reading": "ya pet let",
+    "meaning_id": "y",
+    "meaning_en": "y",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/26_ya_pet_let.png",
+    "tts_id": {
+      "s1": "Huruf ya pet let, bunyinya y.",
+      "s2": "Bayangkan tiga mangkuk lembut berderet.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya pet let."
+    },
+    "tts_en": {
+      "s1": "Letter ya pet let, sounding like y.",
+      "s2": "Picture three soft bowls in a row.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ya pet let."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ယ (ya pet let) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three soft bowls in a row in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_27",
+    "glyph": "ရ",
+    "reading": "ya gauk",
+    "meaning_id": "y atau r",
+    "meaning_en": "y or r",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/27_ya_gauk.png",
+    "tts_id": {
+      "s1": "Huruf ya gauk, bunyinya y atau r.",
+      "s2": "Bayangkan lengkung tinggi melingkar ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya gauk."
+    },
+    "tts_en": {
+      "s1": "Letter ya gauk, sounding like y or r.",
+      "s2": "Picture tall arch curving down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ya gauk."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ရ (ya gauk) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall arch curving down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_28",
+    "glyph": "လ",
+    "reading": "la",
+    "meaning_id": "l",
+    "meaning_en": "l",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/28_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya l.",
+      "s2": "Bayangkan lingkaran kecil di kiri lengkung besar.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like l.",
+      "s2": "Picture small loop left of a large arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter လ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small loop left of a large arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_29",
+    "glyph": "ဝ",
+    "reading": "wa",
+    "meaning_id": "w",
+    "meaning_en": "w",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/29_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, bunyinya w.",
+      "s2": "Bayangkan lingkaran penuh bersih.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Letter wa, sounding like w.",
+      "s2": "Picture clean full circle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဝ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean full circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_30",
+    "glyph": "သ",
+    "reading": "tha",
+    "meaning_id": "th",
+    "meaning_en": "th",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/30_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, bunyinya th.",
+      "s2": "Bayangkan lengkung tiga puncak yang mulus.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Letter tha, sounding like th.",
+      "s2": "Picture smooth three peak wave.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter သ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth three peak wave in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_31",
+    "glyph": "ဟ",
+    "reading": "ha",
+    "meaning_id": "h",
+    "meaning_en": "h",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/31_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, bunyinya h.",
+      "s2": "Bayangkan lengkung terbuka dengan ekor turun.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Letter ha, sounding like h.",
+      "s2": "Picture open curve with descending tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဟ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open curve with descending tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_32",
+    "glyph": "ဠ",
+    "reading": "la gyi",
+    "meaning_id": "l besar",
+    "meaning_en": "retroflex l",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/32_la_gyi.png",
+    "tts_id": {
+      "s1": "Huruf la gyi, bunyinya l besar.",
+      "s2": "Bayangkan tiga lingkaran kecil tersambung.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la gyi."
+    },
+    "tts_en": {
+      "s1": "Letter la gyi, sounding like retroflex l.",
+      "s2": "Picture three connected small loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la gyi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter ဠ (la gyi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three connected small loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "myanmar_33",
+    "glyph": "အ",
+    "reading": "a",
+    "meaning_id": "pembawa vokal a",
+    "meaning_en": "glottal vowel carrier",
+    "voice_target": "my-MM-NilarNeural",
+    "template_path": "templates_myanmar/33_a.png",
+    "tts_id": {
+      "s1": "Huruf a, bunyinya pembawa vokal a.",
+      "s2": "Bayangkan lengkung bulat penuh dengan belahan kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a, sounding like glottal vowel carrier.",
+      "s2": "Picture round arch with right opening.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of myanmar letter အ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round arch with right opening in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

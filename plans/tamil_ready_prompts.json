@@ -1,0 +1,662 @@
+[
+  {
+    "id": "tamil_01",
+    "glyph": "அ",
+    "reading": "a",
+    "meaning_id": "a pendek",
+    "meaning_en": "short a",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, bunyinya a pendek.",
+      "s2": "Bayangkan simpul melingkar berakhir garis kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a, sounding like short a.",
+      "s2": "Picture spiral loop ending in a right bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter அ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiral loop ending in a right bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_02",
+    "glyph": "ஆ",
+    "reading": "aa",
+    "meaning_id": "aa panjang",
+    "meaning_en": "long aa",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/02_aa.png",
+    "tts_id": {
+      "s1": "Huruf aa, bunyinya aa panjang.",
+      "s2": "Bayangkan huruf a dengan ekor melingkar di bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aa."
+    },
+    "tts_en": {
+      "s1": "Letter aa, sounding like long aa.",
+      "s2": "Picture a shape with a curled lower tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, aa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஆ (aa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape with a curled lower tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_03",
+    "glyph": "இ",
+    "reading": "i",
+    "meaning_id": "i pendek",
+    "meaning_en": "short i",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/03_i.png",
+    "tts_id": {
+      "s1": "Huruf i, bunyinya i pendek.",
+      "s2": "Bayangkan lengkung melingkar turun seperti angka tiga.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Letter i, sounding like short i.",
+      "s2": "Picture spiraling curve dipping down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter இ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiraling curve dipping down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_04",
+    "glyph": "ஈ",
+    "reading": "ii",
+    "meaning_id": "ii panjang",
+    "meaning_en": "long ee",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/04_ii.png",
+    "tts_id": {
+      "s1": "Huruf ii, bunyinya ii panjang.",
+      "s2": "Bayangkan tiang sudut dengan dua titik di dalam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ii."
+    },
+    "tts_en": {
+      "s1": "Letter ii, sounding like long ee.",
+      "s2": "Picture corner frame holding two dots.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஈ (ii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating corner frame holding two dots in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_05",
+    "glyph": "உ",
+    "reading": "u",
+    "meaning_id": "u pendek",
+    "meaning_en": "short u",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/05_u.png",
+    "tts_id": {
+      "s1": "Huruf u, bunyinya u pendek.",
+      "s2": "Bayangkan lengkung angka dua dengan dasar datar.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Letter u, sounding like short u.",
+      "s2": "Picture number two curve with flat base.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter உ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating number two curve with flat base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_06",
+    "glyph": "ஊ",
+    "reading": "uu",
+    "meaning_id": "uu panjang",
+    "meaning_en": "long oo",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/06_uu.png",
+    "tts_id": {
+      "s1": "Huruf uu, bunyinya uu panjang.",
+      "s2": "Bayangkan huruf u dengan topi lengkung di atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, uu."
+    },
+    "tts_en": {
+      "s1": "Letter uu, sounding like long oo.",
+      "s2": "Picture u shape crowned with an arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, uu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஊ (uu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating u shape crowned with an arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_07",
+    "glyph": "எ",
+    "reading": "e",
+    "meaning_id": "e pendek",
+    "meaning_en": "short e",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/07_e.png",
+    "tts_id": {
+      "s1": "Huruf e, bunyinya e pendek.",
+      "s2": "Bayangkan lingkaran kiri dengan siku ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Letter e, sounding like short e.",
+      "s2": "Picture left loop stepping down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter எ (e) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left loop stepping down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_08",
+    "glyph": "ஏ",
+    "reading": "ee",
+    "meaning_id": "ee panjang",
+    "meaning_en": "long e",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/08_ee.png",
+    "tts_id": {
+      "s1": "Huruf ee, bunyinya ee panjang.",
+      "s2": "Bayangkan huruf e dengan garis miring kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ee."
+    },
+    "tts_en": {
+      "s1": "Letter ee, sounding like long e.",
+      "s2": "Picture e shape with right diagonal leg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ee."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஏ (ee) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating e shape with right diagonal leg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_09",
+    "glyph": "ஐ",
+    "reading": "ai",
+    "meaning_id": "ai",
+    "meaning_en": "ai",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/09_ai.png",
+    "tts_id": {
+      "s1": "Huruf ai, bunyinya ai.",
+      "s2": "Bayangkan dua lengkung berombak di atas dasar.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ai."
+    },
+    "tts_en": {
+      "s1": "Letter ai, sounding like ai.",
+      "s2": "Picture double wave curve over a base.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஐ (ai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double wave curve over a base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_10",
+    "glyph": "ஒ",
+    "reading": "o",
+    "meaning_id": "o pendek",
+    "meaning_en": "short o",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/10_o.png",
+    "tts_id": {
+      "s1": "Huruf o, bunyinya o pendek.",
+      "s2": "Bayangkan simpul melingkar membuka ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Letter o, sounding like short o.",
+      "s2": "Picture spiral loop opening right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஒ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiral loop opening right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_11",
+    "glyph": "ஓ",
+    "reading": "oo",
+    "meaning_id": "oo panjang",
+    "meaning_en": "long o",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/11_oo.png",
+    "tts_id": {
+      "s1": "Huruf oo, bunyinya oo panjang.",
+      "s2": "Bayangkan huruf o dengan lingkaran ekor bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, oo."
+    },
+    "tts_en": {
+      "s1": "Letter oo, sounding like long o.",
+      "s2": "Picture o shape with lower tail loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, oo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஓ (oo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o shape with lower tail loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_12",
+    "glyph": "ஔ",
+    "reading": "au",
+    "meaning_id": "au",
+    "meaning_en": "au",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/12_au.png",
+    "tts_id": {
+      "s1": "Huruf au, bunyinya au.",
+      "s2": "Bayangkan huruf o diikuti tanda pengubah la.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, au."
+    },
+    "tts_en": {
+      "s1": "Letter au, sounding like au.",
+      "s2": "Picture o paired with a trailing curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, au."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஔ (au) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o paired with a trailing curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_13",
+    "glyph": "க",
+    "reading": "ka",
+    "meaning_id": "k atau g",
+    "meaning_en": "k or g",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/13_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, bunyinya k atau g.",
+      "s2": "Bayangkan tiang silang dengan sayap kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Letter ka, sounding like k or g.",
+      "s2": "Picture crossed post with right wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter க (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossed post with right wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_14",
+    "glyph": "ங",
+    "reading": "nga",
+    "meaning_id": "ng",
+    "meaning_en": "ng",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/14_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, bunyinya ng.",
+      "s2": "Bayangkan lengkung siku bersih ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Letter nga, sounding like ng.",
+      "s2": "Picture clean corner curve right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ங (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean corner curve right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_15",
+    "glyph": "ச",
+    "reading": "cha",
+    "meaning_id": "ch atau s",
+    "meaning_en": "ch or s",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/15_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya ch atau s.",
+      "s2": "Bayangkan lengkung terbuka menghadap ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like ch or s.",
+      "s2": "Picture open arch facing right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ச (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open arch facing right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_16",
+    "glyph": "ஞ",
+    "reading": "nya",
+    "meaning_id": "ny",
+    "meaning_en": "ny",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/16_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, bunyinya ny.",
+      "s2": "Bayangkan simpul ganda dengan ekor atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Letter nya, sounding like ny.",
+      "s2": "Picture double loop with upper tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ஞ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double loop with upper tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_17",
+    "glyph": "ட",
+    "reading": "ta",
+    "meaning_id": "t atau d retrofleks",
+    "meaning_en": "retroflex t or d",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/17_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, bunyinya t atau d retrofleks.",
+      "s2": "Bayangkan sudut siku sederhana berbentuk L.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Letter ta, sounding like retroflex t or d.",
+      "s2": "Picture simple L shaped right angle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ட (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple L shaped right angle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_18",
+    "glyph": "ண",
+    "reading": "na",
+    "meaning_id": "n retrofleks",
+    "meaning_en": "retroflex n",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/18_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya n retrofleks.",
+      "s2": "Bayangkan tiga lingkaran kecil berangkai.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like retroflex n.",
+      "s2": "Picture three connected small loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ண (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three connected small loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_19",
+    "glyph": "த",
+    "reading": "tha",
+    "meaning_id": "t lembut",
+    "meaning_en": "soft dental t",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/19_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, bunyinya t lembut.",
+      "s2": "Bayangkan lengkung mulus dengan kaki kanan turun.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Letter tha, sounding like soft dental t.",
+      "s2": "Picture smooth arch descending right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter த (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth arch descending right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_20",
+    "glyph": "ந",
+    "reading": "na",
+    "meaning_id": "n gigi",
+    "meaning_en": "dental n",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/20_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya n gigi.",
+      "s2": "Bayangkan tiang kiri berbelok menjadi ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like dental n.",
+      "s2": "Picture left stem turning into a right tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ந (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left stem turning into a right tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_21",
+    "glyph": "ப",
+    "reading": "pa",
+    "meaning_id": "p atau b",
+    "meaning_en": "p or b",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/21_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, bunyinya p atau b.",
+      "s2": "Bayangkan huruf U persegi bersih.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Letter pa, sounding like p or b.",
+      "s2": "Picture clean square U bowl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ப (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean square U bowl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_22",
+    "glyph": "ம",
+    "reading": "ma",
+    "meaning_id": "m",
+    "meaning_en": "m",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/22_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, bunyinya m.",
+      "s2": "Bayangkan mangkuk pa dengan gulungan di kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Letter ma, sounding like m.",
+      "s2": "Picture pa bowl curling inward right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ம (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa bowl curling inward right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_23",
+    "glyph": "ய",
+    "reading": "ya",
+    "meaning_id": "y",
+    "meaning_en": "y",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/23_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, bunyinya y.",
+      "s2": "Bayangkan mangkuk ganda terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Letter ya, sounding like y.",
+      "s2": "Picture double bowl open upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ய (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double bowl open upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_24",
+    "glyph": "ர",
+    "reading": "ra",
+    "meaning_id": "r ringan",
+    "meaning_en": "light r",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/24_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, bunyinya r ringan.",
+      "s2": "Bayangkan tiang tegak dengan garis dasar panjang.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Letter ra, sounding like light r.",
+      "s2": "Picture upright post on a long base.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ர (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright post on a long base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_25",
+    "glyph": "ல",
+    "reading": "la",
+    "meaning_id": "l",
+    "meaning_en": "l",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/25_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya l.",
+      "s2": "Bayangkan simpul kiri naik menjadi lengkung kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like l.",
+      "s2": "Picture left loop rising into a right arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ல (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left loop rising into a right arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_26",
+    "glyph": "வ",
+    "reading": "va",
+    "meaning_id": "v atau w",
+    "meaning_en": "v or w",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/26_va.png",
+    "tts_id": {
+      "s1": "Huruf va, bunyinya v atau w.",
+      "s2": "Bayangkan simpul kiri berlanjut garis datar bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, va."
+    },
+    "tts_en": {
+      "s1": "Letter va, sounding like v or w.",
+      "s2": "Picture left loop into flat bottom bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, va."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter வ (va) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left loop into flat bottom bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_27",
+    "glyph": "ழ",
+    "reading": "zha",
+    "meaning_id": "zh retrofleks khas Tamil",
+    "meaning_en": "Tamil retroflex zh",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/27_zha.png",
+    "tts_id": {
+      "s1": "Huruf zha, bunyinya zh retrofleks khas Tamil.",
+      "s2": "Bayangkan mangkuk dengan ekor panjang menggulung.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, zha."
+    },
+    "tts_en": {
+      "s1": "Letter zha, sounding like Tamil retroflex zh.",
+      "s2": "Picture bowl with long curled tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, zha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ழ (zha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bowl with long curled tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_28",
+    "glyph": "ள",
+    "reading": "la",
+    "meaning_id": "l retrofleks",
+    "meaning_en": "retroflex l",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/28_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya l retrofleks.",
+      "s2": "Bayangkan lengkung ganda dengan dua kaki.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like retroflex l.",
+      "s2": "Picture double arch with two legs.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ள (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch with two legs in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_29",
+    "glyph": "ற",
+    "reading": "ra",
+    "meaning_id": "r keras",
+    "meaning_en": "hard trilled r",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/29_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, bunyinya r keras.",
+      "s2": "Bayangkan dua lengkung tajam berhadapan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Letter ra, sounding like hard trilled r.",
+      "s2": "Picture two crisp facing arches.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ற (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two crisp facing arches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tamil_30",
+    "glyph": "ன",
+    "reading": "na",
+    "meaning_id": "n akhir",
+    "meaning_en": "alveolar n",
+    "voice_target": "ta-IN-PallaviNeural",
+    "template_path": "templates_tamil/30_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya n akhir.",
+      "s2": "Bayangkan dua lingkaran kecil berangkai.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like alveolar n.",
+      "s2": "Picture two connected small loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tamil letter ன (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two connected small loops in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

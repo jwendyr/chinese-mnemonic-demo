@@ -966,5 +966,445 @@
       "s4": "Say it aloud, ho nokhuk."
     },
     "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฮ (ho nokhuk) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating owl with a curled crest on top in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_45",
+    "glyph": "ะ",
+    "reading": "sara a",
+    "meaning_id": "vokal pendek a",
+    "meaning_en": "short a",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/45_sara_a.png",
+    "tts_id": {
+      "s1": "Karakter sara a, bunyinya vokal pendek a.",
+      "s2": "Bayangkan dua simpul kecil berpasangan di kanan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara a."
+    },
+    "tts_en": {
+      "s1": "Character sara a, sounding like short a.",
+      "s2": "Picture twin small loops on the right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai ะ (sara a) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin small loops on the right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_46",
+    "glyph": "า",
+    "reading": "sara aa",
+    "meaning_id": "vokal panjang aa",
+    "meaning_en": "long aa",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/46_sara_aa.png",
+    "tts_id": {
+      "s1": "Karakter sara aa, bunyinya vokal panjang aa.",
+      "s2": "Bayangkan tongkat melengkung di kanan huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara aa."
+    },
+    "tts_en": {
+      "s1": "Character sara aa, sounding like long aa.",
+      "s2": "Picture tall curved cane on the right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara aa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai า (sara aa) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tall curved cane on the right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_47",
+    "glyph": "อิ",
+    "reading": "sara i",
+    "meaning_id": "vokal pendek i di atas",
+    "meaning_en": "short i above",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/47_sara_i.png",
+    "tts_id": {
+      "s1": "Karakter sara i, bunyinya vokal pendek i di atas.",
+      "s2": "Bayangkan topi kubah kecil di atas konsonan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara i."
+    },
+    "tts_en": {
+      "s1": "Character sara i, sounding like short i above.",
+      "s2": "Picture small dome cap above the consonant.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อิ (sara i) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating small dome cap above the consonant in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_48",
+    "glyph": "อี",
+    "reading": "sara ii",
+    "meaning_id": "vokal panjang ii di atas",
+    "meaning_en": "long ee above",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/48_sara_ii.png",
+    "tts_id": {
+      "s1": "Karakter sara ii, bunyinya vokal panjang ii di atas.",
+      "s2": "Bayangkan topi kubah dengan satu tiang kecil.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara ii."
+    },
+    "tts_en": {
+      "s1": "Character sara ii, sounding like long ee above.",
+      "s2": "Picture dome cap with one vertical tick.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara ii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อี (sara ii) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating dome cap with one vertical tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_49",
+    "glyph": "อุ",
+    "reading": "sara u",
+    "meaning_id": "vokal pendek u di bawah",
+    "meaning_en": "short u below",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/49_sara_u.png",
+    "tts_id": {
+      "s1": "Karakter sara u, bunyinya vokal pendek u di bawah.",
+      "s2": "Bayangkan kail kecil tergantung di bawah.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara u."
+    },
+    "tts_en": {
+      "s1": "Character sara u, sounding like short u below.",
+      "s2": "Picture tiny hook hanging underneath.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อุ (sara u) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tiny hook hanging underneath in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_50",
+    "glyph": "อู",
+    "reading": "sara uu",
+    "meaning_id": "vokal panjang uu di bawah",
+    "meaning_en": "long oo below",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/50_sara_uu.png",
+    "tts_id": {
+      "s1": "Karakter sara uu, bunyinya vokal panjang uu di bawah.",
+      "s2": "Bayangkan dua kaki kecil tergantung di bawah.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara uu."
+    },
+    "tts_en": {
+      "s1": "Character sara uu, sounding like long oo below.",
+      "s2": "Picture twin feet hanging underneath.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara uu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อู (sara uu) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin feet hanging underneath in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_51",
+    "glyph": "เ",
+    "reading": "sara e",
+    "meaning_id": "vokal e diletakkan di kiri",
+    "meaning_en": "e placed before consonant",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/51_sara_e.png",
+    "tts_id": {
+      "s1": "Karakter sara e, bunyinya vokal e diletakkan di kiri.",
+      "s2": "Bayangkan tiang tegak di sebelah kiri konsonan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara e."
+    },
+    "tts_en": {
+      "s1": "Character sara e, sounding like e placed before consonant.",
+      "s2": "Picture tall post standing to the left.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai เ (sara e) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tall post standing to the left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_52",
+    "glyph": "แ",
+    "reading": "sara ae",
+    "meaning_id": "vokal ae diletakkan di kiri",
+    "meaning_en": "ae placed before consonant",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/52_sara_ae.png",
+    "tts_id": {
+      "s1": "Karakter sara ae, bunyinya vokal ae diletakkan di kiri.",
+      "s2": "Bayangkan dua tiang tegak kembar di kiri.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara ae."
+    },
+    "tts_en": {
+      "s1": "Character sara ae, sounding like ae placed before consonant.",
+      "s2": "Picture twin tall posts standing to the left.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara ae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai แ (sara ae) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin tall posts standing to the left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_53",
+    "glyph": "โ",
+    "reading": "sara o",
+    "meaning_id": "vokal o tinggi di kiri",
+    "meaning_en": "long o on the left",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/53_sara_o.png",
+    "tts_id": {
+      "s1": "Karakter sara o, bunyinya vokal o tinggi di kiri.",
+      "s2": "Bayangkan tiang tinggi melengkung seperti ombak di kiri.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara o."
+    },
+    "tts_en": {
+      "s1": "Character sara o, sounding like long o on the left.",
+      "s2": "Picture tall wave tipped post on the left.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai โ (sara o) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tall wave tipped post on the left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_54",
+    "glyph": "ใ",
+    "reading": "sara ai mai muan",
+    "meaning_id": "vokal ai dengan kepala menggulung",
+    "meaning_en": "ai with inward curl",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/54_sara_ai_mai_muan.png",
+    "tts_id": {
+      "s1": "Karakter sara ai mai muan, bunyinya vokal ai dengan kepala menggulung.",
+      "s2": "Bayangkan tiang kiri dengan gulungan ke dalam.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara ai mai muan."
+    },
+    "tts_en": {
+      "s1": "Character sara ai mai muan, sounding like ai with inward curl.",
+      "s2": "Picture left post curling inward.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara ai mai muan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai ใ (sara ai mai muan) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating left post curling inward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_55",
+    "glyph": "ไ",
+    "reading": "sara ai mai malai",
+    "meaning_id": "vokal ai dengan sayap zig zag",
+    "meaning_en": "ai with zigzag wing",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/55_sara_ai_mai_malai.png",
+    "tts_id": {
+      "s1": "Karakter sara ai mai malai, bunyinya vokal ai dengan sayap zig zag.",
+      "s2": "Bayangkan tiang kiri dengan sayap zig zag di puncak.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara ai mai malai."
+    },
+    "tts_en": {
+      "s1": "Character sara ai mai malai, sounding like ai with zigzag wing.",
+      "s2": "Picture left post with zigzag wing top.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara ai mai malai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai ไ (sara ai mai malai) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating left post with zigzag wing top in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_56",
+    "glyph": "อำ",
+    "reading": "sara am",
+    "meaning_id": "bunyi am",
+    "meaning_en": "am syllable",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/56_sara_am.png",
+    "tts_id": {
+      "s1": "Karakter sara am, bunyinya bunyi am.",
+      "s2": "Bayangkan lingkaran kecil di atas disusul tongkat aa.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara am."
+    },
+    "tts_en": {
+      "s1": "Character sara am, sounding like am syllable.",
+      "s2": "Picture top circle paired with right cane.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara am."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อำ (sara am) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating top circle paired with right cane in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_57",
+    "glyph": "อึ",
+    "reading": "sara ue",
+    "meaning_id": "vokal pendek ue",
+    "meaning_en": "short ue",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/57_sara_ue.png",
+    "tts_id": {
+      "s1": "Karakter sara ue, bunyinya vokal pendek ue.",
+      "s2": "Bayangkan topi kubah dengan lingkaran kecil di atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara ue."
+    },
+    "tts_en": {
+      "s1": "Character sara ue, sounding like short ue.",
+      "s2": "Picture dome cap topped with a tiny ring.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara ue."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อึ (sara ue) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating dome cap topped with a tiny ring in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_58",
+    "glyph": "อื",
+    "reading": "sara uee",
+    "meaning_id": "vokal panjang uee",
+    "meaning_en": "long uee",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/58_sara_uee.png",
+    "tts_id": {
+      "s1": "Karakter sara uee, bunyinya vokal panjang uee.",
+      "s2": "Bayangkan topi kubah dengan dua garis kecil di atas.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara uee."
+    },
+    "tts_en": {
+      "s1": "Character sara uee, sounding like long uee.",
+      "s2": "Picture dome cap with twin top ticks.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara uee."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อื (sara uee) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating dome cap with twin top ticks in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_59",
+    "glyph": "เอาะ",
+    "reading": "sara o pendek",
+    "meaning_id": "vokal o pendek terbuka",
+    "meaning_en": "short aw",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/59_sara_o_pendek.png",
+    "tts_id": {
+      "s1": "Karakter sara o pendek, bunyinya vokal o pendek terbuka.",
+      "s2": "Bayangkan tiang e di kiri dan aa serta a di kanan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara o pendek."
+    },
+    "tts_en": {
+      "s1": "Character sara o pendek, sounding like short aw.",
+      "s2": "Picture e post left with aa and a right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara o pendek."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai เอาะ (sara o pendek) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating e post left with aa and a right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_60",
+    "glyph": "ออ",
+    "reading": "sara o panjang",
+    "meaning_id": "vokal o panjang terbuka",
+    "meaning_en": "long aw",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/60_sara_o_panjang.png",
+    "tts_id": {
+      "s1": "Karakter sara o panjang, bunyinya vokal o panjang terbuka.",
+      "s2": "Bayangkan konsonan o ang berfungsi sebagai vokal panjang.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, sara o panjang."
+    },
+    "tts_en": {
+      "s1": "Character sara o panjang, sounding like long aw.",
+      "s2": "Picture o ang acting as a long open o.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, sara o panjang."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai ออ (sara o panjang) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating o ang acting as a long open o in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_61",
+    "glyph": "อ่",
+    "reading": "mai ek",
+    "meaning_id": "tanda nada pertama mai ek",
+    "meaning_en": "tone mark mai ek",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/61_mai_ek.png",
+    "tts_id": {
+      "s1": "Karakter mai ek, bunyinya tanda nada pertama mai ek.",
+      "s2": "Bayangkan garis tegak pendek di atas huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, mai ek."
+    },
+    "tts_en": {
+      "s1": "Character mai ek, sounding like tone mark mai ek.",
+      "s2": "Picture short vertical tick above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, mai ek."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อ่ (mai ek) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating short vertical tick above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_62",
+    "glyph": "อ้",
+    "reading": "mai tho",
+    "meaning_id": "tanda nada kedua mai tho",
+    "meaning_en": "tone mark mai tho",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/62_mai_tho.png",
+    "tts_id": {
+      "s1": "Karakter mai tho, bunyinya tanda nada kedua mai tho.",
+      "s2": "Bayangkan simpul angka dua kecil di atas huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, mai tho."
+    },
+    "tts_en": {
+      "s1": "Character mai tho, sounding like tone mark mai tho.",
+      "s2": "Picture tiny curly two mark above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, mai tho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อ้ (mai tho) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tiny curly two mark above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_63",
+    "glyph": "อ๊",
+    "reading": "mai tri",
+    "meaning_id": "tanda nada ketiga mai tri",
+    "meaning_en": "tone mark mai tri",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/63_mai_tri.png",
+    "tts_id": {
+      "s1": "Karakter mai tri, bunyinya tanda nada ketiga mai tri.",
+      "s2": "Bayangkan simpul angka tujuh Thai di atas huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, mai tri."
+    },
+    "tts_en": {
+      "s1": "Character mai tri, sounding like tone mark mai tri.",
+      "s2": "Picture tiny looped wave mark above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, mai tri."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อ๊ (mai tri) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tiny looped wave mark above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "thai_64",
+    "glyph": "อ๋",
+    "reading": "mai chattawa",
+    "meaning_id": "tanda nada keempat mai chattawa",
+    "meaning_en": "tone mark mai chattawa",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/64_mai_chattawa.png",
+    "tts_id": {
+      "s1": "Karakter mai chattawa, bunyinya tanda nada keempat mai chattawa.",
+      "s2": "Bayangkan tanda tambah kecil di atas huruf.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, mai chattawa."
+    },
+    "tts_en": {
+      "s1": "Character mai chattawa, sounding like tone mark mai chattawa.",
+      "s2": "Picture tiny plus cross mark above.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, mai chattawa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of thai อ๋ (mai chattawa) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating tiny plus cross mark above in navy and terracotta brush ink. No extra text, no watermarks."
   }
 ]

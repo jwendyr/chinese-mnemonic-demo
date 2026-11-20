@@ -1,0 +1,596 @@
+[
+  {
+    "id": "lao_01",
+    "glyph": "ກ",
+    "reading": "ko kai",
+    "meaning_id": "k, ayam",
+    "meaning_en": "k, chicken",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/01_ko_kai.png",
+    "tts_id": {
+      "s1": "Huruf ko kai, bunyinya k, ayam.",
+      "s2": "Bayangkan paruh ayam tajam menghadap kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ko kai."
+    },
+    "tts_en": {
+      "s1": "Letter ko kai, sounding like k, chicken.",
+      "s2": "Picture sharp chicken beak facing left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ko kai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ກ (ko kai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp chicken beak facing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_02",
+    "glyph": "ຂ",
+    "reading": "kho khai",
+    "meaning_id": "kh, telur",
+    "meaning_en": "kh, egg",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/02_kho_khai.png",
+    "tts_id": {
+      "s1": "Huruf kho khai, bunyinya kh, telur.",
+      "s2": "Bayangkan lengkung telur terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kho khai."
+    },
+    "tts_en": {
+      "s1": "Letter kho khai, sounding like kh, egg.",
+      "s2": "Picture open egg bowl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kho khai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຂ (kho khai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open egg bowl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_03",
+    "glyph": "ຄ",
+    "reading": "kho khwai",
+    "meaning_id": "kh, kerbau",
+    "meaning_en": "kh, buffalo",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/03_kho_khwai.png",
+    "tts_id": {
+      "s1": "Huruf kho khwai, bunyinya kh, kerbau.",
+      "s2": "Bayangkan tanduk kerbau melengkung mulus.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kho khwai."
+    },
+    "tts_en": {
+      "s1": "Letter kho khwai, sounding like kh, buffalo.",
+      "s2": "Picture smooth buffalo horn arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kho khwai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຄ (kho khwai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth buffalo horn arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_04",
+    "glyph": "ງ",
+    "reading": "ngo ngu",
+    "meaning_id": "ng, ular",
+    "meaning_en": "ng, snake",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/04_ngo_ngu.png",
+    "tts_id": {
+      "s1": "Huruf ngo ngu, bunyinya ng, ular.",
+      "s2": "Bayangkan ular tegak berekor ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ngo ngu."
+    },
+    "tts_en": {
+      "s1": "Letter ngo ngu, sounding like ng, snake.",
+      "s2": "Picture upright snake tailing left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ngo ngu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ງ (ngo ngu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright snake tailing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_05",
+    "glyph": "ຈ",
+    "reading": "cho chaan",
+    "meaning_id": "ch, piring",
+    "meaning_en": "ch, plate",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/05_cho_chaan.png",
+    "tts_id": {
+      "s1": "Huruf cho chaan, bunyinya ch, piring.",
+      "s2": "Bayangkan piring melengkung dengan kepala masuk.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cho chaan."
+    },
+    "tts_en": {
+      "s1": "Letter cho chaan, sounding like ch, plate.",
+      "s2": "Picture curved dish with inward loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cho chaan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຈ (cho chaan) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved dish with inward loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_06",
+    "glyph": "ສ",
+    "reading": "so suea",
+    "meaning_id": "s, harimau",
+    "meaning_en": "s, tiger",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/06_so_suea.png",
+    "tts_id": {
+      "s1": "Huruf so suea, bunyinya s, harimau.",
+      "s2": "Bayangkan harimau melompat dengan ekor panjang.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, so suea."
+    },
+    "tts_en": {
+      "s1": "Letter so suea, sounding like s, tiger.",
+      "s2": "Picture leaping tiger with tall tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, so suea."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ສ (so suea) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating leaping tiger with tall tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_07",
+    "glyph": "ຊ",
+    "reading": "so sang",
+    "meaning_id": "s, gajah",
+    "meaning_en": "s, elephant",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/07_so_sang.png",
+    "tts_id": {
+      "s1": "Huruf so sang, bunyinya s, gajah.",
+      "s2": "Bayangkan gajah berekor naik ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, so sang."
+    },
+    "tts_en": {
+      "s1": "Letter so sang, sounding like s, elephant.",
+      "s2": "Picture elephant shape with rising right tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, so sang."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຊ (so sang) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating elephant shape with rising right tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_08",
+    "glyph": "ຍ",
+    "reading": "nyo nyung",
+    "meaning_id": "ny, nyamuk",
+    "meaning_en": "ny, mosquito",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/08_nyo_nyung.png",
+    "tts_id": {
+      "s1": "Huruf nyo nyung, bunyinya ny, nyamuk.",
+      "s2": "Bayangkan dua lengkung sayap nyamuk.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nyo nyung."
+    },
+    "tts_en": {
+      "s1": "Letter nyo nyung, sounding like ny, mosquito.",
+      "s2": "Picture twin mosquito wing curves.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nyo nyung."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຍ (nyo nyung) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin mosquito wing curves in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_09",
+    "glyph": "ດ",
+    "reading": "do dek",
+    "meaning_id": "d, anak",
+    "meaning_en": "d, child",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/09_do_dek.png",
+    "tts_id": {
+      "s1": "Huruf do dek, bunyinya d, anak.",
+      "s2": "Bayangkan kubah bulat dengan kepala di dalam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, do dek."
+    },
+    "tts_en": {
+      "s1": "Letter do dek, sounding like d, child.",
+      "s2": "Picture round dome with inward loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, do dek."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ດ (do dek) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round dome with inward loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_10",
+    "glyph": "ຕ",
+    "reading": "to ta",
+    "meaning_id": "t, mata",
+    "meaning_en": "t, eye",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/10_to_ta.png",
+    "tts_id": {
+      "s1": "Huruf to ta, bunyinya t, mata.",
+      "s2": "Bayangkan kubah bertakik seperti mata.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, to ta."
+    },
+    "tts_en": {
+      "s1": "Letter to ta, sounding like t, eye.",
+      "s2": "Picture notched dome like an eye.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, to ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຕ (to ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating notched dome like an eye in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_11",
+    "glyph": "ຖ",
+    "reading": "tho thung",
+    "meaning_id": "th, kantong",
+    "meaning_en": "th, bag",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/11_tho_thung.png",
+    "tts_id": {
+      "s1": "Huruf tho thung, bunyinya th, kantong.",
+      "s2": "Bayangkan kantong melingkar dengan kepala masuk.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tho thung."
+    },
+    "tts_en": {
+      "s1": "Letter tho thung, sounding like th, bag.",
+      "s2": "Picture rounded bag with inward loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tho thung."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຖ (tho thung) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rounded bag with inward loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_12",
+    "glyph": "ທ",
+    "reading": "tho thung2",
+    "meaning_id": "th, bendera",
+    "meaning_en": "th, flag",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/12_tho_thung2.png",
+    "tts_id": {
+      "s1": "Huruf tho thung2, bunyinya th, bendera.",
+      "s2": "Bayangkan tiang tegak dengan kubah kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tho thung2."
+    },
+    "tts_en": {
+      "s1": "Letter tho thung2, sounding like th, flag.",
+      "s2": "Picture upright post with right arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tho thung2."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ທ (tho thung2) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright post with right arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_13",
+    "glyph": "ນ",
+    "reading": "no nok",
+    "meaning_id": "n, burung",
+    "meaning_en": "n, bird",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/13_no_nok.png",
+    "tts_id": {
+      "s1": "Huruf no nok, bunyinya n, burung.",
+      "s2": "Bayangkan burung kecil dengan ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, no nok."
+    },
+    "tts_en": {
+      "s1": "Letter no nok, sounding like n, bird.",
+      "s2": "Picture little bird tailing right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, no nok."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ນ (no nok) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating little bird tailing right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_14",
+    "glyph": "ບ",
+    "reading": "bo bae",
+    "meaning_id": "b, kambing",
+    "meaning_en": "b, goat",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/14_bo_bae.png",
+    "tts_id": {
+      "s1": "Huruf bo bae, bunyinya b, kambing.",
+      "s2": "Bayangkan mangkuk persegi terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bo bae."
+    },
+    "tts_en": {
+      "s1": "Letter bo bae, sounding like b, goat.",
+      "s2": "Picture square bowl open upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, bo bae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ບ (bo bae) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square bowl open upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_15",
+    "glyph": "ປ",
+    "reading": "po pa",
+    "meaning_id": "p, ikan",
+    "meaning_en": "p, fish",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/15_po_pa.png",
+    "tts_id": {
+      "s1": "Huruf po pa, bunyinya p, ikan.",
+      "s2": "Bayangkan mangkuk dengan sirip kanan menjulang.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, po pa."
+    },
+    "tts_en": {
+      "s1": "Letter po pa, sounding like p, fish.",
+      "s2": "Picture bowl with tall right fin.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, po pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ປ (po pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bowl with tall right fin in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_16",
+    "glyph": "ຜ",
+    "reading": "pho pheung",
+    "meaning_id": "ph, lebah",
+    "meaning_en": "ph, bee",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/16_pho_pheung.png",
+    "tts_id": {
+      "s1": "Huruf pho pheung, bunyinya ph, lebah.",
+      "s2": "Bayangkan sayap lebah berlekuk ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pho pheung."
+    },
+    "tts_en": {
+      "s1": "Letter pho pheung, sounding like ph, bee.",
+      "s2": "Picture inward notched bee wings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pho pheung."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຜ (pho pheung) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating inward notched bee wings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_17",
+    "glyph": "ຝ",
+    "reading": "fo fon",
+    "meaning_id": "f, hujan",
+    "meaning_en": "f, rain",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/17_fo_fon.png",
+    "tts_id": {
+      "s1": "Huruf fo fon, bunyinya f, hujan.",
+      "s2": "Bayangkan sayap hujan dengan tiang kanan tinggi.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, fo fon."
+    },
+    "tts_en": {
+      "s1": "Letter fo fon, sounding like f, rain.",
+      "s2": "Picture notched bowl with tall right post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, fo fon."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຝ (fo fon) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating notched bowl with tall right post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_18",
+    "glyph": "ພ",
+    "reading": "pho phu",
+    "meaning_id": "ph, gunung",
+    "meaning_en": "ph, mountain",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/18_pho_phu.png",
+    "tts_id": {
+      "s1": "Huruf pho phu, bunyinya ph, gunung.",
+      "s2": "Bayangkan puncak gunung terbuka ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pho phu."
+    },
+    "tts_en": {
+      "s1": "Letter pho phu, sounding like ph, mountain.",
+      "s2": "Picture open mountain peak.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pho phu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ພ (pho phu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open mountain peak in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_19",
+    "glyph": "ຟ",
+    "reading": "fo fai",
+    "meaning_id": "f, api",
+    "meaning_en": "f, fire",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/19_fo_fai.png",
+    "tts_id": {
+      "s1": "Huruf fo fai, bunyinya f, api.",
+      "s2": "Bayangkan api menjulang tinggi di sisi kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, fo fai."
+    },
+    "tts_en": {
+      "s1": "Letter fo fai, sounding like f, fire.",
+      "s2": "Picture tall rising flame on the right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, fo fai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຟ (fo fai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall rising flame on the right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_20",
+    "glyph": "ມ",
+    "reading": "mo ma",
+    "meaning_id": "m, kuda",
+    "meaning_en": "m, horse",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/20_mo_ma.png",
+    "tts_id": {
+      "s1": "Huruf mo ma, bunyinya m, kuda.",
+      "s2": "Bayangkan kuda dengan simpul di bawah kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mo ma."
+    },
+    "tts_en": {
+      "s1": "Letter mo ma, sounding like m, horse.",
+      "s2": "Picture horse with lower left knot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, mo ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ມ (mo ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating horse with lower left knot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_21",
+    "glyph": "ຢ",
+    "reading": "yo ya",
+    "meaning_id": "y, obat",
+    "meaning_en": "y, medicine",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/21_yo_ya.png",
+    "tts_id": {
+      "s1": "Huruf yo ya, bunyinya y, obat.",
+      "s2": "Bayangkan mangkuk dengan garis tengah ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yo ya."
+    },
+    "tts_en": {
+      "s1": "Letter yo ya, sounding like y, medicine.",
+      "s2": "Picture bowl with inner center bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, yo ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຢ (yo ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bowl with inner center bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_22",
+    "glyph": "ຣ",
+    "reading": "ro rot",
+    "meaning_id": "r, mobil",
+    "meaning_en": "r, car",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/22_ro_rot.png",
+    "tts_id": {
+      "s1": "Huruf ro rot, bunyinya r, mobil.",
+      "s2": "Bayangkan lengkung S meluncur ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ro rot."
+    },
+    "tts_en": {
+      "s1": "Letter ro rot, sounding like r, car.",
+      "s2": "Picture sweeping S curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ro rot."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຣ (ro rot) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sweeping S curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_23",
+    "glyph": "ລ",
+    "reading": "lo ling",
+    "meaning_id": "l, monyet",
+    "meaning_en": "l, monkey",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/23_lo_ling.png",
+    "tts_id": {
+      "s1": "Huruf lo ling, bunyinya l, monyet.",
+      "s2": "Bayangkan kubah mulus tanpa takik.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lo ling."
+    },
+    "tts_en": {
+      "s1": "Letter lo ling, sounding like l, monkey.",
+      "s2": "Picture smooth unnotched arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, lo ling."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ລ (lo ling) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth unnotched arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_24",
+    "glyph": "ວ",
+    "reading": "wo wi",
+    "meaning_id": "w, kipas",
+    "meaning_en": "w, fan",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/24_wo_wi.png",
+    "tts_id": {
+      "s1": "Huruf wo wi, bunyinya w, kipas.",
+      "s2": "Bayangkan lengkung kipas sederhana.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wo wi."
+    },
+    "tts_en": {
+      "s1": "Letter wo wi, sounding like w, fan.",
+      "s2": "Picture simple fan curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, wo wi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ວ (wo wi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple fan curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_25",
+    "glyph": "ຫ",
+    "reading": "ho han",
+    "meaning_id": "h, angsa",
+    "meaning_en": "h, goose",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/25_ho_han.png",
+    "tts_id": {
+      "s1": "Huruf ho han, bunyinya h, angsa.",
+      "s2": "Bayangkan angsa dengan leher lengkung di kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ho han."
+    },
+    "tts_en": {
+      "s1": "Letter ho han, sounding like h, goose.",
+      "s2": "Picture goose with curved right neck.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ho han."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຫ (ho han) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating goose with curved right neck in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_26",
+    "glyph": "ອ",
+    "reading": "o o",
+    "meaning_id": "o, baskom",
+    "meaning_en": "o, basin",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/26_o_o.png",
+    "tts_id": {
+      "s1": "Huruf o o, bunyinya o, baskom.",
+      "s2": "Bayangkan baskom bulat dengan kepala masuk.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o o."
+    },
+    "tts_en": {
+      "s1": "Letter o o, sounding like o, basin.",
+      "s2": "Picture round basin with inward loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, o o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ອ (o o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round basin with inward loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lao_27",
+    "glyph": "ຮ",
+    "reading": "ho huean",
+    "meaning_id": "h, rumah",
+    "meaning_en": "h, house",
+    "voice_target": "lo-LA-KeomanyNeural",
+    "template_path": "templates_lao/27_ho_huean.png",
+    "tts_id": {
+      "s1": "Huruf ho huean, bunyinya h, rumah.",
+      "s2": "Bayangkan atap rumah melengkung ke kanan atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ho huean."
+    },
+    "tts_en": {
+      "s1": "Letter ho huean, sounding like h, house.",
+      "s2": "Picture house roof curving up right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ho huean."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lao letter ຮ (ho huean) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating house roof curving up right in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

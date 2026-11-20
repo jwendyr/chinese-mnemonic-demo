@@ -526,5 +526,357 @@
       "s4": "Try saying it aloud, i."
     },
     "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅣ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of upright standing human pillar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_25",
+    "glyph": "ㄲ",
+    "reading": "ssanggiyeok",
+    "meaning_id": "k tegang tanpa hembus",
+    "meaning_en": "tense kk",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/25_ssanggiyeok.png",
+    "tts_id": {
+      "s1": "Karakter ssanggiyeok, bunyinya k tegang tanpa hembus.",
+      "s2": "Bayangkan dua konsonan g berdiri kembar.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ssanggiyeok."
+    },
+    "tts_en": {
+      "s1": "Character ssanggiyeok, sounding like tense kk.",
+      "s2": "Picture twin g consonants side by side.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ssanggiyeok."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㄲ (ssanggiyeok) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin g consonants side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_26",
+    "glyph": "ㄸ",
+    "reading": "ssangdigeut",
+    "meaning_id": "t tegang tanpa hembus",
+    "meaning_en": "tense tt",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/26_ssangdigeut.png",
+    "tts_id": {
+      "s1": "Karakter ssangdigeut, bunyinya t tegang tanpa hembus.",
+      "s2": "Bayangkan dua konsonan d berdiri rapat.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ssangdigeut."
+    },
+    "tts_en": {
+      "s1": "Character ssangdigeut, sounding like tense tt.",
+      "s2": "Picture twin d consonants side by side.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ssangdigeut."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㄸ (ssangdigeut) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin d consonants side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_27",
+    "glyph": "ㅃ",
+    "reading": "ssangbieup",
+    "meaning_id": "p tegang tanpa hembus",
+    "meaning_en": "tense pp",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/27_ssangbieup.png",
+    "tts_id": {
+      "s1": "Karakter ssangbieup, bunyinya p tegang tanpa hembus.",
+      "s2": "Bayangkan dua konsonan b berdiri sejajar.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ssangbieup."
+    },
+    "tts_en": {
+      "s1": "Character ssangbieup, sounding like tense pp.",
+      "s2": "Picture twin b consonants side by side.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ssangbieup."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅃ (ssangbieup) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin b consonants side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_28",
+    "glyph": "ㅆ",
+    "reading": "ssangsiot",
+    "meaning_id": "s tegang tajam",
+    "meaning_en": "tense ss",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/28_ssangsiot.png",
+    "tts_id": {
+      "s1": "Karakter ssangsiot, bunyinya s tegang tajam.",
+      "s2": "Bayangkan dua gigi s berdiri kembar.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ssangsiot."
+    },
+    "tts_en": {
+      "s1": "Character ssangsiot, sounding like tense ss.",
+      "s2": "Picture twin s teeth side by side.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ssangsiot."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅆ (ssangsiot) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin s teeth side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_29",
+    "glyph": "ㅉ",
+    "reading": "ssangjieut",
+    "meaning_id": "ch atau j tegang",
+    "meaning_en": "tense jj",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/29_ssangjieut.png",
+    "tts_id": {
+      "s1": "Karakter ssangjieut, bunyinya ch atau j tegang.",
+      "s2": "Bayangkan dua huruf j berdiri kembar.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ssangjieut."
+    },
+    "tts_en": {
+      "s1": "Character ssangjieut, sounding like tense jj.",
+      "s2": "Picture twin j consonants side by side.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ssangjieut."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅉ (ssangjieut) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating twin j consonants side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_30",
+    "glyph": "ㅐ",
+    "reading": "ae",
+    "meaning_id": "e seperti ember",
+    "meaning_en": "e as in bet",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/30_ae.png",
+    "tts_id": {
+      "s1": "Karakter ae, bunyinya e seperti ember.",
+      "s2": "Bayangkan vokal a diapit dua tiang tegak.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ae."
+    },
+    "tts_en": {
+      "s1": "Character ae, sounding like e as in bet.",
+      "s2": "Picture a vowel framed by two upright pillars.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅐ (ae) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating a vowel framed by two upright pillars in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_31",
+    "glyph": "ㅒ",
+    "reading": "yae",
+    "meaning_id": "ye",
+    "meaning_en": "ye as in yeah",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/31_yae.png",
+    "tts_id": {
+      "s1": "Karakter yae, bunyinya ye.",
+      "s2": "Bayangkan vokal ya diapit dua tiang tegak.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, yae."
+    },
+    "tts_en": {
+      "s1": "Character yae, sounding like ye as in yeah.",
+      "s2": "Picture ya vowel framed by two pillars.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, yae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅒ (yae) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating ya vowel framed by two pillars in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_32",
+    "glyph": "ㅔ",
+    "reading": "e",
+    "meaning_id": "e seperti enak",
+    "meaning_en": "e as in set",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/32_e.png",
+    "tts_id": {
+      "s1": "Karakter e, bunyinya e seperti enak.",
+      "s2": "Bayangkan vokal eo disusul tiang tegak di kanan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Character e, sounding like e as in set.",
+      "s2": "Picture eo vowel followed by an upright pillar.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅔ (e) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating eo vowel followed by an upright pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_33",
+    "glyph": "ㅖ",
+    "reading": "ye",
+    "meaning_id": "ye seperti yes",
+    "meaning_en": "ye as in yes",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/33_ye.png",
+    "tts_id": {
+      "s1": "Karakter ye, bunyinya ye seperti yes.",
+      "s2": "Bayangkan vokal yeo disusul tiang tegak di kanan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ye."
+    },
+    "tts_en": {
+      "s1": "Character ye, sounding like ye as in yes.",
+      "s2": "Picture yeo vowel followed by an upright pillar.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ye."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅖ (ye) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating yeo vowel followed by an upright pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_34",
+    "glyph": "ㅘ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa as in water",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/34_wa.png",
+    "tts_id": {
+      "s1": "Karakter wa, bunyinya wa.",
+      "s2": "Bayangkan vokal o di bawah bertemu a di kanan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, sounding like wa as in water.",
+      "s2": "Picture o vowel below meeting a on the right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅘ (wa) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating o vowel below meeting a on the right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_35",
+    "glyph": "ㅙ",
+    "reading": "wae",
+    "meaning_id": "we",
+    "meaning_en": "we as in wet",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/35_wae.png",
+    "tts_id": {
+      "s1": "Karakter wae, bunyinya we.",
+      "s2": "Bayangkan gabungan o dan ae.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, wae."
+    },
+    "tts_en": {
+      "s1": "Character wae, sounding like we as in wet.",
+      "s2": "Picture combination of o and ae.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, wae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅙ (wae) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating combination of o and ae in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_36",
+    "glyph": "ㅚ",
+    "reading": "oe",
+    "meaning_id": "we lembut",
+    "meaning_en": "we as in way",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/36_oe.png",
+    "tts_id": {
+      "s1": "Karakter oe, bunyinya we lembut.",
+      "s2": "Bayangkan gabungan o di bawah dan i di kanan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, oe."
+    },
+    "tts_en": {
+      "s1": "Character oe, sounding like we as in way.",
+      "s2": "Picture combination of o and upright i.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, oe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅚ (oe) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating combination of o and upright i in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_37",
+    "glyph": "ㅝ",
+    "reading": "wo",
+    "meaning_id": "wo",
+    "meaning_en": "wo as in won",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/37_wo.png",
+    "tts_id": {
+      "s1": "Karakter wo, bunyinya wo.",
+      "s2": "Bayangkan vokal u di bawah bertemu eo di kanan.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, wo."
+    },
+    "tts_en": {
+      "s1": "Character wo, sounding like wo as in won.",
+      "s2": "Picture u vowel below meeting eo right.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, wo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅝ (wo) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating u vowel below meeting eo right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_38",
+    "glyph": "ㅞ",
+    "reading": "we",
+    "meaning_id": "we",
+    "meaning_en": "we as in wed",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/38_we.png",
+    "tts_id": {
+      "s1": "Karakter we, bunyinya we.",
+      "s2": "Bayangkan gabungan u dan e.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, we."
+    },
+    "tts_en": {
+      "s1": "Character we, sounding like we as in wed.",
+      "s2": "Picture combination of u and e.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, we."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅞ (we) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating combination of u and e in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_39",
+    "glyph": "ㅟ",
+    "reading": "wi",
+    "meaning_id": "wi",
+    "meaning_en": "wi as in week",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/39_wi.png",
+    "tts_id": {
+      "s1": "Karakter wi, bunyinya wi.",
+      "s2": "Bayangkan vokal u di bawah bertemu i tegak.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, wi."
+    },
+    "tts_en": {
+      "s1": "Character wi, sounding like wi as in week.",
+      "s2": "Picture u vowel below meeting upright i.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, wi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅟ (wi) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating u vowel below meeting upright i in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_40",
+    "glyph": "ㅢ",
+    "reading": "ui",
+    "meaning_id": "eui cepat",
+    "meaning_en": "ui glide",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/40_ui.png",
+    "tts_id": {
+      "s1": "Karakter ui, bunyinya eui cepat.",
+      "s2": "Bayangkan garis bumi datar bertemu tiang tegak.",
+      "s3": "Perhatikan bentuk ciri khas serta posisinya.",
+      "s4": "Coba ucapkan bersama, ui."
+    },
+    "tts_en": {
+      "s1": "Character ui, sounding like ui glide.",
+      "s2": "Picture flat earth line meeting upright pillar.",
+      "s3": "Notice its signature shape and position.",
+      "s4": "Try saying it aloud, ui."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul ㅢ (ui) on warm cream rice paper (#F9F5EC). Keep the exact glyph crisp and legible while gently illustrating flat earth line meeting upright pillar in navy and terracotta brush ink. No extra text, no watermarks."
   }
 ]

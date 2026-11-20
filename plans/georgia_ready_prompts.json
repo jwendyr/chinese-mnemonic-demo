@@ -1,0 +1,728 @@
+[
+  {
+    "id": "georgian_01",
+    "glyph": "ა",
+    "reading": "ani",
+    "meaning_id": "a",
+    "meaning_en": "a",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/01_ani.png",
+    "tts_id": {
+      "s1": "Huruf ani, bunyinya a.",
+      "s2": "Bayangkan kail melingkar ke kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ani."
+    },
+    "tts_en": {
+      "s1": "Letter ani, sounding like a.",
+      "s2": "Picture looped hook curving down right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ა (ani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating looped hook curving down right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_02",
+    "glyph": "ბ",
+    "reading": "bani",
+    "meaning_id": "b",
+    "meaning_en": "b",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/02_bani.png",
+    "tts_id": {
+      "s1": "Huruf bani, bunyinya b.",
+      "s2": "Bayangkan tiang tegak dengan perut bulat bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bani."
+    },
+    "tts_en": {
+      "s1": "Letter bani, sounding like b.",
+      "s2": "Picture tall post with a round lower belly.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, bani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ბ (bani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall post with a round lower belly in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_03",
+    "glyph": "გ",
+    "reading": "gani",
+    "meaning_id": "g",
+    "meaning_en": "g",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/03_gani.png",
+    "tts_id": {
+      "s1": "Huruf gani, bunyinya g.",
+      "s2": "Bayangkan tiang dengan dua lengkung di bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gani."
+    },
+    "tts_en": {
+      "s1": "Letter gani, sounding like g.",
+      "s2": "Picture post with twin lower loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, gani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter გ (gani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating post with twin lower loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_04",
+    "glyph": "დ",
+    "reading": "doni",
+    "meaning_id": "d",
+    "meaning_en": "d",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/04_doni.png",
+    "tts_id": {
+      "s1": "Huruf doni, bunyinya d.",
+      "s2": "Bayangkan lengkung atas menyatu dengan perut bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, doni."
+    },
+    "tts_en": {
+      "s1": "Letter doni, sounding like d.",
+      "s2": "Picture top arch meeting a lower bowl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, doni."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter დ (doni) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating top arch meeting a lower bowl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_05",
+    "glyph": "ე",
+    "reading": "eni",
+    "meaning_id": "e",
+    "meaning_en": "e",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/05_eni.png",
+    "tts_id": {
+      "s1": "Huruf eni, bunyinya e.",
+      "s2": "Bayangkan lengkung ganda seperti angka tiga.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, eni."
+    },
+    "tts_en": {
+      "s1": "Letter eni, sounding like e.",
+      "s2": "Picture double curve like a soft three.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, eni."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ე (eni) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double curve like a soft three in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_06",
+    "glyph": "ვ",
+    "reading": "vini",
+    "meaning_id": "v",
+    "meaning_en": "v",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/06_vini.png",
+    "tts_id": {
+      "s1": "Huruf vini, bunyinya v.",
+      "s2": "Bayangkan tiang tinggi melengkung ke kanan atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, vini."
+    },
+    "tts_en": {
+      "s1": "Letter vini, sounding like v.",
+      "s2": "Picture tall stem curving up right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, vini."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ვ (vini) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall stem curving up right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_07",
+    "glyph": "ზ",
+    "reading": "zeni",
+    "meaning_id": "z",
+    "meaning_en": "z",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/07_zeni.png",
+    "tts_id": {
+      "s1": "Huruf zeni, bunyinya z.",
+      "s2": "Bayangkan dua lengkung berombak terbuka ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, zeni."
+    },
+    "tts_en": {
+      "s1": "Letter zeni, sounding like z.",
+      "s2": "Picture double wave open to the left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, zeni."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ზ (zeni) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double wave open to the left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_08",
+    "glyph": "თ",
+    "reading": "tani",
+    "meaning_id": "t berhembus",
+    "meaning_en": "aspirated t",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/08_tani.png",
+    "tts_id": {
+      "s1": "Huruf tani, bunyinya t berhembus.",
+      "s2": "Bayangkan lingkaran bertopi melengkung di atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tani."
+    },
+    "tts_en": {
+      "s1": "Letter tani, sounding like aspirated t.",
+      "s2": "Picture circle crowned by a curved arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter თ (tani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle crowned by a curved arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_09",
+    "glyph": "ი",
+    "reading": "ini",
+    "meaning_id": "i",
+    "meaning_en": "i",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/09_ini.png",
+    "tts_id": {
+      "s1": "Huruf ini, bunyinya i.",
+      "s2": "Bayangkan mangkuk kecil terbuka ke atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ini."
+    },
+    "tts_en": {
+      "s1": "Letter ini, sounding like i.",
+      "s2": "Picture small cup open upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ini."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ი (ini) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small cup open upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_10",
+    "glyph": "კ",
+    "reading": "kani",
+    "meaning_id": "k ejektif",
+    "meaning_en": "ejective k",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/10_kani.png",
+    "tts_id": {
+      "s1": "Huruf kani, bunyinya k ejektif.",
+      "s2": "Bayangkan tiang tinggi dengan simpul bulat di bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kani."
+    },
+    "tts_en": {
+      "s1": "Letter kani, sounding like ejective k.",
+      "s2": "Picture tall stem with a lower round knot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter კ (kani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall stem with a lower round knot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_11",
+    "glyph": "ლ",
+    "reading": "lasi",
+    "meaning_id": "l",
+    "meaning_en": "l",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/11_lasi.png",
+    "tts_id": {
+      "s1": "Huruf lasi, bunyinya l.",
+      "s2": "Bayangkan tiga lengkung lembut berderet.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lasi."
+    },
+    "tts_en": {
+      "s1": "Letter lasi, sounding like l.",
+      "s2": "Picture three gentle arches in a row.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, lasi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ლ (lasi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three gentle arches in a row in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_12",
+    "glyph": "მ",
+    "reading": "mani",
+    "meaning_id": "m",
+    "meaning_en": "m",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/12_mani.png",
+    "tts_id": {
+      "s1": "Huruf mani, bunyinya m.",
+      "s2": "Bayangkan dua kaki lengkung dengan tiang tinggi kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mani."
+    },
+    "tts_en": {
+      "s1": "Letter mani, sounding like m.",
+      "s2": "Picture two arches rising to a tall right stem.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, mani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter მ (mani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two arches rising to a tall right stem in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_13",
+    "glyph": "ნ",
+    "reading": "nari",
+    "meaning_id": "n",
+    "meaning_en": "n",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/13_nari.png",
+    "tts_id": {
+      "s1": "Huruf nari, bunyinya n.",
+      "s2": "Bayangkan leher panjang melengkung ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nari."
+    },
+    "tts_en": {
+      "s1": "Letter nari, sounding like n.",
+      "s2": "Picture long neck curving into a lower loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nari."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ნ (nari) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating long neck curving into a lower loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_14",
+    "glyph": "ო",
+    "reading": "oni",
+    "meaning_id": "o",
+    "meaning_en": "o",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/14_oni.png",
+    "tts_id": {
+      "s1": "Huruf oni, bunyinya o.",
+      "s2": "Bayangkan dua bukit kembar seperti huruf m terbalik.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, oni."
+    },
+    "tts_en": {
+      "s1": "Letter oni, sounding like o.",
+      "s2": "Picture twin hills side by side.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, oni."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ო (oni) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin hills side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_15",
+    "glyph": "პ",
+    "reading": "pari",
+    "meaning_id": "p ejektif",
+    "meaning_en": "ejective p",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/15_pari.png",
+    "tts_id": {
+      "s1": "Huruf pari, bunyinya p ejektif.",
+      "s2": "Bayangkan tiang tinggi dengan perut bulat di kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pari."
+    },
+    "tts_en": {
+      "s1": "Letter pari, sounding like ejective p.",
+      "s2": "Picture tall stem with a right lower loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pari."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter პ (pari) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall stem with a right lower loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_16",
+    "glyph": "ჟ",
+    "reading": "zhani",
+    "meaning_id": "zh",
+    "meaning_en": "zh",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/16_zhani.png",
+    "tts_id": {
+      "s1": "Huruf zhani, bunyinya zh.",
+      "s2": "Bayangkan lingkaran dengan kaki silang melengkung.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, zhani."
+    },
+    "tts_en": {
+      "s1": "Letter zhani, sounding like zh.",
+      "s2": "Picture circle with a curved descending leg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, zhani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ჟ (zhani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle with a curved descending leg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_17",
+    "glyph": "რ",
+    "reading": "rae",
+    "meaning_id": "r",
+    "meaning_en": "r",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/17_rae.png",
+    "tts_id": {
+      "s1": "Huruf rae, bunyinya r.",
+      "s2": "Bayangkan tiang lurus dengan dua bukit kecil.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rae."
+    },
+    "tts_en": {
+      "s1": "Letter rae, sounding like r.",
+      "s2": "Picture straight post with two small arches.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, rae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter რ (rae) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating straight post with two small arches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_18",
+    "glyph": "ს",
+    "reading": "sani",
+    "meaning_id": "s",
+    "meaning_en": "s",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/18_sani.png",
+    "tts_id": {
+      "s1": "Huruf sani, bunyinya s.",
+      "s2": "Bayangkan lengkung huruf s dengan dasar datar.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sani."
+    },
+    "tts_en": {
+      "s1": "Letter sani, sounding like s.",
+      "s2": "Picture s curve resting on a flat base.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ს (sani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating s curve resting on a flat base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_19",
+    "glyph": "ტ",
+    "reading": "tari",
+    "meaning_id": "t ejektif",
+    "meaning_en": "ejective t",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/19_tari.png",
+    "tts_id": {
+      "s1": "Huruf tari, bunyinya t ejektif.",
+      "s2": "Bayangkan kubah ganda bertopi garis tegak.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tari."
+    },
+    "tts_en": {
+      "s1": "Letter tari, sounding like ejective t.",
+      "s2": "Picture double arch under a vertical stem.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tari."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ტ (tari) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch under a vertical stem in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_20",
+    "glyph": "უ",
+    "reading": "uni",
+    "meaning_id": "u",
+    "meaning_en": "u",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/20_uni.png",
+    "tts_id": {
+      "s1": "Huruf uni, bunyinya u.",
+      "s2": "Bayangkan mangkuk bulat dengan ekor ke kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, uni."
+    },
+    "tts_en": {
+      "s1": "Letter uni, sounding like u.",
+      "s2": "Picture round bowl tailing up left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, uni."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter უ (uni) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl tailing up left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_21",
+    "glyph": "ფ",
+    "reading": "pari",
+    "meaning_id": "p berhembus",
+    "meaning_en": "aspirated p",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/21_pari.png",
+    "tts_id": {
+      "s1": "Huruf pari, bunyinya p berhembus.",
+      "s2": "Bayangkan dua lingkaran tergantung di sisi tiang.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pari."
+    },
+    "tts_en": {
+      "s1": "Letter pari, sounding like aspirated p.",
+      "s2": "Picture twin loops flanking a center stem.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pari."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ფ (pari) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin loops flanking a center stem in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_22",
+    "glyph": "ქ",
+    "reading": "kani",
+    "meaning_id": "k berhembus",
+    "meaning_en": "aspirated k",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/22_kani.png",
+    "tts_id": {
+      "s1": "Huruf kani, bunyinya k berhembus.",
+      "s2": "Bayangkan tiang silang dengan perut kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kani."
+    },
+    "tts_en": {
+      "s1": "Letter kani, sounding like aspirated k.",
+      "s2": "Picture crossed post with a right loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ქ (kani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossed post with a right loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_23",
+    "glyph": "ღ",
+    "reading": "ghani",
+    "meaning_id": "gh",
+    "meaning_en": "gh",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/23_ghani.png",
+    "tts_id": {
+      "s1": "Huruf ghani, bunyinya gh.",
+      "s2": "Bayangkan tiga lengkung bergelombang ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ghani."
+    },
+    "tts_en": {
+      "s1": "Letter ghani, sounding like gh.",
+      "s2": "Picture three wavy curves facing right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ghani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ღ (ghani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three wavy curves facing right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_24",
+    "glyph": "ყ",
+    "reading": "qari",
+    "meaning_id": "q ejektif",
+    "meaning_en": "ejective q",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/24_qari.png",
+    "tts_id": {
+      "s1": "Huruf qari, bunyinya q ejektif.",
+      "s2": "Bayangkan mangkuk tinggi bertangkai panjang bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, qari."
+    },
+    "tts_en": {
+      "s1": "Letter qari, sounding like ejective q.",
+      "s2": "Picture high bowl with a long lower stem.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, qari."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ყ (qari) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating high bowl with a long lower stem in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_25",
+    "glyph": "შ",
+    "reading": "shini",
+    "meaning_id": "sh",
+    "meaning_en": "sh",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/25_shini.png",
+    "tts_id": {
+      "s1": "Huruf shini, bunyinya sh.",
+      "s2": "Bayangkan tiga puncak melingkar di atas dasar.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, shini."
+    },
+    "tts_en": {
+      "s1": "Letter shini, sounding like sh.",
+      "s2": "Picture three rounded peaks on one base.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, shini."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter შ (shini) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three rounded peaks on one base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_26",
+    "glyph": "ჩ",
+    "reading": "chini",
+    "meaning_id": "ch berhembus",
+    "meaning_en": "aspirated ch",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/26_chini.png",
+    "tts_id": {
+      "s1": "Huruf chini, bunyinya ch berhembus.",
+      "s2": "Bayangkan tiga lengkung turun dengan ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chini."
+    },
+    "tts_en": {
+      "s1": "Letter chini, sounding like aspirated ch.",
+      "s2": "Picture descending loops with a right tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chini."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ჩ (chini) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating descending loops with a right tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_27",
+    "glyph": "ც",
+    "reading": "tsani",
+    "meaning_id": "ts",
+    "meaning_en": "ts",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/27_tsani.png",
+    "tts_id": {
+      "s1": "Huruf tsani, bunyinya ts.",
+      "s2": "Bayangkan lingkaran terbuka menghadap ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tsani."
+    },
+    "tts_en": {
+      "s1": "Letter tsani, sounding like ts.",
+      "s2": "Picture open ring curving left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tsani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ც (tsani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open ring curving left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_28",
+    "glyph": "ძ",
+    "reading": "dzili",
+    "meaning_id": "dz",
+    "meaning_en": "dz",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/28_dzili.png",
+    "tts_id": {
+      "s1": "Huruf dzili, bunyinya dz.",
+      "s2": "Bayangkan lengkung silang melingkar di tengah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dzili."
+    },
+    "tts_en": {
+      "s1": "Letter dzili, sounding like dz.",
+      "s2": "Picture crossing loop centered neatly.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dzili."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ძ (dzili) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossing loop centered neatly in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_29",
+    "glyph": "წ",
+    "reading": "tsili",
+    "meaning_id": "ts ejektif",
+    "meaning_en": "ejective ts",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/29_tsili.png",
+    "tts_id": {
+      "s1": "Huruf tsili, bunyinya ts ejektif.",
+      "s2": "Bayangkan simpul angka delapan miring dengan ekor.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tsili."
+    },
+    "tts_en": {
+      "s1": "Letter tsili, sounding like ejective ts.",
+      "s2": "Picture tilted figure eight with a tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tsili."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter წ (tsili) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tilted figure eight with a tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_30",
+    "glyph": "ჭ",
+    "reading": "chari",
+    "meaning_id": "ch ejektif",
+    "meaning_en": "ejective ch",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/30_chari.png",
+    "tts_id": {
+      "s1": "Huruf chari, bunyinya ch ejektif.",
+      "s2": "Bayangkan lingkaran bawah dengan dua tanduk atas.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chari."
+    },
+    "tts_en": {
+      "s1": "Letter chari, sounding like ejective ch.",
+      "s2": "Picture lower circle with two upper horns.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chari."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ჭ (chari) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating lower circle with two upper horns in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_31",
+    "glyph": "ხ",
+    "reading": "khani",
+    "meaning_id": "kh",
+    "meaning_en": "kh",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/31_khani.png",
+    "tts_id": {
+      "s1": "Huruf khani, bunyinya kh.",
+      "s2": "Bayangkan lengkung kait menghadap kiri bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, khani."
+    },
+    "tts_en": {
+      "s1": "Letter khani, sounding like kh.",
+      "s2": "Picture hook curving down left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, khani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ხ (khani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating hook curving down left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_32",
+    "glyph": "ჯ",
+    "reading": "jani",
+    "meaning_id": "j",
+    "meaning_en": "j",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/32_jani.png",
+    "tts_id": {
+      "s1": "Huruf jani, bunyinya j.",
+      "s2": "Bayangkan tiang tinggi dengan palang dan lingkaran.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jani."
+    },
+    "tts_en": {
+      "s1": "Letter jani, sounding like j.",
+      "s2": "Picture tall post with crossbar and loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, jani."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ჯ (jani) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall post with crossbar and loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "georgian_33",
+    "glyph": "ჰ",
+    "reading": "hae",
+    "meaning_id": "h",
+    "meaning_en": "h",
+    "voice_target": "ka-GE-EkaNeural",
+    "template_path": "templates_georgian/33_hae.png",
+    "tts_id": {
+      "s1": "Huruf hae, bunyinya h.",
+      "s2": "Bayangkan lengkung lembut dengan perut kecil bawah.",
+      "s3": "Perhatikan bentuk garis dan lekuk ciri khasnya.",
+      "s4": "Coba ucapkan bersama, hae."
+    },
+    "tts_en": {
+      "s1": "Letter hae, sounding like h.",
+      "s2": "Picture soft curve with a small lower belly.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, hae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of georgian letter ჰ (hae) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft curve with a small lower belly in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]
