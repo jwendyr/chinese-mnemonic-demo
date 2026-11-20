@@ -1,0 +1,26 @@
+{
+  "slug": "hangul",
+  "omniglot_url": "https://omniglot.com/writing/korean.htm",
+  "title": "Korean language and alphabet",
+  "at_a_glance": [
+    "Native name: 한국어 [韓國語] (hanguk-eo) - South Korea 조선말 [朝鮮말] (chosŏn-mal) - North Korea",
+    "Language family: Koreanic",
+    "Number of speakers: c. 81.8 million",
+    "Spoken in: South Korea, North Korea, China, USA, Japan, Uzbekistan, and other countries",
+    "First written: 7th century AD"
+  ],
+  "history": [
+    "Chinese writing has been known in Korea for over 2,000 years. It was used widely during the Chinese occupation of northern Korea from 108 BC to 313 AD. By the 5th century AD, the Koreans were starting to write in Classical Chinese - the earliest known example of this dates from 414 AD. In the 10th and 11th centuries AD they devised three different systems for writing Korean with Chinese characters: Hyangchal (鄕札 / 향찰), Gukyeol (口訣 / 구결) and Idu (吏讀 / 이두). The Gukyeol system first appears in the 11th century, however there is evidence to suggest that it was used from the 7th century AD, or possibly earlier. These systems were similar to those developed in Japan and were probably used as models by the Koreans.",
+    "The Idu system used a combination of hanja together with special symbols to indicate Korean verb endings and other grammatical markers, and was used to in official and private documents for many centuries. The Hyangchal system used hanja to represent all the sounds of Korean and was used mainly to write poetry. The Gukyeol system used hanja characters to represent the sounds of Korean.",
+    "The Koreans borrowed a huge number of Chinese words, gave Korean readings and/or meanings to some of the Chinese characters and also invented about 150 new characters, most of which are rare or used mainly for personal or place names.",
+    "[top]"
+  ],
+  "notable_features": [
+    "Type of writing system: alphabet",
+    "Writing direction: Until the 1980s Korean was usually written from right to left in vertical columns. Since then writing from left to right in horizontal lines has become popular, and today the majority of texts are written horizontally.",
+    "Number of letter: 24 (jamo): 14 consonants and 10 vowels. The letters are combined together into syllable blocks. For example, Hangeul is written: 한 (han) = ᄒ (h) + ᅡ (a) + ᄂ (n) and 글 (geul) = ᄀ (g) + ᅳ (eu) + ᄅ (l)",
+    "The shapes of the consontants g/k, n, s, m and ng are graphical representations of the speech organs used to pronounce them. Other consonsants were created by adding extra lines to the basic shapes.",
+    "The shapes of the the vowels are based on three elements: man (a vertical line), earth (a horizontal line) and heaven (a dot). In modern Hangeul the heavenly dot has mutated into a short line."
+  ],
+  "sample_text": []
+}

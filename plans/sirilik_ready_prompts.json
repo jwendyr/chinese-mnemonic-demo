@@ -1,0 +1,761 @@
+[
+  {
+    "id": "ru_01",
+    "upper": "А",
+    "lower": "а",
+    "reading": "a",
+    "meaning_id": "a",
+    "meaning_en": "a as in father",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/01_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi a.",
+      "s2": "Bayangkan puncak segitiga huruf A.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, a."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like a as in father.",
+      "s2": "Picture classic triangular peak.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, a as in father."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter А а on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating classic triangular peak in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_02",
+    "upper": "Б",
+    "lower": "б",
+    "reading": "b",
+    "meaning_id": "b",
+    "meaning_en": "b as in book",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/02_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi b.",
+      "s2": "Bayangkan bendera persegi di atas perut bulat.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, b."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like b as in book.",
+      "s2": "Picture flat top flag above a round belly.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, b as in book."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Б б on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating flat top flag above a round belly in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_03",
+    "upper": "В",
+    "lower": "в",
+    "reading": "v",
+    "meaning_id": "v",
+    "meaning_en": "v as in vine",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/03_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi v.",
+      "s2": "Bayangkan dua lengkung berbunyi v bukan b.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, v."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like v as in vine.",
+      "s2": "Picture twin loops sounding like v.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, v as in vine."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter В в on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating twin loops sounding like v in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_04",
+    "upper": "Г",
+    "lower": "г",
+    "reading": "g",
+    "meaning_id": "g",
+    "meaning_en": "g as in go",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/04_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi g.",
+      "s2": "Bayangkan tiang siku menghadap kanan.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, g."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like g as in go.",
+      "s2": "Picture right angled gallows frame.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, g as in go."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Г г on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating right angled gallows frame in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_05",
+    "upper": "Д",
+    "lower": "д",
+    "reading": "d",
+    "meaning_id": "d",
+    "meaning_en": "d as in day",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/05_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi d.",
+      "s2": "Bayangkan rumah kecil berkaki dua di bawah.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, d."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like d as in day.",
+      "s2": "Picture little house standing on two feet.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, d as in day."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Д д on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating little house standing on two feet in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_06",
+    "upper": "Е",
+    "lower": "е",
+    "reading": "ye",
+    "meaning_id": "ye",
+    "meaning_en": "ye as in yes",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/06_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi ye.",
+      "s2": "Bayangkan sisir tiga gigi berbunyi ye.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, ye."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like ye as in yes.",
+      "s2": "Picture three pronged comb sounding ye.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, ye as in yes."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Е е on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating three pronged comb sounding ye in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_07",
+    "upper": "Ё",
+    "lower": "ё",
+    "reading": "yo",
+    "meaning_id": "yo",
+    "meaning_en": "yo as in yonder",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/07_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi yo.",
+      "s2": "Bayangkan huruf ye dengan dua titik di atas.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, yo."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like yo as in yonder.",
+      "s2": "Picture ye topped with twin dots.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, yo as in yonder."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ё ё on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating ye topped with twin dots in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_08",
+    "upper": "Ж",
+    "lower": "ж",
+    "reading": "zh",
+    "meaning_id": "zh",
+    "meaning_en": "zh like s in treasure",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/08_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi zh.",
+      "s2": "Bayangkan kumbang bersayap enam garis.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, zh."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like zh like s in treasure.",
+      "s2": "Picture six legged beetle symmetry.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, zh like s in treasure."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ж ж on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating six legged beetle symmetry in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_09",
+    "upper": "З",
+    "lower": "з",
+    "reading": "z",
+    "meaning_id": "z",
+    "meaning_en": "z as in zoo",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/09_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi z.",
+      "s2": "Bayangkan lengkung angka tiga berbunyi z.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, z."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like z as in zoo.",
+      "s2": "Picture number three curve sounding z.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, z as in zoo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter З з on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating number three curve sounding z in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_10",
+    "upper": "И",
+    "lower": "и",
+    "reading": "i",
+    "meaning_id": "i",
+    "meaning_en": "ee as in see",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/10_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi i.",
+      "s2": "Bayangkan huruf N terbalik berbunyi i.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, i."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like ee as in see.",
+      "s2": "Picture mirrored N sounding ee.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, ee as in see."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter И и on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating mirrored N sounding ee in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_11",
+    "upper": "Й",
+    "lower": "й",
+    "reading": "y pendek",
+    "meaning_id": "y pendek",
+    "meaning_en": "short y as in boy",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/11_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi y pendek.",
+      "s2": "Bayangkan huruf i dengan topi lengkung singkat.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, y pendek."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like short y as in boy.",
+      "s2": "Picture i crowned with a short curved cap.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, short y as in boy."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Й й on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating i crowned with a short curved cap in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_12",
+    "upper": "К",
+    "lower": "к",
+    "reading": "k",
+    "meaning_id": "k",
+    "meaning_en": "k as in kite",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/12_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi k.",
+      "s2": "Bayangkan tiang dengan dua cabang kanan.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, k."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like k as in kite.",
+      "s2": "Picture pillar with two right branches.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, k as in kite."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter К к on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating pillar with two right branches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_13",
+    "upper": "Л",
+    "lower": "л",
+    "reading": "l",
+    "meaning_id": "l",
+    "meaning_en": "l as in lamp",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/13_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi l.",
+      "s2": "Bayangkan tenda kaki melengkung ke kiri.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, l."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like l as in lamp.",
+      "s2": "Picture curved tent leg stepping left.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, l as in lamp."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Л л on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating curved tent leg stepping left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_14",
+    "upper": "М",
+    "lower": "м",
+    "reading": "m",
+    "meaning_id": "m",
+    "meaning_en": "m as in mother",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/14_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi m.",
+      "s2": "Bayangkan dua puncak gunung kembar.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, m."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like m as in mother.",
+      "s2": "Picture twin mountain peaks.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, m as in mother."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter М м on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating twin mountain peaks in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_15",
+    "upper": "Н",
+    "lower": "н",
+    "reading": "n",
+    "meaning_id": "n",
+    "meaning_en": "n as in name",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/15_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi n.",
+      "s2": "Bayangkan jembatan huruf H yang berbunyi n.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, n."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like n as in name.",
+      "s2": "Picture H shaped bridge sounding n.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, n as in name."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Н н on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating H shaped bridge sounding n in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_16",
+    "upper": "О",
+    "lower": "о",
+    "reading": "o",
+    "meaning_id": "o",
+    "meaning_en": "o as in more",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/16_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi o.",
+      "s2": "Bayangkan lingkaran penuh bersih.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, o."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like o as in more.",
+      "s2": "Picture clean full circle.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, o as in more."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter О о on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating clean full circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_17",
+    "upper": "П",
+    "lower": "п",
+    "reading": "p",
+    "meaning_id": "p",
+    "meaning_en": "p as in pen",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/17_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi p.",
+      "s2": "Bayangkan gerbang persegi seperti pi Yunani.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, p."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like p as in pen.",
+      "s2": "Picture square gate like Greek pi.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, p as in pen."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter П п on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating square gate like Greek pi in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_18",
+    "upper": "Р",
+    "lower": "р",
+    "reading": "r bergetar",
+    "meaning_id": "r bergetar",
+    "meaning_en": "rolled r",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/18_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi r bergetar.",
+      "s2": "Bayangkan bendera bulat P yang berbunyi r.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, r bergetar."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like rolled r.",
+      "s2": "Picture round P flag sounding rolled r.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, rolled r."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Р р on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating round P flag sounding rolled r in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_19",
+    "upper": "С",
+    "lower": "с",
+    "reading": "s",
+    "meaning_id": "s",
+    "meaning_en": "s as in sun",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/19_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi s.",
+      "s2": "Bayangkan bulan sabit C yang berbunyi s.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, s."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like s as in sun.",
+      "s2": "Picture crescent C sounding s.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, s as in sun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter С с on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating crescent C sounding s in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_20",
+    "upper": "Т",
+    "lower": "т",
+    "reading": "t",
+    "meaning_id": "t",
+    "meaning_en": "t as in top",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/20_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi t.",
+      "s2": "Bayangkan palang meja berbentuk T.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, t."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like t as in top.",
+      "s2": "Picture simple T crossbar.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, t as in top."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Т т on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating simple T crossbar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_21",
+    "upper": "У",
+    "lower": "у",
+    "reading": "u",
+    "meaning_id": "u",
+    "meaning_en": "oo as in moon",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/21_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi u.",
+      "s2": "Bayangkan cabang Y yang berbunyi u.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, u."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like oo as in moon.",
+      "s2": "Picture Y branch sounding oo.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, oo as in moon."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter У у on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating Y branch sounding oo in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_22",
+    "upper": "Ф",
+    "lower": "ф",
+    "reading": "f",
+    "meaning_id": "f",
+    "meaning_en": "f as in photo",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/22_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi f.",
+      "s2": "Bayangkan lingkaran ditembus tiang seperti phi Yunani.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, f."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like f as in photo.",
+      "s2": "Picture pierced circle like Greek phi.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, f as in photo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ф ф on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating pierced circle like Greek phi in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_23",
+    "upper": "Х",
+    "lower": "х",
+    "reading": "kh",
+    "meaning_id": "kh",
+    "meaning_en": "kh as in Bach",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/23_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi kh.",
+      "s2": "Bayangkan tanda silang X berbunyi kh.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, kh."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like kh as in Bach.",
+      "s2": "Picture crossed X sounding kh.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, kh as in Bach."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Х х on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating crossed X sounding kh in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_24",
+    "upper": "Ц",
+    "lower": "ц",
+    "reading": "ts",
+    "meaning_id": "ts",
+    "meaning_en": "ts as in cats",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/24_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi ts.",
+      "s2": "Bayangkan gerbang terbalik dengan ekor kanan kecil.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, ts."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like ts as in cats.",
+      "s2": "Picture inverted gate with a small right tail.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, ts as in cats."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ц ц on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating inverted gate with a small right tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_25",
+    "upper": "Ч",
+    "lower": "ч",
+    "reading": "ch",
+    "meaning_id": "ch",
+    "meaning_en": "ch as in chair",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/25_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi ch.",
+      "s2": "Bayangkan kursi terbalik berbunyi ch.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, ch."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like ch as in chair.",
+      "s2": "Picture upside down chair sounding ch.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, ch as in chair."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ч ч on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating upside down chair sounding ch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_26",
+    "upper": "Ш",
+    "lower": "ш",
+    "reading": "sh",
+    "meaning_id": "sh",
+    "meaning_en": "sh as in shoe",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/26_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi sh.",
+      "s2": "Bayangkan tiga tiang berdiri di atas satu dasar.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, sh."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like sh as in shoe.",
+      "s2": "Picture three upright pillars on one base.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, sh as in shoe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ш ш on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating three upright pillars on one base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_27",
+    "upper": "Щ",
+    "lower": "щ",
+    "reading": "shch lembut",
+    "meaning_id": "shch lembut",
+    "meaning_en": "soft long shch",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/27_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi shch lembut.",
+      "s2": "Bayangkan huruf sh dengan ekor kecil di kanan.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, shch lembut."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like soft long shch.",
+      "s2": "Picture sh shape with a small right tail.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, soft long shch."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Щ щ on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating sh shape with a small right tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_28",
+    "upper": "Ъ",
+    "lower": "ъ",
+    "reading": "tanda keras",
+    "meaning_id": "tanda keras",
+    "meaning_en": "hard sign",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/28_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi tanda keras.",
+      "s2": "Bayangkan tanda pemisah keras tanpa bunyi sendiri.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, tanda keras."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like hard sign.",
+      "s2": "Picture silent hard separation sign.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, hard sign."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ъ ъ on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating silent hard separation sign in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_29",
+    "upper": "Ы",
+    "lower": "ы",
+    "reading": "y dalam",
+    "meaning_id": "y dalam",
+    "meaning_en": "deep central y",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/29_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi y dalam.",
+      "s2": "Bayangkan tiang lembut ditemani tiang tegak.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, y dalam."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like deep central y.",
+      "s2": "Picture soft loop paired with an upright post.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, deep central y."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ы ы on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating soft loop paired with an upright post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_30",
+    "upper": "Ь",
+    "lower": "ь",
+    "reading": "tanda lembut",
+    "meaning_id": "tanda lembut",
+    "meaning_en": "soft sign",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/30_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi tanda lembut.",
+      "s2": "Bayangkan tanda pelembut konsonan di belakang.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, tanda lembut."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like soft sign.",
+      "s2": "Picture palatalizing soft sign.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, soft sign."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ь ь on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating palatalizing soft sign in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_31",
+    "upper": "Э",
+    "lower": "э",
+    "reading": "e terbuka",
+    "meaning_id": "e terbuka",
+    "meaning_en": "e as in met",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/31_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi e terbuka.",
+      "s2": "Bayangkan bulan sabit menghadap kiri dengan lidah tengah.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, e terbuka."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like e as in met.",
+      "s2": "Picture left facing crescent with middle tongue.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, e as in met."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Э э on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating left facing crescent with middle tongue in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_32",
+    "upper": "Ю",
+    "lower": "ю",
+    "reading": "yu",
+    "meaning_id": "yu",
+    "meaning_en": "yu as in you",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/32_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi yu.",
+      "s2": "Bayangkan tiang terhubung ke lingkaran bulat.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, yu."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like yu as in you.",
+      "s2": "Picture post bridged to a full circle.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, yu as in you."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Ю ю on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating post bridged to a full circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "ru_33",
+    "upper": "Я",
+    "lower": "я",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya as in yard",
+    "voice_target": "ru-RU-SvetlanaNeural",
+    "template_path": "templates_cyrillic/33_cyr.png",
+    "tts_id": {
+      "s1": "Huruf Sirilik berbunyi ya.",
+      "s2": "Bayangkan huruf R terbalik berbunyi ya.",
+      "s3": "Perhatikan bentuk huruf besar dan huruf kecilnya.",
+      "s4": "Coba ucapkan, ya."
+    },
+    "tts_en": {
+      "s1": "Cyrillic letter sounding like ya as in yard.",
+      "s2": "Picture mirrored R sounding ya.",
+      "s3": "Notice how the uppercase and lowercase forms pair together.",
+      "s4": "Say it aloud, ya as in yard."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Cyrillic letter Я я on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp while subtly illustrating mirrored R sounding ya in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

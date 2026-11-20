@@ -461,9 +461,155 @@ SCRIPTS: list[dict[str, Any]] = [
             "en": "This is my book. / I read a book.",
         },
     },
+    {
+        "slug": "hangul",
+        "name_id": "Hangul Korea (Jamo Dasar)",
+        "name_en": "Korean Hangul (Basic Jamo)",
+        "native_name": "한글 · 자모",
+        "type_key": "featural",
+        "type_id": "Alfabet Fitur (Featural Alphabet)",
+        "type_en": "Featural Alphabet",
+        "unicode": "U+1100–U+11FF / U+3130–U+318F",
+        "direction": "Kiri ke kanan (dirangkai dalam blok suku kata)",
+        "lineage": "Diciptakan Raja Sejong Agung (1443, Hunminjeongeum)",
+        "languages": "Korea, Jeju, Cia-Cia",
+        "speech_lang": "ko-KR",
+        "tts_voice": "ko-KR-SunHiNeural",
+        "omniglot_url": "https://omniglot.com/writing/korean.htm",
+        "prompt_file": "plans/hangul_ready_prompts.json",
+        "related": ["bopomofo", "hiragana", "katakana"],
+        "summary_id": "24 huruf dasar Hangul (14 konsonan meniru bentuk organ bicara + 10 vokal berdasar prinsip Langit, Bumi, Manusia).",
+        "summary_en": "24 basic Hangul Jamo (14 consonants modeling vocal organs + 10 vowels built from Heaven, Earth, and Human strokes).",
+        "features_id": [
+            "Bentuk konsonan dasar meniru posisi lidah, bibir, gigi, dan tenggorokan saat diucapkan.",
+            "Vokal dibentuk dari tiga unsur filosofis: titik/garis pendek (Langit), garis datar (Bumi), garis tegak (Manusia).",
+            "Huruf-huruf dirangkai menjadi blok suku kata persegi (KVK), bukan ditulis memanjang satu baris.",
+        ],
+        "features_en": [
+            "Basic consonant shapes visually model the tongue, lips, teeth, and throat during articulation.",
+            "Vowels combine three elements: short stroke (Heaven), horizontal line (Earth), vertical line (Human).",
+            "Letters stack into square syllable blocks (CVC) rather than linear strings.",
+        ],
+        "sample": {
+            "native": "모든 인간은 태어날 때부터 자유로우며 그 존엄과 권리에 있어 동등하다.",
+            "translit": "Modeun ingan-eun taeeonal ttaebuteo jayurowumyeo geu joneomgwa gwollie isseo dongdeunghada.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "arabic",
+        "name_id": "Abjad Arab",
+        "name_en": "Arabic Abjad",
+        "native_name": "الأبجدية العربية",
+        "type_key": "abjad",
+        "type_id": "Abjad (Konsonan Utama + Harakat)",
+        "type_en": "Abjad (Consonant-focused Script)",
+        "unicode": "U+0600–U+06FF (Arabic)",
+        "direction": "Kanan ke kiri (kursif bersambung)",
+        "lineage": "Fenisia → Aram → Nabatea → Abjad Arab Klasik",
+        "languages": "Arab, Persia, Urdu, Jawi Melayu, Kurdi",
+        "speech_lang": "ar-SA",
+        "tts_voice": "ar-SA-ZariyahNeural",
+        "omniglot_url": "https://omniglot.com/writing/arabic.htm",
+        "prompt_file": "plans/arab_ready_prompts.json",
+        "related": ["greek", "devanagari"],
+        "summary_id": "28 huruf inti abjad Arab yang ditulis bersambung dari kanan ke kiri, dikelompokkan berdasarkan bentuk dasar & posisi titik pembeda.",
+        "summary_en": "28 core Arabic letters written cursively right-to-left, grouped by shared base shapes and distinguishing dot patterns.",
+        "features_id": [
+            "Ditulis dari kanan ke kiri; sebagian besar huruf berubah bentuk di posisi awal, tengah, akhir, atau berdiri sendiri.",
+            "Banyak huruf berbagi bentuk rangka dasar yang sama (mis. ب ت ث atau ج ح خ) dan hanya dibedakan oleh jumlah serta letak titik.",
+            "Vokal pendek biasanya ditandai harakat di atas/bawah huruf dalam teks pendidikan dan kitab suci.",
+        ],
+        "features_en": [
+            "Written right-to-left; most letters change shape in isolated, initial, medial, and final positions.",
+            "Many letters share an identical skeleton (e.g. ب ت ث or ج ح خ) distinguished solely by dot count and placement.",
+            "Short vowels are optional diacritics (harakat) placed above or below consonants.",
+        ],
+        "sample": {
+            "native": "يُولَدُ جَمِيعُ النَّاسِ أَحْرَارًا مُتَسَاوِينَ فِي الْكَرَامَةِ وَالْحُقُوقِ.",
+            "translit": "Yūladu jamīʿu n-nāsi aḥrāran mutasāwīna fī l-karāmati wa-l-ḥuqūq.",
+            "id": "Semua orang dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "cyrillic",
+        "name_id": "Alfabet Sirilik (Rusia)",
+        "name_en": "Cyrillic Alphabet (Russian)",
+        "native_name": "Кириллица · Русский алфавит",
+        "type_key": "alphabet",
+        "type_id": "Alfabet Sejati (Vokal & Konsonan)",
+        "type_en": "True Alphabet (Vowels & Consonants)",
+        "unicode": "U+0400–U+04FF (Cyrillic)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Alfabet Yunani + Glagolitik (Abad ke-9–10 M, Kekaisaran Bulgaria Pertama)",
+        "languages": "Rusia, Ukraina, Bulgaria, Serbia, Kazakh, Mongolia",
+        "speech_lang": "ru-RU",
+        "tts_voice": "ru-RU-SvetlanaNeural",
+        "omniglot_url": "https://omniglot.com/writing/cyrillic.htm",
+        "prompt_file": "plans/sirilik_ready_prompts.json",
+        "related": ["greek"],
+        "summary_id": "33 huruf Sirilik Rusia berpasangan besar & kecil (А а sampai Я я), termasuk huruf vokal terpalatalisasi serta tanda keras & lembut (Ъ, Ь).",
+        "summary_en": "33 paired Russian Cyrillic letters (А а through Я я), including palatalized vowels and the hard & soft signs (Ъ, Ь).",
+        "features_id": [
+            "Berakar langsung dari alfabet Yunani (П, Ф, Г, Д, Р), sehingga banyak huruf terlihat akrab namun berbunyi berbeda (mis. В=v, Р=r, С=s, Н=n).",
+            "Memiliki 10 huruf vokal berpasangan keras-lembut serta dua tanda khusus tanpa bunyi sendiri: Ъ (tanda keras) dan Ь (tanda lembut).",
+        ],
+        "features_en": [
+            "Derived from the Greek uncial script, creating visual false friends with Latin (В=v, Р=r, С=s, Н=n).",
+            "Pairs hard and iotated vowels plus two silent modifiers: hard sign (Ъ) and soft sign (Ь).",
+        ],
+        "sample": {
+            "native": "Все люди рождаются свободными и равными в своем достоинстве и правах.",
+            "translit": "Vse lyudi rozhdayutsya svobodnymi i ravnymi v svoyom dostoinstve i pravakh.",
+            "id": "Semua orang dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "thai",
+        "name_id": "Aksara Thai (44 Konsonan Inti)",
+        "name_en": "Thai Script (44 Consonants)",
+        "native_name": "อักษรไทย · พยัญชนะ ๔๔ ตัว",
+        "type_key": "abugida",
+        "type_id": "Abugida (Tiga Kelas Konsonan Bernada)",
+        "type_en": "Abugida (Three-Class Tonal Script)",
+        "unicode": "U+0E00–U+0E7F (Thai)",
+        "direction": "Kiri ke kanan (tanpa spasi antar kata)",
+        "lineage": "Brahmi → Pallava → Khmer Kuno → Aksara Sukhothai (Raja Ramkhamhaeng, 1283)",
+        "languages": "Thai, Thai Selatan, Isan",
+        "speech_lang": "th-TH",
+        "tts_voice": "th-TH-PremwadeeNeural",
+        "omniglot_url": "https://omniglot.com/writing/thai.htm",
+        "prompt_file": "plans/thai_ready_prompts.json",
+        "related": ["devanagari"],
+        "summary_id": "44 konsonan inti aksara Thai yang dikelompokkan menurut 3 kelas nada (Mid, High, Low) lengkap dengan nama kata jangkar tradisional (ก ไก่ dst.).",
+        "summary_en": "44 core Thai consonants grouped by the 3 tone classes (Mid, High, Low) with traditional acrophonic anchor words (ko kai, etc.).",
+        "features_id": [
+            "Setiap konsonan tergolong kelas Tengah, Tinggi, atau Rendah yang menentukan nada suku kata bersama tanda nada.",
+            "Secara tradisional diajarkan dengan kata kunci benda/hewan (mis. ก ไก่ ko kai = ayam) untuk membedakan bunyi yang mirip.",
+            "Ditulis tanpa spasi antar kata; spasi hanya menandai jeda klausa atau kalimat.",
+        ],
+        "features_en": [
+            "Consonants divide into Mid, High, and Low classes, interacting with tone marks to determine syllable tone.",
+            "Traditionally memorized via acrophonic anchor words (e.g. ก ไก่ ko kai 'chicken') to distinguish homophonous consonants.",
+            "Written continuously without word spaces; spaces mark phrase or sentence boundaries.",
+        ],
+        "sample": {
+            "native": "มนุษย์ทั้งปวงเกิดมามีอิสระและเสมอภาคกันในศักดิ์ศรีและสิทธิ",
+            "translit": "Manut thangpuang koet ma mi itsara lae samoe phak kan nai saksi lae sitthi.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
 ]
 
 GREEK_VOWELS = {"Α", "Ε", "Η", "Ι", "Ο", "Υ", "Ω"}
+CYR_VOWELS = {"А", "Е", "Ё", "И", "О", "У", "Ы", "Э", "Ю", "Я"}
+CYR_SIGNS = {"Ъ", "Ь"}
+THAI_MID = {"ก", "จ", "ฎ", "ฏ", "ด", "ต", "บ", "ป", "อ"}
+THAI_HIGH = {"ข", "ฃ", "ฉ", "ฐ", "ถ", "ผ", "ฝ", "ศ", "ษ", "ส", "ห"}
 KANA_VOWEL_COLS = ["a", "i", "u", "e", "o"]
 KANA_ROW_PREFIXES = ["", "k", "s", "t", "n", "h", "m", "y", "r", "w"]
 
@@ -471,6 +617,24 @@ KANA_ROW_PREFIXES = ["", "k", "s", "t", "n", "h", "m", "y", "r", "w"]
 def classify_group(slug: str, row: dict[str, Any], idx: int) -> str:
     if slug == "greek":
         return "Vokal / Vowels (7)" if row.get("upper") in GREEK_VOWELS else "Konsonan / Consonants (17)"
+    if slug == "cyrillic":
+        up = row.get("upper", "")
+        if up in CYR_VOWELS:
+            return "Vokal / Vowels (10)"
+        if up in CYR_SIGNS:
+            return "Tanda Keras & Lembut / Signs (2)"
+        return "Konsonan / Consonants (21)"
+    if slug == "hangul":
+        return "Konsonan / Consonants (14)" if idx < 14 else "Vokal / Vowels (10)"
+    if slug == "arabic":
+        return "28 Huruf Inti Abjad Arab"
+    if slug == "thai":
+        g = row.get("glyph", "")
+        if g in THAI_MID:
+            return "Kelas Tengah / Mid Class (9)"
+        if g in THAI_HIGH:
+            return "Kelas Tinggi / High Class (11)"
+        return "Kelas Rendah / Low Class (24)"
     if slug == "devanagari":
         if idx < 13:
             return "Vokal / Swara (13)"
@@ -1118,6 +1282,7 @@ def build_site(refresh_omniglot: bool = False) -> None:
         <button type="button" data-filter="logographic">Logographic</button>
         <button type="button" data-filter="syllabary">Syllabary</button>
         <button type="button" data-filter="abugida">Abugida</button>
+        <button type="button" data-filter="abjad">Abjad</button>
         <button type="button" data-filter="alphabet">Alphabet</button>
         <button type="button" data-filter="featural">Featural</button>
         <button type="button" data-filter="grammar">Grammar</button>

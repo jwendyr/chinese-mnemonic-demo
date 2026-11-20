@@ -1,0 +1,23 @@
+{
+  "slug": "thai",
+  "omniglot_url": "https://omniglot.com/writing/thai.htm",
+  "title": "Thai language and alphabet",
+  "at_a_glance": [
+    "Native name: ภาษาไทย (phasa thai) [pʰāːsǎːtʰāj]",
+    "Language family: Kra-Dai, Tai, Southwestern Tai, Chiang Saen, Thai",
+    "Number of speakers: c. 60 million",
+    "Spoken in: Thailand, USA, Taiwan, Germany, Australia, Sweden, Malaysia and other countries",
+    "First written: c. 1292"
+  ],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: Abugida / Syllabic Alphabet consisting of 44 basic consonants, each with an inherent vowel: [o] in medial position and [a] in final position. The [a] is usually found in words of Sanskrit, Pali or Khmer origin while the [o] is found native Thai words. The 18 other vowels and 6 diphthongs are indicated using diacritics which appear in front of, above, below of after the consonants they modify.",
+    "Writing direction: left to right in horizontal lines.",
+    "8 of the letters are used only for writing words of Pali and Sanskrit origin.",
+    "For some consonants there are multiple letters. Originally they represented separate sounds, but over the years the distinction between those sounds was lost and the letters were used instead to indicate tones.",
+    "Thai is a tonal language with 5 tones. The tone of a syllable is determined by a combination of the class of consonant, the type of syllable (open or closed), the tone marker and the length of the vowel. More details."
+  ],
+  "sample_text": [
+    "A recording of this text by Jo S."
+  ]
+}

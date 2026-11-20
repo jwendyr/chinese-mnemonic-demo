@@ -1,0 +1,618 @@
+[
+  {
+    "id": "arabic_01",
+    "glyph": "ا",
+    "reading": "Alif",
+    "meaning_id": "a panjang",
+    "meaning_en": "long a",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/01_alif.png",
+    "tts_id": {
+      "s1": "Huruf Alif. Bunyinya a panjang.",
+      "s2": "Bayangkan tiang tegak lurus berdiri sendiri.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Alif."
+    },
+    "tts_en": {
+      "s1": "Letter Alif. It sounds like long a.",
+      "s2": "Picture tall straight upright pillar.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Alif."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ا (Alif) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of tall straight upright pillar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_02",
+    "glyph": "ب",
+    "reading": "Ba",
+    "meaning_id": "b",
+    "meaning_en": "b",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/02_ba.png",
+    "tts_id": {
+      "s1": "Huruf Ba. Bunyinya b.",
+      "s2": "Bayangkan perahu dengan satu titik di bawah.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ba."
+    },
+    "tts_en": {
+      "s1": "Letter Ba. It sounds like b.",
+      "s2": "Picture boat with one dot underneath.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ب (Ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of boat with one dot underneath in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_03",
+    "glyph": "ت",
+    "reading": "Ta",
+    "meaning_id": "t",
+    "meaning_en": "t",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/03_ta.png",
+    "tts_id": {
+      "s1": "Huruf Ta. Bunyinya t.",
+      "s2": "Bayangkan perahu dengan dua titik di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ta."
+    },
+    "tts_en": {
+      "s1": "Letter Ta. It sounds like t.",
+      "s2": "Picture boat with two dots above.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ت (Ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of boat with two dots above in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_04",
+    "glyph": "ث",
+    "reading": "Tha",
+    "meaning_id": "th lembut seperti think",
+    "meaning_en": "th as in think",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/04_tha.png",
+    "tts_id": {
+      "s1": "Huruf Tha. Bunyinya th lembut seperti think.",
+      "s2": "Bayangkan perahu dengan tiga titik di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tha."
+    },
+    "tts_en": {
+      "s1": "Letter Tha. It sounds like th as in think.",
+      "s2": "Picture boat with three dots above.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ث (Tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of boat with three dots above in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_05",
+    "glyph": "ج",
+    "reading": "Jim",
+    "meaning_id": "j",
+    "meaning_en": "j",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/05_jim.png",
+    "tts_id": {
+      "s1": "Huruf Jim. Bunyinya j.",
+      "s2": "Bayangkan lengkung perut dengan satu titik di tengah.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Jim."
+    },
+    "tts_en": {
+      "s1": "Letter Jim. It sounds like j.",
+      "s2": "Picture curved belly holding one center dot.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Jim."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ج (Jim) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of curved belly holding one center dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_06",
+    "glyph": "ح",
+    "reading": "Ha",
+    "meaning_id": "h tenggorokan bersih",
+    "meaning_en": "breathy pharyngeal h",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/06_ha.png",
+    "tts_id": {
+      "s1": "Huruf Ha. Bunyinya h tenggorokan bersih.",
+      "s2": "Bayangkan lengkung bersih tanpa titik sama sekali.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ha."
+    },
+    "tts_en": {
+      "s1": "Letter Ha. It sounds like breathy pharyngeal h.",
+      "s2": "Picture clean open curve with no dots.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ح (Ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of clean open curve with no dots in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_07",
+    "glyph": "خ",
+    "reading": "Kha",
+    "meaning_id": "kh gesek",
+    "meaning_en": "guttural kh",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/07_kha.png",
+    "tts_id": {
+      "s1": "Huruf Kha. Bunyinya kh gesek.",
+      "s2": "Bayangkan lengkung dengan satu titik di atas kepala.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Kha."
+    },
+    "tts_en": {
+      "s1": "Letter Kha. It sounds like guttural kh.",
+      "s2": "Picture curve with one dot perched on top.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character خ (Kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of curve with one dot perched on top in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_08",
+    "glyph": "د",
+    "reading": "Dal",
+    "meaning_id": "d",
+    "meaning_en": "d",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/08_dal.png",
+    "tts_id": {
+      "s1": "Huruf Dal. Bunyinya d.",
+      "s2": "Bayangkan sudut duduk menghadap ke kiri.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Dal."
+    },
+    "tts_en": {
+      "s1": "Letter Dal. It sounds like d.",
+      "s2": "Picture angled seat facing left.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Dal."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character د (Dal) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of angled seat facing left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_09",
+    "glyph": "ذ",
+    "reading": "Dhal",
+    "meaning_id": "dh lembut seperti this",
+    "meaning_en": "th as in this",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/09_dhal.png",
+    "tts_id": {
+      "s1": "Huruf Dhal. Bunyinya dh lembut seperti this.",
+      "s2": "Bayangkan huruf dal dengan satu titik di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Dhal."
+    },
+    "tts_en": {
+      "s1": "Letter Dhal. It sounds like th as in this.",
+      "s2": "Picture dal shape with one dot above.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Dhal."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ذ (Dhal) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of dal shape with one dot above in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_10",
+    "glyph": "ر",
+    "reading": "Ra",
+    "meaning_id": "r bergetar",
+    "meaning_en": "rolled r",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/10_ra.png",
+    "tts_id": {
+      "s1": "Huruf Ra. Bunyinya r bergetar.",
+      "s2": "Bayangkan bulan sabit meluncur turun ke kiri.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ra."
+    },
+    "tts_en": {
+      "s1": "Letter Ra. It sounds like rolled r.",
+      "s2": "Picture crescent sliding down left.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ر (Ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of crescent sliding down left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_11",
+    "glyph": "ز",
+    "reading": "Zay",
+    "meaning_id": "z",
+    "meaning_en": "z",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/11_zay.png",
+    "tts_id": {
+      "s1": "Huruf Zay. Bunyinya z.",
+      "s2": "Bayangkan sabit ra dengan satu titik di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Zay."
+    },
+    "tts_en": {
+      "s1": "Letter Zay. It sounds like z.",
+      "s2": "Picture ra crescent with one dot on top.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Zay."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ز (Zay) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of ra crescent with one dot on top in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_12",
+    "glyph": "س",
+    "reading": "Sin",
+    "meaning_id": "s",
+    "meaning_en": "s",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/12_sin.png",
+    "tts_id": {
+      "s1": "Huruf Sin. Bunyinya s.",
+      "s2": "Bayangkan tiga gigi ombak dengan mangkuk ekor.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Sin."
+    },
+    "tts_en": {
+      "s1": "Letter Sin. It sounds like s.",
+      "s2": "Picture three wave teeth into a deep bowl.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Sin."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character س (Sin) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of three wave teeth into a deep bowl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_13",
+    "glyph": "ش",
+    "reading": "Shin",
+    "meaning_id": "sy seperti syarat",
+    "meaning_en": "sh as in shoe",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/13_shin.png",
+    "tts_id": {
+      "s1": "Huruf Shin. Bunyinya sy seperti syarat.",
+      "s2": "Bayangkan tiga gigi ombak dengan tiga titik di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Shin."
+    },
+    "tts_en": {
+      "s1": "Letter Shin. It sounds like sh as in shoe.",
+      "s2": "Picture three wave teeth topped by three dots.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Shin."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ش (Shin) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of three wave teeth topped by three dots in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_14",
+    "glyph": "ص",
+    "reading": "Sad",
+    "meaning_id": "s tebal",
+    "meaning_en": "emphatic s",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/14_sad.png",
+    "tts_id": {
+      "s1": "Huruf Sad. Bunyinya s tebal.",
+      "s2": "Bayangkan kelopak oval disusul mangkuk dalam.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Sad."
+    },
+    "tts_en": {
+      "s1": "Letter Sad. It sounds like emphatic s.",
+      "s2": "Picture oval petal followed by a deep bowl.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Sad."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ص (Sad) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of oval petal followed by a deep bowl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_15",
+    "glyph": "ض",
+    "reading": "Dad",
+    "meaning_id": "d tebal",
+    "meaning_en": "emphatic d",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/15_dad.png",
+    "tts_id": {
+      "s1": "Huruf Dad. Bunyinya d tebal.",
+      "s2": "Bayangkan huruf sad dengan satu titik di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Dad."
+    },
+    "tts_en": {
+      "s1": "Letter Dad. It sounds like emphatic d.",
+      "s2": "Picture sad shape with one dot above.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Dad."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ض (Dad) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of sad shape with one dot above in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_16",
+    "glyph": "ط",
+    "reading": "Ta tebal",
+    "meaning_id": "t tebal",
+    "meaning_en": "emphatic t",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/16_ta_tebal.png",
+    "tts_id": {
+      "s1": "Huruf Ta tebal. Bunyinya t tebal.",
+      "s2": "Bayangkan kelopak dengan tiang tegak tinggi.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ta tebal."
+    },
+    "tts_en": {
+      "s1": "Letter Ta tebal. It sounds like emphatic t.",
+      "s2": "Picture oval loop with a tall vertical mast.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ta tebal."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ط (Ta tebal) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of oval loop with a tall vertical mast in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_17",
+    "glyph": "ظ",
+    "reading": "Za tebal",
+    "meaning_id": "z atau dh tebal",
+    "meaning_en": "emphatic dh",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/17_za_tebal.png",
+    "tts_id": {
+      "s1": "Huruf Za tebal. Bunyinya z atau dh tebal.",
+      "s2": "Bayangkan huruf ta tebal bertitik satu di kanan.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Za tebal."
+    },
+    "tts_en": {
+      "s1": "Letter Za tebal. It sounds like emphatic dh.",
+      "s2": "Picture emphatic ta with one dot beside the mast.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Za tebal."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ظ (Za tebal) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of emphatic ta with one dot beside the mast in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_18",
+    "glyph": "ع",
+    "reading": "Ayn",
+    "meaning_id": "ain dari tenggorokan dalam",
+    "meaning_en": "deep voiced pharyngeal ayn",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/18_ayn.png",
+    "tts_id": {
+      "s1": "Huruf Ayn. Bunyinya ain dari tenggorokan dalam.",
+      "s2": "Bayangkan kepala c kecil di atas lengkung besar.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ayn."
+    },
+    "tts_en": {
+      "s1": "Letter Ayn. It sounds like deep voiced pharyngeal ayn.",
+      "s2": "Picture small c head over a sweeping curve.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ayn."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ع (Ayn) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of small c head over a sweeping curve in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_19",
+    "glyph": "غ",
+    "reading": "Ghayn",
+    "meaning_id": "gh seperti r Prancis",
+    "meaning_en": "voiced uvular gh",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/19_ghayn.png",
+    "tts_id": {
+      "s1": "Huruf Ghayn. Bunyinya gh seperti r Prancis.",
+      "s2": "Bayangkan huruf ayn dengan satu titik di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ghayn."
+    },
+    "tts_en": {
+      "s1": "Letter Ghayn. It sounds like voiced uvular gh.",
+      "s2": "Picture ayn shape topped with one dot.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ghayn."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character غ (Ghayn) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of ayn shape topped with one dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_20",
+    "glyph": "ف",
+    "reading": "Fa",
+    "meaning_id": "f",
+    "meaning_en": "f",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/20_fa.png",
+    "tts_id": {
+      "s1": "Huruf Fa. Bunyinya f.",
+      "s2": "Bayangkan lingkaran kepala bertitik satu di atas piring.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Fa."
+    },
+    "tts_en": {
+      "s1": "Letter Fa. It sounds like f.",
+      "s2": "Picture looped head with one dot over a flat dish.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Fa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ف (Fa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of looped head with one dot over a flat dish in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_21",
+    "glyph": "ق",
+    "reading": "Qaf",
+    "meaning_id": "q dari pangkal tenggorokan",
+    "meaning_en": "deep uvular q",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/21_qaf.png",
+    "tts_id": {
+      "s1": "Huruf Qaf. Bunyinya q dari pangkal tenggorokan.",
+      "s2": "Bayangkan kepala bulat bertitik dua di atas mangkuk dalam.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Qaf."
+    },
+    "tts_en": {
+      "s1": "Letter Qaf. It sounds like deep uvular q.",
+      "s2": "Picture round head with two dots over a deep bowl.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Qaf."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ق (Qaf) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of round head with two dots over a deep bowl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_22",
+    "glyph": "ك",
+    "reading": "Kaf",
+    "meaning_id": "k",
+    "meaning_en": "k",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/22_kaf.png",
+    "tts_id": {
+      "s1": "Huruf Kaf. Bunyinya k.",
+      "s2": "Bayangkan sudut tegak dengan tanda hamzah kecil di dalam.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Kaf."
+    },
+    "tts_en": {
+      "s1": "Letter Kaf. It sounds like k.",
+      "s2": "Picture tall angle cradling a small inner curl.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Kaf."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ك (Kaf) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of tall angle cradling a small inner curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_23",
+    "glyph": "ل",
+    "reading": "Lam",
+    "meaning_id": "l",
+    "meaning_en": "l",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/23_lam.png",
+    "tts_id": {
+      "s1": "Huruf Lam. Bunyinya l.",
+      "s2": "Bayangkan tongkat tinggi melengkung seperti kail pancing.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Lam."
+    },
+    "tts_en": {
+      "s1": "Letter Lam. It sounds like l.",
+      "s2": "Picture tall staff curving into a fishing hook.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Lam."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ل (Lam) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of tall staff curving into a fishing hook in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_24",
+    "glyph": "م",
+    "reading": "Mim",
+    "meaning_id": "m",
+    "meaning_en": "m",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/24_mim.png",
+    "tts_id": {
+      "s1": "Huruf Mim. Bunyinya m.",
+      "s2": "Bayangkan simpul bulat kecil dengan ekor turun.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Mim."
+    },
+    "tts_en": {
+      "s1": "Letter Mim. It sounds like m.",
+      "s2": "Picture small round knot with a downward tail.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Mim."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character م (Mim) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of small round knot with a downward tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_25",
+    "glyph": "ن",
+    "reading": "Nun",
+    "meaning_id": "n",
+    "meaning_en": "n",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/25_nun.png",
+    "tts_id": {
+      "s1": "Huruf Nun. Bunyinya n.",
+      "s2": "Bayangkan mangkuk dalam dengan satu titik di tengah.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Nun."
+    },
+    "tts_en": {
+      "s1": "Letter Nun. It sounds like n.",
+      "s2": "Picture deep bowl holding one center dot.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Nun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ن (Nun) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of deep bowl holding one center dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_26",
+    "glyph": "ه",
+    "reading": "Ha ringan",
+    "meaning_id": "h ringan",
+    "meaning_en": "soft h",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/26_ha_ringan.png",
+    "tts_id": {
+      "s1": "Huruf Ha ringan. Bunyinya h ringan.",
+      "s2": "Bayangkan simpul lingkaran lembut seperti tetesan.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ha ringan."
+    },
+    "tts_en": {
+      "s1": "Letter Ha ringan. It sounds like soft h.",
+      "s2": "Picture soft looped droplet.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ha ringan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ه (Ha ringan) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of soft looped droplet in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_27",
+    "glyph": "و",
+    "reading": "Waw",
+    "meaning_id": "w atau u panjang",
+    "meaning_en": "w or long u",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/27_waw.png",
+    "tts_id": {
+      "s1": "Huruf Waw. Bunyinya w atau u panjang.",
+      "s2": "Bayangkan kepala bulat meluncur seperti koma besar.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Waw."
+    },
+    "tts_en": {
+      "s1": "Letter Waw. It sounds like w or long u.",
+      "s2": "Picture round head sweeping like a large comma.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Waw."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character و (Waw) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of round head sweeping like a large comma in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "arabic_28",
+    "glyph": "ي",
+    "reading": "Ya",
+    "meaning_id": "y atau i panjang",
+    "meaning_en": "y or long i",
+    "voice_target": "ar-SA-ZariyahNeural",
+    "template_path": "templates_arabic/28_ya.png",
+    "tts_id": {
+      "s1": "Huruf Ya. Bunyinya y atau i panjang.",
+      "s2": "Bayangkan lengkung angsa dengan dua titik di bawah.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ya."
+    },
+    "tts_en": {
+      "s1": "Letter Ya. It sounds like y or long i.",
+      "s2": "Picture swan curve with two dots underneath.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, Ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of arabic character ي (Ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of swan curve with two dots underneath in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

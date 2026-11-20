@@ -1,0 +1,530 @@
+[
+  {
+    "id": "hangul_01",
+    "glyph": "ㄱ",
+    "reading": "giyeok",
+    "meaning_id": "g atau k",
+    "meaning_en": "g or k",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/01_giyeok.png",
+    "tts_id": {
+      "s1": "Huruf giyeok. Bunyinya g atau k.",
+      "s2": "Bayangkan lidah menyentuh langit langit belakang.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, giyeok."
+    },
+    "tts_en": {
+      "s1": "Letter giyeok. It sounds like g or k.",
+      "s2": "Picture tongue touching the back palate.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, giyeok."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㄱ (giyeok) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of tongue touching the back palate in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_02",
+    "glyph": "ㄴ",
+    "reading": "nieun",
+    "meaning_id": "n",
+    "meaning_en": "n",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/02_nieun.png",
+    "tts_id": {
+      "s1": "Huruf nieun. Bunyinya n.",
+      "s2": "Bayangkan ujung lidah menyentuh gusi atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nieun."
+    },
+    "tts_en": {
+      "s1": "Letter nieun. It sounds like n.",
+      "s2": "Picture tongue tip touching the upper gum.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, nieun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㄴ (nieun) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of tongue tip touching the upper gum in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_03",
+    "glyph": "ㄷ",
+    "reading": "digeut",
+    "meaning_id": "d atau t",
+    "meaning_en": "d or t",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/03_digeut.png",
+    "tts_id": {
+      "s1": "Huruf digeut. Bunyinya d atau t.",
+      "s2": "Bayangkan lidah menutup gusi lalu meletup ringan.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, digeut."
+    },
+    "tts_en": {
+      "s1": "Letter digeut. It sounds like d or t.",
+      "s2": "Picture tongue closing on the upper gum.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, digeut."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㄷ (digeut) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of tongue closing on the upper gum in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_04",
+    "glyph": "ㄹ",
+    "reading": "rieul",
+    "meaning_id": "r atau l",
+    "meaning_en": "r or l",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/04_rieul.png",
+    "tts_id": {
+      "s1": "Huruf rieul. Bunyinya r atau l.",
+      "s2": "Bayangkan aliran udara berliku di ujung lidah.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rieul."
+    },
+    "tts_en": {
+      "s1": "Letter rieul. It sounds like r or l.",
+      "s2": "Picture winding breath over the tongue tip.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, rieul."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㄹ (rieul) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of winding breath over the tongue tip in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_05",
+    "glyph": "ㅁ",
+    "reading": "mieum",
+    "meaning_id": "m",
+    "meaning_en": "m",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/05_mieum.png",
+    "tts_id": {
+      "s1": "Huruf mieum. Bunyinya m.",
+      "s2": "Bayangkan bentuk kotak mulut yang tertutup rapat.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mieum."
+    },
+    "tts_en": {
+      "s1": "Letter mieum. It sounds like m.",
+      "s2": "Picture square shape of closed lips.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, mieum."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅁ (mieum) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of square shape of closed lips in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_06",
+    "glyph": "ㅂ",
+    "reading": "bieup",
+    "meaning_id": "b atau p",
+    "meaning_en": "b or p",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/06_bieup.png",
+    "tts_id": {
+      "s1": "Huruf bieup. Bunyinya b atau p.",
+      "s2": "Bayangkan bibir mengatup seperti cangkir bertelinga.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bieup."
+    },
+    "tts_en": {
+      "s1": "Letter bieup. It sounds like b or p.",
+      "s2": "Picture pressed lips like a two handled cup.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, bieup."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅂ (bieup) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of pressed lips like a two handled cup in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_07",
+    "glyph": "ㅅ",
+    "reading": "siot",
+    "meaning_id": "s",
+    "meaning_en": "s",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/07_siot.png",
+    "tts_id": {
+      "s1": "Huruf siot. Bunyinya s.",
+      "s2": "Bayangkan gigi runcing tempat angin s keluar.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, siot."
+    },
+    "tts_en": {
+      "s1": "Letter siot. It sounds like s.",
+      "s2": "Picture pointed tooth guiding the s breath.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, siot."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅅ (siot) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of pointed tooth guiding the s breath in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_08",
+    "glyph": "ㅇ",
+    "reading": "ieung",
+    "meaning_id": "tanpa bunyi di awal, ng di akhir",
+    "meaning_en": "silent onset, ng coda",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/08_ieung.png",
+    "tts_id": {
+      "s1": "Huruf ieung. Bunyinya tanpa bunyi di awal, ng di akhir.",
+      "s2": "Bayangkan tenggorokan terbuka berbentuk lingkaran.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ieung."
+    },
+    "tts_en": {
+      "s1": "Letter ieung. It sounds like silent onset, ng coda.",
+      "s2": "Picture open circular throat.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, ieung."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅇ (ieung) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of open circular throat in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_09",
+    "glyph": "ㅈ",
+    "reading": "jieut",
+    "meaning_id": "j",
+    "meaning_en": "j",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/09_jieut.png",
+    "tts_id": {
+      "s1": "Huruf jieut. Bunyinya j.",
+      "s2": "Bayangkan gigi bertopi tempat bunyi j meluncur.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jieut."
+    },
+    "tts_en": {
+      "s1": "Letter jieut. It sounds like j.",
+      "s2": "Picture roofed tooth guiding the j sound.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, jieut."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅈ (jieut) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of roofed tooth guiding the j sound in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_10",
+    "glyph": "ㅊ",
+    "reading": "chieut",
+    "meaning_id": "ch berhembus",
+    "meaning_en": "aspirated ch",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/10_chieut.png",
+    "tts_id": {
+      "s1": "Huruf chieut. Bunyinya ch berhembus.",
+      "s2": "Bayangkan huruf j dengan hembusan garis di atas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chieut."
+    },
+    "tts_en": {
+      "s1": "Letter chieut. It sounds like aspirated ch.",
+      "s2": "Picture j shape with a puff stroke on top.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, chieut."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅊ (chieut) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of j shape with a puff stroke on top in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_11",
+    "glyph": "ㅋ",
+    "reading": "kieuk",
+    "meaning_id": "k berhembus",
+    "meaning_en": "aspirated k",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/11_kieuk.png",
+    "tts_id": {
+      "s1": "Huruf kieuk. Bunyinya k berhembus.",
+      "s2": "Bayangkan huruf g dengan garis hembusan tengah.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kieuk."
+    },
+    "tts_en": {
+      "s1": "Letter kieuk. It sounds like aspirated k.",
+      "s2": "Picture g shape with an aspiration bar.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, kieuk."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅋ (kieuk) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of g shape with an aspiration bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_12",
+    "glyph": "ㅌ",
+    "reading": "tieut",
+    "meaning_id": "t berhembus",
+    "meaning_en": "aspirated t",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/12_tieut.png",
+    "tts_id": {
+      "s1": "Huruf tieut. Bunyinya t berhembus.",
+      "s2": "Bayangkan huruf d dengan palang hembusan tengah.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tieut."
+    },
+    "tts_en": {
+      "s1": "Letter tieut. It sounds like aspirated t.",
+      "s2": "Picture d shape with an extra puff bar.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, tieut."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅌ (tieut) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of d shape with an extra puff bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_13",
+    "glyph": "ㅍ",
+    "reading": "pieup",
+    "meaning_id": "p berhembus",
+    "meaning_en": "aspirated p",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/13_pieup.png",
+    "tts_id": {
+      "s1": "Huruf pieup. Bunyinya p berhembus.",
+      "s2": "Bayangkan dua tiang bibir dengan letupan kuat.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pieup."
+    },
+    "tts_en": {
+      "s1": "Letter pieup. It sounds like aspirated p.",
+      "s2": "Picture twin pillars releasing a strong puff.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, pieup."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅍ (pieup) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of twin pillars releasing a strong puff in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_14",
+    "glyph": "ㅎ",
+    "reading": "hieut",
+    "meaning_id": "h",
+    "meaning_en": "h",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/14_hieut.png",
+    "tts_id": {
+      "s1": "Huruf hieut. Bunyinya h.",
+      "s2": "Bayangkan tenggorokan bulat dengan topi hembusan nafas.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, hieut."
+    },
+    "tts_en": {
+      "s1": "Letter hieut. It sounds like h.",
+      "s2": "Picture round throat topped by a breath cap.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, hieut."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅎ (hieut) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of round throat topped by a breath cap in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_15",
+    "glyph": "ㅏ",
+    "reading": "a",
+    "meaning_id": "a seperti ayah",
+    "meaning_en": "a as in father",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/15_a.png",
+    "tts_id": {
+      "s1": "Huruf a. Bunyinya a seperti ayah.",
+      "s2": "Bayangkan tiang manusia menghadap matahari terbit di kanan.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a. It sounds like a as in father.",
+      "s2": "Picture standing person facing sunrise on the right.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅏ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of standing person facing sunrise on the right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_16",
+    "glyph": "ㅑ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/16_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya. Bunyinya ya.",
+      "s2": "Bayangkan vokal a dengan dua sinar ke kanan.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Letter ya. It sounds like ya.",
+      "s2": "Picture a vowel with double sunbeams right.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅑ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of a vowel with double sunbeams right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_17",
+    "glyph": "ㅓ",
+    "reading": "eo",
+    "meaning_id": "o terbuka seperti orang",
+    "meaning_en": "uh or aw",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/17_eo.png",
+    "tts_id": {
+      "s1": "Huruf eo. Bunyinya o terbuka seperti orang.",
+      "s2": "Bayangkan tiang menghadap matahari terbenam di kiri.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, eo."
+    },
+    "tts_en": {
+      "s1": "Letter eo. It sounds like uh or aw.",
+      "s2": "Picture standing person facing sunset on the left.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, eo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅓ (eo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of standing person facing sunset on the left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_18",
+    "glyph": "ㅕ",
+    "reading": "yeo",
+    "meaning_id": "yeo",
+    "meaning_en": "yuh",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/18_yeo.png",
+    "tts_id": {
+      "s1": "Huruf yeo. Bunyinya yeo.",
+      "s2": "Bayangkan vokal eo dengan dua sinar ke kiri.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yeo."
+    },
+    "tts_en": {
+      "s1": "Letter yeo. It sounds like yuh.",
+      "s2": "Picture eo vowel with double beams left.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, yeo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅕ (yeo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of eo vowel with double beams left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_19",
+    "glyph": "ㅗ",
+    "reading": "o",
+    "meaning_id": "o bulat",
+    "meaning_en": "o as in go",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/19_o.png",
+    "tts_id": {
+      "s1": "Huruf o. Bunyinya o bulat.",
+      "s2": "Bayangkan matahari terbit di atas garis bumi.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Letter o. It sounds like o as in go.",
+      "s2": "Picture sun rising above the earth line.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅗ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of sun rising above the earth line in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_20",
+    "glyph": "ㅛ",
+    "reading": "yo",
+    "meaning_id": "yo",
+    "meaning_en": "yo",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/20_yo.png",
+    "tts_id": {
+      "s1": "Huruf yo. Bunyinya yo.",
+      "s2": "Bayangkan dua sinar naik dari garis bumi.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yo."
+    },
+    "tts_en": {
+      "s1": "Letter yo. It sounds like yo.",
+      "s2": "Picture two beams rising from the earth line.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, yo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅛ (yo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of two beams rising from the earth line in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_21",
+    "glyph": "ㅜ",
+    "reading": "u",
+    "meaning_id": "u bulat",
+    "meaning_en": "oo as in moon",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/21_u.png",
+    "tts_id": {
+      "s1": "Huruf u. Bunyinya u bulat.",
+      "s2": "Bayangkan hujan turun ke bawah garis bumi.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Letter u. It sounds like oo as in moon.",
+      "s2": "Picture rain dropping below the earth line.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅜ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of rain dropping below the earth line in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_22",
+    "glyph": "ㅠ",
+    "reading": "yu",
+    "meaning_id": "yu",
+    "meaning_en": "yoo",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/22_yu.png",
+    "tts_id": {
+      "s1": "Huruf yu. Bunyinya yu.",
+      "s2": "Bayangkan dua tetes turun dari garis bumi.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yu."
+    },
+    "tts_en": {
+      "s1": "Letter yu. It sounds like yoo.",
+      "s2": "Picture two drops falling below the earth line.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, yu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅠ (yu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of two drops falling below the earth line in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_23",
+    "glyph": "ㅡ",
+    "reading": "eu",
+    "meaning_id": "eu datar dengan bibir rata",
+    "meaning_en": "flat eu",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/23_eu.png",
+    "tts_id": {
+      "s1": "Huruf eu. Bunyinya eu datar dengan bibir rata.",
+      "s2": "Bayangkan garis bumi datar tanpa lekukan.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, eu."
+    },
+    "tts_en": {
+      "s1": "Letter eu. It sounds like flat eu.",
+      "s2": "Picture flat horizontal earth line.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, eu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅡ (eu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of flat horizontal earth line in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "hangul_24",
+    "glyph": "ㅣ",
+    "reading": "i",
+    "meaning_id": "i tegak",
+    "meaning_en": "ee as in see",
+    "voice_target": "ko-KR-SunHiNeural",
+    "template_path": "templates_hangul/24_i.png",
+    "tts_id": {
+      "s1": "Huruf i. Bunyinya i tegak.",
+      "s2": "Bayangkan tiang manusia berdiri tegak lurus.",
+      "s3": "Perhatikan bentuk lengkung dan titik ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Letter i. It sounds like ee as in see.",
+      "s2": "Picture upright standing human pillar.",
+      "s3": "Notice its signature shape and curves.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of hangul character ㅣ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently weaving a minimalist visual mnemonic of upright standing human pillar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

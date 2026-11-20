@@ -1,0 +1,15 @@
+{
+  "slug": "arabic",
+  "omniglot_url": "https://omniglot.com/writing/arabic.htm",
+  "title": "Arabic language and alphabet",
+  "at_a_glance": [],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: abjad / consonant alphabet",
+    "Writing direction: words are written in horizontal lines from right to left, numerals are written from left to right",
+    "Number of letters: 28 (in Arabic) - some additional letters are used in Arabic when writing placenames or foreign words containing sounds which do not occur in Standard Arabic, such as /p/ or /g/. Additional letters are used when writing other languages.",
+    "Used to write: Arabic, Adamaua Fulfulde, Aer, Afrikaans, Arabic (Algerian), Arabic (Bedawi), Arabic (Chadian), Arabic (Egyptian), Arabic (Gulf), Arabic (Hassaniya), Arabic (Hejazi), Arabic (Lebanese), Arabic (Libyan), Arabic (Modern Standard), Arabic (Moroccan), Arabic (Najdi), Arabic (Sudanese), Arabic (Syrian), Arabic (Tunisian), Arwi, Äynu, Azeri, Balanta-Ganja, Balti, Baluchi, Beja, Belarusian, Bosnian, Brahui, Chagatai, Chechen, Chittagonian, Comorian, Crimean Tatar, Dameli, Dargwa, Dari, Dhatki, Dogri, Domari, Gawar Bati, Gawri, Gilaki, Hausa, Hazaragi, Hindko, Humburi Senni, Indus Kohistani, Kabyle, Kalkoti, Kanembu, Karachay-Balkar, Karakalpak, Kashmiri, Katë, Kazakh, Khowar, Khorasani Turkic, Khwarezmian, Konkani, Korandje, Koyra Chiini, Koyraboro Senni, Kumzari, Kurdish, Kyrgyz, Lezgi, Lop, Luri, Maasina Fulfulde, Maba, Maguindanao, Malay, Malay (Terengganu), Mandinka, Marwari, Mazandarani, Mogholi, Morisco, Mozarabic, Munji, Noakhailla, Nubi, Ormuri, Palula, Parkari Koli, Pashto, Persian/Farsi, Punjabi, Qashqai, Rajasthani, Rohingya, Salar, Saraiki, Sawi, Serer, Shabaki, Shina, Shughni, Sindhi, Somali, Soninke, Tatar, Tausūg, Tawallammat Tamajaq, Tayart Tamajeq, Ternate, Torwali, Turkish, Urdu, Ushoji, Uyghur, Uzbek, Wakhi, Wanetsi, Wolof, Xiao'erjing, Yidgha and a number of other languages",
+    "Most letters change form depending on whether they appear at the beginning, middle or end of a word, or on their own. (see below)"
+  ],
+  "sample_text": []
+}

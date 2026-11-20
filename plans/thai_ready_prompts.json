@@ -1,0 +1,970 @@
+[
+  {
+    "id": "th_01",
+    "glyph": "ก",
+    "reading": "ko kai",
+    "meaning_id": "k, ayam",
+    "meaning_en": "k, chicken",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/01_ko_kai.png",
+    "tts_id": {
+      "s1": "Konsonan Thai ko kai, artinya k, ayam.",
+      "s2": "Bayangkan paruh ayam menghadap ke kiri.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, ko kai."
+    },
+    "tts_en": {
+      "s1": "Thai consonant ko kai, meaning k, chicken.",
+      "s2": "Picture chicken beak facing left.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, ko kai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ก (ko kai) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating chicken beak facing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_02",
+    "glyph": "ข",
+    "reading": "kho khai",
+    "meaning_id": "kh, telur",
+    "meaning_en": "kh, egg",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/02_kho_khai.png",
+    "tts_id": {
+      "s1": "Konsonan Thai kho khai, artinya kh, telur.",
+      "s2": "Bayangkan lengkung telur dengan kepala masuk.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, kho khai."
+    },
+    "tts_en": {
+      "s1": "Thai consonant kho khai, meaning kh, egg.",
+      "s2": "Picture egg curve with inward head loop.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, kho khai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ข (kho khai) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating egg curve with inward head loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_03",
+    "glyph": "ฃ",
+    "reading": "kho khuat",
+    "meaning_id": "kh, botol usang",
+    "meaning_en": "kh, bottle",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/03_kho_khuat.png",
+    "tts_id": {
+      "s1": "Konsonan Thai kho khuat, artinya kh, botol usang.",
+      "s2": "Bayangkan kepala berlekuk dua di puncak.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, kho khuat."
+    },
+    "tts_en": {
+      "s1": "Thai consonant kho khuat, meaning kh, bottle.",
+      "s2": "Picture double notched crown.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, kho khuat."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฃ (kho khuat) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating double notched crown in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_04",
+    "glyph": "ค",
+    "reading": "kho khwai",
+    "meaning_id": "kh, kerbau",
+    "meaning_en": "kh, water buffalo",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/04_kho_khwai.png",
+    "tts_id": {
+      "s1": "Konsonan Thai kho khwai, artinya kh, kerbau.",
+      "s2": "Bayangkan kepala melengkung seperti tanduk kerbau.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, kho khwai."
+    },
+    "tts_en": {
+      "s1": "Thai consonant kho khwai, meaning kh, water buffalo.",
+      "s2": "Picture curved buffalo horn arch.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, kho khwai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ค (kho khwai) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating curved buffalo horn arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_05",
+    "glyph": "ฅ",
+    "reading": "kho khon",
+    "meaning_id": "kh, orang usang",
+    "meaning_en": "kh, person",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/05_kho_khon.png",
+    "tts_id": {
+      "s1": "Konsonan Thai kho khon, artinya kh, orang usang.",
+      "s2": "Bayangkan puncak berlekuk seperti bahu orang.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, kho khon."
+    },
+    "tts_en": {
+      "s1": "Thai consonant kho khon, meaning kh, person.",
+      "s2": "Picture notched shoulder arch.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, kho khon."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฅ (kho khon) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating notched shoulder arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_06",
+    "glyph": "ฆ",
+    "reading": "kho rakhang",
+    "meaning_id": "kh, lonceng",
+    "meaning_en": "kh, bell",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/06_kho_rakhang.png",
+    "tts_id": {
+      "s1": "Konsonan Thai kho rakhang, artinya kh, lonceng.",
+      "s2": "Bayangkan bentuk lonceng kuil bertiang.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, kho rakhang."
+    },
+    "tts_en": {
+      "s1": "Thai consonant kho rakhang, meaning kh, bell.",
+      "s2": "Picture temple bell silhouette.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, kho rakhang."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฆ (kho rakhang) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating temple bell silhouette in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_07",
+    "glyph": "ง",
+    "reading": "ngo ngu",
+    "meaning_id": "ng, ular",
+    "meaning_en": "ng, snake",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/07_ngo_ngu.png",
+    "tts_id": {
+      "s1": "Konsonan Thai ngo ngu, artinya ng, ular.",
+      "s2": "Bayangkan ular tegak dengan ekor ke kiri.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, ngo ngu."
+    },
+    "tts_en": {
+      "s1": "Thai consonant ngo ngu, meaning ng, snake.",
+      "s2": "Picture upright snake tailing left.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, ngo ngu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ง (ngo ngu) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating upright snake tailing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_08",
+    "glyph": "จ",
+    "reading": "cho chan",
+    "meaning_id": "ch, piring",
+    "meaning_en": "ch, plate",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/08_cho_chan.png",
+    "tts_id": {
+      "s1": "Konsonan Thai cho chan, artinya ch, piring.",
+      "s2": "Bayangkan kepala melingkar di dalam lengkung piring.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, cho chan."
+    },
+    "tts_en": {
+      "s1": "Thai consonant cho chan, meaning ch, plate.",
+      "s2": "Picture looped head inside a curved dish.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, cho chan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant จ (cho chan) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating looped head inside a curved dish in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_09",
+    "glyph": "ฉ",
+    "reading": "cho ching",
+    "meaning_id": "ch, simbal",
+    "meaning_en": "ch, cymbals",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/09_cho_ching.png",
+    "tts_id": {
+      "s1": "Konsonan Thai cho ching, artinya ch, simbal.",
+      "s2": "Bayangkan dua simbal kecil berhadapan.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, cho ching."
+    },
+    "tts_en": {
+      "s1": "Thai consonant cho ching, meaning ch, cymbals.",
+      "s2": "Picture paired cymbal curves.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, cho ching."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฉ (cho ching) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating paired cymbal curves in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_10",
+    "glyph": "ช",
+    "reading": "cho chang",
+    "meaning_id": "ch, gajah",
+    "meaning_en": "ch, elephant",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/10_cho_chang.png",
+    "tts_id": {
+      "s1": "Konsonan Thai cho chang, artinya ch, gajah.",
+      "s2": "Bayangkan belalai gajah terangkat ke kanan atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, cho chang."
+    },
+    "tts_en": {
+      "s1": "Thai consonant cho chang, meaning ch, elephant.",
+      "s2": "Picture elephant trunk lifted up right.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, cho chang."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ช (cho chang) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating elephant trunk lifted up right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_11",
+    "glyph": "ซ",
+    "reading": "so so",
+    "meaning_id": "s, rantai",
+    "meaning_en": "s, chain",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/11_so_so.png",
+    "tts_id": {
+      "s1": "Konsonan Thai so so, artinya s, rantai.",
+      "s2": "Bayangkan mata rantai berlekuk dengan ekor naik.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, so so."
+    },
+    "tts_en": {
+      "s1": "Thai consonant so so, meaning s, chain.",
+      "s2": "Picture notched chain link with rising tail.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, so so."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ซ (so so) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating notched chain link with rising tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_12",
+    "glyph": "ฌ",
+    "reading": "cho choe",
+    "meaning_id": "ch, pohon",
+    "meaning_en": "ch, tree",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/12_cho_choe.png",
+    "tts_id": {
+      "s1": "Konsonan Thai cho choe, artinya ch, pohon.",
+      "s2": "Bayangkan cabang pohon dengan lingkaran ganda.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, cho choe."
+    },
+    "tts_en": {
+      "s1": "Thai consonant cho choe, meaning ch, tree.",
+      "s2": "Picture branching tree with double loops.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, cho choe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฌ (cho choe) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating branching tree with double loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_13",
+    "glyph": "ญ",
+    "reading": "yo ying",
+    "meaning_id": "y, wanita",
+    "meaning_en": "y, woman",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/13_yo_ying.png",
+    "tts_id": {
+      "s1": "Konsonan Thai yo ying, artinya y, wanita.",
+      "s2": "Bayangkan sosok anggun dengan alas terpisah di bawah.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, yo ying."
+    },
+    "tts_en": {
+      "s1": "Thai consonant yo ying, meaning y, woman.",
+      "s2": "Picture graceful figure over a lower base.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, yo ying."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ญ (yo ying) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating graceful figure over a lower base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_14",
+    "glyph": "ฎ",
+    "reading": "do chada",
+    "meaning_id": "d, mahkota",
+    "meaning_en": "d, headdress",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/14_do_chada.png",
+    "tts_id": {
+      "s1": "Konsonan Thai do chada, artinya d, mahkota.",
+      "s2": "Bayangkan mahkota tinggi dengan ekor melingkar bawah.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, do chada."
+    },
+    "tts_en": {
+      "s1": "Thai consonant do chada, meaning d, headdress.",
+      "s2": "Picture tall crown with curled lower tail.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, do chada."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฎ (do chada) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating tall crown with curled lower tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_15",
+    "glyph": "ฏ",
+    "reading": "to patak",
+    "meaning_id": "t, tongkat penggembala",
+    "meaning_en": "t, goad",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/15_to_patak.png",
+    "tts_id": {
+      "s1": "Konsonan Thai to patak, artinya t, tongkat penggembala.",
+      "s2": "Bayangkan mahkota dengan dua lekuk tajam di bawah.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, to patak."
+    },
+    "tts_en": {
+      "s1": "Thai consonant to patak, meaning t, goad.",
+      "s2": "Picture crown with twin sharp lower notches.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, to patak."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฏ (to patak) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating crown with twin sharp lower notches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_16",
+    "glyph": "ฐ",
+    "reading": "tho than",
+    "meaning_id": "th, alas kaki",
+    "meaning_en": "th, pedestal",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/16_tho_than.png",
+    "tts_id": {
+      "s1": "Konsonan Thai tho than, artinya th, alas kaki.",
+      "s2": "Bayangkan kubah di atas alas berukir.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, tho than."
+    },
+    "tts_en": {
+      "s1": "Thai consonant tho than, meaning th, pedestal.",
+      "s2": "Picture dome resting on a carved pedestal.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, tho than."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฐ (tho than) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating dome resting on a carved pedestal in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_17",
+    "glyph": "ฑ",
+    "reading": "tho montho",
+    "meaning_id": "th, tokoh Montho",
+    "meaning_en": "th, Montho",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/17_tho_montho.png",
+    "tts_id": {
+      "s1": "Konsonan Thai tho montho, artinya th, tokoh Montho.",
+      "s2": "Bayangkan kepala berlekuk seperti sanggul ratu.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, tho montho."
+    },
+    "tts_en": {
+      "s1": "Thai consonant tho montho, meaning th, Montho.",
+      "s2": "Picture notched crown like a queen bun.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, tho montho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฑ (tho montho) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating notched crown like a queen bun in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_18",
+    "glyph": "ฒ",
+    "reading": "tho phuthao",
+    "meaning_id": "th, orang tua",
+    "meaning_en": "th, elder",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/18_tho_phuthao.png",
+    "tts_id": {
+      "s1": "Konsonan Thai tho phuthao, artinya th, orang tua.",
+      "s2": "Bayangkan sosok membungkuk bertumpu tongkat.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, tho phuthao."
+    },
+    "tts_en": {
+      "s1": "Thai consonant tho phuthao, meaning th, elder.",
+      "s2": "Picture stooped elder leaning on a staff.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, tho phuthao."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฒ (tho phuthao) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating stooped elder leaning on a staff in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_19",
+    "glyph": "ณ",
+    "reading": "no nen",
+    "meaning_id": "n, biksu muda",
+    "meaning_en": "n, novice monk",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/19_no_nen.png",
+    "tts_id": {
+      "s1": "Konsonan Thai no nen, artinya n, biksu muda.",
+      "s2": "Bayangkan kepala bersih terhubung tiang belakang.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, no nen."
+    },
+    "tts_en": {
+      "s1": "Thai consonant no nen, meaning n, novice monk.",
+      "s2": "Picture clean head linked to a tall back post.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, no nen."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ณ (no nen) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating clean head linked to a tall back post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_20",
+    "glyph": "ด",
+    "reading": "do dek",
+    "meaning_id": "d, anak",
+    "meaning_en": "d, child",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/20_do_dek.png",
+    "tts_id": {
+      "s1": "Konsonan Thai do dek, artinya d, anak.",
+      "s2": "Bayangkan kepala menghadap dalam di bawah kubah.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, do dek."
+    },
+    "tts_en": {
+      "s1": "Thai consonant do dek, meaning d, child.",
+      "s2": "Picture inward head under a round dome.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, do dek."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ด (do dek) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating inward head under a round dome in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_21",
+    "glyph": "ต",
+    "reading": "to tao",
+    "meaning_id": "t, kura kura",
+    "meaning_en": "t, turtle",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/21_to_tao.png",
+    "tts_id": {
+      "s1": "Konsonan Thai to tao, artinya t, kura kura.",
+      "s2": "Bayangkan tempurung kura kura berlekuk di atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, to tao."
+    },
+    "tts_en": {
+      "s1": "Thai consonant to tao, meaning t, turtle.",
+      "s2": "Picture notched turtle shell dome.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, to tao."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ต (to tao) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating notched turtle shell dome in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_22",
+    "glyph": "ถ",
+    "reading": "tho thung",
+    "meaning_id": "th, kantong",
+    "meaning_en": "th, sack",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/22_tho_thung.png",
+    "tts_id": {
+      "s1": "Konsonan Thai tho thung, artinya th, kantong.",
+      "s2": "Bayangkan mulut kantong terbuka dengan kepala di dalam.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, tho thung."
+    },
+    "tts_en": {
+      "s1": "Thai consonant tho thung, meaning th, sack.",
+      "s2": "Picture open sack with inward loop.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, tho thung."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ถ (tho thung) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating open sack with inward loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_23",
+    "glyph": "ท",
+    "reading": "tho thahan",
+    "meaning_id": "th, prajurit",
+    "meaning_en": "th, soldier",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/23_tho_thahan.png",
+    "tts_id": {
+      "s1": "Konsonan Thai tho thahan, artinya th, prajurit.",
+      "s2": "Bayangkan prajurit berdiri tegak dengan helm.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, tho thahan."
+    },
+    "tts_en": {
+      "s1": "Thai consonant tho thahan, meaning th, soldier.",
+      "s2": "Picture upright soldier under a curved helmet.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, tho thahan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ท (tho thahan) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating upright soldier under a curved helmet in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_24",
+    "glyph": "ธ",
+    "reading": "tho thong",
+    "meaning_id": "th, bendera",
+    "meaning_en": "th, flag",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/24_tho_thong.png",
+    "tts_id": {
+      "s1": "Konsonan Thai tho thong, artinya th, bendera.",
+      "s2": "Bayangkan tiang bendera berkibar tanpa kepala bulat.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, tho thong."
+    },
+    "tts_en": {
+      "s1": "Thai consonant tho thong, meaning th, flag.",
+      "s2": "Picture headless waving flag post.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, tho thong."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ธ (tho thong) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating headless waving flag post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_25",
+    "glyph": "น",
+    "reading": "no nu",
+    "meaning_id": "n, tikus",
+    "meaning_en": "n, mouse",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/25_no_nu.png",
+    "tts_id": {
+      "s1": "Konsonan Thai no nu, artinya n, tikus.",
+      "s2": "Bayangkan tikus kecil dengan ekor melingkar di kanan.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, no nu."
+    },
+    "tts_en": {
+      "s1": "Thai consonant no nu, meaning n, mouse.",
+      "s2": "Picture little mouse curling tail right.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, no nu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant น (no nu) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating little mouse curling tail right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_26",
+    "glyph": "บ",
+    "reading": "bo baimai",
+    "meaning_id": "b, daun",
+    "meaning_en": "b, leaf",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/26_bo_baimai.png",
+    "tts_id": {
+      "s1": "Konsonan Thai bo baimai, artinya b, daun.",
+      "s2": "Bayangkan mangkuk daun persegi terbuka ke atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, bo baimai."
+    },
+    "tts_en": {
+      "s1": "Thai consonant bo baimai, meaning b, leaf.",
+      "s2": "Picture square leaf bowl open at top.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, bo baimai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant บ (bo baimai) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating square leaf bowl open at top in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_27",
+    "glyph": "ป",
+    "reading": "po pla",
+    "meaning_id": "p, ikan",
+    "meaning_en": "p, fish",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/27_po_pla.png",
+    "tts_id": {
+      "s1": "Konsonan Thai po pla, artinya p, ikan.",
+      "s2": "Bayangkan mangkuk daun dengan sirip kanan menjulang.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, po pla."
+    },
+    "tts_en": {
+      "s1": "Thai consonant po pla, meaning p, fish.",
+      "s2": "Picture leaf bowl with a tall right fin.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, po pla."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ป (po pla) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating leaf bowl with a tall right fin in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_28",
+    "glyph": "ผ",
+    "reading": "pho phueng",
+    "meaning_id": "ph, lebah",
+    "meaning_en": "ph, bee",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/28_pho_phueng.png",
+    "tts_id": {
+      "s1": "Konsonan Thai pho phueng, artinya ph, lebah.",
+      "s2": "Bayangkan sayap lebah berlekuk ke dalam.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, pho phueng."
+    },
+    "tts_en": {
+      "s1": "Thai consonant pho phueng, meaning ph, bee.",
+      "s2": "Picture inward notched bee wings.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, pho phueng."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ผ (pho phueng) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating inward notched bee wings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_29",
+    "glyph": "ฝ",
+    "reading": "fo fa",
+    "meaning_id": "f, tutup panci",
+    "meaning_en": "f, lid",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/29_fo_fa.png",
+    "tts_id": {
+      "s1": "Konsonan Thai fo fa, artinya f, tutup panci.",
+      "s2": "Bayangkan tutup panci dengan pegangan kanan tinggi.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, fo fa."
+    },
+    "tts_en": {
+      "s1": "Thai consonant fo fa, meaning f, lid.",
+      "s2": "Picture pot lid with tall right handle.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, fo fa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฝ (fo fa) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating pot lid with tall right handle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_30",
+    "glyph": "พ",
+    "reading": "pho phan",
+    "meaning_id": "ph, nampan",
+    "meaning_en": "ph, tray",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/30_pho_phan.png",
+    "tts_id": {
+      "s1": "Konsonan Thai pho phan, artinya ph, nampan.",
+      "s2": "Bayangkan nampan berkaki terbuka lebar.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, pho phan."
+    },
+    "tts_en": {
+      "s1": "Thai consonant pho phan, meaning ph, tray.",
+      "s2": "Picture wide open pedestal tray.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, pho phan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant พ (pho phan) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating wide open pedestal tray in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_31",
+    "glyph": "ฟ",
+    "reading": "fo fan",
+    "meaning_id": "f, gigi",
+    "meaning_en": "f, teeth",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/31_fo_fan.png",
+    "tts_id": {
+      "s1": "Konsonan Thai fo fan, artinya f, gigi.",
+      "s2": "Bayangkan deretan gigi dengan ekor panjang ke atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, fo fan."
+    },
+    "tts_en": {
+      "s1": "Thai consonant fo fan, meaning f, teeth.",
+      "s2": "Picture tooth zigzag with tall rising tail.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, fo fan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฟ (fo fan) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating tooth zigzag with tall rising tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_32",
+    "glyph": "ภ",
+    "reading": "pho samphao",
+    "meaning_id": "ph, perahu layar",
+    "meaning_en": "ph, sailboat",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/32_pho_samphao.png",
+    "tts_id": {
+      "s1": "Konsonan Thai pho samphao, artinya ph, perahu layar.",
+      "s2": "Bayangkan layar perahu mengembang ke kiri.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, pho samphao."
+    },
+    "tts_en": {
+      "s1": "Thai consonant pho samphao, meaning ph, sailboat.",
+      "s2": "Picture swelling sailboat facing left.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, pho samphao."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ภ (pho samphao) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating swelling sailboat facing left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_33",
+    "glyph": "ม",
+    "reading": "mo ma",
+    "meaning_id": "m, kuda",
+    "meaning_en": "m, horse",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/33_mo_ma.png",
+    "tts_id": {
+      "s1": "Konsonan Thai mo ma, artinya m, kuda.",
+      "s2": "Bayangkan kepala kuda dengan simpul di bawah kiri.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, mo ma."
+    },
+    "tts_en": {
+      "s1": "Thai consonant mo ma, meaning m, horse.",
+      "s2": "Picture horse silhouette with lower left knot.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, mo ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ม (mo ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating horse silhouette with lower left knot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_34",
+    "glyph": "ย",
+    "reading": "yo yak",
+    "meaning_id": "y, raksasa",
+    "meaning_en": "y, giant",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/34_yo_yak.png",
+    "tts_id": {
+      "s1": "Konsonan Thai yo yak, artinya y, raksasa.",
+      "s2": "Bayangkan rahang raksasa berlekuk di kiri.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, yo yak."
+    },
+    "tts_en": {
+      "s1": "Thai consonant yo yak, meaning y, giant.",
+      "s2": "Picture notched giant jaw on the left.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, yo yak."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ย (yo yak) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating notched giant jaw on the left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_35",
+    "glyph": "ร",
+    "reading": "ro ruea",
+    "meaning_id": "r, perahu",
+    "meaning_en": "r, boat",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/35_ro_ruea.png",
+    "tts_id": {
+      "s1": "Konsonan Thai ro ruea, artinya r, perahu.",
+      "s2": "Bayangkan haluan perahu melengkung ke kanan atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, ro ruea."
+    },
+    "tts_en": {
+      "s1": "Thai consonant ro ruea, meaning r, boat.",
+      "s2": "Picture boat prow curving up right.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, ro ruea."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ร (ro ruea) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating boat prow curving up right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_36",
+    "glyph": "ล",
+    "reading": "lo ling",
+    "meaning_id": "l, monyet",
+    "meaning_en": "l, monkey",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/36_lo_ling.png",
+    "tts_id": {
+      "s1": "Konsonan Thai lo ling, artinya l, monyet.",
+      "s2": "Bayangkan monyet memanjat lengkung kubah.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, lo ling."
+    },
+    "tts_en": {
+      "s1": "Thai consonant lo ling, meaning l, monkey.",
+      "s2": "Picture monkey climbing a curved arch.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, lo ling."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ล (lo ling) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating monkey climbing a curved arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_37",
+    "glyph": "ว",
+    "reading": "wo waen",
+    "meaning_id": "w, cincin",
+    "meaning_en": "w, ring",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/37_wo_waen.png",
+    "tts_id": {
+      "s1": "Konsonan Thai wo waen, artinya w, cincin.",
+      "s2": "Bayangkan lingkaran cincin sederhana dengan lengkung atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, wo waen."
+    },
+    "tts_en": {
+      "s1": "Thai consonant wo waen, meaning w, ring.",
+      "s2": "Picture simple ring with curved top.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, wo waen."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ว (wo waen) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating simple ring with curved top in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_38",
+    "glyph": "ศ",
+    "reading": "so sala",
+    "meaning_id": "s, paviliun",
+    "meaning_en": "s, pavilion",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/38_so_sala.png",
+    "tts_id": {
+      "s1": "Konsonan Thai so sala, artinya s, paviliun.",
+      "s2": "Bayangkan atap paviliun dengan ekor kecil di kanan atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, so sala."
+    },
+    "tts_en": {
+      "s1": "Thai consonant so sala, meaning s, pavilion.",
+      "s2": "Picture pavilion roof with top right finial.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, so sala."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ศ (so sala) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating pavilion roof with top right finial in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_39",
+    "glyph": "ษ",
+    "reading": "so ruesi",
+    "meaning_id": "s, pertapa",
+    "meaning_en": "s, hermit",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/39_so_ruesi.png",
+    "tts_id": {
+      "s1": "Konsonan Thai so ruesi, artinya s, pertapa.",
+      "s2": "Bayangkan mangkuk lebar dengan garis melintang di dalam.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, so ruesi."
+    },
+    "tts_en": {
+      "s1": "Thai consonant so ruesi, meaning s, hermit.",
+      "s2": "Picture wide bowl crossed by an inner bar.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, so ruesi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ษ (so ruesi) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating wide bowl crossed by an inner bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_40",
+    "glyph": "ส",
+    "reading": "so suea",
+    "meaning_id": "s, harimau",
+    "meaning_en": "s, tiger",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/40_so_suea.png",
+    "tts_id": {
+      "s1": "Konsonan Thai so suea, artinya s, harimau.",
+      "s2": "Bayangkan harimau melompat dengan ekor di atas punggung.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, so suea."
+    },
+    "tts_en": {
+      "s1": "Thai consonant so suea, meaning s, tiger.",
+      "s2": "Picture leaping tiger with tail over its back.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, so suea."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ส (so suea) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating leaping tiger with tail over its back in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_41",
+    "glyph": "ห",
+    "reading": "ho hip",
+    "meaning_id": "h, peti",
+    "meaning_en": "h, chest",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/41_ho_hip.png",
+    "tts_id": {
+      "s1": "Konsonan Thai ho hip, artinya h, peti.",
+      "s2": "Bayangkan peti harta berkaki dengan simpul kanan.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, ho hip."
+    },
+    "tts_en": {
+      "s1": "Thai consonant ho hip, meaning h, chest.",
+      "s2": "Picture legged chest with a right loop.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, ho hip."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ห (ho hip) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating legged chest with a right loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_42",
+    "glyph": "ฬ",
+    "reading": "lo chula",
+    "meaning_id": "l, layang layang",
+    "meaning_en": "l, kite",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/42_lo_chula.png",
+    "tts_id": {
+      "s1": "Konsonan Thai lo chula, artinya l, layang layang.",
+      "s2": "Bayangkan layang layang dengan ekor melingkar di atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, lo chula."
+    },
+    "tts_en": {
+      "s1": "Thai consonant lo chula, meaning l, kite.",
+      "s2": "Picture kite with a curled top tail.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, lo chula."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฬ (lo chula) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating kite with a curled top tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_43",
+    "glyph": "อ",
+    "reading": "o ang",
+    "meaning_id": "o, baskom",
+    "meaning_en": "o, basin",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/43_o_ang.png",
+    "tts_id": {
+      "s1": "Konsonan Thai o ang, artinya o, baskom.",
+      "s2": "Bayangkan baskom bundar dengan kepala di dalam.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, o ang."
+    },
+    "tts_en": {
+      "s1": "Thai consonant o ang, meaning o, basin.",
+      "s2": "Picture round basin with inward head.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, o ang."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant อ (o ang) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating round basin with inward head in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "th_44",
+    "glyph": "ฮ",
+    "reading": "ho nokhuk",
+    "meaning_id": "h, burung hantu",
+    "meaning_en": "h, owl",
+    "voice_target": "th-TH-PremwadeeNeural",
+    "template_path": "templates_thai/44_ho_nokhuk.png",
+    "tts_id": {
+      "s1": "Konsonan Thai ho nokhuk, artinya h, burung hantu.",
+      "s2": "Bayangkan burung hantu dengan jambul melingkar di atas.",
+      "s3": "Perhatikan arah lingkaran kepala hurufnya.",
+      "s4": "Coba ucapkan, ho nokhuk."
+    },
+    "tts_en": {
+      "s1": "Thai consonant ho nokhuk, meaning h, owl.",
+      "s2": "Picture owl with a curled crest on top.",
+      "s3": "Watch the loop direction of the letter head.",
+      "s4": "Say it aloud, ho nokhuk."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of Thai consonant ฮ (ho nokhuk) on warm cream rice paper (#F9F5EC). Keep the exact letterform and head loop crisp while gently illustrating owl with a curled crest on top in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]
