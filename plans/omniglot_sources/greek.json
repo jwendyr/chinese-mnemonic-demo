@@ -1,0 +1,23 @@
+{
+  "slug": "greek",
+  "omniglot_url": "https://omniglot.com/writing/greek.htm",
+  "title": "Greek language and alphabets",
+  "at_a_glance": [
+    "Native name: ελληνικά (elinika) [eliniˈka]",
+    "Language family: Indo-European, Hellenic",
+    "Number of speakers: c. 13 million",
+    "Spoken in: Greece, Albania, Cyprus, and a number of other countries"
+  ],
+  "history": [
+    "Greek was first written in Mycenae with a script known as Linear B, which was used between about 1500 and 1200 BC. This variety of Greek is known as Mycenaean. On Crete another script, known as the Cypriot syllabary, was used to write the local variety of Greek between about 1200 and 300 BC."
+  ],
+  "notable_features": [
+    "Type of writing system: alphabet - the first one to include vowels.",
+    "Writing direction: Originally written horizontal lines either from right to left or alternating from right to left and left to right (boustrophedon/βουστροφηδόν). Around 500 BC the direction of writing changed to horizontal lines running from left to right.",
+    "Diacritics to represent stress and breathings were added to the alphabet in around 200 BC. In 1982 the diacritics representing breathings, which were not widely used after 1976, were officially abolished by presidential decree.",
+    "The letter sigma has a special form which is used when it appears at the end of a word."
+  ],
+  "sample_text": [
+    "Font from: http://boboss.gr/2009/12/13/greek-handwriting-font/"
+  ]
+}

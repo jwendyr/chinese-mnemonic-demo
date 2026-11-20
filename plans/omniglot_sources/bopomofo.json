@@ -1,0 +1,17 @@
+{
+  "slug": "bopomofo",
+  "omniglot_url": "https://omniglot.com/writing/zhuyin.htm",
+  "title": "Zhuyin fuhao / Bopomofo",
+  "at_a_glance": [],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: semi-syllabary with symbols for initials (onsets) and finals (rimes), and diacritics for tones.",
+    "Direction of writing: from right to left in vertical columns alongside the characters, or from left to right in horizontal lines above the characters. The tone diacritics are placed to the right of each syllable in vertical texts, and above the zhuyin symbols in horizontal texts. In some horizontal texts the zhuyin symbols are written on the right of the characters.",
+    "Used to transcribe the pronunciation of Mandarin, Taiwanese and some of the Aboriginal languages of Taiwan, and also as a way to type Chinese on computers and mobile phones.",
+    "Number of symbols: 37 (21 initials & 16 finals), plus 4 tone diacritics"
+  ],
+  "sample_text": [
+    "Vertical",
+    "Horizontal"
+  ]
+}
