@@ -49,7 +49,7 @@ CONCAT_MP4 = TMP_DIR / "concat_mp4"
 
 VOICE_ZH = "zh-CN-XiaoxiaoNeural"
 VOICE_ID = "id-ID-GadisNeural"
-VOICE_EN = "en-US-JennyNeural"
+VOICE_EN = "en-US-AvaMultilingualNeural"
 
 W, H = 1080, 1920
 BG_COLOR = (249, 245, 236)        # #F9F5EC matches AI illustration background
