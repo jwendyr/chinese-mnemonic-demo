@@ -1,0 +1,992 @@
+[
+  {
+    "id": "inuktitut_01",
+    "glyph": "ᐃ",
+    "reading": "i",
+    "meaning_id": "suku kata i",
+    "meaning_en": "syllable i",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/01_i.png",
+    "tts_id": {
+      "s1": "Huruf i, suku kata i.",
+      "s2": "Bayangkan vokal tanpa konsonan menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Character i, syllable i.",
+      "s2": "Picture triangle without consonant pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᐃ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triangle without consonant pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_02",
+    "glyph": "ᐅ",
+    "reading": "u",
+    "meaning_id": "suku kata u",
+    "meaning_en": "syllable u",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/02_u.png",
+    "tts_id": {
+      "s1": "Huruf u, suku kata u.",
+      "s2": "Bayangkan vokal tanpa konsonan menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Character u, syllable u.",
+      "s2": "Picture triangle without consonant rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᐅ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triangle without consonant rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_03",
+    "glyph": "ᐊ",
+    "reading": "a",
+    "meaning_id": "suku kata a",
+    "meaning_en": "syllable a",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/03_a.png",
+    "tts_id": {
+      "s1": "Huruf a, suku kata a.",
+      "s2": "Bayangkan vokal tanpa konsonan menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, syllable a.",
+      "s2": "Picture triangle without consonant rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᐊ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triangle without consonant rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_04",
+    "glyph": "ᐱ",
+    "reading": "pi",
+    "meaning_id": "suku kata pi",
+    "meaning_en": "syllable pi",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/04_pi.png",
+    "tts_id": {
+      "s1": "Huruf pi, suku kata pi.",
+      "s2": "Bayangkan garis lengkung bersudut menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pi."
+    },
+    "tts_en": {
+      "s1": "Character pi, syllable pi.",
+      "s2": "Picture angled corner curve pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᐱ (pi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating angled corner curve pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_05",
+    "glyph": "ᐳ",
+    "reading": "pu",
+    "meaning_id": "suku kata pu",
+    "meaning_en": "syllable pu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/05_pu.png",
+    "tts_id": {
+      "s1": "Huruf pu, suku kata pu.",
+      "s2": "Bayangkan garis lengkung bersudut menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pu."
+    },
+    "tts_en": {
+      "s1": "Character pu, syllable pu.",
+      "s2": "Picture angled corner curve rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᐳ (pu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating angled corner curve rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_06",
+    "glyph": "ᐸ",
+    "reading": "pa",
+    "meaning_id": "suku kata pa",
+    "meaning_en": "syllable pa",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/06_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, suku kata pa.",
+      "s2": "Bayangkan garis lengkung bersudut menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, syllable pa.",
+      "s2": "Picture angled corner curve rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᐸ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating angled corner curve rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_07",
+    "glyph": "ᑎ",
+    "reading": "ti",
+    "meaning_id": "suku kata ti",
+    "meaning_en": "syllable ti",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/07_ti.png",
+    "tts_id": {
+      "s1": "Huruf ti, suku kata ti.",
+      "s2": "Bayangkan lengkung setengah lingkaran C menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ti."
+    },
+    "tts_en": {
+      "s1": "Character ti, syllable ti.",
+      "s2": "Picture round C crescent pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ti."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᑎ (ti) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round C crescent pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_08",
+    "glyph": "ᑐ",
+    "reading": "tu",
+    "meaning_id": "suku kata tu",
+    "meaning_en": "syllable tu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/08_tu.png",
+    "tts_id": {
+      "s1": "Huruf tu, suku kata tu.",
+      "s2": "Bayangkan lengkung setengah lingkaran C menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tu."
+    },
+    "tts_en": {
+      "s1": "Character tu, syllable tu.",
+      "s2": "Picture round C crescent rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᑐ (tu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round C crescent rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_09",
+    "glyph": "ᑕ",
+    "reading": "ta",
+    "meaning_id": "suku kata ta",
+    "meaning_en": "syllable ta",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/09_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, suku kata ta.",
+      "s2": "Bayangkan lengkung setengah lingkaran C menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, syllable ta.",
+      "s2": "Picture round C crescent rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᑕ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round C crescent rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_10",
+    "glyph": "ᑭ",
+    "reading": "ki",
+    "meaning_id": "suku kata ki",
+    "meaning_en": "syllable ki",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/10_ki.png",
+    "tts_id": {
+      "s1": "Huruf ki, suku kata ki.",
+      "s2": "Bayangkan tiang siku huruf L menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ki."
+    },
+    "tts_en": {
+      "s1": "Character ki, syllable ki.",
+      "s2": "Picture crisp L corner bracket pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ki."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᑭ (ki) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp L corner bracket pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_11",
+    "glyph": "ᑯ",
+    "reading": "ku",
+    "meaning_id": "suku kata ku",
+    "meaning_en": "syllable ku",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/11_ku.png",
+    "tts_id": {
+      "s1": "Huruf ku, suku kata ku.",
+      "s2": "Bayangkan tiang siku huruf L menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ku."
+    },
+    "tts_en": {
+      "s1": "Character ku, syllable ku.",
+      "s2": "Picture crisp L corner bracket rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ku."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᑯ (ku) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp L corner bracket rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_12",
+    "glyph": "ᑲ",
+    "reading": "ka",
+    "meaning_id": "suku kata ka",
+    "meaning_en": "syllable ka",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/12_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, suku kata ka.",
+      "s2": "Bayangkan tiang siku huruf L menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, syllable ka.",
+      "s2": "Picture crisp L corner bracket rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᑲ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp L corner bracket rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_13",
+    "glyph": "ᒋ",
+    "reading": "gi",
+    "meaning_id": "suku kata gi",
+    "meaning_en": "syllable gi",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/13_gi.png",
+    "tts_id": {
+      "s1": "Huruf gi, suku kata gi.",
+      "s2": "Bayangkan huruf C mengotak persegi menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gi."
+    },
+    "tts_en": {
+      "s1": "Character gi, syllable gi.",
+      "s2": "Picture square U bracket pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, gi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᒋ (gi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square U bracket pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_14",
+    "glyph": "ᒍ",
+    "reading": "gu",
+    "meaning_id": "suku kata gu",
+    "meaning_en": "syllable gu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/14_gu.png",
+    "tts_id": {
+      "s1": "Huruf gu, suku kata gu.",
+      "s2": "Bayangkan huruf C mengotak persegi menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gu."
+    },
+    "tts_en": {
+      "s1": "Character gu, syllable gu.",
+      "s2": "Picture square U bracket rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, gu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᒍ (gu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square U bracket rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_15",
+    "glyph": "ᒐ",
+    "reading": "ga",
+    "meaning_id": "suku kata ga",
+    "meaning_en": "syllable ga",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/15_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, suku kata ga.",
+      "s2": "Bayangkan huruf C mengotak persegi menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, syllable ga.",
+      "s2": "Picture square U bracket rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᒐ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square U bracket rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_16",
+    "glyph": "ᒥ",
+    "reading": "mi",
+    "meaning_id": "suku kata mi",
+    "meaning_en": "syllable mi",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/16_mi.png",
+    "tts_id": {
+      "s1": "Huruf mi, suku kata mi.",
+      "s2": "Bayangkan kurva L terbuka lebar menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mi."
+    },
+    "tts_en": {
+      "s1": "Character mi, syllable mi.",
+      "s2": "Picture wide open L bracket pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, mi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᒥ (mi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide open L bracket pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_17",
+    "glyph": "ᒧ",
+    "reading": "mu",
+    "meaning_id": "suku kata mu",
+    "meaning_en": "syllable mu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/17_mu.png",
+    "tts_id": {
+      "s1": "Huruf mu, suku kata mu.",
+      "s2": "Bayangkan kurva L terbuka lebar menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mu."
+    },
+    "tts_en": {
+      "s1": "Character mu, syllable mu.",
+      "s2": "Picture wide open L bracket rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, mu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᒧ (mu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide open L bracket rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_18",
+    "glyph": "ᒪ",
+    "reading": "ma",
+    "meaning_id": "suku kata ma",
+    "meaning_en": "syllable ma",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/18_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, suku kata ma.",
+      "s2": "Bayangkan kurva L terbuka lebar menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, syllable ma.",
+      "s2": "Picture wide open L bracket rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᒪ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide open L bracket rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_19",
+    "glyph": "ᓂ",
+    "reading": "ni",
+    "meaning_id": "suku kata ni",
+    "meaning_en": "syllable ni",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/19_ni.png",
+    "tts_id": {
+      "s1": "Huruf ni, suku kata ni.",
+      "s2": "Bayangkan ombak S berujung lengkung menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ni."
+    },
+    "tts_en": {
+      "s1": "Character ni, syllable ni.",
+      "s2": "Picture curved S corner pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ni."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓂ (ni) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved S corner pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_20",
+    "glyph": "ᓄ",
+    "reading": "nu",
+    "meaning_id": "suku kata nu",
+    "meaning_en": "syllable nu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/20_nu.png",
+    "tts_id": {
+      "s1": "Huruf nu, suku kata nu.",
+      "s2": "Bayangkan ombak S berujung lengkung menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nu."
+    },
+    "tts_en": {
+      "s1": "Character nu, syllable nu.",
+      "s2": "Picture curved S corner rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓄ (nu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved S corner rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_21",
+    "glyph": "ᓇ",
+    "reading": "na",
+    "meaning_id": "suku kata na",
+    "meaning_en": "syllable na",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/21_na.png",
+    "tts_id": {
+      "s1": "Huruf na, suku kata na.",
+      "s2": "Bayangkan ombak S berujung lengkung menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, syllable na.",
+      "s2": "Picture curved S corner rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓇ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved S corner rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_22",
+    "glyph": "ᓯ",
+    "reading": "si",
+    "meaning_id": "suku kata si",
+    "meaning_en": "syllable si",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/22_si.png",
+    "tts_id": {
+      "s1": "Huruf si, suku kata si.",
+      "s2": "Bayangkan lengkung S melingkar lembut menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, si."
+    },
+    "tts_en": {
+      "s1": "Character si, syllable si.",
+      "s2": "Picture soft coiled S arch pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, si."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓯ (si) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft coiled S arch pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_23",
+    "glyph": "ᓱ",
+    "reading": "su",
+    "meaning_id": "suku kata su",
+    "meaning_en": "syllable su",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/23_su.png",
+    "tts_id": {
+      "s1": "Huruf su, suku kata su.",
+      "s2": "Bayangkan lengkung S melingkar lembut menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, su."
+    },
+    "tts_en": {
+      "s1": "Character su, syllable su.",
+      "s2": "Picture soft coiled S arch rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, su."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓱ (su) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft coiled S arch rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_24",
+    "glyph": "ᓴ",
+    "reading": "sa",
+    "meaning_id": "suku kata sa",
+    "meaning_en": "syllable sa",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/24_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, suku kata sa.",
+      "s2": "Bayangkan lengkung S melingkar lembut menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, syllable sa.",
+      "s2": "Picture soft coiled S arch rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓴ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft coiled S arch rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_25",
+    "glyph": "ᓕ",
+    "reading": "li",
+    "meaning_id": "suku kata li",
+    "meaning_en": "syllable li",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/25_li.png",
+    "tts_id": {
+      "s1": "Huruf li, suku kata li.",
+      "s2": "Bayangkan kail huruf U miring menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, li."
+    },
+    "tts_en": {
+      "s1": "Character li, syllable li.",
+      "s2": "Picture slanted U hook pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, li."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓕ (li) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted U hook pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_26",
+    "glyph": "ᓗ",
+    "reading": "lu",
+    "meaning_id": "suku kata lu",
+    "meaning_en": "syllable lu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/26_lu.png",
+    "tts_id": {
+      "s1": "Huruf lu, suku kata lu.",
+      "s2": "Bayangkan kail huruf U miring menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lu."
+    },
+    "tts_en": {
+      "s1": "Character lu, syllable lu.",
+      "s2": "Picture slanted U hook rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, lu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓗ (lu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted U hook rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_27",
+    "glyph": "ᓚ",
+    "reading": "la",
+    "meaning_id": "suku kata la",
+    "meaning_en": "syllable la",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/27_la.png",
+    "tts_id": {
+      "s1": "Huruf la, suku kata la.",
+      "s2": "Bayangkan kail huruf U miring menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, syllable la.",
+      "s2": "Picture slanted U hook rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᓚ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted U hook rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_28",
+    "glyph": "ᔨ",
+    "reading": "ji",
+    "meaning_id": "suku kata ji",
+    "meaning_en": "syllable ji",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/28_ji.png",
+    "tts_id": {
+      "s1": "Huruf ji, suku kata ji.",
+      "s2": "Bayangkan lengkung U terbuka mulus menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ji."
+    },
+    "tts_en": {
+      "s1": "Character ji, syllable ji.",
+      "s2": "Picture smooth open U bowl pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ji."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᔨ (ji) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth open U bowl pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_29",
+    "glyph": "ᔪ",
+    "reading": "ju",
+    "meaning_id": "suku kata ju",
+    "meaning_en": "syllable ju",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/29_ju.png",
+    "tts_id": {
+      "s1": "Huruf ju, suku kata ju.",
+      "s2": "Bayangkan lengkung U terbuka mulus menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ju."
+    },
+    "tts_en": {
+      "s1": "Character ju, syllable ju.",
+      "s2": "Picture smooth open U bowl rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ju."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᔪ (ju) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth open U bowl rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_30",
+    "glyph": "ᔭ",
+    "reading": "ja",
+    "meaning_id": "suku kata ja",
+    "meaning_en": "syllable ja",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/30_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, suku kata ja.",
+      "s2": "Bayangkan lengkung U terbuka mulus menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, syllable ja.",
+      "s2": "Picture smooth open U bowl rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᔭ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth open U bowl rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_31",
+    "glyph": "ᕕ",
+    "reading": "vi",
+    "meaning_id": "suku kata vi",
+    "meaning_en": "syllable vi",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/31_vi.png",
+    "tts_id": {
+      "s1": "Huruf vi, suku kata vi.",
+      "s2": "Bayangkan huruf V tajam berujung lengkung menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, vi."
+    },
+    "tts_en": {
+      "s1": "Character vi, syllable vi.",
+      "s2": "Picture sharp V hook pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, vi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᕕ (vi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp V hook pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_32",
+    "glyph": "ᕗ",
+    "reading": "vu",
+    "meaning_id": "suku kata vu",
+    "meaning_en": "syllable vu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/32_vu.png",
+    "tts_id": {
+      "s1": "Huruf vu, suku kata vu.",
+      "s2": "Bayangkan huruf V tajam berujung lengkung menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, vu."
+    },
+    "tts_en": {
+      "s1": "Character vu, syllable vu.",
+      "s2": "Picture sharp V hook rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, vu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᕗ (vu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp V hook rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_33",
+    "glyph": "ᕙ",
+    "reading": "va",
+    "meaning_id": "suku kata va",
+    "meaning_en": "syllable va",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/33_va.png",
+    "tts_id": {
+      "s1": "Huruf va, suku kata va.",
+      "s2": "Bayangkan huruf V tajam berujung lengkung menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, va."
+    },
+    "tts_en": {
+      "s1": "Character va, syllable va.",
+      "s2": "Picture sharp V hook rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, va."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᕙ (va) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp V hook rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_34",
+    "glyph": "ᕆ",
+    "reading": "ri",
+    "meaning_id": "suku kata ri",
+    "meaning_en": "syllable ri",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/34_ri.png",
+    "tts_id": {
+      "s1": "Huruf ri, suku kata ri.",
+      "s2": "Bayangkan simpul angka tiga berputar menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ri."
+    },
+    "tts_en": {
+      "s1": "Character ri, syllable ri.",
+      "s2": "Picture rotating three curve pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ri."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᕆ (ri) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rotating three curve pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_35",
+    "glyph": "ᕈ",
+    "reading": "ru",
+    "meaning_id": "suku kata ru",
+    "meaning_en": "syllable ru",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/35_ru.png",
+    "tts_id": {
+      "s1": "Huruf ru, suku kata ru.",
+      "s2": "Bayangkan simpul angka tiga berputar menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ru."
+    },
+    "tts_en": {
+      "s1": "Character ru, syllable ru.",
+      "s2": "Picture rotating three curve rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ru."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᕈ (ru) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rotating three curve rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_36",
+    "glyph": "ᕋ",
+    "reading": "ra",
+    "meaning_id": "suku kata ra",
+    "meaning_en": "syllable ra",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/36_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, suku kata ra.",
+      "s2": "Bayangkan simpul angka tiga berputar menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, syllable ra.",
+      "s2": "Picture rotating three curve rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᕋ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rotating three curve rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_37",
+    "glyph": "ᖀ",
+    "reading": "qi",
+    "meaning_id": "suku kata qi",
+    "meaning_en": "syllable qi",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/37_qi.png",
+    "tts_id": {
+      "s1": "Huruf qi, suku kata qi.",
+      "s2": "Bayangkan tiang ganda dengan siku penanda menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, qi."
+    },
+    "tts_en": {
+      "s1": "Character qi, syllable qi.",
+      "s2": "Picture double post bracket pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, qi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖀ (qi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double post bracket pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_38",
+    "glyph": "ᖂ",
+    "reading": "qu",
+    "meaning_id": "suku kata qu",
+    "meaning_en": "syllable qu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/38_qu.png",
+    "tts_id": {
+      "s1": "Huruf qu, suku kata qu.",
+      "s2": "Bayangkan tiang ganda dengan siku penanda menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, qu."
+    },
+    "tts_en": {
+      "s1": "Character qu, syllable qu.",
+      "s2": "Picture double post bracket rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, qu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖂ (qu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double post bracket rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_39",
+    "glyph": "ᖄ",
+    "reading": "qa",
+    "meaning_id": "suku kata qa",
+    "meaning_en": "syllable qa",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/39_qa.png",
+    "tts_id": {
+      "s1": "Huruf qa, suku kata qa.",
+      "s2": "Bayangkan tiang ganda dengan siku penanda menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, qa."
+    },
+    "tts_en": {
+      "s1": "Character qa, syllable qa.",
+      "s2": "Picture double post bracket rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, qa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖄ (qa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double post bracket rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_40",
+    "glyph": "ᖏ",
+    "reading": "ngi",
+    "meaning_id": "suku kata ngi",
+    "meaning_en": "syllable ngi",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/40_ngi.png",
+    "tts_id": {
+      "s1": "Huruf ngi, suku kata ngi.",
+      "s2": "Bayangkan lengkung mengotak bersayap tambahan menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ngi."
+    },
+    "tts_en": {
+      "s1": "Character ngi, syllable ngi.",
+      "s2": "Picture winged square bracket pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ngi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖏ (ngi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating winged square bracket pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_41",
+    "glyph": "ᖑ",
+    "reading": "ngu",
+    "meaning_id": "suku kata ngu",
+    "meaning_en": "syllable ngu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/41_ngu.png",
+    "tts_id": {
+      "s1": "Huruf ngu, suku kata ngu.",
+      "s2": "Bayangkan lengkung mengotak bersayap tambahan menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ngu."
+    },
+    "tts_en": {
+      "s1": "Character ngu, syllable ngu.",
+      "s2": "Picture winged square bracket rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ngu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖑ (ngu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating winged square bracket rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_42",
+    "glyph": "ᖓ",
+    "reading": "nga",
+    "meaning_id": "suku kata nga",
+    "meaning_en": "syllable nga",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/42_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, suku kata nga.",
+      "s2": "Bayangkan lengkung mengotak bersayap tambahan menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, syllable nga.",
+      "s2": "Picture winged square bracket rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖓ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating winged square bracket rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_43",
+    "glyph": "ᖠ",
+    "reading": "lhi",
+    "meaning_id": "suku kata lhi",
+    "meaning_en": "syllable lhi",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/43_lhi.png",
+    "tts_id": {
+      "s1": "Huruf lhi, suku kata lhi.",
+      "s2": "Bayangkan simpul U dengan garis melintang tengah menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lhi."
+    },
+    "tts_en": {
+      "s1": "Character lhi, syllable lhi.",
+      "s2": "Picture crossbarred U loop pointing upward for i.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, lhi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖠ (lhi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossbarred U loop pointing upward for i in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_44",
+    "glyph": "ᖢ",
+    "reading": "lhu",
+    "meaning_id": "suku kata lhu",
+    "meaning_en": "syllable lhu",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/44_lhu.png",
+    "tts_id": {
+      "s1": "Huruf lhu, suku kata lhu.",
+      "s2": "Bayangkan simpul U dengan garis melintang tengah menghadap ke kanan untuk vokal u.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lhu."
+    },
+    "tts_en": {
+      "s1": "Character lhu, syllable lhu.",
+      "s2": "Picture crossbarred U loop rotated right for u.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, lhu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖢ (lhu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossbarred U loop rotated right for u in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "inuktitut_45",
+    "glyph": "ᖤ",
+    "reading": "lha",
+    "meaning_id": "suku kata lha",
+    "meaning_en": "syllable lha",
+    "voice_target": "iu-Cans-CA-SiqiniqNeural",
+    "template_path": "templates_inuktitut/45_lha.png",
+    "tts_id": {
+      "s1": "Huruf lha, suku kata lha.",
+      "s2": "Bayangkan simpul U dengan garis melintang tengah menghadap ke kiri atau bawah untuk vokal a.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lha."
+    },
+    "tts_en": {
+      "s1": "Character lha, syllable lha.",
+      "s2": "Picture crossbarred U loop rotated left or down for a.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, lha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of inuktitut character ᖤ (lha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossbarred U loop rotated left or down for a in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "id": "batak_01",
+    "glyph": "ᯀ",
+    "reading": "a",
+    "meaning_id": "a atau ha",
+    "meaning_en": "a or ha",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, a atau ha.",
+      "s2": "Bayangkan garis miring berujung cabang dua atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, a or ha.",
+      "s2": "Picture diagonal sweep branching upward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯀ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating diagonal sweep branching upward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_02",
+    "glyph": "ᯂ",
+    "reading": "ha",
+    "meaning_id": "ha atau ka",
+    "meaning_en": "ha or ka",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/02_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha atau ka.",
+      "s2": "Bayangkan tiga sudut tegas berjajar miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha or ka.",
+      "s2": "Picture triple angled zigzags.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯂ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple angled zigzags in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_03",
+    "glyph": "ᯅ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/03_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan busur melengkung bersayap kanan panjang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture bow curve with long right wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯅ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bow curve with long right wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_04",
+    "glyph": "ᯇ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/04_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan garis miring naik disusul kait kecil.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture rising slant with top hook.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯇ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rising slant with top hook in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_05",
+    "glyph": "ᯉ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/05_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan ombak segitiga berujung lengkung bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture triangle wave curving down.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯉ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triangle wave curving down in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_06",
+    "glyph": "ᯋ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/06_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan sudut lancip miring membuka ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture sharp corner opening right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯋ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp corner opening right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_07",
+    "glyph": "ᯎ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/07_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan lengkung siku bersih berbentuk L membulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture clean rounded L bracket.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯎ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean rounded L bracket in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_08",
+    "glyph": "ᯐ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/08_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan silang melengkung empat arah lembut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture soft curved four pronged cross.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯐ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft curved four pronged cross in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_09",
+    "glyph": "ᯑ",
+    "reading": "da",
+    "meaning_id": "da",
+    "meaning_en": "da",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/09_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da.",
+      "s2": "Bayangkan tiga puncak miring bersambung cepat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da.",
+      "s2": "Picture three quick slanted peaks.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯑ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three quick slanted peaks in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_10",
+    "glyph": "ᯒ",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/10_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan garis tegak dengan lengkung kepala kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture upright stem with right head loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯒ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright stem with right head loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_11",
+    "glyph": "ᯔ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/11_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan lengkung bulan sabit menghadap atas kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture crescent facing up right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯔ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crescent facing up right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_12",
+    "glyph": "ᯖ",
+    "reading": "ta",
+    "meaning_id": "ta",
+    "meaning_en": "ta",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/12_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta.",
+      "s2": "Bayangkan huruf T dengan sayap melengkung kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture T stroke with curved left arm.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯖ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating T stroke with curved left arm in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_13",
+    "glyph": "ᯘ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/13_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan ombak mendatar berbelok naik ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture flat wave lifting right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯘ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat wave lifting right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_14",
+    "glyph": "ᯛ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/14_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan lengkung angka tiga miring ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture tilted three curve facing right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯛ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tilted three curve facing right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_15",
+    "glyph": "ᯞ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/15_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan dua sayap terbuka menyerupai burung terbang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture twin open flying bird wings.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯞ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin open flying bird wings in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_16",
+    "glyph": "ᯝ",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/16_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan lingkaran kecil bertangkai miring bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture small loop on a slanted stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯝ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small loop on a slanted stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_17",
+    "glyph": "ᯠ",
+    "reading": "nya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/17_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, nya.",
+      "s2": "Bayangkan huruf U miring dengan palang dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture tilted U with inner bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯠ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tilted U with inner bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_18",
+    "glyph": "ᯤ",
+    "reading": "i",
+    "meaning_id": "vokal mandiri i",
+    "meaning_en": "independent vowel i",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/18_i.png",
+    "tts_id": {
+      "s1": "Huruf i, vokal mandiri i.",
+      "s2": "Bayangkan kotak diamond berdiri gagah seimbang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Character i, independent vowel i.",
+      "s2": "Picture standing geometric diamond.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯤ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating standing geometric diamond in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "batak_19",
+    "glyph": "ᯥ",
+    "reading": "u",
+    "meaning_id": "vokal mandiri u",
+    "meaning_en": "independent vowel u",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_batak/19_u.png",
+    "tts_id": {
+      "s1": "Huruf u, vokal mandiri u.",
+      "s2": "Bayangkan lingkaran penuh dengan sayap atas kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Character u, independent vowel u.",
+      "s2": "Picture circle with upper right wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of batak character ᯥ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle with upper right wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

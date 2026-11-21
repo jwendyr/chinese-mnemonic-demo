@@ -1,0 +1,662 @@
+[
+  {
+    "id": "sundanese_01",
+    "glyph": "ᮃ",
+    "reading": "a",
+    "meaning_id": "vokal a",
+    "meaning_en": "vowel a",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, vokal a.",
+      "s2": "Bayangkan sudut tegas berbentuk huruf Z bersayap kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, vowel a.",
+      "s2": "Picture crisp angular Z shape with left wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮃ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp angular Z shape with left wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_02",
+    "glyph": "ᮄ",
+    "reading": "i",
+    "meaning_id": "vokal i",
+    "meaning_en": "vowel i",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/02_i.png",
+    "tts_id": {
+      "s1": "Huruf i, vokal i.",
+      "s2": "Bayangkan tanda sudut siku bertopi titik koma atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Character i, vowel i.",
+      "s2": "Picture corner frame with top accent.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮄ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating corner frame with top accent in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_03",
+    "glyph": "ᮅ",
+    "reading": "u",
+    "meaning_id": "vokal u",
+    "meaning_en": "vowel u",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/03_u.png",
+    "tts_id": {
+      "s1": "Huruf u, vokal u.",
+      "s2": "Bayangkan lengkung angka tiga bertopi pendek.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Character u, vowel u.",
+      "s2": "Picture curved three with short top bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮅ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved three with short top bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_04",
+    "glyph": "ᮆ",
+    "reading": "ae",
+    "meaning_id": "vokal e tajam",
+    "meaning_en": "vowel e",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/04_ae.png",
+    "tts_id": {
+      "s1": "Huruf ae, vokal e tajam.",
+      "s2": "Bayangkan sudut runcing berbelok keluar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ae."
+    },
+    "tts_en": {
+      "s1": "Character ae, vowel e.",
+      "s2": "Picture sharp angle opening outward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮆ (ae) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp angle opening outward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_05",
+    "glyph": "ᮇ",
+    "reading": "o",
+    "meaning_id": "vokal o",
+    "meaning_en": "vowel o",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/05_o.png",
+    "tts_id": {
+      "s1": "Huruf o, vokal o.",
+      "s2": "Bayangkan huruf S menyudut tegas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Character o, vowel o.",
+      "s2": "Picture angular S lightning stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮇ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating angular S lightning stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_06",
+    "glyph": "ᮈ",
+    "reading": "eu",
+    "meaning_id": "vokal e pepet",
+    "meaning_en": "schwa e",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/06_eu.png",
+    "tts_id": {
+      "s1": "Huruf eu, vokal e pepet.",
+      "s2": "Bayangkan angka dua menyudut dengan garis bawah datar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, eu."
+    },
+    "tts_en": {
+      "s1": "Character eu, schwa e.",
+      "s2": "Picture angular two resting on flat base.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, eu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮈ (eu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating angular two resting on flat base in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_07",
+    "glyph": "ᮉ",
+    "reading": "eu panjang",
+    "meaning_id": "vokal eu khas Sunda",
+    "meaning_en": "Sundanese eu",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/07_eu_panjang.png",
+    "tts_id": {
+      "s1": "Huruf eu panjang, vokal eu khas Sunda.",
+      "s2": "Bayangkan lengkung daun dengan tanda di atasnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, eu panjang."
+    },
+    "tts_en": {
+      "s1": "Character eu panjang, Sundanese eu.",
+      "s2": "Picture leaf curve with top stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, eu panjang."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮉ (eu panjang) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating leaf curve with top stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_08",
+    "glyph": "ᮊ",
+    "reading": "ka",
+    "meaning_id": "konsonan ka",
+    "meaning_en": "ka",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/08_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, konsonan ka.",
+      "s2": "Bayangkan tiga garis runcing menyerupai angka tujuh kembar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture triple angular zigzag.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮊ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple angular zigzag in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_09",
+    "glyph": "ᮌ",
+    "reading": "ga",
+    "meaning_id": "konsonan ga",
+    "meaning_en": "ga",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/09_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, konsonan ga.",
+      "s2": "Bayangkan gerbang miring dengan dua sudut tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture slanted gate with sharp corners.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮌ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted gate with sharp corners in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_10",
+    "glyph": "ᮍ",
+    "reading": "nga",
+    "meaning_id": "konsonan nga",
+    "meaning_en": "nga",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/10_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, konsonan nga.",
+      "s2": "Bayangkan huruf Z bersambung ekor datar bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture Z shape with flat base tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮍ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating Z shape with flat base tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_11",
+    "glyph": "ᮎ",
+    "reading": "ca",
+    "meaning_id": "konsonan ca",
+    "meaning_en": "cha",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/11_ca.png",
+    "tts_id": {
+      "s1": "Huruf ca, konsonan ca.",
+      "s2": "Bayangkan tiga garis miring bersusun seperti panah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ca."
+    },
+    "tts_en": {
+      "s1": "Character ca, cha.",
+      "s2": "Picture stacked slanted arrow strokes.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ca."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮎ (ca) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stacked slanted arrow strokes in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_12",
+    "glyph": "ᮏ",
+    "reading": "ja",
+    "meaning_id": "konsonan ja",
+    "meaning_en": "ja",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/12_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, konsonan ja.",
+      "s2": "Bayangkan sudut tajam turun menjadi ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture sharp dip turning into right tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮏ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp dip turning into right tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_13",
+    "glyph": "ᮑ",
+    "reading": "nya",
+    "meaning_id": "konsonan nya",
+    "meaning_en": "nya",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/13_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, konsonan nya.",
+      "s2": "Bayangkan ombak zigzag berujung runcing di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture sharp zigzag wave ending right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮑ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp zigzag wave ending right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_14",
+    "glyph": "ᮒ",
+    "reading": "ta",
+    "meaning_id": "konsonan ta",
+    "meaning_en": "ta",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/14_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, konsonan ta.",
+      "s2": "Bayangkan dua patah garis seperti huruf N menyudut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture crisp angled N shape.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮒ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp angled N shape in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_15",
+    "glyph": "ᮓ",
+    "reading": "da",
+    "meaning_id": "konsonan da",
+    "meaning_en": "da",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/15_da.png",
+    "tts_id": {
+      "s1": "Huruf da, konsonan da.",
+      "s2": "Bayangkan puncak segitiga terbuka menghadap kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da.",
+      "s2": "Picture open triangle facing right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮓ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open triangle facing right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_16",
+    "glyph": "ᮔ",
+    "reading": "na",
+    "meaning_id": "konsonan na",
+    "meaning_en": "na",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/16_na.png",
+    "tts_id": {
+      "s1": "Huruf na, konsonan na.",
+      "s2": "Bayangkan tiang miring berpalang diagonal di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture slanted post with right diagonal.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮔ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted post with right diagonal in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_17",
+    "glyph": "ᮕ",
+    "reading": "pa",
+    "meaning_id": "konsonan pa",
+    "meaning_en": "pa",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/17_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, konsonan pa.",
+      "s2": "Bayangkan sudut tajam menghadap kiri seperti panah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture sharp chevron pointing left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮕ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp chevron pointing left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_18",
+    "glyph": "ᮘ",
+    "reading": "ba",
+    "meaning_id": "konsonan ba",
+    "meaning_en": "ba",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/18_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, konsonan ba.",
+      "s2": "Bayangkan kotak miring terbuka di sisi kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture slanted box open to the left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮘ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted box open to the left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_19",
+    "glyph": "ᮙ",
+    "reading": "ma",
+    "meaning_id": "konsonan ma",
+    "meaning_en": "ma",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/19_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, konsonan ma.",
+      "s2": "Bayangkan dua tiang dengan garis silang tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture twin stems bridged horizontally.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮙ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin stems bridged horizontally in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_20",
+    "glyph": "ᮚ",
+    "reading": "ya",
+    "meaning_id": "konsonan ya",
+    "meaning_en": "ya",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/20_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, konsonan ya.",
+      "s2": "Bayangkan huruf W menyudut tajam dengan ekor tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture sharp angular W.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮚ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp angular W in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_21",
+    "glyph": "ᮛ",
+    "reading": "ra",
+    "meaning_id": "konsonan ra",
+    "meaning_en": "ra",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/21_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, konsonan ra.",
+      "s2": "Bayangkan dua tiang lurus beratap satu garis datar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture twin pillars under a flat roof.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮛ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin pillars under a flat roof in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_22",
+    "glyph": "ᮜ",
+    "reading": "la",
+    "meaning_id": "konsonan la",
+    "meaning_en": "la",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/22_la.png",
+    "tts_id": {
+      "s1": "Huruf la, konsonan la.",
+      "s2": "Bayangkan huruf N terbalik dengan sayap kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture mirrored N with left wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮜ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating mirrored N with left wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_23",
+    "glyph": "ᮝ",
+    "reading": "wa",
+    "meaning_id": "konsonan wa",
+    "meaning_en": "wa",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/23_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, konsonan wa.",
+      "s2": "Bayangkan kail sederhana terbuka miring ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture simple angled hook open upward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮝ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple angled hook open upward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_24",
+    "glyph": "ᮞ",
+    "reading": "sa",
+    "meaning_id": "konsonan sa",
+    "meaning_en": "sa",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/24_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, konsonan sa.",
+      "s2": "Bayangkan huruf M runcing tiga puncak tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture sharp three peaked mountain.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮞ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp three peaked mountain in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_25",
+    "glyph": "ᮠ",
+    "reading": "ha",
+    "meaning_id": "konsonan ha",
+    "meaning_en": "ha",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/25_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, konsonan ha.",
+      "s2": "Bayangkan gerbang tinggi miring bersayap kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha.",
+      "s2": "Picture tall slanted gate with left sweep.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮠ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall slanted gate with left sweep in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_26",
+    "glyph": "ᮖ",
+    "reading": "fa",
+    "meaning_id": "konsonan fa serapan",
+    "meaning_en": "borrowed fa",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/26_fa.png",
+    "tts_id": {
+      "s1": "Huruf fa, konsonan fa serapan.",
+      "s2": "Bayangkan bentuk pa ditambah garis miring penanda f.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, fa."
+    },
+    "tts_en": {
+      "s1": "Character fa, borrowed fa.",
+      "s2": "Picture pa chevron with extra f stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, fa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮖ (fa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa chevron with extra f stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_27",
+    "glyph": "ᮋ",
+    "reading": "qa",
+    "meaning_id": "konsonan qa serapan",
+    "meaning_en": "borrowed qa",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/27_qa.png",
+    "tts_id": {
+      "s1": "Huruf qa, konsonan qa serapan.",
+      "s2": "Bayangkan bentuk ka dengan ekor tegak bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, qa."
+    },
+    "tts_en": {
+      "s1": "Character qa, borrowed qa.",
+      "s2": "Picture ka zigzag with upright drop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, qa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮋ (qa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ka zigzag with upright drop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_28",
+    "glyph": "ᮗ",
+    "reading": "va",
+    "meaning_id": "konsonan va serapan",
+    "meaning_en": "borrowed va",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/28_va.png",
+    "tts_id": {
+      "s1": "Huruf va, konsonan va serapan.",
+      "s2": "Bayangkan bentuk wa bertingkat garis miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, va."
+    },
+    "tts_en": {
+      "s1": "Character va, borrowed va.",
+      "s2": "Picture layered angled wa.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, va."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮗ (va) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating layered angled wa in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_29",
+    "glyph": "ᮟ",
+    "reading": "xa",
+    "meaning_id": "konsonan xa serapan",
+    "meaning_en": "borrowed xa",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/29_xa.png",
+    "tts_id": {
+      "s1": "Huruf xa, konsonan xa serapan.",
+      "s2": "Bayangkan tanda silang menyudut tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, xa."
+    },
+    "tts_en": {
+      "s1": "Character xa, borrowed xa.",
+      "s2": "Picture crisp angular cross.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, xa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮟ (xa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp angular cross in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sundanese_30",
+    "glyph": "ᮐ",
+    "reading": "za",
+    "meaning_id": "konsonan za serapan",
+    "meaning_en": "borrowed za",
+    "voice_target": "su-ID-TutiNeural",
+    "template_path": "templates_sundanese/30_za.png",
+    "tts_id": {
+      "s1": "Huruf za, konsonan za serapan.",
+      "s2": "Bayangkan bentuk ja dengan tanda coretan tambahan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, za."
+    },
+    "tts_en": {
+      "s1": "Character za, borrowed za.",
+      "s2": "Picture ja frame with extra slant stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, za."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sundanese character ᮐ (za) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ja frame with extra slant stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

@@ -10,18 +10,18 @@
     "hook_id": "Kata sopan membuka pintu",
     "hook_en": "A polite word opens every door",
     "tts_id": {
-      "s1": "Karakter ini artinya tolong, silakan. Kata sopan membuka pintu.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Kata sopan di kiri bertemu warna muda penuh hormat di kanan. Jadilah ungkapan silakan.",
-      "s4": "Coba ulangi ucapannya, qǐng."
+      "s1": "Aksara Taiwan ini berarti tolong, silakan.",
+      "s2": "Bayangkan adegan nyata untuk makna tolong, silakan.",
+      "s3": "Bagian komponen tradisionalnya menjaga petunjuk arti tolong, silakan dalam aksara Taiwan.",
+      "s4": "Coba ucapkan bersama, qǐng."
     },
     "tts_en": {
-      "s1": "This character means please. A polite word opens every door.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "Speech on the left meets respectful youth on the right. Together they mean please.",
+      "s1": "This Taiwan traditional character means please.",
+      "s2": "Picture a clear real world scene showing please.",
+      "s3": "Notice how the full Taiwan strokes anchor the meaning please.",
       "s4": "Try saying it aloud, qǐng."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 請 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 請 intact while subtly integrating visual storytelling: A friendly speaker gently bowing beside fresh green leaves and clear blue water, warm brush ink style on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 請 (qǐng / , 'please') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 請 intact while illustrating: A warm minimalist visual scene clearly depicting 'please' emerging gracefully from the traditional stroke structure. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "說",
@@ -34,18 +34,18 @@
     "hook_id": "Kata mengalir keluar dari mulut",
     "hook_en": "Words flowing freely in conversation",
     "tts_id": {
-      "s1": "Karakter ini artinya berbicara, berkata. Kata mengalir keluar dari mulut.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Komponen bicara di kiri dan tukar pikiran di kanan membentuk aksi berbicara.",
-      "s4": "Coba ulangi ucapannya, shuō."
+      "s1": "Aksara Taiwan ini berarti berbicara, berkata.",
+      "s2": "Bayangkan adegan nyata untuk makna berbicara, berkata.",
+      "s3": "Bagian komponen tradisionalnya menjaga petunjuk arti berbicara, berkata dalam aksara Taiwan.",
+      "s4": "Coba ucapkan bersama, shuō."
     },
     "tts_en": {
-      "s1": "This character means to speak, to say. Words flowing freely in conversation.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "The speech radical on the left and exchange on the right come together as speaking.",
+      "s1": "This Taiwan traditional character means to speak, to say.",
+      "s2": "Picture a clear real world scene showing to speak, to say.",
+      "s3": "Notice how the full Taiwan strokes anchor the meaning to speak, to say.",
       "s4": "Try saying it aloud, shuō."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 說 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 說 intact while subtly integrating visual storytelling: Two warm expressive ink characters sharing a lively conversation with gentle brush speech waves on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 說 (shuō / , 'to speak, to say') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 說 intact while illustrating: A warm minimalist visual scene clearly depicting 'to speak, to say' emerging gracefully from the traditional stroke structure. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "學",
@@ -58,18 +58,18 @@
     "hook_id": "Anak di bawah atap menimba ilmu",
     "hook_en": "A child under a roof gathering knowledge",
     "tts_id": {
-      "s1": "Karakter ini artinya belajar. Anak di bawah atap menimba ilmu.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Dua tangan menimba ilmu di atas atap yang menaungi seorang anak yang giat belajar.",
-      "s4": "Coba ulangi ucapannya, xué."
+      "s1": "Aksara Taiwan ini berarti belajar.",
+      "s2": "Bayangkan adegan nyata untuk makna belajar.",
+      "s3": "Bagian komponen tradisionalnya menjaga petunjuk arti belajar dalam aksara Taiwan.",
+      "s4": "Coba ucapkan bersama, xué."
     },
     "tts_en": {
-      "s1": "This character means to study, to learn. A child under a roof gathering knowledge.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "Two hands pass knowledge above a roof sheltering a child eager to learn.",
+      "s1": "This Taiwan traditional character means to study, to learn.",
+      "s2": "Picture a clear real world scene showing to study, to learn.",
+      "s3": "Notice how the full Taiwan strokes anchor the meaning to study, to learn.",
       "s4": "Try saying it aloud, xué."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 學 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 學 intact while subtly integrating visual storytelling: A cozy study roof with warm brush strokes sheltering a young student reading by lantern light on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 學 (xué / , 'to study, to learn') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 學 intact while illustrating: A warm minimalist visual scene clearly depicting 'to study, to learn' emerging gracefully from the traditional stroke structure. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "國",
@@ -82,18 +82,18 @@
     "hook_id": "Batas wilayah menjaga tanah air",
     "hook_en": "Borders guarding a homeland",
     "tts_id": {
-      "s1": "Karakter ini artinya negara. Batas wilayah menjaga tanah air.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Bingkai batas wilayah mengelilingi tombak penjaga dan mulut rakyat menjadi sebuah negara.",
-      "s4": "Coba ulangi ucapannya, guó."
+      "s1": "Aksara Taiwan ini berarti negara.",
+      "s2": "Bayangkan adegan nyata untuk makna negara.",
+      "s3": "Bagian komponen tradisionalnya menjaga petunjuk arti negara dalam aksara Taiwan.",
+      "s4": "Coba ucapkan bersama, guó."
     },
     "tts_en": {
-      "s1": "This character means country, nation. Borders guarding a homeland.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "A protective border frames a guarding halberd and the voice of the people as one nation.",
+      "s1": "This Taiwan traditional character means country, nation.",
+      "s2": "Picture a clear real world scene showing country, nation.",
+      "s3": "Notice how the full Taiwan strokes anchor the meaning country, nation.",
       "s4": "Try saying it aloud, guó."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 國 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 國 intact while subtly integrating visual storytelling: A serene walled homeland with mountains, river, and gentle lantern-lit town in warm Chinese brush ink on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 國 (guó / , 'country, nation') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 國 intact while illustrating: A warm minimalist visual scene clearly depicting 'country, nation' emerging gracefully from the traditional stroke structure. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "飛",
@@ -106,18 +106,18 @@
     "hook_id": "Sayap terbentang menembus langit",
     "hook_en": "Wings spread wide across the sky",
     "tts_id": {
-      "s1": "Karakter ini artinya terbang. Sayap terbentang menembus langit.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Bentuk lengkung ganda menyerupai burung yang membentangkan kedua sayapnya untuk terbang tinggi.",
-      "s4": "Coba ulangi ucapannya, fēi."
+      "s1": "Aksara Taiwan ini berarti terbang.",
+      "s2": "Bayangkan adegan nyata untuk makna terbang.",
+      "s3": "Bagian komponen tradisionalnya menjaga petunjuk arti terbang dalam aksara Taiwan.",
+      "s4": "Coba ucapkan bersama, fēi."
     },
     "tts_en": {
-      "s1": "This character means to fly. Wings spread wide across the sky.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "Soaring curved strokes mirror a crane spreading both wings wide to fly.",
+      "s1": "This Taiwan traditional character means to fly.",
+      "s2": "Picture a clear real world scene showing to fly.",
+      "s3": "Notice how the full Taiwan strokes anchor the meaning to fly.",
       "s4": "Try saying it aloud, fēi."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 飛 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 飛 intact while subtly integrating visual storytelling: A graceful ink crane soaring through soft morning clouds with flowing brush wings on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 飛 (fēi / , 'to fly') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 飛 intact while illustrating: A warm minimalist visual scene clearly depicting 'to fly' emerging gracefully from the traditional stroke structure. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "嗎",
@@ -130,18 +130,18 @@
     "hook_id": "Mulut bertanya di ujung kalimat",
     "hook_en": "A mouth asking at the end of a sentence",
     "tts_id": {
-      "s1": "Karakter ini artinya partikel tanya apakah. Mulut bertanya di ujung kalimat.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Mulut di sisi kiri memberi tanda tanya lisan sementara kuda tradisional menjaga bunyi ma.",
-      "s4": "Coba ulangi ucapannya, ma."
+      "s1": "Aksara Taiwan ini berarti partikel tanya apakah.",
+      "s2": "Bayangkan adegan nyata untuk makna partikel tanya apakah.",
+      "s3": "Bagian komponen tradisionalnya menjaga petunjuk arti partikel tanya apakah dalam aksara Taiwan.",
+      "s4": "Coba ucapkan bersama, ma."
     },
     "tts_en": {
-      "s1": "This character means question particle. A mouth asking at the end of a sentence.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "The mouth on the left marks a spoken question while the traditional horse carries the sound ma.",
+      "s1": "This Taiwan traditional character means question particle.",
+      "s2": "Picture a clear real world scene showing question particle.",
+      "s3": "Notice how the full Taiwan strokes anchor the meaning question particle.",
       "s4": "Try saying it aloud, ma."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 嗎 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 嗎 intact while subtly integrating visual storytelling: A curious ink figure tilting its head beside a gentle brush horse and a warm question ripple on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 嗎 (ma / , 'question particle') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 嗎 intact while illustrating: A warm minimalist visual scene clearly depicting 'question particle' emerging gracefully from the traditional stroke structure. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "們",
@@ -154,18 +154,18 @@
     "hook_id": "Banyak orang melewati gerbang bersama",
     "hook_en": "Many people gathering through one gate",
     "tts_id": {
-      "s1": "Karakter ini artinya penanda jamak manusia. Banyak orang melewati gerbang bersama.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Orang di sisi kiri berdiri bersama gerbang di kanan untuk menandai kelompok orang.",
-      "s4": "Coba ulangi ucapannya, men."
+      "s1": "Aksara Taiwan ini berarti penanda jamak manusia.",
+      "s2": "Bayangkan adegan nyata untuk makna penanda jamak manusia.",
+      "s3": "Bagian komponen tradisionalnya menjaga petunjuk arti penanda jamak manusia dalam aksara Taiwan.",
+      "s4": "Coba ucapkan bersama, men."
     },
     "tts_en": {
-      "s1": "This character means plural marker for people. Many people gathering through one gate.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "A person on the left stands beside a wide gate on the right to show a group of people.",
+      "s1": "This Taiwan traditional character means plural marker for people.",
+      "s2": "Picture a clear real world scene showing plural marker for people.",
+      "s3": "Notice how the full Taiwan strokes anchor the meaning plural marker for people.",
       "s4": "Try saying it aloud, men."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 們 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 們 intact while subtly integrating visual storytelling: Warm brush-painted friends walking together through an open wooden courtyard gate on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 們 (men / , 'plural marker for people') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 們 intact while illustrating: A warm minimalist visual scene clearly depicting 'plural marker for people' emerging gracefully from the traditional stroke structure. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "清",
@@ -178,18 +178,18 @@
     "hook_id": "Tiga tetes air sejernih mata air",
     "hook_en": "Three drops of water as clear as a spring",
     "tts_id": {
-      "s1": "Karakter ini artinya jernih, bersih. Tiga tetes air sejernih mata air.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Tiga tetes air di kiri membasuh warna biru hijau segar di kanan hingga jernih.",
-      "s4": "Coba ulangi ucapannya, qīng."
+      "s1": "Aksara Taiwan ini berarti jernih, bersih.",
+      "s2": "Tanaman dan pot merah.",
+      "s3": "Pot berada di kanan sungai dangkal. Tiga guratan mengikuti riak di kiri. Batu di dasar terlihat lewat air.",
+      "s4": "Coba ucapkan bersama, qīng."
     },
     "tts_en": {
-      "s1": "This character means clear, pure. Three drops of water as clear as a spring.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "Three water drops on the left wash the fresh blue-green on the right until crystal clear.",
+      "s1": "This Taiwan traditional character means clear, pure.",
+      "s2": "Show the green plant in its red pot, then place it beside a shallow stream.",
+      "s3": "Fit to three ripples on the left.",
       "s4": "Try saying it aloud, qīng."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 清 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 清 intact while subtly integrating visual storytelling: Crystal clear mountain spring water rippling over smooth jade stones in warm brush ink on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 清 (qīng / , 'clear, pure') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 清 intact while illustrating: Show the green plant in its red pot, then place it beside a shallow stream. Fit 氵 to three ripples on the left. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   },
   {
     "char": "青",
@@ -198,21 +198,21 @@
     "stroke_source": "hanzi-writer-data",
     "template_path": "templates_trad/tw_青.png",
     "meaning_id": "hijau muda, biru langit",
-    "meaning_en": "blue-green, verdant",
+    "meaning_en": "blue green, verdant",
     "hook_id": "Tunas segar di atas warna bumi",
     "hook_en": "Fresh sprouts rising with vibrant color",
     "tts_id": {
-      "s1": "Karakter ini artinya hijau muda, biru langit. Tunas segar di atas warna bumi.",
-      "s2": "Perhatikan bentuk tradisional karakter Taiwan ini.",
-      "s3": "Tunas kehidupan tumbuh di atas warna mineral alami melambangkan hijau muda atau biru jernih.",
-      "s4": "Coba ulangi ucapannya, qīng."
+      "s1": "Aksara Taiwan ini berarti hijau muda, biru langit.",
+      "s2": "Pot merah dengan kecambah kecil. Arti dan audio dān sudah tampil.",
+      "s3": "Batang dan daun hijau bertumbuh. Guratan versi komponen melengkapi.",
+      "s4": "Coba ucapkan bersama, qīng."
     },
     "tts_en": {
-      "s1": "This character means blue-green, verdant. Fresh sprouts rising with vibrant color.",
-      "s2": "Look closely at this traditional Taiwan character.",
-      "s3": "Living sprouts rise above natural mineral pigment, evoking fresh green and clear sky blue.",
+      "s1": "This Taiwan traditional character means blue green, verdant.",
+      "s2": "Show a tiny sprout in a red pot, then let the leaves and stem grow into the upper strokes.",
+      "s3": "Show a tiny sprout in a red pot, then let the leaves and stem grow into the upper strokes.",
       "s4": "Try saying it aloud, qīng."
     },
-    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 青 on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette and proportions of 青 intact while subtly integrating visual storytelling: Lush young bamboo sprouts against a clear teal-blue sky in minimalist warm brush ink on cream rice paper. Clean minimalist Chineasy-inspired editorial illustration, no extra text, no latin letters, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 brush-ink template of Traditional Chinese character 青 (qīng / , 'blue green, verdant') on warm cream rice paper (#F9F5EC). Keep the exact stroke silhouette of 青 intact while illustrating: Show a tiny sprout in a red pot, then let the leaves and stem grow into the upper strokes. Warm navy and terracotta Chinese brush ink, minimalist editorial composition, no extra text, no latin letters, no watermarks."
   }
 ]

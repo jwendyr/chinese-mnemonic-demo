@@ -1,0 +1,728 @@
+[
+  {
+    "id": "tifinagh_01",
+    "glyph": "ⴰ",
+    "reading": "ya",
+    "meaning_id": "a",
+    "meaning_en": "a",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/01_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, a.",
+      "s2": "Bayangkan lingkaran kecil penuh seperti matahari.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, a.",
+      "s2": "Picture small full circle like the sun.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴰ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small full circle like the sun in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_02",
+    "glyph": "ⴱ",
+    "reading": "yab",
+    "meaning_id": "b",
+    "meaning_en": "b",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/02_yab.png",
+    "tts_id": {
+      "s1": "Huruf yab, b.",
+      "s2": "Bayangkan dua lingkaran setengah berhadapan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yab."
+    },
+    "tts_en": {
+      "s1": "Character yab, b.",
+      "s2": "Picture paired concentric arcs.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yab."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴱ (yab) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired concentric arcs in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_03",
+    "glyph": "ⴳ",
+    "reading": "yag",
+    "meaning_id": "g",
+    "meaning_en": "g",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/03_yag.png",
+    "tts_id": {
+      "s1": "Huruf yag, g.",
+      "s2": "Bayangkan segitiga runcing bertopi atau lengkung miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yag."
+    },
+    "tts_en": {
+      "s1": "Character yag, g.",
+      "s2": "Picture clean chevron triangle.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yag."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴳ (yag) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean chevron triangle in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_04",
+    "glyph": "ⴴ",
+    "reading": "yag",
+    "meaning_id": "g gesek",
+    "meaning_en": "voiced fricative g",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/04_yag.png",
+    "tts_id": {
+      "s1": "Huruf yag, g gesek.",
+      "s2": "Bayangkan tiang tegak dengan dua titik sisi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yag."
+    },
+    "tts_en": {
+      "s1": "Character yag, voiced fricative g.",
+      "s2": "Picture upright post with side arcs.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yag."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴴ (yag) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright post with side arcs in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_05",
+    "glyph": "ⴷ",
+    "reading": "yad",
+    "meaning_id": "d",
+    "meaning_en": "d",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/05_yad.png",
+    "tts_id": {
+      "s1": "Huruf yad, d.",
+      "s2": "Bayangkan kubah pintu persegi menyerupai rumah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yad."
+    },
+    "tts_en": {
+      "s1": "Character yad, d.",
+      "s2": "Picture tall square doorway arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yad."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴷ (yad) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall square doorway arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_06",
+    "glyph": "ⴹ",
+    "reading": "yadd",
+    "meaning_id": "d tebal",
+    "meaning_en": "emphatic d",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/06_yadd.png",
+    "tts_id": {
+      "s1": "Huruf yadd, d tebal.",
+      "s2": "Bayangkan bingkai persegi berpalang silang di tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yadd."
+    },
+    "tts_en": {
+      "s1": "Character yadd, emphatic d.",
+      "s2": "Picture crossed window frame.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yadd."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴹ (yadd) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossed window frame in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_07",
+    "glyph": "ⴻ",
+    "reading": "yey",
+    "meaning_id": "e pepet",
+    "meaning_en": "schwa e",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/07_yey.png",
+    "tts_id": {
+      "s1": "Huruf yey, e pepet.",
+      "s2": "Bayangkan lingkaran titik bersih penuh.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yey."
+    },
+    "tts_en": {
+      "s1": "Character yey, schwa e.",
+      "s2": "Picture clean circular dot ring.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yey."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴻ (yey) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean circular dot ring in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_08",
+    "glyph": "ⴼ",
+    "reading": "yaf",
+    "meaning_id": "f",
+    "meaning_en": "f",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/08_yaf.png",
+    "tts_id": {
+      "s1": "Huruf yaf, f.",
+      "s2": "Bayangkan dua tiang berjembatan dua palang sejajar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yaf."
+    },
+    "tts_en": {
+      "s1": "Character yaf, f.",
+      "s2": "Picture double barred ladder rune.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yaf."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴼ (yaf) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double barred ladder rune in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_09",
+    "glyph": "ⴽ",
+    "reading": "yak",
+    "meaning_id": "k",
+    "meaning_en": "k",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/09_yak.png",
+    "tts_id": {
+      "s1": "Huruf yak, k.",
+      "s2": "Bayangkan tiang miring bersayap kanan seperti huruf K.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yak."
+    },
+    "tts_en": {
+      "s1": "Character yak, k.",
+      "s2": "Picture angular K geometric stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yak."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴽ (yak) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating angular K geometric stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_10",
+    "glyph": "ⴿ",
+    "reading": "yak",
+    "meaning_id": "k gesek",
+    "meaning_en": "fricative k",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/10_yak.png",
+    "tts_id": {
+      "s1": "Huruf yak, k gesek.",
+      "s2": "Bayangkan huruf K dengan lengkung dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yak."
+    },
+    "tts_en": {
+      "s1": "Character yak, fricative k.",
+      "s2": "Picture geometric K with inner curve.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yak."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⴿ (yak) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating geometric K with inner curve in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_11",
+    "glyph": "ⵀ",
+    "reading": "yah",
+    "meaning_id": "h",
+    "meaning_en": "h",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/11_yah.png",
+    "tts_id": {
+      "s1": "Huruf yah, h.",
+      "s2": "Bayangkan garpu bulat terbuka tiga cabang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yah."
+    },
+    "tts_en": {
+      "s1": "Character yah, h.",
+      "s2": "Picture rounded open trident circle.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵀ (yah) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rounded open trident circle in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_12",
+    "glyph": "ⵃ",
+    "reading": "yahh",
+    "meaning_id": "ha tenggorokan",
+    "meaning_en": "pharyngeal h",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/12_yahh.png",
+    "tts_id": {
+      "s1": "Huruf yahh, ha tenggorokan.",
+      "s2": "Bayangkan belah ketupat memanjang berujung bulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yahh."
+    },
+    "tts_en": {
+      "s1": "Character yahh, pharyngeal h.",
+      "s2": "Picture vertical loop like an eye.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yahh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵃ (yahh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating vertical loop like an eye in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_13",
+    "glyph": "ⵄ",
+    "reading": "yaa",
+    "meaning_id": "ain",
+    "meaning_en": "pharyngeal ayin",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/13_yaa.png",
+    "tts_id": {
+      "s1": "Huruf yaa, ain.",
+      "s2": "Bayangkan lengkung bulan sabit besar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yaa."
+    },
+    "tts_en": {
+      "s1": "Character yaa, pharyngeal ayin.",
+      "s2": "Picture large clean crescent.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yaa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵄ (yaa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating large clean crescent in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_14",
+    "glyph": "ⵅ",
+    "reading": "yakh",
+    "meaning_id": "kh",
+    "meaning_en": "kh",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/14_yakh.png",
+    "tts_id": {
+      "s1": "Huruf yakh, kh.",
+      "s2": "Bayangkan dua garis silang di dalam bingkai bundar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yakh."
+    },
+    "tts_en": {
+      "s1": "Character yakh, kh.",
+      "s2": "Picture crossed X lines.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yakh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵅ (yakh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossed X lines in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_15",
+    "glyph": "ⵇ",
+    "reading": "yaq",
+    "meaning_id": "q",
+    "meaning_en": "q",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/15_yaq.png",
+    "tts_id": {
+      "s1": "Huruf yaq, q.",
+      "s2": "Bayangkan lingkaran penuh dengan tangkai garis atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yaq."
+    },
+    "tts_en": {
+      "s1": "Character yaq, q.",
+      "s2": "Picture circle pierced vertically at top.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yaq."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵇ (yaq) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle pierced vertically at top in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_16",
+    "glyph": "ⵉ",
+    "reading": "yi",
+    "meaning_id": "i",
+    "meaning_en": "i",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/16_yi.png",
+    "tts_id": {
+      "s1": "Huruf yi, i.",
+      "s2": "Bayangkan garis melengkung seperti busur panah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yi."
+    },
+    "tts_en": {
+      "s1": "Character yi, i.",
+      "s2": "Picture sleek vertical bow curve.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵉ (yi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sleek vertical bow curve in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_17",
+    "glyph": "ⵊ",
+    "reading": "yaj",
+    "meaning_id": "zh",
+    "meaning_en": "zh",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/17_yaj.png",
+    "tts_id": {
+      "s1": "Huruf yaj, zh.",
+      "s2": "Bayangkan garis siku dengan dua ujung lengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yaj."
+    },
+    "tts_en": {
+      "s1": "Character yaj, zh.",
+      "s2": "Picture balanced S rune stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yaj."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵊ (yaj) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating balanced S rune stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_18",
+    "glyph": "ⵍ",
+    "reading": "yal",
+    "meaning_id": "l",
+    "meaning_en": "l",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/18_yal.png",
+    "tts_id": {
+      "s1": "Huruf yal, l.",
+      "s2": "Bayangkan dua garis sejajar tegak bersih.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yal."
+    },
+    "tts_en": {
+      "s1": "Character yal, l.",
+      "s2": "Picture twin clean vertical bars.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yal."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵍ (yal) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin clean vertical bars in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_19",
+    "glyph": "ⵎ",
+    "reading": "yam",
+    "meaning_id": "m",
+    "meaning_en": "m",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/19_yam.png",
+    "tts_id": {
+      "s1": "Huruf yam, m.",
+      "s2": "Bayangkan setengah lingkaran menghadap ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yam."
+    },
+    "tts_en": {
+      "s1": "Character yam, m.",
+      "s2": "Picture square C bracket facing right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yam."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵎ (yam) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating square C bracket facing right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_20",
+    "glyph": "ⵏ",
+    "reading": "yan",
+    "meaning_id": "n",
+    "meaning_en": "n",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/20_yan.png",
+    "tts_id": {
+      "s1": "Huruf yan, n.",
+      "s2": "Bayangkan satu garis lurus berdiri tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yan."
+    },
+    "tts_en": {
+      "s1": "Character yan, n.",
+      "s2": "Picture single clean vertical pillar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yan."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵏ (yan) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single clean vertical pillar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_21",
+    "glyph": "ⵓ",
+    "reading": "yu",
+    "meaning_id": "u",
+    "meaning_en": "u",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/21_yu.png",
+    "tts_id": {
+      "s1": "Huruf yu, u.",
+      "s2": "Bayangkan tiga titik geometris terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yu."
+    },
+    "tts_en": {
+      "s1": "Character yu, u.",
+      "s2": "Picture three geometric dots.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵓ (yu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three geometric dots in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_22",
+    "glyph": "ⵔ",
+    "reading": "yar",
+    "meaning_id": "r",
+    "meaning_en": "r",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/22_yar.png",
+    "tts_id": {
+      "s1": "Huruf yar, r.",
+      "s2": "Bayangkan lingkaran penuh besar kosong di tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yar."
+    },
+    "tts_en": {
+      "s1": "Character yar, r.",
+      "s2": "Picture large clean empty circle.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yar."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵔ (yar) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating large clean empty circle in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_23",
+    "glyph": "ⵕ",
+    "reading": "yarr",
+    "meaning_id": "r tebal",
+    "meaning_en": "emphatic r",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/23_yarr.png",
+    "tts_id": {
+      "s1": "Huruf yarr, r tebal.",
+      "s2": "Bayangkan lingkaran penuh bertitik satu di tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yarr."
+    },
+    "tts_en": {
+      "s1": "Character yarr, emphatic r.",
+      "s2": "Picture circle holding a center dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yarr."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵕ (yarr) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle holding a center dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_24",
+    "glyph": "ⵖ",
+    "reading": "yagh",
+    "meaning_id": "gh",
+    "meaning_en": "gh",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/24_yagh.png",
+    "tts_id": {
+      "s1": "Huruf yagh, gh.",
+      "s2": "Bayangkan panah bercabang tiga di atas tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yagh."
+    },
+    "tts_en": {
+      "s1": "Character yagh, gh.",
+      "s2": "Picture three pronged pitchfork.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yagh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵖ (yagh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three pronged pitchfork in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_25",
+    "glyph": "ⵙ",
+    "reading": "yas",
+    "meaning_id": "s",
+    "meaning_en": "s",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/25_yas.png",
+    "tts_id": {
+      "s1": "Huruf yas, s.",
+      "s2": "Bayangkan lingkaran besar bertitik tengah seperti perisai.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yas."
+    },
+    "tts_en": {
+      "s1": "Character yas, s.",
+      "s2": "Picture shield circle with center dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yas."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵙ (yas) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating shield circle with center dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_26",
+    "glyph": "ⵚ",
+    "reading": "yass",
+    "meaning_id": "s tebal",
+    "meaning_en": "emphatic s",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/26_yass.png",
+    "tts_id": {
+      "s1": "Huruf yass, s tebal.",
+      "s2": "Bayangkan dua lingkaran sejajar berpalang tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yass."
+    },
+    "tts_en": {
+      "s1": "Character yass, emphatic s.",
+      "s2": "Picture bridged twin circles.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yass."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵚ (yass) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bridged twin circles in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_27",
+    "glyph": "ⵛ",
+    "reading": "yash",
+    "meaning_id": "sy",
+    "meaning_en": "sh",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/27_yash.png",
+    "tts_id": {
+      "s1": "Huruf yash, sy.",
+      "s2": "Bayangkan lengkung terbuka menghadap ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yash."
+    },
+    "tts_en": {
+      "s1": "Character yash, sh.",
+      "s2": "Picture deep rounded U chalice.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yash."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵛ (yash) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating deep rounded U chalice in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_28",
+    "glyph": "ⵜ",
+    "reading": "yat",
+    "meaning_id": "t",
+    "meaning_en": "t",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/28_yat.png",
+    "tts_id": {
+      "s1": "Huruf yat, t.",
+      "s2": "Bayangkan tanda tambah simetris berbentuk bintang salib.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yat."
+    },
+    "tts_en": {
+      "s1": "Character yat, t.",
+      "s2": "Picture clean symmetrical plus cross.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yat."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵜ (yat) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean symmetrical plus cross in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_29",
+    "glyph": "ⵟ",
+    "reading": "yatt",
+    "meaning_id": "t tebal",
+    "meaning_en": "emphatic t",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/29_yatt.png",
+    "tts_id": {
+      "s1": "Huruf yatt, t tebal.",
+      "s2": "Bayangkan kotak dengan empat garis memancar keluar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yatt."
+    },
+    "tts_en": {
+      "s1": "Character yatt, emphatic t.",
+      "s2": "Picture diamond sun cross.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yatt."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵟ (yatt) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating diamond sun cross in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_30",
+    "glyph": "ⵡ",
+    "reading": "yaw",
+    "meaning_id": "w",
+    "meaning_en": "w",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/30_yaw.png",
+    "tts_id": {
+      "s1": "Huruf yaw, w.",
+      "s2": "Bayangkan lingkaran dengan tangkai ombak ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yaw."
+    },
+    "tts_en": {
+      "s1": "Character yaw, w.",
+      "s2": "Picture circle with descending leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yaw."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵡ (yaw) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle with descending leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_31",
+    "glyph": "ⵢ",
+    "reading": "yay",
+    "meaning_id": "y",
+    "meaning_en": "y",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/31_yay.png",
+    "tts_id": {
+      "s1": "Huruf yay, y.",
+      "s2": "Bayangkan tiang tegak dengan dua kaki pendek miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yay."
+    },
+    "tts_en": {
+      "s1": "Character yay, y.",
+      "s2": "Picture upright post with forked top.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yay."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵢ (yay) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright post with forked top in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_32",
+    "glyph": "ⵣ",
+    "reading": "yaz",
+    "meaning_id": "z",
+    "meaning_en": "z",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/32_yaz.png",
+    "tts_id": {
+      "s1": "Huruf yaz, z.",
+      "s2": "Bayangkan lambang manusia berdiri merentangkan tangan dan kaki.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yaz."
+    },
+    "tts_en": {
+      "s1": "Character yaz, z.",
+      "s2": "Picture iconic Amazigh human figure Yaz.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yaz."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵣ (yaz) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating iconic Amazigh human figure Yaz in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tifinagh_33",
+    "glyph": "ⵥ",
+    "reading": "yazz",
+    "meaning_id": "z tebal",
+    "meaning_en": "emphatic z",
+    "voice_target": "fr-FR-VivienneMultilingualNeural",
+    "template_path": "templates_tifinagh/33_yazz.png",
+    "tts_id": {
+      "s1": "Huruf yazz, z tebal.",
+      "s2": "Bayangkan huruf yaz bergerbang melengkung samping.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yazz."
+    },
+    "tts_en": {
+      "s1": "Character yazz, emphatic z.",
+      "s2": "Picture reinforced Yaz with side curves.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yazz."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tifinagh character ⵥ (yazz) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating reinforced Yaz with side curves in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

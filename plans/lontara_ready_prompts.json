@@ -1,0 +1,508 @@
+[
+  {
+    "id": "lontara_01",
+    "glyph": "ᨀ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/01_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan dua segitiga puncak bersambung seperti layar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture twin triangular sail peaks.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨀ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin triangular sail peaks in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_02",
+    "glyph": "ᨁ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/02_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan garis sudut datar membelok turun tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture flat top corner dipping down.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨁ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat top corner dipping down in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_03",
+    "glyph": "ᨂ",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/03_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan dua atap segitiga dengan titik tengah kecil.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture twin peaks with a center dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨂ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin peaks with a center dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_04",
+    "glyph": "ᨃ",
+    "reading": "ngka",
+    "meaning_id": "ngka",
+    "meaning_en": "ngka",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/04_ngka.png",
+    "tts_id": {
+      "s1": "Huruf ngka, ngka.",
+      "s2": "Bayangkan tiga puncak tajam menyerupai gigi gergaji.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ngka."
+    },
+    "tts_en": {
+      "s1": "Character ngka, ngka.",
+      "s2": "Picture three sharp sawtooth peaks.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ngka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨃ (ngka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three sharp sawtooth peaks in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_05",
+    "glyph": "ᨄ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/05_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan tiang miring tunggal seperti tombak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture single slanted spear stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨄ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single slanted spear stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_06",
+    "glyph": "ᨅ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/06_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan busur panah runcing menghadap ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture sharp bow corner pointing right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨅ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp bow corner pointing right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_07",
+    "glyph": "ᨆ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/07_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan ombak dua puncak runcing berbelok atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture twin pointed wave lifting up.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨆ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin pointed wave lifting up in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_08",
+    "glyph": "ᨇ",
+    "reading": "mpa",
+    "meaning_id": "mpa",
+    "meaning_en": "mpa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/08_mpa.png",
+    "tts_id": {
+      "s1": "Huruf mpa, mpa.",
+      "s2": "Bayangkan tiga puncak gelombang runcing berangkai.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mpa."
+    },
+    "tts_en": {
+      "s1": "Character mpa, mpa.",
+      "s2": "Picture triple linked sharp wave.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, mpa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨇ (mpa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple linked sharp wave in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_09",
+    "glyph": "ᨈ",
+    "reading": "ta",
+    "meaning_id": "ta",
+    "meaning_en": "ta",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/09_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta.",
+      "s2": "Bayangkan dua atap tajam bersambung cepat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture two crisp pointed peaks.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨈ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two crisp pointed peaks in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_10",
+    "glyph": "ᨉ",
+    "reading": "da",
+    "meaning_id": "da",
+    "meaning_en": "da",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/10_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da.",
+      "s2": "Bayangkan titik di antara dua garis sudut terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da.",
+      "s2": "Picture dot nestled between sharp strokes.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨉ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating dot nestled between sharp strokes in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_11",
+    "glyph": "ᨊ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/11_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan tiang miring bertemu dua atap lancip.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture slanted stem meeting twin peaks.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨊ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted stem meeting twin peaks in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_12",
+    "glyph": "ᨋ",
+    "reading": "nra",
+    "meaning_id": "nra",
+    "meaning_en": "nra",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/12_nra.png",
+    "tts_id": {
+      "s1": "Huruf nra, nra.",
+      "s2": "Bayangkan empat sudut tajam membentuk garis petir.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nra."
+    },
+    "tts_en": {
+      "s1": "Character nra, nra.",
+      "s2": "Picture four cornered lightning zigzag.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨋ (nra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating four cornered lightning zigzag in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_13",
+    "glyph": "ᨌ",
+    "reading": "ca",
+    "meaning_id": "ca",
+    "meaning_en": "cha",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/13_ca.png",
+    "tts_id": {
+      "s1": "Huruf ca, ca.",
+      "s2": "Bayangkan puncak runcing tunggal dengan titik kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ca."
+    },
+    "tts_en": {
+      "s1": "Character ca, cha.",
+      "s2": "Picture single peak with right dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ca."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨌ (ca) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single peak with right dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_14",
+    "glyph": "ᨍ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/14_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan dua puncak dengan titik di bawah lekuk.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture twin peaks with under dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨍ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin peaks with under dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_15",
+    "glyph": "ᨎ",
+    "reading": "nya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/15_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, nya.",
+      "s2": "Bayangkan tiga atap lancip seperti gelombang laut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture three crisp wave crests.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨎ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three crisp wave crests in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_16",
+    "glyph": "ᨏ",
+    "reading": "nca",
+    "meaning_id": "ncha",
+    "meaning_en": "ncha",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/16_nca.png",
+    "tts_id": {
+      "s1": "Huruf nca, ncha.",
+      "s2": "Bayangkan empat sudut dengan titik tengah di dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nca."
+    },
+    "tts_en": {
+      "s1": "Character nca, ncha.",
+      "s2": "Picture four crests with inner dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nca."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨏ (nca) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating four crests with inner dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_17",
+    "glyph": "ᨐ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/17_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan tiga puncak gelombang simetris tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture tall symmetrical triple wave.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨐ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall symmetrical triple wave in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_18",
+    "glyph": "ᨑ",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/18_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan dua atap bersih berbentuk huruf M lancip.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture clean sharp M twin peak.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨑ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean sharp M twin peak in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_19",
+    "glyph": "ᨒ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/19_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan atap naik lalu berbelok datar kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture peak rising into a flat shelf.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨒ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating peak rising into a flat shelf in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_20",
+    "glyph": "ᨓ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/20_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan dua puncak berujung garis miring bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture twin peaks trailing down.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨓ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin peaks trailing down in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_21",
+    "glyph": "ᨔ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/21_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan huruf S menyudut tegas bagai kilat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture crisp angular lightning S.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨔ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp angular lightning S in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_22",
+    "glyph": "ᨕ",
+    "reading": "a",
+    "meaning_id": "a",
+    "meaning_en": "a",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/22_a.png",
+    "tts_id": {
+      "s1": "Huruf a, a.",
+      "s2": "Bayangkan dua puncak tajam bersayap kiri terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, a.",
+      "s2": "Picture open twin peaks facing left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨕ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open twin peaks facing left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "lontara_23",
+    "glyph": "ᨖ",
+    "reading": "ha",
+    "meaning_id": "ha",
+    "meaning_en": "ha",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_lontara/23_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha.",
+      "s2": "Bayangkan dua sudut lebar berbentuk perahu layar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha.",
+      "s2": "Picture wide angled sailboat frame.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of lontara character ᨖ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide angled sailboat frame in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

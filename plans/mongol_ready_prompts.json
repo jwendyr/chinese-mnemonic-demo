@@ -1,0 +1,662 @@
+[
+  {
+    "id": "mongolian_01",
+    "glyph": "ᠠ",
+    "reading": "a",
+    "meaning_id": "vokal a",
+    "meaning_en": "vowel a",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, vokal a.",
+      "s2": "Bayangkan tulang belakang vertikal bertanduk kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, vowel a.",
+      "s2": "Picture vertical spine with top horn.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠠ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating vertical spine with top horn in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_02",
+    "glyph": "ᠡ",
+    "reading": "e",
+    "meaning_id": "vokal e",
+    "meaning_en": "vowel e",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/02_e.png",
+    "tts_id": {
+      "s1": "Huruf e, vokal e.",
+      "s2": "Bayangkan gigi pendek menjorok ke kiri dari batang tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Character e, vowel e.",
+      "s2": "Picture short tooth on vertical spine.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠡ (e) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating short tooth on vertical spine in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_03",
+    "glyph": "ᠢ",
+    "reading": "i",
+    "meaning_id": "vokal i",
+    "meaning_en": "vowel i",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/03_i.png",
+    "tts_id": {
+      "s1": "Huruf i, vokal i.",
+      "s2": "Bayangkan tangkai melengkung naik lalu turun tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Character i, vowel i.",
+      "s2": "Picture curved tooth dropping straight.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠢ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved tooth dropping straight in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_04",
+    "glyph": "ᠣ",
+    "reading": "o",
+    "meaning_id": "vokal o",
+    "meaning_en": "vowel o",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/04_o.png",
+    "tts_id": {
+      "s1": "Huruf o, vokal o.",
+      "s2": "Bayangkan perut bulat menggembung di sisi kiri batang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Character o, vowel o.",
+      "s2": "Picture round belly bulging left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠣ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round belly bulging left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_05",
+    "glyph": "ᠤ",
+    "reading": "u",
+    "meaning_id": "vokal u",
+    "meaning_en": "vowel u",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/05_u.png",
+    "tts_id": {
+      "s1": "Huruf u, vokal u.",
+      "s2": "Bayangkan perut bulat di bawah kepala vokal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Character u, vowel u.",
+      "s2": "Picture loop belly with stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠤ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating loop belly with stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_06",
+    "glyph": "ᠥ",
+    "reading": "oe",
+    "meaning_id": "vokal o depan",
+    "meaning_en": "front o",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/06_oe.png",
+    "tts_id": {
+      "s1": "Huruf oe, vokal o depan.",
+      "s2": "Bayangkan perut bulat disertai gigi ekor turun.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, oe."
+    },
+    "tts_en": {
+      "s1": "Character oe, front o.",
+      "s2": "Picture round belly with trailing tooth.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, oe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠥ (oe) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round belly with trailing tooth in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_07",
+    "glyph": "ᠦ",
+    "reading": "ue",
+    "meaning_id": "vokal u depan",
+    "meaning_en": "front u",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/07_ue.png",
+    "tts_id": {
+      "s1": "Huruf ue, vokal u depan.",
+      "s2": "Bayangkan lingkaran ganda meluncur vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ue."
+    },
+    "tts_en": {
+      "s1": "Character ue, front u.",
+      "s2": "Picture double loop gliding down.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ue."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠦ (ue) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double loop gliding down in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_08",
+    "glyph": "ᠨ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/08_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan gigi tunggal dengan satu titik penanda di kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture single tooth with left dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠨ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single tooth with left dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_09",
+    "glyph": "ᠩ",
+    "reading": "ng",
+    "meaning_id": "ng",
+    "meaning_en": "ng",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/09_ng.png",
+    "tts_id": {
+      "s1": "Huruf ng, ng.",
+      "s2": "Bayangkan dua kait berangkai tanpa titik.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ng."
+    },
+    "tts_en": {
+      "s1": "Character ng, ng.",
+      "s2": "Picture paired linked hooks.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ng."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠩ (ng) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired linked hooks in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_10",
+    "glyph": "ᠪ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/10_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan perut besar menghadap kanan di sisi batang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture round right bulge on spine.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠪ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round right bulge on spine in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_11",
+    "glyph": "ᠫ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/11_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan perut besar bertakik telinga di puncak kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture notched right loop on spine.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠫ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating notched right loop on spine in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_12",
+    "glyph": "ᠬ",
+    "reading": "qa",
+    "meaning_id": "qa atau ha",
+    "meaning_en": "qa or kha",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/12_qa.png",
+    "tts_id": {
+      "s1": "Huruf qa, qa atau ha.",
+      "s2": "Bayangkan dua gigi berangkai menghadap ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, qa."
+    },
+    "tts_en": {
+      "s1": "Character qa, qa or kha.",
+      "s2": "Picture double left teeth on spine.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, qa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠬ (qa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double left teeth on spine in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_13",
+    "glyph": "ᠭ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/13_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan dua titik di kiri menemani lengkung gigi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture twin dots left of double teeth.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠭ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin dots left of double teeth in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_14",
+    "glyph": "ᠮ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/14_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan gigi lancip mengayun jauh ke sisi kanan batang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture sweeping tooth jutting right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠮ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sweeping tooth jutting right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_15",
+    "glyph": "ᠯ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/15_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan tanduk miring memanjang ke kanan batang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture long horn jutting upper right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠯ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating long horn jutting upper right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_16",
+    "glyph": "ᠰ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/16_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan busur melengkung tajam menusuk ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture sharp crescent flaring right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠰ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp crescent flaring right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_17",
+    "glyph": "ᠱ",
+    "reading": "sha",
+    "meaning_id": "sya",
+    "meaning_en": "sha",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/17_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, sya.",
+      "s2": "Bayangkan huruf sa disertai dua titik di sisi kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Character sha, sha.",
+      "s2": "Picture sa arc with twin dots.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠱ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sa arc with twin dots in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_18",
+    "glyph": "ᠲ",
+    "reading": "ta",
+    "meaning_id": "ta",
+    "meaning_en": "ta",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/18_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta.",
+      "s2": "Bayangkan lingkaran bertangkai gigi mengarah ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture looped crown stepping right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠲ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating looped crown stepping right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_19",
+    "glyph": "ᠳ",
+    "reading": "da",
+    "meaning_id": "da",
+    "meaning_en": "da",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/19_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da.",
+      "s2": "Bayangkan perut kotak terbuka berbelok turun vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da.",
+      "s2": "Picture hooked loop along spine.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠳ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating hooked loop along spine in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_20",
+    "glyph": "ᠴ",
+    "reading": "cha",
+    "meaning_id": "cha",
+    "meaning_en": "cha",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/20_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, cha.",
+      "s2": "Bayangkan garpu dua cabang menunjuk ke kanan batang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Character cha, cha.",
+      "s2": "Picture two pronged fork facing right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠴ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two pronged fork facing right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_21",
+    "glyph": "ᠵ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/21_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan panah tunggal menunjuk tajam ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture single spike pointing right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠵ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single spike pointing right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_22",
+    "glyph": "ᠶ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/22_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan kail miring mengayun ke bawah kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture slanted hook sweeping down left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠶ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted hook sweeping down left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_23",
+    "glyph": "ᠷ",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/23_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan silang diagonal memotong tulang batang vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture diagonal bar crossing vertical spine.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠷ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating diagonal bar crossing vertical spine in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_24",
+    "glyph": "ᠸ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/24_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan lingkaran kecil bergelombang di kiri batang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture small loop left of spine.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠸ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small loop left of spine in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_25",
+    "glyph": "ᠹ",
+    "reading": "fa",
+    "meaning_id": "fa",
+    "meaning_en": "fa",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/25_fa.png",
+    "tts_id": {
+      "s1": "Huruf fa, fa.",
+      "s2": "Bayangkan bentuk wa dengan ekor puncak melambai.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, fa."
+    },
+    "tts_en": {
+      "s1": "Character fa, fa.",
+      "s2": "Picture wa loop with rising plume.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, fa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠹ (fa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wa loop with rising plume in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_26",
+    "glyph": "ᠺ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/26_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan lingkaran besar di puncak batang vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture tall round crown loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠺ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall round crown loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_27",
+    "glyph": "ᠻ",
+    "reading": "kha",
+    "meaning_id": "kha",
+    "meaning_en": "kha",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/27_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, kha.",
+      "s2": "Bayangkan dua lingkaran kembar menggantung di kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Character kha, kha.",
+      "s2": "Picture paired hanging loops.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠻ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired hanging loops in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_28",
+    "glyph": "ᠼ",
+    "reading": "tsa",
+    "meaning_id": "tsa",
+    "meaning_en": "tsa",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/28_tsa.png",
+    "tts_id": {
+      "s1": "Huruf tsa, tsa.",
+      "s2": "Bayangkan garpu silang menghadap kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tsa."
+    },
+    "tts_en": {
+      "s1": "Character tsa, tsa.",
+      "s2": "Picture angled upper fork.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tsa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠼ (tsa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating angled upper fork in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_29",
+    "glyph": "ᠽ",
+    "reading": "za",
+    "meaning_id": "za",
+    "meaning_en": "za",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/29_za.png",
+    "tts_id": {
+      "s1": "Huruf za, za.",
+      "s2": "Bayangkan busur miring turun dengan ekor tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, za."
+    },
+    "tts_en": {
+      "s1": "Character za, za.",
+      "s2": "Picture slanted arc with sharp tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, za."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠽ (za) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slanted arc with sharp tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "mongolian_30",
+    "glyph": "ᠾ",
+    "reading": "ha",
+    "meaning_id": "ha",
+    "meaning_en": "ha",
+    "voice_target": "mn-MN-YesuiNeural",
+    "template_path": "templates_mongolian/30_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha.",
+      "s2": "Bayangkan dua lengkung berpadu menutup kepala atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha.",
+      "s2": "Picture paired loops closing top crown.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of mongolian character ᠾ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired loops closing top crown in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "slug": "armenian",
+  "omniglot_url": "https://omniglot.com/writing/armenian.htm",
+  "title": "Armenian language and alphabet",
+  "at_a_glance": [
+    "Native name: Հայերէն [hɑjɛˈɾɛn] (Hayeren)",
+    "Language family: Indo-European, Armenian",
+    "Number of speakers: c. 5 million",
+    "Spoken in: Armenia, Nagorno-Karabakh (Artsakh) Republic, Russia, Lebannon, the USA, Georgia, Iran, France, Syria, Turkey, Iraq, Uzbekistan, Ukraine, Turkmenistan, Canada, Greece, Jordan, Egypt, Bulgaria, Israel, Poland, Cyprus and Palestine",
+    "First written: 405 AD"
+  ],
+  "history": [
+    "Not much is known about the Armenian language before it was first written in the 5th century AD, though the Armenians are mentioned in inscriptions dating back to the 6th century BC.",
+    "The type of Armenian spoken and written in the 5th century is known as Classical Armenian, or գրաբար (grabar - \"literary\"). It contains numerous loanwords from Parthian, and also from Greek, Syriac, Latin and other languages such as Uratian. Grabar continued to be used as a literary language until the late 19th century.",
+    "The Armenian used between about the 11th and 15th century is known as Middle Armenian, or միջին հայերեն (mijin hayeren), and contains more loanwords from Arabic, Turkish, Persian, and Latin.",
+    "The two main modern forms of Armenian emerged during the 19th century when the traditional Armenian homeland was divided between the Russian and Ottoman Empires. Western Armenian developed among Armenians who had moved to Constantinople, while Eastern Armenian developed among Armenians living in Tbilisi in Georgia. Many newspapers in each of the variants were published and many schools for each variety were set up. This resulted in widespread literacy and to an increase in the amount of literature written in modern Armenian, rather than in the classical language."
+  ],
+  "notable_features": [
+    "Type of writing system: alphabet",
+    "Writing direction: left to right in horizontal lines",
+    "Used to write: Armenian, and formerly used for Turkish, Azeri, Kipchak and Kurdish",
+    "There are a few minor differences in the pronunciation of the letters between the two standard literary forms of Armenian: Western and Eastern.",
+    "Most of the letters have numerical values."
+  ],
+  "sample_text": []
+}

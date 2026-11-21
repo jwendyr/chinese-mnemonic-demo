@@ -1,0 +1,508 @@
+[
+  {
+    "id": "rejang_01",
+    "glyph": "ꤰ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/01_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan puncak segitiga terbuka menghadap bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture open triangle peak downward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤰ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open triangle peak downward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_02",
+    "glyph": "ꤱ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/02_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan garis miring naik bertakik kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture rising slant with right notch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤱ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rising slant with right notch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_03",
+    "glyph": "ꤲ",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/03_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan dua atap tajam membentuk huruf M lurus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture crisp straight M peaks.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤲ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp straight M peaks in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_04",
+    "glyph": "ꤳ",
+    "reading": "ta",
+    "meaning_id": "ta",
+    "meaning_en": "ta",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/04_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta.",
+      "s2": "Bayangkan tiga sudut sejajar berbentuk huruf W miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture tilted W zigzag.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤳ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tilted W zigzag in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_05",
+    "glyph": "ꤴ",
+    "reading": "da",
+    "meaning_id": "da",
+    "meaning_en": "da",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/05_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da.",
+      "s2": "Bayangkan sudut V bersih berdiri terbalik.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da.",
+      "s2": "Picture clean inverted V chevron.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤴ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean inverted V chevron in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_06",
+    "glyph": "ꤵ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/06_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan tiang tegak dengan sayap kiri menyudut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture upright post with angled left arm.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤵ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright post with angled left arm in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_07",
+    "glyph": "ꤶ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/07_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan atap lancip tunggal dengan garis tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture sharp peak with middle bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤶ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp peak with middle bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_08",
+    "glyph": "ꤷ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/08_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan dua garis tegak berjembatan miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture twin posts with slanted bridge.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤷ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin posts with slanted bridge in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_09",
+    "glyph": "ꤸ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/09_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan huruf N tegak dengan puncak tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture crisp N stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤸ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp N stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_10",
+    "glyph": "ꤹ",
+    "reading": "ca",
+    "meaning_id": "ca",
+    "meaning_en": "cha",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/10_ca.png",
+    "tts_id": {
+      "s1": "Huruf ca, ca.",
+      "s2": "Bayangkan tiga sudut bergerigi terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ca."
+    },
+    "tts_en": {
+      "s1": "Character ca, cha.",
+      "s2": "Picture triple serrated upward wave.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ca."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤹ (ca) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple serrated upward wave in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_11",
+    "glyph": "ꤺ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/11_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan kotak terbuka atas dengan kaki kanan panjang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture open cup with long right stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤺ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open cup with long right stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_12",
+    "glyph": "ꤻ",
+    "reading": "nya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/12_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, nya.",
+      "s2": "Bayangkan tiga puncak gergaji miring tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture triple tilted sawtooth.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤻ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple tilted sawtooth in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_13",
+    "glyph": "ꤼ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/13_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan kilat dua tekukan menghadap kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture lightning bend facing right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤼ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating lightning bend facing right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_14",
+    "glyph": "ꤽ",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/14_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan huruf V tegak bertangkai kaki pendek.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture upright V with short foot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤽ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright V with short foot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_15",
+    "glyph": "ꤾ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/15_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan dua tiang tinggi bertemu di satu titik dasar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture twin stems meeting at a base point.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤾ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin stems meeting at a base point in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_16",
+    "glyph": "ꤿ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/16_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan tiga tiang melambai menyudut tajam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture three sharp angled prongs.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꤿ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three sharp angled prongs in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_17",
+    "glyph": "ꥀ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/17_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan atap V terbalik bersayap kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture chevron with right wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꥀ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating chevron with right wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_18",
+    "glyph": "ꥁ",
+    "reading": "ha",
+    "meaning_id": "ha",
+    "meaning_en": "ha",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/18_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha.",
+      "s2": "Bayangkan dua sudut terbuka berbentuk huruf Z tegas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha.",
+      "s2": "Picture crisp open Z shape.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꥁ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crisp open Z shape in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_19",
+    "glyph": "ꥂ",
+    "reading": "mba",
+    "meaning_id": "mba",
+    "meaning_en": "mba",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/19_mba.png",
+    "tts_id": {
+      "s1": "Huruf mba, mba.",
+      "s2": "Bayangkan jembatan M dengan garis penegas dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mba."
+    },
+    "tts_en": {
+      "s1": "Character mba, mba.",
+      "s2": "Picture reinforced M bridge.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, mba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꥂ (mba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating reinforced M bridge in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_20",
+    "glyph": "ꥃ",
+    "reading": "ngga",
+    "meaning_id": "ngga",
+    "meaning_en": "ngga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/20_ngga.png",
+    "tts_id": {
+      "s1": "Huruf ngga, ngga.",
+      "s2": "Bayangkan huruf W ganda bergerigi empat puncak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ngga."
+    },
+    "tts_en": {
+      "s1": "Character ngga, ngga.",
+      "s2": "Picture four peaked serrated zigzag.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ngga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꥃ (ngga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating four peaked serrated zigzag in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_21",
+    "glyph": "ꥄ",
+    "reading": "nda",
+    "meaning_id": "nda",
+    "meaning_en": "nda",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/21_nda.png",
+    "tts_id": {
+      "s1": "Huruf nda, nda.",
+      "s2": "Bayangkan atap kembar berpalang tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nda."
+    },
+    "tts_en": {
+      "s1": "Character nda, nda.",
+      "s2": "Picture twin roof with crossbar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꥄ (nda) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin roof with crossbar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_22",
+    "glyph": "ꥅ",
+    "reading": "nja",
+    "meaning_id": "nja",
+    "meaning_en": "nja",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/22_nja.png",
+    "tts_id": {
+      "s1": "Huruf nja, nja.",
+      "s2": "Bayangkan sudut tajam bersilang di tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nja."
+    },
+    "tts_en": {
+      "s1": "Character nja, nja.",
+      "s2": "Picture sharp center crossing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꥅ (nja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sharp center crossing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "rejang_23",
+    "glyph": "ꥆ",
+    "reading": "a",
+    "meaning_id": "vokal a",
+    "meaning_en": "vowel a",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_rejang/23_a.png",
+    "tts_id": {
+      "s1": "Huruf a, vokal a.",
+      "s2": "Bayangkan tiga garis runcing terbuka menyerupai garpu.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, vowel a.",
+      "s2": "Picture triple pronged open fork.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of rejang character ꥆ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple pronged open fork in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

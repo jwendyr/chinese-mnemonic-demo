@@ -63,7 +63,9 @@
       "meaning_tts": "To Drink"
     },
     "template_path": "templates/喝.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/喝.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 喝 (口 on left, 曷 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 口 (left): illustrate a cute open mouth sipping from a small cup rim (staying cleanly to the left of x = 456).\n3. Behind 曷 (right): illustrate a thirsty traveler under a warm yellow sun holding a water cup (staying cleanly to the right of x = 456).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/喝.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 喝 (口 on left, 曷 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 口 (left): illustrate a cute open mouth sipping from a small cup rim (staying cleanly to the left of x = 456).\n3. Behind 曷 (right): illustrate a thirsty traveler under a warm yellow sun holding a water cup (staying cleanly to the right of x = 456).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "minum",
+    "meaning_en": "drink"
   },
   {
     "char": "妈",
@@ -129,7 +131,9 @@
       "meaning_tts": "Mother or Mom"
     },
     "template_path": "templates/妈.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/妈.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 妈 (女 on left, 马 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a gentle smiling mother kneeling in a soft coral dress (staying cleanly to the left of x = 490).\n3. Behind 马 (right): illustrate a cute friendly flat-vector horse in warm tan (staying cleanly to the right of x = 490).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/妈.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 妈 (女 on left, 马 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a gentle smiling mother kneeling in a soft coral dress (staying cleanly to the left of x = 490).\n3. Behind 马 (right): illustrate a cute friendly flat-vector horse in warm tan (staying cleanly to the right of x = 490).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "ibu",
+    "meaning_en": "mother"
   },
   {
     "char": "爸",
@@ -195,7 +199,9 @@
       "meaning_tts": "Father or Dad"
     },
     "template_path": "templates/爸.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/爸.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 爸 (父 on top, 巴 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 父 (top): illustrate a kind smiling father face and strong shoulders (staying cleanly above y = 961).\n3. Behind 巴 (bottom): illustrate a warm-peach curled scroll tail motif (staying cleanly below y = 961).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/爸.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 爸 (父 on top, 巴 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 父 (top): illustrate a kind smiling father face and strong shoulders (staying cleanly above y = 961).\n3. Behind 巴 (bottom): illustrate a warm-peach curled scroll tail motif (staying cleanly below y = 961).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "ayah",
+    "meaning_en": "dad"
   },
   {
     "char": "姐",
@@ -261,7 +267,9 @@
       "meaning_tts": "Older Sister"
     },
     "template_path": "templates/姐.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/姐.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 姐 (女 on left, 且 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a graceful smiling young woman in soft teal dress (staying cleanly to the left of x = 495).\n3. Behind 且 (right): illustrate a stacked wooden tiers / tall pedestal behind 且 (staying cleanly to the right of x = 495).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/姐.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 姐 (女 on left, 且 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a graceful smiling young woman in soft teal dress (staying cleanly to the left of x = 495).\n3. Behind 且 (right): illustrate a stacked wooden tiers / tall pedestal behind 且 (staying cleanly to the right of x = 495).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "kakak perempuan",
+    "meaning_en": "older sister"
   },
   {
     "char": "他",
@@ -327,7 +335,9 @@
       "meaning_tts": "He or Him"
     },
     "template_path": "templates/他.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/他.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 他 (亻 on left, 也 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a friendly young man standing in profile (staying cleanly to the left of x = 447).\n3. Behind 也 (right): illustrate a warm tan curved gourd/vessel motif (staying cleanly to the right of x = 447).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/他.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 他 (亻 on left, 也 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a friendly young man standing in profile (staying cleanly to the left of x = 447).\n3. Behind 也 (right): illustrate a warm tan curved gourd/vessel motif (staying cleanly to the right of x = 447).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "dia, laki laki",
+    "meaning_en": "he"
   },
   {
     "char": "她",
@@ -393,7 +403,9 @@
       "meaning_tts": "She or Her"
     },
     "template_path": "templates/她.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/她.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 她 (女 on left, 也 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a graceful smiling woman with hair bun (staying cleanly to the left of x = 481).\n3. Behind 也 (right): illustrate a warm tan curved gourd/vessel motif (staying cleanly to the right of x = 481).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/她.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 她 (女 on left, 也 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 女 (left): illustrate a graceful smiling woman with hair bun (staying cleanly to the left of x = 481).\n3. Behind 也 (right): illustrate a warm tan curved gourd/vessel motif (staying cleanly to the right of x = 481).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "dia, perempuan",
+    "meaning_en": "she"
   },
   {
     "char": "你",
@@ -459,7 +471,9 @@
       "meaning_tts": "You"
     },
     "template_path": "templates/你.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/你.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 你 (亻 on left, 尔 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a smiling person waving politely in warm peach (staying cleanly to the left of x = 468).\n3. Behind 尔 (right): illustrate a gentle figure nodding back in soft sky-blue (staying cleanly to the right of x = 468).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/你.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 你 (亻 on left, 尔 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a smiling person waving politely in warm peach (staying cleanly to the left of x = 468).\n3. Behind 尔 (right): illustrate a gentle figure nodding back in soft sky-blue (staying cleanly to the right of x = 468).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "kamu",
+    "meaning_en": "you"
   },
   {
     "char": "们",
@@ -525,7 +539,9 @@
       "meaning_tts": "Plural Marker"
     },
     "template_path": "templates/们.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/们.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 们 (亻 on left, 门 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person standing beside a group silhouette (staying cleanly to the left of x = 451).\n3. Behind 门 (right): illustrate a warm wooden two-leaf courtyard door gate (staying cleanly to the right of x = 451).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/们.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 们 (亻 on left, 门 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person standing beside a group silhouette (staying cleanly to the left of x = 451).\n3. Behind 门 (right): illustrate a warm wooden two-leaf courtyard door gate (staying cleanly to the right of x = 451).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "penanda jamak orang",
+    "meaning_en": "human plural suffix"
   },
   {
     "char": "朋",
@@ -591,7 +607,9 @@
       "meaning_tts": "Friend"
     },
     "template_path": "templates/朋.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/朋.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 朋 (月 on left, 月 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 月 (left): illustrate a soft slate-blue crescent moon with tiny star (staying cleanly to the left of x = 510).\n3. Behind 月 (right): illustrate a warm golden-cream crescent moon with tiny star (staying cleanly to the right of x = 510).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/朋.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 朋 (月 on left, 月 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 月 (left): illustrate a soft slate-blue crescent moon with tiny star (staying cleanly to the left of x = 510).\n3. Behind 月 (right): illustrate a warm golden-cream crescent moon with tiny star (staying cleanly to the right of x = 510).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "teman",
+    "meaning_en": "friend"
   },
   {
     "char": "住",
@@ -657,7 +675,9 @@
       "meaning_tts": "To Live or Reside"
     },
     "template_path": "templates/住.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/住.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 住 (亻 on left, 主 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a calm person resting at home (staying cleanly to the left of x = 464).\n3. Behind 主 (right): illustrate a warm glowing traditional lantern on stand (staying cleanly to the right of x = 464).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/住.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 住 (亻 on left, 主 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a calm person resting at home (staying cleanly to the left of x = 464).\n3. Behind 主 (right): illustrate a warm glowing traditional lantern on stand (staying cleanly to the right of x = 464).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "tinggal",
+    "meaning_en": "live, reside"
   },
   {
     "char": "作",
@@ -723,7 +743,9 @@
       "meaning_tts": "To Work or Make"
     },
     "template_path": "templates/作.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/作.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 作 (亻 on left, 乍 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person leaning forward actively (staying cleanly to the left of x = 475).\n3. Behind 乍 (right): illustrate a warm wooden workbench and craft chisel (staying cleanly to the right of x = 475).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/作.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 作 (亻 on left, 乍 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person leaning forward actively (staying cleanly to the left of x = 475).\n3. Behind 乍 (right): illustrate a warm wooden workbench and craft chisel (staying cleanly to the right of x = 475).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "membuat, melakukan",
+    "meaning_en": "make, do"
   },
   {
     "char": "做",
@@ -789,7 +811,9 @@
       "meaning_tts": "To Do or Make"
     },
     "template_path": "templates/做.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/做.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 做 (亻 on left, 故 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person holding tools ready to act (staying cleanly to the left of x = 432).\n3. Behind 故 (right): illustrate a hands crafting an origami or clay bowl (staying cleanly to the right of x = 432).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/做.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 做 (亻 on left, 故 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 亻 (left): illustrate a person holding tools ready to act (staying cleanly to the left of x = 432).\n3. Behind 故 (right): illustrate a hands crafting an origami or clay bowl (staying cleanly to the right of x = 432).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "membuat, mengerjakan",
+    "meaning_en": "do, make"
   },
   {
     "char": "坐",
@@ -855,7 +879,9 @@
       "meaning_tts": "To Sit"
     },
     "template_path": "templates/坐.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/坐.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 坐 (从 on top, 土 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 从 (top): illustrate a two friendly small figures sitting side by side (staying cleanly above y = 859).\n3. Behind 土 (bottom): illustrate a warm earthy hillside mound and grass (staying cleanly below y = 859).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/坐.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 坐 (从 on top, 土 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 从 (top): illustrate a two friendly small figures sitting side by side (staying cleanly above y = 859).\n3. Behind 土 (bottom): illustrate a warm earthy hillside mound and grass (staying cleanly below y = 859).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "duduk",
+    "meaning_en": "sit"
   },
   {
     "char": "想",
@@ -921,7 +947,9 @@
       "meaning_tts": "To Think or Miss or Want"
     },
     "template_path": "templates/想.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/想.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 想 (相 on top, 心 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 相 (top): illustrate a sage tree beside a thoughtful eye looking out (staying cleanly above y = 1029).\n3. Behind 心 (bottom): illustrate a soft coral heart with gentle thought bubbles (staying cleanly below y = 1029).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/想.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 想 (相 on top, 心 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 相 (top): illustrate a sage tree beside a thoughtful eye looking out (staying cleanly above y = 1029).\n3. Behind 心 (bottom): illustrate a soft coral heart with gentle thought bubbles (staying cleanly below y = 1029).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "berpikir, ingin",
+    "meaning_en": "think, want"
   },
   {
     "char": "听",
@@ -987,7 +1015,9 @@
       "meaning_tts": "To Listen or Hear"
     },
     "template_path": "templates/听.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/听.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 听 (口 on left, 斤 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 口 (left): illustrate a open mouth with gentle curved sound waves (staying cleanly to the left of x = 420).\n3. Behind 斤 (right): illustrate a clean flat-vector small axe and sound chime (staying cleanly to the right of x = 420).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/听.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 听 (口 on left, 斤 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 口 (left): illustrate a open mouth with gentle curved sound waves (staying cleanly to the left of x = 420).\n3. Behind 斤 (right): illustrate a clean flat-vector small axe and sound chime (staying cleanly to the right of x = 420).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "mendengar",
+    "meaning_en": "listen"
   },
   {
     "char": "杯",
@@ -1053,7 +1083,9 @@
       "meaning_tts": "Cup or Glass"
     },
     "template_path": "templates/杯.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/杯.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 杯 (木 on left, 不 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (left): illustrate a warm wooden plank and small leafy branch (staying cleanly to the left of x = 481).\n3. Behind 不 (right): illustrate a cute ceramic mug and warm tea steam (staying cleanly to the right of x = 481).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/杯.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 杯 (木 on left, 不 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (left): illustrate a warm wooden plank and small leafy branch (staying cleanly to the left of x = 481).\n3. Behind 不 (right): illustrate a cute ceramic mug and warm tea steam (staying cleanly to the right of x = 481).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "cangkir",
+    "meaning_en": "cup"
   },
   {
     "char": "本",
@@ -1119,7 +1151,9 @@
       "meaning_tts": "Root or Origin or Book"
     },
     "template_path": "templates/本.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/本.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 本 (木 on top, 一 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (top): illustrate a sage leafy tree with dark navy trunk (staying cleanly above y = 1137).\n3. Behind 一 (bottom): illustrate a warm earth soil highlight marking the root line and open book (staying cleanly below y = 1137).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/本.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 本 (木 on top, 一 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (top): illustrate a sage leafy tree with dark navy trunk (staying cleanly above y = 1137).\n3. Behind 一 (bottom): illustrate a warm earth soil highlight marking the root line and open book (staying cleanly below y = 1137).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "pangkal, dasar",
+    "meaning_en": "base, root"
   },
   {
     "char": "菜",
@@ -1185,7 +1219,9 @@
       "meaning_tts": "Vegetable or Dish"
     },
     "template_path": "templates/菜.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/菜.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 菜 (艹 on top, 采 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 艹 (top): illustrate a two cute fresh sage-green grass sprouts (staying cleanly above y = 817).\n3. Behind 采 (bottom): illustrate a hand picking fresh green leaves from a small tree (staying cleanly below y = 817).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/菜.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 菜 (艹 on top, 采 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 艹 (top): illustrate a two cute fresh sage-green grass sprouts (staying cleanly above y = 817).\n3. Behind 采 (bottom): illustrate a hand picking fresh green leaves from a small tree (staying cleanly below y = 817).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "sayur",
+    "meaning_en": "vegetable"
   },
   {
     "char": "茶",
@@ -1251,7 +1287,9 @@
       "meaning_tts": "Tea"
     },
     "template_path": "templates/茶.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/茶.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 茶 (艹 on top, 余 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 艹 (top): illustrate a fresh green tea leaves sprouting on top (staying cleanly above y = 838).\n3. Behind 余 (bottom): illustrate a cozy tea-house roof above a warm steaming cup of tea (staying cleanly below y = 838).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/茶.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 茶 (艹 on top, 余 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 艹 (top): illustrate a fresh green tea leaves sprouting on top (staying cleanly above y = 838).\n3. Behind 余 (bottom): illustrate a cozy tea-house roof above a warm steaming cup of tea (staying cleanly below y = 838).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "teh",
+    "meaning_en": "tea"
   },
   {
     "char": "字",
@@ -1317,7 +1355,9 @@
       "meaning_tts": "Character or Word"
     },
     "template_path": "templates/字.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/字.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 字 (宀 on top, 子 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 宀 (top): illustrate a warm terracotta house roof sheltering from above (staying cleanly above y = 878).\n3. Behind 子 (bottom): illustrate a cute child reading or writing with brush inside (staying cleanly below y = 878).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/字.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 字 (宀 on top, 子 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 宀 (top): illustrate a warm terracotta house roof sheltering from above (staying cleanly above y = 878).\n3. Behind 子 (bottom): illustrate a cute child reading or writing with brush inside (staying cleanly below y = 878).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "aksara",
+    "meaning_en": "written character"
   },
   {
     "char": "学",
@@ -1383,7 +1423,9 @@
       "meaning_tts": "To Study or Learn"
     },
     "template_path": "templates/学.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/学.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 学 (⺍ on top, 子 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind ⺍ (top): illustrate a warm schoolhouse roof and bright star sparks (staying cleanly above y = 933).\n3. Behind 子 (bottom): illustrate a happy child sitting with an open book (staying cleanly below y = 933).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/学.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 学 (⺍ on top, 子 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind ⺍ (top): illustrate a warm schoolhouse roof and bright star sparks (staying cleanly above y = 933).\n3. Behind 子 (bottom): illustrate a happy child sitting with an open book (staying cleanly below y = 933).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "belajar",
+    "meaning_en": "learn"
   },
   {
     "char": "家",
@@ -1449,7 +1491,9 @@
       "meaning_tts": "Home or Family"
     },
     "template_path": "templates/家.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/家.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 家 (宀 on top, 豕 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 宀 (top): illustrate a warm terracotta roof protecting from above (staying cleanly above y = 862).\n3. Behind 豕 (bottom): illustrate a cute pink piglet resting happily inside (staying cleanly below y = 862).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/家.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 家 (宀 on top, 豕 on bottom):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 宀 (top): illustrate a warm terracotta roof protecting from above (staying cleanly above y = 862).\n3. Behind 豕 (bottom): illustrate a cute pink piglet resting happily inside (staying cleanly below y = 862).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "rumah, keluarga",
+    "meaning_en": "home, family"
   },
   {
     "char": "校",
@@ -1515,6 +1559,8 @@
       "meaning_tts": "School"
     },
     "template_path": "templates/校.png",
-    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/校.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 校 (木 on left, 交 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (left): illustrate a sage-green leafy courtyard tree (staying cleanly to the left of x = 471).\n3. Behind 交 (right): illustrate a warm school gate with two friendly students meeting (staying cleanly to the right of x = 471).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients."
+    "image_prompt": "Edit the reference image /Volumes/App/Workspace/chinese-mnemonic-demo/templates/校.png (1080x1920, 9:16 portrait) to add a flat, minimalist Chineasy-style vector illustration cleanly BEHIND the existing brush-calligraphy strokes of 校 (木 on left, 交 on right):\n\n1. Keep the exact flat solid warm cream background (#F9F5EC) and keep all brush strokes in their EXACT position, shape, and color.\n2. Behind 木 (left): illustrate a sage-green leafy courtyard tree (staying cleanly to the left of x = 471).\n3. Behind 交 (right): illustrate a warm school gate with two friendly students meeting (staying cleanly to the right of x = 471).\n4. No text, no Pinyin, no English words, no extra characters, no borders, no 3D gradients.",
+    "meaning_id": "sekolah",
+    "meaning_en": "school"
   }
 ]

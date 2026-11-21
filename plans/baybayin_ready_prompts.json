@@ -1,0 +1,376 @@
+[
+  {
+    "id": "baybayin_01",
+    "glyph": "ᜀ",
+    "reading": "a",
+    "meaning_id": "vokal a",
+    "meaning_en": "vowel a",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, vokal a.",
+      "s2": "Bayangkan ombak lembut berujung tanda hati di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, vowel a.",
+      "s2": "Picture smooth wave curving like a ribbon loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜀ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth wave curving like a ribbon loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_02",
+    "glyph": "ᜁ",
+    "reading": "i",
+    "meaning_id": "vokal i atau e",
+    "meaning_en": "vowel i or e",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/02_i.png",
+    "tts_id": {
+      "s1": "Huruf i, vokal i atau e.",
+      "s2": "Bayangkan dua ombak bergelombang dengan titik di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Character i, vowel i or e.",
+      "s2": "Picture twin ripples above a center dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜁ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin ripples above a center dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_03",
+    "glyph": "ᜂ",
+    "reading": "u",
+    "meaning_id": "vokal u atau o",
+    "meaning_en": "vowel u or o",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/03_u.png",
+    "tts_id": {
+      "s1": "Huruf u, vokal u atau o.",
+      "s2": "Bayangkan lengkung angka tiga sederhana.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Character u, vowel u or o.",
+      "s2": "Picture simple flowing three curve.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜂ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple flowing three curve in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_04",
+    "glyph": "ᜃ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/04_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan dua garis silang berombak seperti huruf I berhias.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture paired wavy bars joined at middle.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜃ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired wavy bars joined at middle in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_05",
+    "glyph": "ᜄ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/05_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan tiga ombak mengalir turun mulus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture three waves flowing downward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜄ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three waves flowing downward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_06",
+    "glyph": "ᜅ",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/06_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan lingkaran kepala membuka ombak ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture open head loop sweeping right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜅ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open head loop sweeping right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_07",
+    "glyph": "ᜆ",
+    "reading": "ta",
+    "meaning_id": "ta",
+    "meaning_en": "ta",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/07_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta.",
+      "s2": "Bayangkan ombak terbuka ke kiri di atas lengkung bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture scroll wave above a lower arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜆ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating scroll wave above a lower arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_08",
+    "glyph": "ᜇ",
+    "reading": "da",
+    "meaning_id": "da atau ra",
+    "meaning_en": "da or ra",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/08_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da atau ra.",
+      "s2": "Bayangkan kubah tunggal terbuka miring ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da or ra.",
+      "s2": "Picture single arch opening left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜇ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single arch opening left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_09",
+    "glyph": "ᜈ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/09_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan lengkung n lembut dengan ujung melingkar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture soft n arch with curled tip.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜈ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft n arch with curled tip in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_10",
+    "glyph": "ᜉ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/10_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan gelombang terbuka dengan ekor masuk ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture open wave curling inward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜉ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open wave curling inward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_11",
+    "glyph": "ᜊ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/11_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan lengkung bulat sederhana seperti hati terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture round heart like loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜊ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round heart like loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_12",
+    "glyph": "ᜋ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/12_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan tiga puncak membulat menyerupai gelombang laut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture three smooth ocean wave arches.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜋ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three smooth ocean wave arches in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_13",
+    "glyph": "ᜌ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/13_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan huruf U terbalik bersayap ombak atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture wave arch looping upward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜌ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wave arch looping upward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_14",
+    "glyph": "ᜎ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/14_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan dua kelopak melingkar saling bersambung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture twin connected petal curls.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜎ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin connected petal curls in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_15",
+    "glyph": "ᜏ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/15_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan lingkaran penuh berjambul ombak di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture loop with right wave crest.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜏ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating loop with right wave crest in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_16",
+    "glyph": "ᜐ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/16_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan tiga kelopak melingkar seperti huruf S berbunga.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture flowering three curl wave.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜐ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flowering three curl wave in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "baybayin_17",
+    "glyph": "ᜑ",
+    "reading": "ha",
+    "meaning_id": "ha",
+    "meaning_en": "ha",
+    "voice_target": "fil-PH-BlessicaNeural",
+    "template_path": "templates_baybayin/17_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha.",
+      "s2": "Bayangkan ombak ganda lembut tanpa garis tutup bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha.",
+      "s2": "Picture soft double wave open below.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of baybayin character ᜑ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft double wave open below in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

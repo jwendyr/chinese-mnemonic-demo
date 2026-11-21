@@ -1,0 +1,876 @@
+[
+  {
+    "id": "armenian_01",
+    "upper": "Ա",
+    "lower": "ա",
+    "reading": "Ayb",
+    "meaning_id": "bunyi a",
+    "meaning_en": "sound a",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/01_ayb.png",
+    "tts_id": {
+      "s1": "Huruf Ayb, bunyi a.",
+      "s2": "Bayangkan kaki kembar tiga gerbang seperti huruf U ganda.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ayb."
+    },
+    "tts_en": {
+      "s1": "Character Ayb, sound a.",
+      "s2": "Picture three legged arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Ayb."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ա ա (Ayb) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three legged arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_02",
+    "upper": "Բ",
+    "lower": "բ",
+    "reading": "Ben",
+    "meaning_id": "bunyi b",
+    "meaning_en": "sound b",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/02_ben.png",
+    "tts_id": {
+      "s1": "Huruf Ben, bunyi b.",
+      "s2": "Bayangkan tiang melingkar terbuka ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ben."
+    },
+    "tts_en": {
+      "s1": "Character Ben, sound b.",
+      "s2": "Picture curved arch open on left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Ben."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Բ բ (Ben) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved arch open on left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_03",
+    "upper": "Գ",
+    "lower": "գ",
+    "reading": "Gim",
+    "meaning_id": "bunyi g",
+    "meaning_en": "sound g",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/03_gim.png",
+    "tts_id": {
+      "s1": "Huruf Gim, bunyi g.",
+      "s2": "Bayangkan tiang tinggi turun menyambung kaki ganda.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Gim."
+    },
+    "tts_en": {
+      "s1": "Character Gim, sound g.",
+      "s2": "Picture stem dropping into twin arches.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Gim."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Գ գ (Gim) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stem dropping into twin arches in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_04",
+    "upper": "Դ",
+    "lower": "դ",
+    "reading": "Da",
+    "meaning_id": "bunyi d",
+    "meaning_en": "sound d",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/04_da.png",
+    "tts_id": {
+      "s1": "Huruf Da, bunyi d.",
+      "s2": "Bayangkan lengkung atas turun menjadi garis miring kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Da."
+    },
+    "tts_en": {
+      "s1": "Character Da, sound d.",
+      "s2": "Picture top curl sweeping right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Դ դ (Da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating top curl sweeping right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_05",
+    "upper": "Ե",
+    "lower": "ե",
+    "reading": "Yech",
+    "meaning_id": "bunyi ye atau e",
+    "meaning_en": "sound ye atau e",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/05_yech.png",
+    "tts_id": {
+      "s1": "Huruf Yech, bunyi ye atau e.",
+      "s2": "Bayangkan lengkung E terbuka menghadap ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Yech."
+    },
+    "tts_en": {
+      "s1": "Character Yech, sound ye atau e.",
+      "s2": "Picture soft rounded E open right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Yech."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ե ե (Yech) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft rounded E open right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_06",
+    "upper": "Զ",
+    "lower": "զ",
+    "reading": "Za",
+    "meaning_id": "bunyi z",
+    "meaning_en": "sound z",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/06_za.png",
+    "tts_id": {
+      "s1": "Huruf Za, bunyi z.",
+      "s2": "Bayangkan lingkaran oval bertangkai kail atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Za."
+    },
+    "tts_en": {
+      "s1": "Character Za, sound z.",
+      "s2": "Picture oval belly with curved upper hood.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Za."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Զ զ (Za) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating oval belly with curved upper hood in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_07",
+    "upper": "Է",
+    "lower": "է",
+    "reading": "Eh",
+    "meaning_id": "bunyi e jelas",
+    "meaning_en": "sound e jelas",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/07_eh.png",
+    "tts_id": {
+      "s1": "Huruf Eh, bunyi e jelas.",
+      "s2": "Bayangkan lengkung panjang terbuka dengan ekor bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Eh."
+    },
+    "tts_en": {
+      "s1": "Character Eh, sound e jelas.",
+      "s2": "Picture tall arch curving outward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Eh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Է է (Eh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall arch curving outward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_08",
+    "upper": "Ը",
+    "lower": "ը",
+    "reading": "Et",
+    "meaning_id": "bunyi eu pepet",
+    "meaning_en": "sound eu pepet",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/08_et.png",
+    "tts_id": {
+      "s1": "Huruf Et, bunyi eu pepet.",
+      "s2": "Bayangkan lingkaran bertopi melambai di atas kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Et."
+    },
+    "tts_en": {
+      "s1": "Character Et, sound eu pepet.",
+      "s2": "Picture oval crowned by a top right curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Et."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ը ը (Et) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating oval crowned by a top right curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_09",
+    "upper": "Թ",
+    "lower": "թ",
+    "reading": "To",
+    "meaning_id": "bunyi t berhembus",
+    "meaning_en": "sound t berhembus",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/09_to.png",
+    "tts_id": {
+      "s1": "Huruf To, bunyi t berhembus.",
+      "s2": "Bayangkan tiang melingkar seperti huruf P terbuka bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, To."
+    },
+    "tts_en": {
+      "s1": "Character To, sound t berhembus.",
+      "s2": "Picture loop curving over an open leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, To."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Թ թ (To) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating loop curving over an open leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_10",
+    "upper": "Ժ",
+    "lower": "ժ",
+    "reading": "Zhe",
+    "meaning_id": "bunyi zh",
+    "meaning_en": "sound zh",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/10_zhe.png",
+    "tts_id": {
+      "s1": "Huruf Zhe, bunyi zh.",
+      "s2": "Bayangkan angka dua dengan perut bawah membulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Zhe."
+    },
+    "tts_en": {
+      "s1": "Character Zhe, sound zh.",
+      "s2": "Picture number two with lower round loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Zhe."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ժ ժ (Zhe) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating number two with lower round loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_11",
+    "upper": "Ի",
+    "lower": "ի",
+    "reading": "Ini",
+    "meaning_id": "bunyi i",
+    "meaning_en": "sound i",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/11_ini.png",
+    "tts_id": {
+      "s1": "Huruf Ini, bunyi i.",
+      "s2": "Bayangkan dua lengkung berbaris menyambung ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ini."
+    },
+    "tts_en": {
+      "s1": "Character Ini, sound i.",
+      "s2": "Picture paired arches with right tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Ini."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ի ի (Ini) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired arches with right tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_12",
+    "upper": "Լ",
+    "lower": "լ",
+    "reading": "Lyun",
+    "meaning_id": "bunyi l",
+    "meaning_en": "sound l",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/12_lyun.png",
+    "tts_id": {
+      "s1": "Huruf Lyun, bunyi l.",
+      "s2": "Bayangkan kaki kiri lurus disertai tiang kanan melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Lyun."
+    },
+    "tts_en": {
+      "s1": "Character Lyun, sound l.",
+      "s2": "Picture tall L arch open upward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Lyun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Լ լ (Lyun) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall L arch open upward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_13",
+    "upper": "Խ",
+    "lower": "խ",
+    "reading": "Kheh",
+    "meaning_id": "bunyi kh",
+    "meaning_en": "sound kh",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/13_kheh.png",
+    "tts_id": {
+      "s1": "Huruf Kheh, bunyi kh.",
+      "s2": "Bayangkan dua kaki lengkung dengan cabang kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Kheh."
+    },
+    "tts_en": {
+      "s1": "Character Kheh, sound kh.",
+      "s2": "Picture twin arches with upper left arm.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Kheh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Խ խ (Kheh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arches with upper left arm in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_14",
+    "upper": "Ծ",
+    "lower": "ծ",
+    "reading": "Tsa",
+    "meaning_id": "bunyi ts",
+    "meaning_en": "sound ts",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/14_tsa.png",
+    "tts_id": {
+      "s1": "Huruf Tsa, bunyi ts.",
+      "s2": "Bayangkan perut oval berujung lengkung topi kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tsa."
+    },
+    "tts_en": {
+      "s1": "Character Tsa, sound ts.",
+      "s2": "Picture oval with high curved crest.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Tsa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ծ ծ (Tsa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating oval with high curved crest in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_15",
+    "upper": "Կ",
+    "lower": "կ",
+    "reading": "Ken",
+    "meaning_id": "bunyi k",
+    "meaning_en": "sound k",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/15_ken.png",
+    "tts_id": {
+      "s1": "Huruf Ken, bunyi k.",
+      "s2": "Bayangkan kail sederhana terbuka ke kiri bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ken."
+    },
+    "tts_en": {
+      "s1": "Character Ken, sound k.",
+      "s2": "Picture sleek hook open down left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Ken."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Կ կ (Ken) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sleek hook open down left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_16",
+    "upper": "Հ",
+    "lower": "հ",
+    "reading": "Ho",
+    "meaning_id": "bunyi h",
+    "meaning_en": "sound h",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/16_ho.png",
+    "tts_id": {
+      "s1": "Huruf Ho, bunyi h.",
+      "s2": "Bayangkan tiang tegak dengan satu lengkung kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ho."
+    },
+    "tts_en": {
+      "s1": "Character Ho, sound h.",
+      "s2": "Picture upright h shaped arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Ho."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Հ հ (Ho) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright h shaped arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_17",
+    "upper": "Ձ",
+    "lower": "ձ",
+    "reading": "Dza",
+    "meaning_id": "bunyi dz",
+    "meaning_en": "sound dz",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/17_dza.png",
+    "tts_id": {
+      "s1": "Huruf Dza, bunyi dz.",
+      "s2": "Bayangkan lengkung S dengan perut bundar di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Dza."
+    },
+    "tts_en": {
+      "s1": "Character Dza, sound dz.",
+      "s2": "Picture S arch curling into right bowl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Dza."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ձ ձ (Dza) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating S arch curling into right bowl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_18",
+    "upper": "Ղ",
+    "lower": "ղ",
+    "reading": "Ghat",
+    "meaning_id": "bunyi gh",
+    "meaning_en": "sound gh",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/18_ghat.png",
+    "tts_id": {
+      "s1": "Huruf Ghat, bunyi gh.",
+      "s2": "Bayangkan lengkung tiga puncak berbelok mulus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ghat."
+    },
+    "tts_en": {
+      "s1": "Character Ghat, sound gh.",
+      "s2": "Picture smooth triple arch curve.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Ghat."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ղ ղ (Ghat) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth triple arch curve in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_19",
+    "upper": "Ճ",
+    "lower": "ճ",
+    "reading": "Cheh",
+    "meaning_id": "bunyi ch",
+    "meaning_en": "sound ch",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/19_cheh.png",
+    "tts_id": {
+      "s1": "Huruf Cheh, bunyi ch.",
+      "s2": "Bayangkan oval bersih bertangkai lengkung kanan atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Cheh."
+    },
+    "tts_en": {
+      "s1": "Character Cheh, sound ch.",
+      "s2": "Picture oval with upper right wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Cheh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ճ ճ (Cheh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating oval with upper right wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_20",
+    "upper": "Մ",
+    "lower": "մ",
+    "reading": "Men",
+    "meaning_id": "bunyi m",
+    "meaning_en": "sound m",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/20_men.png",
+    "tts_id": {
+      "s1": "Huruf Men, bunyi m.",
+      "s2": "Bayangkan mangkuk U bertangkai kaki panjang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Men."
+    },
+    "tts_en": {
+      "s1": "Character Men, sound m.",
+      "s2": "Picture U cup with descending right stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Men."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Մ մ (Men) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating U cup with descending right stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_21",
+    "upper": "Յ",
+    "lower": "յ",
+    "reading": "Yi",
+    "meaning_id": "bunyi y atau h",
+    "meaning_en": "sound y atau h",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/21_yi.png",
+    "tts_id": {
+      "s1": "Huruf Yi, bunyi y atau h.",
+      "s2": "Bayangkan lengkung angka tiga bertangkai panjang bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Yi."
+    },
+    "tts_en": {
+      "s1": "Character Yi, sound y atau h.",
+      "s2": "Picture curved three with lower leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Yi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Յ յ (Yi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved three with lower leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_22",
+    "upper": "Ն",
+    "lower": "ն",
+    "reading": "Nu",
+    "meaning_id": "bunyi n",
+    "meaning_en": "sound n",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/22_nu.png",
+    "tts_id": {
+      "s1": "Huruf Nu, bunyi n.",
+      "s2": "Bayangkan mangkuk bulat dengan kuncir melingkar kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Nu."
+    },
+    "tts_en": {
+      "s1": "Character Nu, sound n.",
+      "s2": "Picture round cup with left upper curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Nu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ն ն (Nu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round cup with left upper curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_23",
+    "upper": "Շ",
+    "lower": "շ",
+    "reading": "Sha",
+    "meaning_id": "bunyi sy",
+    "meaning_en": "sound sy",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/23_sha.png",
+    "tts_id": {
+      "s1": "Huruf Sha, bunyi sy.",
+      "s2": "Bayangkan huruf S dengan lingkaran atas terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Sha."
+    },
+    "tts_en": {
+      "s1": "Character Sha, sound sy.",
+      "s2": "Picture S curve with open top curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Շ շ (Sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating S curve with open top curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_24",
+    "upper": "Ո",
+    "lower": "ո",
+    "reading": "Vo",
+    "meaning_id": "bunyi vo atau o",
+    "meaning_en": "sound vo atau o",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/24_vo.png",
+    "tts_id": {
+      "s1": "Huruf Vo, bunyi vo atau o.",
+      "s2": "Bayangkan dua tiang berjembatan kubah seperti huruf n.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Vo."
+    },
+    "tts_en": {
+      "s1": "Character Vo, sound vo atau o.",
+      "s2": "Picture tall twin arch bridge like n.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Vo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ո ո (Vo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall twin arch bridge like n in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_25",
+    "upper": "Չ",
+    "lower": "չ",
+    "reading": "Cha",
+    "meaning_id": "bunyi ch berhembus",
+    "meaning_en": "sound ch berhembus",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/25_cha.png",
+    "tts_id": {
+      "s1": "Huruf Cha, bunyi ch berhembus.",
+      "s2": "Bayangkan kubah dengan dua tiang silang tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Cha."
+    },
+    "tts_en": {
+      "s1": "Character Cha, sound ch berhembus.",
+      "s2": "Picture arch crossed by a center bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Չ չ (Cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating arch crossed by a center bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_26",
+    "upper": "Պ",
+    "lower": "պ",
+    "reading": "Peh",
+    "meaning_id": "bunyi p",
+    "meaning_en": "sound p",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/26_peh.png",
+    "tts_id": {
+      "s1": "Huruf Peh, bunyi p.",
+      "s2": "Bayangkan dua tiang melengkung menyatu seperti pi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Peh."
+    },
+    "tts_en": {
+      "s1": "Character Peh, sound p.",
+      "s2": "Picture paired arch gate.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Peh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Պ պ (Peh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired arch gate in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_27",
+    "upper": "Ջ",
+    "lower": "ջ",
+    "reading": "Jheh",
+    "meaning_id": "bunyi j",
+    "meaning_en": "sound j",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/27_jheh.png",
+    "tts_id": {
+      "s1": "Huruf Jheh, bunyi j.",
+      "s2": "Bayangkan lengkung oval bersayap atas ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Jheh."
+    },
+    "tts_en": {
+      "s1": "Character Jheh, sound j.",
+      "s2": "Picture oval lifting a wing up right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Jheh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ջ ջ (Jheh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating oval lifting a wing up right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_28",
+    "upper": "Ռ",
+    "lower": "ռ",
+    "reading": "Rra",
+    "meaning_id": "bunyi r bergetar kuat",
+    "meaning_en": "sound r bergetar kuat",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/28_rra.png",
+    "tts_id": {
+      "s1": "Huruf Rra, bunyi r bergetar kuat.",
+      "s2": "Bayangkan dua kaki kubah dengan kait pendek kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Rra."
+    },
+    "tts_en": {
+      "s1": "Character Rra, sound r bergetar kuat.",
+      "s2": "Picture twin arch with short left foot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Rra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ռ ռ (Rra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arch with short left foot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_29",
+    "upper": "Ս",
+    "lower": "ս",
+    "reading": "Seh",
+    "meaning_id": "bunyi s",
+    "meaning_en": "sound s",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/29_seh.png",
+    "tts_id": {
+      "s1": "Huruf Seh, bunyi s.",
+      "s2": "Bayangkan kubah mulus berbentuk U besar terbalik.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Seh."
+    },
+    "tts_en": {
+      "s1": "Character Seh, sound s.",
+      "s2": "Picture clean wide U arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Seh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ս ս (Seh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean wide U arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_30",
+    "upper": "Վ",
+    "lower": "վ",
+    "reading": "Vev",
+    "meaning_id": "bunyi v",
+    "meaning_en": "sound v",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/30_vev.png",
+    "tts_id": {
+      "s1": "Huruf Vev, bunyi v.",
+      "s2": "Bayangkan tiang kiri memeluk lengkung kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Vev."
+    },
+    "tts_en": {
+      "s1": "Character Vev, sound v.",
+      "s2": "Picture left post cradling right arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Vev."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Վ վ (Vev) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left post cradling right arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_31",
+    "upper": "Տ",
+    "lower": "տ",
+    "reading": "Tyun",
+    "meaning_id": "bunyi t",
+    "meaning_en": "sound t",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/31_tyun.png",
+    "tts_id": {
+      "s1": "Huruf Tyun, bunyi t.",
+      "s2": "Bayangkan dua lingkaran atas membuka ke kaki bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tyun."
+    },
+    "tts_en": {
+      "s1": "Character Tyun, sound t.",
+      "s2": "Picture twin upper arches stepping down.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Tyun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Տ տ (Tyun) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin upper arches stepping down in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_32",
+    "upper": "Ր",
+    "lower": "ր",
+    "reading": "Reh",
+    "meaning_id": "bunyi r ringan",
+    "meaning_en": "sound r ringan",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/32_reh.png",
+    "tts_id": {
+      "s1": "Huruf Reh, bunyi r ringan.",
+      "s2": "Bayangkan tiang lurus berujung kail lengkung atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Reh."
+    },
+    "tts_en": {
+      "s1": "Character Reh, sound r ringan.",
+      "s2": "Picture post ending in upper hook.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Reh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ր ր (Reh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating post ending in upper hook in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_33",
+    "upper": "Ց",
+    "lower": "ց",
+    "reading": "Tso",
+    "meaning_id": "bunyi ts berhembus",
+    "meaning_en": "sound ts berhembus",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/33_tso.png",
+    "tts_id": {
+      "s1": "Huruf Tso, bunyi ts berhembus.",
+      "s2": "Bayangkan lingkaran bertopi melingkar penuh ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Tso."
+    },
+    "tts_en": {
+      "s1": "Character Tso, sound ts berhembus.",
+      "s2": "Picture loop with full top curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Tso."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ց ց (Tso) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating loop with full top curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_34",
+    "upper": "Ւ",
+    "lower": "ւ",
+    "reading": "Hyun",
+    "meaning_id": "bunyi v atau w",
+    "meaning_en": "sound v atau w",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/34_hyun.png",
+    "tts_id": {
+      "s1": "Huruf Hyun, bunyi v atau w.",
+      "s2": "Bayangkan kail U sempit dengan lengkung lembut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Hyun."
+    },
+    "tts_en": {
+      "s1": "Character Hyun, sound v atau w.",
+      "s2": "Picture slender U hook.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Hyun."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ւ ւ (Hyun) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slender U hook in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_35",
+    "upper": "Փ",
+    "lower": "փ",
+    "reading": "Pyur",
+    "meaning_id": "bunyi p berhembus",
+    "meaning_en": "sound p berhembus",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/35_pyur.png",
+    "tts_id": {
+      "s1": "Huruf Pyur, bunyi p berhembus.",
+      "s2": "Bayangkan lingkaran tengah ditembus tiang vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Pyur."
+    },
+    "tts_en": {
+      "s1": "Character Pyur, sound p berhembus.",
+      "s2": "Picture circle pierced by a tall vertical bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Pyur."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Փ փ (Pyur) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle pierced by a tall vertical bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_36",
+    "upper": "Ք",
+    "lower": "ք",
+    "reading": "Keh",
+    "meaning_id": "bunyi k berhembus",
+    "meaning_en": "sound k berhembus",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/36_keh.png",
+    "tts_id": {
+      "s1": "Huruf Keh, bunyi k berhembus.",
+      "s2": "Bayangkan garis silang dengan ekor melengkung panjang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Keh."
+    },
+    "tts_en": {
+      "s1": "Character Keh, sound k berhembus.",
+      "s2": "Picture curved cross with descending leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Keh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ք ք (Keh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved cross with descending leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_37",
+    "upper": "Օ",
+    "lower": "օ",
+    "reading": "Oh",
+    "meaning_id": "bunyi o bulat",
+    "meaning_en": "sound o bulat",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/37_oh.png",
+    "tts_id": {
+      "s1": "Huruf Oh, bunyi o bulat.",
+      "s2": "Bayangkan lingkaran oval penuh bersih.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Oh."
+    },
+    "tts_en": {
+      "s1": "Character Oh, sound o bulat.",
+      "s2": "Picture clean full oval circle.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Oh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Օ օ (Oh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean full oval circle in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "armenian_38",
+    "upper": "Ֆ",
+    "lower": "ֆ",
+    "reading": "Feh",
+    "meaning_id": "bunyi f",
+    "meaning_en": "sound f",
+    "voice_target": "en-US-AvaMultilingualNeural",
+    "template_path": "templates_armenian/38_feh.png",
+    "tts_id": {
+      "s1": "Huruf Feh, bunyi f.",
+      "s2": "Bayangkan lingkaran dibelah tiang panjang atas bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Feh."
+    },
+    "tts_en": {
+      "s1": "Character Feh, sound f.",
+      "s2": "Picture circle bisected by a tall stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Feh."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of armenian character Ֆ ֆ (Feh) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle bisected by a tall stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

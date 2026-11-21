@@ -22,7 +22,9 @@
       "s3": "The owner holds it. links the owner to the book. Kenalkan wǒ, saya atau I, dan shū, buku atau book.",
       "s4": "Listen to the example sentence and repeat de."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 的 (de). Stage 1: Two people and a book on a table. Stage 2: The owner holds it. **的** links the owner to the book. Kenalkan **我** wǒ, saya / I, dan **书** shū, buku / book. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 的 (de). Stage 1: Two people and a book on a table. Stage 2: The owner holds it. **的** links the owner to the book. Kenalkan **我** wǒ, saya / I, dan **书** shū, buku / book. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Dua orang dan satu buku di meja.",
+    "meaning_en": "Two people and a book on a table."
   },
   {
     "id": "zh_particle_02_de",
@@ -47,7 +49,9 @@
       "s3": "They walk slowly. links the manner to the action. Kenalkan màn, pelan atau slow, dan zǒu, berjalan atau walk.",
       "s4": "Listen to the example sentence and repeat de."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 地 (de). Stage 1: Someone is about to walk. Stage 2: They walk slowly. **地** links the manner to the action. Kenalkan **慢** màn, pelan / slow, dan **走** zǒu, berjalan / walk. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 地 (de). Stage 1: Someone is about to walk. Stage 2: They walk slowly. **地** links the manner to the action. Kenalkan **慢** màn, pelan / slow, dan **走** zǒu, berjalan / walk. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Seseorang hendak berjalan.",
+    "meaning_en": "Someone is about to walk."
   },
   {
     "id": "zh_particle_03_le",
@@ -72,7 +76,9 @@
       "s3": "The purchase is completed. Highlight immediately after.",
       "s4": "Listen to the example sentence and repeat le."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 了 (le). Stage 1: The book is still on the seller’s table. Stage 2: The purchase is completed. Highlight **了** immediately after **买** (*mǎi*, membeli / buy). Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 了 (le). Stage 1: The book is still on the seller’s table. Stage 2: The purchase is completed. Highlight **了** immediately after **买** (*mǎi*, membeli / buy). Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Buku masih di meja penjual.",
+    "meaning_en": "The book is still on the seller’s table."
   },
   {
     "id": "zh_particle_04_le",
@@ -97,7 +103,9 @@
       "s3": "It starts raining. Sentence final flags a new situation. Kenalkan secara utuh beserta xià dan yǔ.",
       "s4": "Listen to the example sentence and repeat le."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 了 (le). Stage 1: Dry ground under clouds. Stage 2: It starts raining. Sentence-final **了** flags a new situation. Kenalkan **下雨** secara utuh beserta **下** xià dan **雨** yǔ. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 了 (le). Stage 1: Dry ground under clouds. Stage 2: It starts raining. Sentence-final **了** flags a new situation. Kenalkan **下雨** secara utuh beserta **下** xià dan **雨** yǔ. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Tanah kering dan langit mendung.",
+    "meaning_en": "Dry ground under clouds."
   },
   {
     "id": "zh_particle_05_ma",
@@ -122,7 +130,9 @@
       "s3": "“Do you drink tea?” turns the statement into a yes atau no question. Kenalkan nǐ, kamu atau you, hē, minum atau drink, dan chá, teh atau tea.",
       "s4": "Listen to the example sentence and repeat ma."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 吗 (ma). Stage 1: One person drinks tea. Stage 2: “Do you drink tea?” **吗** turns the statement into a yes/no question. Kenalkan **你** nǐ, kamu / you, **喝** hē, minum / drink, dan **茶** chá, teh / tea. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 吗 (ma). Stage 1: One person drinks tea. Stage 2: “Do you drink tea?” **吗** turns the statement into a yes/no question. Kenalkan **你** nǐ, kamu / you, **喝** hē, minum / drink, dan **茶** chá, teh / tea. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Satu orang minum teh.",
+    "meaning_en": "One person drinks tea."
   },
   {
     "id": "zh_particle_06_ne",
@@ -147,7 +157,9 @@
       "s3": "“I’m reading.” highlights the ongoing situation with.",
       "s4": "Listen to the example sentence and repeat ne."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 呢 (ne). Stage 1: Someone opens a book. Stage 2: “I’m reading.” **呢** highlights the ongoing situation with **在** (*zài*, sedang / in progress here). Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 呢 (ne). Stage 1: Someone opens a book. Stage 2: “I’m reading.” **呢** highlights the ongoing situation with **在** (*zài*, sedang / in progress here). Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Orang mulai membuka buku.",
+    "meaning_en": "Someone opens a book."
   },
   {
     "id": "zh_particle_07_ne",
@@ -172,7 +184,9 @@
       "s3": "“How about you?” carries forward the previous topic. Ajarkan sebagai perluasan konteks. atau Teach as a contextual extension.",
       "s4": "Listen to the example sentence and repeat ne."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 呢 (ne). Stage 1: One friend states a choice, with both friends in frame. Stage 2: “How about you?” **呢** carries forward the previous topic. Ajarkan sebagai perluasan konteks. / Teach as a contextual extension. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 呢 (ne). Stage 1: One friend states a choice, with both friends in frame. Stage 2: “How about you?” **呢** carries forward the previous topic. Ajarkan sebagai perluasan konteks. / Teach as a contextual extension. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Seseorang menyebut pilihannya, kamera tetap pada dua teman.",
+    "meaning_en": "One friend states a choice, with both friends in frame."
   },
   {
     "id": "zh_particle_08_ba",
@@ -197,7 +211,9 @@
       "s3": "“Let’s go.” marks the suggestion. Kenalkan men sebagai penanda jamak orang. atau Introduce the human plural suffix.",
       "s4": "Listen to the example sentence and repeat ba."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 吧 (ba). Stage 1: Two friends wait by a door. Stage 2: “Let’s go.” **吧** marks the suggestion. Kenalkan **们** men sebagai penanda jamak orang. / Introduce the human plural suffix **们**. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Mandarin particle 吧 (ba). Stage 1: Two friends wait by a door. Stage 2: “Let’s go.” **吧** marks the suggestion. Kenalkan **们** men sebagai penanda jamak orang. / Introduce the human plural suffix **们**. Warm navy and terracotta brush-ink accents, clear visual contrast between before and after states, no watermarks.",
+    "meaning_id": "Dua teman menunggu di dekat pintu.",
+    "meaning_en": "Two friends wait by a door."
   },
   {
     "id": "ja_particle_01_wa",
@@ -220,7 +236,9 @@
       "s3": "The particle wa attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle は (wa). Visual action: Select one of two figures, then highlight that person as the topic as the conversation begins. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle は (wa). Visual action: Select one of two figures, then highlight that person as the topic as the conversation begins. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Pilih satu orang dari dua figur, lalu sorot dia sebagai topik ketika pembicaraan dimulai.",
+    "meaning_en": "Select one of two figures, then highlight that person as the topic as the conversation begins."
   },
   {
     "id": "ja_particle_02_ga",
@@ -243,7 +261,9 @@
       "s3": "The particle ga attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle が (ga). Visual action: Ask who is coming, then highlight the person who appears. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle が (ga). Visual action: Ask who is coming, then highlight the person who appears. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Pertanyakan siapa yang datang, lalu sorot orang yang benar benar muncul.",
+    "meaning_en": "Ask who is coming, then highlight the person who appears."
   },
   {
     "id": "ja_particle_03_o",
@@ -266,7 +286,9 @@
       "s3": "The particle o attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle を (o). Visual action: A book is on the table, then someone picks it up. Highlight the book as the object of the action. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle を (o). Visual action: A book is on the table, then someone picks it up. Highlight the book as the object of the action. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Satu buku masih di meja, lalu orang mengambilnya. Sorot buku sebagai objek tindakan.",
+    "meaning_en": "A book is on the table, then someone picks it up. Highlight the book as the object of the action."
   },
   {
     "id": "ja_particle_04_e",
@@ -289,7 +311,9 @@
       "s3": "The particle e attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle へ (e). Visual action: A person faces several possible directions, then moves toward one destination. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle へ (e). Visual action: A person faces several possible directions, then moves toward one destination. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Orang menghadap beberapa arah, lalu bergerak ke arah satu tujuan.",
+    "meaning_en": "A person faces several possible directions, then moves toward one destination."
   },
   {
     "id": "ja_particle_05_ni",
@@ -312,7 +336,9 @@
       "s3": "The particle ni attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle に (ni). Visual action: Show a destination door and an approaching person, then show the person arriving. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle に (ni). Visual action: Show a destination door and an approaching person, then show the person arriving. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Tunjukkan pintu tujuan dan orang yang mendekat, lalu orang benar benar tiba di pintu.",
+    "meaning_en": "Show a destination door and an approaching person, then show the person arriving."
   },
   {
     "id": "ja_particle_06_de",
@@ -335,7 +361,9 @@
       "s3": "The particle de attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle で (de). Visual action: Show a table, then show someone doing an activity there. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle で (de). Visual action: Show a table, then show someone doing an activity there. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Tunjukkan sebuah meja, lalu orang melakukan kegiatan di tempat itu.",
+    "meaning_en": "Show a table, then show someone doing an activity there."
   },
   {
     "id": "ja_particle_07_no",
@@ -358,7 +386,9 @@
       "s3": "The particle no attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle の (no). Visual action: Show two items, then have the owner pick up one. Highlight the owner–item link. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle の (no). Visual action: Show two items, then have the owner pick up one. Highlight the owner–item link. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Tampilkan dua barang, lalu pemilik mengambil salah satunya. Sorot hubungan pemilik dan barang.",
+    "meaning_en": "Show two items, then have the owner pick up one. Highlight the owner item link."
   },
   {
     "id": "ja_particle_08_mo",
@@ -381,7 +411,9 @@
       "s3": "The particle mo attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle も (mo). Visual action: One person chooses tea, and a second chooses tea too. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle も (mo). Visual action: One person chooses tea, and a second chooses tea too. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Orang pertama memilih teh dan orang kedua memilih teh juga.",
+    "meaning_en": "One person chooses tea, and a second chooses tea too."
   },
   {
     "id": "ja_particle_09_to",
@@ -404,7 +436,9 @@
       "s3": "The particle to attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle と (to). Visual action: Two glasses begin apart, then are served together. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle と (to). Visual action: Two glasses begin apart, then are served together. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Dua gelas terpisah, lalu disajikan bersama.",
+    "meaning_en": "Two glasses begin apart, then are served together."
   },
   {
     "id": "ja_particle_10_ka",
@@ -427,6 +461,8 @@
       "s3": "The particle ka attaches right after the word it marks.",
       "s4": "Listen to the Japanese example and repeat."
     },
-    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle か (ka). Visual action: One person states a simple fact, then the listener turns it into a question. Warm navy and terracotta brush-ink accents, clean composition, no watermarks."
+    "image_prompt": "Minimalist 9:16 two-beat editorial grammar illustration on warm cream rice paper (#F9F5EC) for Japanese particle か (ka). Visual action: One person states a simple fact, then the listener turns it into a question. Warm navy and terracotta brush-ink accents, clean composition, no watermarks.",
+    "meaning_id": "Seorang menyatakan fakta sederhana, lalu lawan bicara menjadikannya pertanyaan.",
+    "meaning_en": "One person states a simple fact, then the listener turns it into a question."
   }
 ]

@@ -1,0 +1,14 @@
+{
+  "slug": "baybayin",
+  "omniglot_url": "https://omniglot.com/writing/baybayin.htm",
+  "title": "Baybayin Script",
+  "at_a_glance": [],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: Abugida / Syllabic Alphabet in which each consonant has an inherent vowel /a/. Other vowels are indicated either by separate letters, or by dots - a dot over a consonant changes the vowels to an /i/ or and /e/, while a dot under a consonant changes the vowel to /o/ or /u/.",
+    "The inherent vowel is muted by adding a + sign beneath a consonant. This innovation was introduced by the Spanish.",
+    "Writing direction: left to right in horizontal lines.",
+    "Script family: Proto-Sinaitic, Phoenician, Aramaic, Brāhmī, Tamil-Brahmi, Pallava, Kawi, Baybayin"
+  ],
+  "sample_text": []
+}

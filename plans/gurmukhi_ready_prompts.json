@@ -1,0 +1,904 @@
+[
+  {
+    "id": "gurmukhi_01",
+    "glyph": "ੳ",
+    "reading": "ura",
+    "meaning_id": "pembawa vokal u dan o",
+    "meaning_en": "vowel bearer u o",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/01_ura.png",
+    "tts_id": {
+      "s1": "Huruf ura, pembawa vokal u dan o.",
+      "s2": "Bayangkan tiga lengkung membulat tanpa tutup atap kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ura."
+    },
+    "tts_en": {
+      "s1": "Character ura, vowel bearer u o.",
+      "s2": "Picture triple arch open on top right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ura."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ੳ (ura) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple arch open on top right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_02",
+    "glyph": "ਅ",
+    "reading": "aira",
+    "meaning_id": "vokal pendek a",
+    "meaning_en": "short a",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/02_aira.png",
+    "tts_id": {
+      "s1": "Huruf aira, vokal pendek a.",
+      "s2": "Bayangkan angka tiga di bawah garis atap bertiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aira."
+    },
+    "tts_en": {
+      "s1": "Character aira, short a.",
+      "s2": "Picture three loop under top bar with right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, aira."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਅ (aira) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three loop under top bar with right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_03",
+    "glyph": "ੲ",
+    "reading": "iri",
+    "meaning_id": "pembawa vokal i dan e",
+    "meaning_en": "vowel bearer i e",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/03_iri.png",
+    "tts_id": {
+      "s1": "Huruf iri, pembawa vokal i dan e.",
+      "s2": "Bayangkan kubah bersih dengan simpul melingkar bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, iri."
+    },
+    "tts_en": {
+      "s1": "Character iri, vowel bearer i e.",
+      "s2": "Picture clean dome curling below.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, iri."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ੲ (iri) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean dome curling below in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_04",
+    "glyph": "ਸ",
+    "reading": "sassa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/04_sassa.png",
+    "tts_id": {
+      "s1": "Huruf sassa, sa.",
+      "s2": "Bayangkan dua lengkung berjembatan dengan tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sassa."
+    },
+    "tts_en": {
+      "s1": "Character sassa, sa.",
+      "s2": "Picture bridged double curve into post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sassa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਸ (sassa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bridged double curve into post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_05",
+    "glyph": "ਹ",
+    "reading": "haha",
+    "meaning_id": "ha",
+    "meaning_en": "ha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/05_haha.png",
+    "tts_id": {
+      "s1": "Huruf haha, ha.",
+      "s2": "Bayangkan garis pendek berbelok ke kiri bawah atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, haha."
+    },
+    "tts_en": {
+      "s1": "Character haha, ha.",
+      "s2": "Picture short hook turning left under bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, haha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਹ (haha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating short hook turning left under bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_06",
+    "glyph": "ਕ",
+    "reading": "kakka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/06_kakka.png",
+    "tts_id": {
+      "s1": "Huruf kakka, ka.",
+      "s2": "Bayangkan tiang tegak membelah lengkung bulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kakka."
+    },
+    "tts_en": {
+      "s1": "Character kakka, ka.",
+      "s2": "Picture upright post crossing a rounded loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, kakka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਕ (kakka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright post crossing a rounded loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_07",
+    "glyph": "ਖ",
+    "reading": "khakha",
+    "meaning_id": "kha",
+    "meaning_en": "kha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/07_khakha.png",
+    "tts_id": {
+      "s1": "Huruf khakha, kha.",
+      "s2": "Bayangkan huruf pa dibelah palang datar tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, khakha."
+    },
+    "tts_en": {
+      "s1": "Character khakha, kha.",
+      "s2": "Picture pa frame crossed by a horizontal bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, khakha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਖ (khakha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa frame crossed by a horizontal bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_08",
+    "glyph": "ਗ",
+    "reading": "gagga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/08_gagga.png",
+    "tts_id": {
+      "s1": "Huruf gagga, ga.",
+      "s2": "Bayangkan kail melingkar di samping tiang lurus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gagga."
+    },
+    "tts_en": {
+      "s1": "Character gagga, ga.",
+      "s2": "Picture looped hook beside straight post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, gagga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਗ (gagga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating looped hook beside straight post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_09",
+    "glyph": "ਘ",
+    "reading": "ghagga",
+    "meaning_id": "gha",
+    "meaning_en": "gha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/09_ghagga.png",
+    "tts_id": {
+      "s1": "Huruf ghagga, gha.",
+      "s2": "Bayangkan dua lengkung ombak bertemu tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ghagga."
+    },
+    "tts_en": {
+      "s1": "Character ghagga, gha.",
+      "s2": "Picture twin wave arches joining right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ghagga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਘ (ghagga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin wave arches joining right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_10",
+    "glyph": "ਙ",
+    "reading": "nganga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/10_nganga.png",
+    "tts_id": {
+      "s1": "Huruf nganga, nga.",
+      "s2": "Bayangkan kail sudut bertingkat di bawah garis atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nganga."
+    },
+    "tts_en": {
+      "s1": "Character nganga, nga.",
+      "s2": "Picture stepped hook under top bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nganga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਙ (nganga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stepped hook under top bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_11",
+    "glyph": "ਚ",
+    "reading": "chacha",
+    "meaning_id": "ca",
+    "meaning_en": "cha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/11_chacha.png",
+    "tts_id": {
+      "s1": "Huruf chacha, ca.",
+      "s2": "Bayangkan tiang dengan mangkuk bulat di bawah kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chacha."
+    },
+    "tts_en": {
+      "s1": "Character chacha, cha.",
+      "s2": "Picture post with lower left belly loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, chacha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਚ (chacha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating post with lower left belly loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_12",
+    "glyph": "ਛ",
+    "reading": "chhacha",
+    "meaning_id": "cha berhembus",
+    "meaning_en": "aspirated chha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/12_chhacha.png",
+    "tts_id": {
+      "s1": "Huruf chhacha, cha berhembus.",
+      "s2": "Bayangkan lengkung ganda menutup ke kiri bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chhacha."
+    },
+    "tts_en": {
+      "s1": "Character chhacha, aspirated chha.",
+      "s2": "Picture double arch curling lower left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, chhacha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਛ (chhacha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch curling lower left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_13",
+    "glyph": "ਜ",
+    "reading": "jajja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/13_jajja.png",
+    "tts_id": {
+      "s1": "Huruf jajja, ja.",
+      "s2": "Bayangkan gelombang melengkung menjorok ke kiri atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jajja."
+    },
+    "tts_en": {
+      "s1": "Character jajja, ja.",
+      "s2": "Picture wave arch under extended bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, jajja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਜ (jajja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wave arch under extended bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_14",
+    "glyph": "ਝ",
+    "reading": "jhajja",
+    "meaning_id": "jha",
+    "meaning_en": "jha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/14_jhajja.png",
+    "tts_id": {
+      "s1": "Huruf jhajja, jha.",
+      "s2": "Bayangkan simpul melingkar berakhir siku tajam bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jhajja."
+    },
+    "tts_en": {
+      "s1": "Character jhajja, jha.",
+      "s2": "Picture spiral loop ending in crisp base.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, jhajja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਝ (jhajja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiral loop ending in crisp base in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_15",
+    "glyph": "ਞ",
+    "reading": "nyanya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/15_nyanya.png",
+    "tts_id": {
+      "s1": "Huruf nyanya, nya.",
+      "s2": "Bayangkan lengkung terbuka dengan sayap tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nyanya."
+    },
+    "tts_en": {
+      "s1": "Character nyanya, nya.",
+      "s2": "Picture open arch meeting right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nyanya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਞ (nyanya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open arch meeting right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_16",
+    "glyph": "ਟ",
+    "reading": "tainka",
+    "meaning_id": "ta retrofleks",
+    "meaning_en": "retroflex ta",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/16_tainka.png",
+    "tts_id": {
+      "s1": "Huruf tainka, ta retrofleks.",
+      "s2": "Bayangkan cangkir setengah lingkaran tergantung di atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tainka."
+    },
+    "tts_en": {
+      "s1": "Character tainka, retroflex ta.",
+      "s2": "Picture cup hanging under top bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tainka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਟ (tainka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating cup hanging under top bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_17",
+    "glyph": "ਠ",
+    "reading": "thatha",
+    "meaning_id": "tha retrofleks",
+    "meaning_en": "aspirated retroflex tha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/17_thatha.png",
+    "tts_id": {
+      "s1": "Huruf thatha, tha retrofleks.",
+      "s2": "Bayangkan lingkaran penuh bersih di bawah garis atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, thatha."
+    },
+    "tts_en": {
+      "s1": "Character thatha, aspirated retroflex tha.",
+      "s2": "Picture clean circle under top bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, thatha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਠ (thatha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean circle under top bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_18",
+    "glyph": "ਡ",
+    "reading": "dada",
+    "meaning_id": "da retrofleks",
+    "meaning_en": "retroflex da",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/18_dada.png",
+    "tts_id": {
+      "s1": "Huruf dada, da retrofleks.",
+      "s2": "Bayangkan lengkung angka tiga terbuka ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dada."
+    },
+    "tts_en": {
+      "s1": "Character dada, retroflex da.",
+      "s2": "Picture open three curve facing left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dada."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਡ (dada) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open three curve facing left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_19",
+    "glyph": "ਢ",
+    "reading": "dhada",
+    "meaning_id": "dha retrofleks",
+    "meaning_en": "aspirated retroflex dha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/19_dhada.png",
+    "tts_id": {
+      "s1": "Huruf dhada, dha retrofleks.",
+      "s2": "Bayangkan perut bulat dengan puncak tertutup atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dhada."
+    },
+    "tts_en": {
+      "s1": "Character dhada, aspirated retroflex dha.",
+      "s2": "Picture round belly crowned by top bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dhada."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਢ (dhada) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round belly crowned by top bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_20",
+    "glyph": "ਣ",
+    "reading": "nana",
+    "meaning_id": "na retrofleks",
+    "meaning_en": "retroflex na",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/20_nana.png",
+    "tts_id": {
+      "s1": "Huruf nana, na retrofleks.",
+      "s2": "Bayangkan dua bukit lembut dengan simpul bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nana."
+    },
+    "tts_en": {
+      "s1": "Character nana, retroflex na.",
+      "s2": "Picture twin soft arches with lower curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nana."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਣ (nana) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin soft arches with lower curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_21",
+    "glyph": "ਤ",
+    "reading": "tatta",
+    "meaning_id": "ta gigi",
+    "meaning_en": "dental ta",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/21_tatta.png",
+    "tts_id": {
+      "s1": "Huruf tatta, ta gigi.",
+      "s2": "Bayangkan tiga lengkung turun dari garis atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tatta."
+    },
+    "tts_en": {
+      "s1": "Character tatta, dental ta.",
+      "s2": "Picture triple curve descending from bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tatta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਤ (tatta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple curve descending from bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_22",
+    "glyph": "ਥ",
+    "reading": "thatha gigi",
+    "meaning_id": "tha gigi",
+    "meaning_en": "aspirated dental tha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/22_thatha_gigi.png",
+    "tts_id": {
+      "s1": "Huruf thatha gigi, tha gigi.",
+      "s2": "Bayangkan perut kotak terbuka disambung atap penuh.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, thatha gigi."
+    },
+    "tts_en": {
+      "s1": "Character thatha gigi, aspirated dental tha.",
+      "s2": "Picture joined arch box under top bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, thatha gigi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਥ (thatha gigi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating joined arch box under top bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_23",
+    "glyph": "ਦ",
+    "reading": "dada gigi",
+    "meaning_id": "da gigi",
+    "meaning_en": "dental da",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/23_dada_gigi.png",
+    "tts_id": {
+      "s1": "Huruf dada gigi, da gigi.",
+      "s2": "Bayangkan lengkung C berujung ekor turun kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dada gigi."
+    },
+    "tts_en": {
+      "s1": "Character dada gigi, dental da.",
+      "s2": "Picture C curve ending in lower drop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dada gigi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਦ (dada gigi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating C curve ending in lower drop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_24",
+    "glyph": "ਧ",
+    "reading": "dhada gigi",
+    "meaning_id": "dha gigi",
+    "meaning_en": "aspirated dental dha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/24_dhada_gigi.png",
+    "tts_id": {
+      "s1": "Huruf dhada gigi, dha gigi.",
+      "s2": "Bayangkan lengkung tertutup penuh dengan palang dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dhada gigi."
+    },
+    "tts_en": {
+      "s1": "Character dhada gigi, aspirated dental dha.",
+      "s2": "Picture closed bowl with inner crossbar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dhada gigi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਧ (dhada gigi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating closed bowl with inner crossbar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_25",
+    "glyph": "ਨ",
+    "reading": "nanna",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/25_nanna.png",
+    "tts_id": {
+      "s1": "Huruf nanna, na.",
+      "s2": "Bayangkan tiang dengan simpul melingkar di kiri bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nanna."
+    },
+    "tts_en": {
+      "s1": "Character nanna, na.",
+      "s2": "Picture post with small left lower curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nanna."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਨ (nanna) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating post with small left lower curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_26",
+    "glyph": "ਪ",
+    "reading": "pappa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/26_pappa.png",
+    "tts_id": {
+      "s1": "Huruf pappa, pa.",
+      "s2": "Bayangkan mangkuk kotak bersandar pada tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pappa."
+    },
+    "tts_en": {
+      "s1": "Character pappa, pa.",
+      "s2": "Picture open square bowl on right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pappa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਪ (pappa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open square bowl on right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_27",
+    "glyph": "ਫ",
+    "reading": "phapha",
+    "meaning_id": "pha",
+    "meaning_en": "pha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/27_phapha.png",
+    "tts_id": {
+      "s1": "Huruf phapha, pha.",
+      "s2": "Bayangkan lengkung terbuka dengan sayap kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, phapha."
+    },
+    "tts_en": {
+      "s1": "Character phapha, pha.",
+      "s2": "Picture open arch with lower right tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, phapha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਫ (phapha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open arch with lower right tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_28",
+    "glyph": "ਬ",
+    "reading": "babba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/28_babba.png",
+    "tts_id": {
+      "s1": "Huruf babba, ba.",
+      "s2": "Bayangkan mangkuk bulat bersambung garis miring dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, babba."
+    },
+    "tts_en": {
+      "s1": "Character babba, ba.",
+      "s2": "Picture round arch with inner slant.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, babba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਬ (babba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round arch with inner slant in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_29",
+    "glyph": "ਭ",
+    "reading": "bhabha",
+    "meaning_id": "bha",
+    "meaning_en": "bha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/29_bhabha.png",
+    "tts_id": {
+      "s1": "Huruf bhabha, bha.",
+      "s2": "Bayangkan simpul angka tiga berbalik ke tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bhabha."
+    },
+    "tts_en": {
+      "s1": "Character bhabha, bha.",
+      "s2": "Picture curled arch meeting right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, bhabha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਭ (bhabha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curled arch meeting right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_30",
+    "glyph": "ਮ",
+    "reading": "mamma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/30_mamma.png",
+    "tts_id": {
+      "s1": "Huruf mamma, ma.",
+      "s2": "Bayangkan simpul kecil berbelok ke tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, mamma."
+    },
+    "tts_en": {
+      "s1": "Character mamma, ma.",
+      "s2": "Picture small loop into right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, mamma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਮ (mamma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small loop into right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_31",
+    "glyph": "ਯ",
+    "reading": "yayya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/31_yayya.png",
+    "tts_id": {
+      "s1": "Huruf yayya, ya.",
+      "s2": "Bayangkan perut kanan bertemu dua lekuk kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yayya."
+    },
+    "tts_en": {
+      "s1": "Character yayya, ya.",
+      "s2": "Picture right belly meeting twin dips.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, yayya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਯ (yayya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating right belly meeting twin dips in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_32",
+    "glyph": "ਰ",
+    "reading": "rara",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/32_rara.png",
+    "tts_id": {
+      "s1": "Huruf rara, ra.",
+      "s2": "Bayangkan sudut siku sederhana tanpa ekor bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rara."
+    },
+    "tts_en": {
+      "s1": "Character rara, ra.",
+      "s2": "Picture clean angle corner under bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, rara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਰ (rara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean angle corner under bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_33",
+    "glyph": "ਲ",
+    "reading": "lalla",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/33_lalla.png",
+    "tts_id": {
+      "s1": "Huruf lalla, la.",
+      "s2": "Bayangkan dua tiang berpayung dua lengkung atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lalla."
+    },
+    "tts_en": {
+      "s1": "Character lalla, la.",
+      "s2": "Picture twin posts under paired arches.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, lalla."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਲ (lalla) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin posts under paired arches in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_34",
+    "glyph": "ਵ",
+    "reading": "vava",
+    "meaning_id": "va atau wa",
+    "meaning_en": "va or wa",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/34_vava.png",
+    "tts_id": {
+      "s1": "Huruf vava, va atau wa.",
+      "s2": "Bayangkan kail dengan garis datar penutup bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, vava."
+    },
+    "tts_en": {
+      "s1": "Character vava, va or wa.",
+      "s2": "Picture curved hook with flat base.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, vava."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਵ (vava) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved hook with flat base in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_35",
+    "glyph": "ੜ",
+    "reading": "rara keras",
+    "meaning_id": "r sentak lidah atas",
+    "meaning_en": "retroflex rra",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/35_rara_keras.png",
+    "tts_id": {
+      "s1": "Huruf rara keras, r sentak lidah atas.",
+      "s2": "Bayangkan lengkung tiga berujung ekor miring bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rara keras."
+    },
+    "tts_en": {
+      "s1": "Character rara keras, retroflex rra.",
+      "s2": "Picture three curve with lower tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, rara keras."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ੜ (rara keras) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three curve with lower tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_36",
+    "glyph": "ਸ਼",
+    "reading": "shasha",
+    "meaning_id": "sha",
+    "meaning_en": "sha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/36_shasha.png",
+    "tts_id": {
+      "s1": "Huruf shasha, sha.",
+      "s2": "Bayangkan huruf sassa bertitik bindi di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, shasha."
+    },
+    "tts_en": {
+      "s1": "Character shasha, sha.",
+      "s2": "Picture sassa with lower bindi dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, shasha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਸ਼ (shasha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sassa with lower bindi dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_37",
+    "glyph": "ਖ਼",
+    "reading": "khakha bindi",
+    "meaning_id": "kh gesek",
+    "meaning_en": "uvular kh",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/37_khakha_bindi.png",
+    "tts_id": {
+      "s1": "Huruf khakha bindi, kh gesek.",
+      "s2": "Bayangkan khakha bertitik bindi di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, khakha bindi."
+    },
+    "tts_en": {
+      "s1": "Character khakha bindi, uvular kh.",
+      "s2": "Picture khakha with lower bindi dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, khakha bindi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਖ਼ (khakha bindi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating khakha with lower bindi dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_38",
+    "glyph": "ਗ਼",
+    "reading": "gagga bindi",
+    "meaning_id": "gh gesek",
+    "meaning_en": "uvular gh",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/38_gagga_bindi.png",
+    "tts_id": {
+      "s1": "Huruf gagga bindi, gh gesek.",
+      "s2": "Bayangkan gagga bertitik bindi di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gagga bindi."
+    },
+    "tts_en": {
+      "s1": "Character gagga bindi, uvular gh.",
+      "s2": "Picture gagga with lower bindi dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, gagga bindi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਗ਼ (gagga bindi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating gagga with lower bindi dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_39",
+    "glyph": "ਜ਼",
+    "reading": "jajja bindi",
+    "meaning_id": "za",
+    "meaning_en": "z sound",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/39_jajja_bindi.png",
+    "tts_id": {
+      "s1": "Huruf jajja bindi, za.",
+      "s2": "Bayangkan jajja bertitik bindi di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jajja bindi."
+    },
+    "tts_en": {
+      "s1": "Character jajja bindi, z sound.",
+      "s2": "Picture jajja with lower bindi dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, jajja bindi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਜ਼ (jajja bindi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating jajja with lower bindi dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_40",
+    "glyph": "ਫ਼",
+    "reading": "phapha bindi",
+    "meaning_id": "fa",
+    "meaning_en": "f sound",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/40_phapha_bindi.png",
+    "tts_id": {
+      "s1": "Huruf phapha bindi, fa.",
+      "s2": "Bayangkan phapha bertitik bindi di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, phapha bindi."
+    },
+    "tts_en": {
+      "s1": "Character phapha bindi, f sound.",
+      "s2": "Picture phapha with lower bindi dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, phapha bindi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਫ਼ (phapha bindi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating phapha with lower bindi dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gurmukhi_41",
+    "glyph": "ਲ਼",
+    "reading": "lalla bindi",
+    "meaning_id": "l retrofleks",
+    "meaning_en": "retroflex l",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_gurmukhi/41_lalla_bindi.png",
+    "tts_id": {
+      "s1": "Huruf lalla bindi, l retrofleks.",
+      "s2": "Bayangkan lalla bertitik bindi di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lalla bindi."
+    },
+    "tts_en": {
+      "s1": "Character lalla bindi, retroflex l.",
+      "s2": "Picture lalla with lower bindi dot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, lalla bindi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gurmukhi character ਲ਼ (lalla bindi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating lalla with lower bindi dot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

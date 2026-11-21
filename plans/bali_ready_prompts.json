@@ -1,0 +1,530 @@
+[
+  {
+    "id": "balinese_01",
+    "glyph": "ᬳ",
+    "reading": "ha",
+    "meaning_id": "ha atau a",
+    "meaning_en": "ha or a",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/01_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha atau a.",
+      "s2": "Bayangkan dua lengkung bulat berujung ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha or a.",
+      "s2": "Picture twin round arches ending right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬳ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin round arches ending right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_02",
+    "glyph": "ᬦ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/02_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan kubah sederhana berakhir dua kaki rapi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture clean dome with two even feet.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬦ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean dome with two even feet in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_03",
+    "glyph": "ᬘ",
+    "reading": "ca",
+    "meaning_id": "ca",
+    "meaning_en": "cha",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/03_ca.png",
+    "tts_id": {
+      "s1": "Huruf ca, ca.",
+      "s2": "Bayangkan lingkaran kiri naik menjadi kail melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ca."
+    },
+    "tts_en": {
+      "s1": "Character ca, cha.",
+      "s2": "Picture left curl rising into a graceful arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ca."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬘ (ca) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left curl rising into a graceful arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_04",
+    "glyph": "ᬭ",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/04_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan dua kaki melengkung terbuka ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture two curved arches open downward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬭ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two curved arches open downward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_05",
+    "glyph": "ᬓ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/05_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan tiga lengkung bunga teratai seimbang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture three balanced lotus petal arches.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬓ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three balanced lotus petal arches in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_06",
+    "glyph": "ᬤ",
+    "reading": "da",
+    "meaning_id": "da",
+    "meaning_en": "da",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/06_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da.",
+      "s2": "Bayangkan ombak halus melingkar ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da.",
+      "s2": "Picture smooth wave curling inward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬤ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth wave curling inward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_07",
+    "glyph": "ᬢ",
+    "reading": "ta",
+    "meaning_id": "ta",
+    "meaning_en": "ta",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/07_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta.",
+      "s2": "Bayangkan tiga lengkung dengan ekor masuk di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture triple arch folding inward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬢ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple arch folding inward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_08",
+    "glyph": "ᬲ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/08_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan gerbang ganda bersayap luar seimbang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture paired arch with outer wings.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬲ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired arch with outer wings in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_09",
+    "glyph": "ᬯ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/09_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan kubah tunggal terbuka ke kiri bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture single arch open down left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬯ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single arch open down left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_10",
+    "glyph": "ᬮ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/10_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan lengkung daun lebar berbelok kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture wide leaf curve sweeping right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬮ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide leaf curve sweeping right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_11",
+    "glyph": "ᬫ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/11_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan simpul oval bersih terbuka di sisi atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture round loop open toward top.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬫ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round loop open toward top in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_12",
+    "glyph": "ᬕ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/12_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan kubah lebar berlekuk manis di puncak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture smooth scalloped dome.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬕ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth scalloped dome in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_13",
+    "glyph": "ᬩ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/13_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan dua lengkung tinggi melingkar simetris.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture tall symmetrical twin arches.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬩ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall symmetrical twin arches in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_14",
+    "glyph": "ᬗ",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/14_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan kail sederhana melingkar ke kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture simple arch curving down right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬗ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple arch curving down right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_15",
+    "glyph": "ᬧ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/15_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan mangkuk terbalik dengan dua kaki seimbang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture inverted bowl with balanced feet.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬧ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating inverted bowl with balanced feet in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_16",
+    "glyph": "ᬚ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/16_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan ombak bergulung di kiri lalu naik kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture left curl sweeping up right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬚ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left curl sweeping up right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_17",
+    "glyph": "ᬬ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/17_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan tiga ombak lembut menyerupai gelombang air.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture triple water wave arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬬ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple water wave arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_18",
+    "glyph": "ᬜ",
+    "reading": "nya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/18_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, nya.",
+      "s2": "Bayangkan kubah kembar dengan lingkaran ekor dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture twin arch with inner curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬜ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arch with inner curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_19",
+    "glyph": "ᬅ",
+    "reading": "A kara",
+    "meaning_id": "vokal a",
+    "meaning_en": "vowel a",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/19_a_kara.png",
+    "tts_id": {
+      "s1": "Huruf A kara, vokal a.",
+      "s2": "Bayangkan simpul angka tiga berdiri tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, A kara."
+    },
+    "tts_en": {
+      "s1": "Character A kara, vowel a.",
+      "s2": "Picture upright triple loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, A kara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬅ (A kara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright triple loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_20",
+    "glyph": "ᬇ",
+    "reading": "I kara",
+    "meaning_id": "vokal i",
+    "meaning_en": "vowel i",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/20_i_kara.png",
+    "tts_id": {
+      "s1": "Huruf I kara, vokal i.",
+      "s2": "Bayangkan tiga bukit kecil bertangkai kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, I kara."
+    },
+    "tts_en": {
+      "s1": "Character I kara, vowel i.",
+      "s2": "Picture three small peaks with right stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, I kara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬇ (I kara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three small peaks with right stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_21",
+    "glyph": "ᬉ",
+    "reading": "U kara",
+    "meaning_id": "vokal u",
+    "meaning_en": "vowel u",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/21_u_kara.png",
+    "tts_id": {
+      "s1": "Huruf U kara, vokal u.",
+      "s2": "Bayangkan lengkung bunga bertopi lengkung atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, U kara."
+    },
+    "tts_en": {
+      "s1": "Character U kara, vowel u.",
+      "s2": "Picture blossom curve with top crest.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, U kara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬉ (U kara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating blossom curve with top crest in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_22",
+    "glyph": "ᬏ",
+    "reading": "E kara",
+    "meaning_id": "vokal e",
+    "meaning_en": "vowel e",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/22_e_kara.png",
+    "tts_id": {
+      "s1": "Huruf E kara, vokal e.",
+      "s2": "Bayangkan ekor spiral menjulang ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, E kara."
+    },
+    "tts_en": {
+      "s1": "Character E kara, vowel e.",
+      "s2": "Picture rising spiral curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, E kara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬏ (E kara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rising spiral curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_23",
+    "glyph": "ᬑ",
+    "reading": "O kara",
+    "meaning_id": "vokal o",
+    "meaning_en": "vowel o",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/23_o_kara.png",
+    "tts_id": {
+      "s1": "Huruf O kara, vokal o.",
+      "s2": "Bayangkan vokal e disertai gelombang ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, O kara."
+    },
+    "tts_en": {
+      "s1": "Character O kara, vowel o.",
+      "s2": "Picture e spiral with right wave tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, O kara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬑ (O kara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating e spiral with right wave tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "balinese_24",
+    "glyph": "ᬋ",
+    "reading": "Ra repa",
+    "meaning_id": "bunyi re klasik",
+    "meaning_en": "vocalic re",
+    "voice_target": "id-ID-GadisNeural",
+    "template_path": "templates_balinese/24_ra_repa.png",
+    "tts_id": {
+      "s1": "Huruf Ra repa, bunyi re klasik.",
+      "s2": "Bayangkan huruf pa bertangkai lidah melingkar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, Ra repa."
+    },
+    "tts_en": {
+      "s1": "Character Ra repa, vocalic re.",
+      "s2": "Picture pa arch with curled inner tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, Ra repa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of balinese character ᬋ (Ra repa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa arch with curled inner tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

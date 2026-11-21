@@ -18,7 +18,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, a."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character अ (a) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating three-curve resting on a vertical post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character अ (a) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating three-curve resting on a vertical post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari a",
+    "meaning_en": "Devanagari vowel a"
   },
   {
     "id": "hi_02_aa",
@@ -39,7 +41,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, aa."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character आ (aa) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating a-shape with an extra tall pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character आ (aa) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating a-shape with an extra tall pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari aa",
+    "meaning_en": "Devanagari vowel aa"
   },
   {
     "id": "hi_03_i",
@@ -60,7 +64,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, i."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character इ (i) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating S-curve dipping down into a tail in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character इ (i) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating S-curve dipping down into a tail in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari i",
+    "meaning_en": "Devanagari vowel i"
   },
   {
     "id": "hi_04_ii",
@@ -81,7 +87,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ii."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ई (ii) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating i-shape crowned with a top curl in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ई (ii) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating i-shape crowned with a top curl in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari ii",
+    "meaning_en": "Devanagari vowel ii"
   },
   {
     "id": "hi_05_u",
@@ -102,7 +110,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, u."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character उ (u) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating double curve like a playful three in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character उ (u) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating double curve like a playful three in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari u",
+    "meaning_en": "Devanagari vowel u"
   },
   {
     "id": "hi_06_uu",
@@ -123,7 +133,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, uu."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ऊ (uu) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating u-shape with a sweeping right tail in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ऊ (uu) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating u-shape with a sweeping right tail in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari uu",
+    "meaning_en": "Devanagari vowel uu"
   },
   {
     "id": "hi_07_ri",
@@ -144,7 +156,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ri."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ऋ (ri) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating knotted loop beside a tall post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ऋ (ri) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating knotted loop beside a tall post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari ri",
+    "meaning_en": "Devanagari vowel ri"
   },
   {
     "id": "hi_08_e",
@@ -165,7 +179,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, e."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ए (e) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating bent leg stepping down from the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ए (e) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating bent leg stepping down from the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari e",
+    "meaning_en": "Devanagari vowel e"
   },
   {
     "id": "hi_09_ai",
@@ -186,7 +202,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ai."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ऐ (ai) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating e-shape flying a single top flag in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ऐ (ai) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating e-shape flying a single top flag in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari ai",
+    "meaning_en": "Devanagari vowel ai"
   },
   {
     "id": "hi_10_o",
@@ -207,7 +225,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, o."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ओ (o) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating aa-shape flying one top flag in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ओ (o) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating aa-shape flying one top flag in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari o",
+    "meaning_en": "Devanagari vowel o"
   },
   {
     "id": "hi_11_au",
@@ -228,7 +248,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, au."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character औ (au) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating aa-shape flying two top flags in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character औ (au) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating aa-shape flying two top flags in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari au",
+    "meaning_en": "Devanagari vowel au"
   },
   {
     "id": "hi_12_am",
@@ -249,7 +271,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, am."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character अं (am) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small dot floating above the bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character अं (am) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small dot floating above the bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari am",
+    "meaning_en": "Devanagari vowel am"
   },
   {
     "id": "hi_13_ah",
@@ -270,7 +294,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ah."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character अः (ah) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating twin vertical dots on the right in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character अः (ah) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating twin vertical dots on the right in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "vokal Devanagari ah",
+    "meaning_en": "Devanagari vowel ah"
   },
   {
     "id": "hi_14_ka",
@@ -291,7 +317,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ka."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character क (ka) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating loop on the left post with a right arch in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character क (ka) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating loop on the left post with a right arch in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ka",
+    "meaning_en": "Devanagari consonant ka"
   },
   {
     "id": "hi_15_kha",
@@ -312,7 +340,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, kha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ख (kha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating open sweep linking into a vertical post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ख (kha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating open sweep linking into a vertical post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari kha",
+    "meaning_en": "Devanagari consonant kha"
   },
   {
     "id": "hi_16_ga",
@@ -333,7 +363,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ga."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ग (ga) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating hanging hook beside a straight pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ग (ga) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating hanging hook beside a straight pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ga",
+    "meaning_en": "Devanagari consonant ga"
   },
   {
     "id": "hi_17_gha",
@@ -354,7 +386,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, gha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character घ (gha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating two terraced curves meeting the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character घ (gha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating two terraced curves meeting the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari gha",
+    "meaning_en": "Devanagari consonant gha"
   },
   {
     "id": "hi_18_nga",
@@ -375,7 +409,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, nga."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ङ (nga) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating S-curve with a side dot in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ङ (nga) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating S-curve with a side dot in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari nga",
+    "meaning_en": "Devanagari consonant nga"
   },
   {
     "id": "hi_19_ca",
@@ -396,7 +432,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ca."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character च (ca) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small spoon reaching to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character च (ca) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small spoon reaching to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ca",
+    "meaning_en": "Devanagari consonant ca"
   },
   {
     "id": "hi_20_cha",
@@ -417,7 +455,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, cha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character छ (cha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating double round curve with top loop in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character छ (cha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating double round curve with top loop in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari cha",
+    "meaning_en": "Devanagari consonant cha"
   },
   {
     "id": "hi_21_ja",
@@ -438,7 +478,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ja."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ज (ja) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating bowl bridged horizontally to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ज (ja) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating bowl bridged horizontally to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ja",
+    "meaning_en": "Devanagari consonant ja"
   },
   {
     "id": "hi_22_jha",
@@ -459,7 +501,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, jha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character झ (jha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating i-shape bridged to a tall pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character झ (jha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating i-shape bridged to a tall pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari jha",
+    "meaning_en": "Devanagari consonant jha"
   },
   {
     "id": "hi_23_nya",
@@ -480,7 +524,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, nya."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ञ (nya) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating open curve facing the right pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ञ (nya) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating open curve facing the right pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari nya",
+    "meaning_en": "Devanagari consonant nya"
   },
   {
     "id": "hi_24_ta_retro",
@@ -501,7 +547,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ta."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ट (ta) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating half-circle cup under a short neck in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ट (ta) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating half-circle cup under a short neck in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ta",
+    "meaning_en": "Devanagari consonant ta"
   },
   {
     "id": "hi_25_tha_retro",
@@ -522,7 +570,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, tha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ठ (tha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating full circle hanging from the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ठ (tha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating full circle hanging from the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari tha",
+    "meaning_en": "Devanagari consonant tha"
   },
   {
     "id": "hi_26_da_retro",
@@ -543,7 +593,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, da."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ड (da) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating S-shape hanging under the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ड (da) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating S-shape hanging under the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari da",
+    "meaning_en": "Devanagari consonant da"
   },
   {
     "id": "hi_27_dha_retro",
@@ -564,7 +616,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, dha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ढ (dha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating C-curve ending in a round curl in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ढ (dha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating C-curve ending in a round curl in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari dha",
+    "meaning_en": "Devanagari consonant dha"
   },
   {
     "id": "hi_28_na_retro",
@@ -585,7 +639,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, na."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ण (na) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating U-curve beside a straight pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ण (na) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating U-curve beside a straight pillar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari na",
+    "meaning_en": "Devanagari consonant na"
   },
   {
     "id": "hi_29_ta",
@@ -606,7 +662,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ta."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character त (ta) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating gentle curved leg left of the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character त (ta) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating gentle curved leg left of the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ta",
+    "meaning_en": "Devanagari consonant ta"
   },
   {
     "id": "hi_30_tha",
@@ -627,7 +685,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, tha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character थ (tha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small round loop joining the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character थ (tha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small round loop joining the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari tha",
+    "meaning_en": "Devanagari consonant tha"
   },
   {
     "id": "hi_31_da",
@@ -648,7 +708,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, da."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character द (da) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating round hook with a short downward tail in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character द (da) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating round hook with a short downward tail in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari da",
+    "meaning_en": "Devanagari consonant da"
   },
   {
     "id": "hi_32_dha",
@@ -669,7 +731,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, dha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ध (dha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating stepped top loop leading to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ध (dha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating stepped top loop leading to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari dha",
+    "meaning_en": "Devanagari consonant dha"
   },
   {
     "id": "hi_33_na",
@@ -690,7 +754,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, na."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character न (na) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small flag pointing left from the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character न (na) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small flag pointing left from the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari na",
+    "meaning_en": "Devanagari consonant na"
   },
   {
     "id": "hi_34_pa",
@@ -711,7 +777,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, pa."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character प (pa) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating square bowl leaning on the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character प (pa) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating square bowl leaning on the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari pa",
+    "meaning_en": "Devanagari consonant pa"
   },
   {
     "id": "hi_35_pha",
@@ -732,7 +800,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, pha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character फ (pha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating pa-bowl with an outward right curve in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character फ (pha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating pa-bowl with an outward right curve in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari pha",
+    "meaning_en": "Devanagari consonant pha"
   },
   {
     "id": "hi_36_ba",
@@ -753,7 +823,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ba."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ब (ba) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating slashed circle on the left post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ब (ba) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating slashed circle on the left post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ba",
+    "meaning_en": "Devanagari consonant ba"
   },
   {
     "id": "hi_37_bha",
@@ -774,7 +846,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, bha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character भ (bha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small top loop stepping to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character भ (bha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating small top loop stepping to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari bha",
+    "meaning_en": "Devanagari consonant bha"
   },
   {
     "id": "hi_38_ma",
@@ -795,7 +869,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ma."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character म (ma) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating left stem turning flat into the right post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character म (ma) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating left stem turning flat into the right post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ma",
+    "meaning_en": "Devanagari consonant ma"
   },
   {
     "id": "hi_39_ya",
@@ -816,7 +892,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ya."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character य (ya) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating wavy curve resting on the right post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character य (ya) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating wavy curve resting on the right post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ya",
+    "meaning_en": "Devanagari consonant ya"
   },
   {
     "id": "hi_40_ra",
@@ -837,7 +915,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ra."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character र (ra) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating short angled stroke with a crisp corner in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character र (ra) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating short angled stroke with a crisp corner in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ra",
+    "meaning_en": "Devanagari consonant ra"
   },
   {
     "id": "hi_41_la",
@@ -858,7 +938,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, la."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ल (la) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating two dancing arches left of the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ल (la) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating two dancing arches left of the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari la",
+    "meaning_en": "Devanagari consonant la"
   },
   {
     "id": "hi_42_va",
@@ -879,7 +961,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, va."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character व (va) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating full circle attached to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character व (va) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating full circle attached to the post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari va",
+    "meaning_en": "Devanagari consonant va"
   },
   {
     "id": "hi_43_sha",
@@ -900,7 +984,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, sha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character श (sha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating looped arch above a diagonal stroke in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character श (sha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating looped arch above a diagonal stroke in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari sha",
+    "meaning_en": "Devanagari consonant sha"
   },
   {
     "id": "hi_44_ssha",
@@ -921,7 +1007,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ssha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ष (ssha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating pa-bowl crossed by a diagonal line in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ष (ssha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating pa-bowl crossed by a diagonal line in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ssha",
+    "meaning_en": "Devanagari consonant ssha"
   },
   {
     "id": "hi_45_sa",
@@ -942,7 +1030,9 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, sa."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character स (sa) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating ra-curve bridged to a tall post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character स (sa) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating ra-curve bridged to a tall post in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari sa",
+    "meaning_en": "Devanagari consonant sa"
   },
   {
     "id": "hi_46_ha",
@@ -963,6 +1053,8 @@
       "s3": "The top line connects letters together across every word.",
       "s4": "Try saying it aloud, ha."
     },
-    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ह (ha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating stacked double curve under the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks."
+    "image_prompt": "Edit this vertical 9:16 editorial template of Devanagari character ह (ha) on warm cream rice paper (#F9F5EC). Keep the exact character silhouette and top horizontal shirorekha bar intact while gently illustrating stacked double curve under the top bar in warm navy and terracotta ink accents. Minimalist aesthetic, no extra text, no watermarks.",
+    "meaning_id": "konsonan Devanagari ha",
+    "meaning_en": "Devanagari consonant ha"
   }
 ]

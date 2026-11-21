@@ -17,7 +17,9 @@
       "brief": "Red pot with a sprout, then growing leaves. Reuse matching artwork and record new **cing1** audio.",
       "brief_tts": "Red pot with a sprout, then growing leaves. Reuse matching artwork and record new **cing1** audio."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_青.png (1080x1920) on solid cream (#F9F5EC), preserving 青 in its exact shape and position, illustrating cleanly behind it: Red pot with a sprout, then growing leaves. Reuse matching artwork and record new **cing1** audio."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_青.png (1080x1920) on solid cream (#F9F5EC), preserving 青 in its exact shape and position, illustrating cleanly behind it: Red pot with a sprout, then growing leaves. Reuse matching artwork and record new **cing1** audio.",
+    "meaning_id": "aksara Kanton cing1",
+    "meaning_en": "Cantonese cing1"
   },
   {
     "char": "清",
@@ -37,7 +39,9 @@
       "brief": "Start with the **青** plant, then add **氵** ripples beside it. Listen for the shared sound.",
       "brief_tts": "Start with the **** plant, then add **** ripples beside it. Listen for the shared sound."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_清.png (1080x1920) on solid cream (#F9F5EC), preserving 清 in its exact shape and position, illustrating cleanly behind it: Start with the **青** plant, then add **氵** ripples beside it. Listen for the shared sound."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_清.png (1080x1920) on solid cream (#F9F5EC), preserving 清 in its exact shape and position, illustrating cleanly behind it: Start with the **青** plant, then add **氵** ripples beside it. Listen for the shared sound.",
+    "meaning_id": "aksara Kanton cing1",
+    "meaning_en": "Cantonese cing1"
   },
   {
     "char": "水",
@@ -57,7 +61,9 @@
       "brief": "Show the stones from above, then reveal the main and side currents.",
       "brief_tts": "Show the stones from above, then reveal the main and side currents."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_水.png (1080x1920) on solid cream (#F9F5EC), preserving 水 in its exact shape and position, illustrating cleanly behind it: Show the stones from above, then reveal the main and side currents."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_水.png (1080x1920) on solid cream (#F9F5EC), preserving 水 in its exact shape and position, illustrating cleanly behind it: Show the stones from above, then reveal the main and side currents.",
+    "meaning_id": "aksara Kanton seoi2",
+    "meaning_en": "Cantonese seoi2"
   },
   {
     "char": "食",
@@ -77,7 +83,9 @@
       "brief": "Start with an untouched meal, then show someone taking a bite. Teach the everyday Cantonese word.",
       "brief_tts": "Start with an untouched meal, then show someone taking a bite. Teach the everyday Cantonese word."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_食.png (1080x1920) on solid cream (#F9F5EC), preserving 食 in its exact shape and position, illustrating cleanly behind it: Start with an untouched meal, then show someone taking a bite. Teach the everyday Cantonese word."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_食.png (1080x1920) on solid cream (#F9F5EC), preserving 食 in its exact shape and position, illustrating cleanly behind it: Start with an untouched meal, then show someone taking a bite. Teach the everyday Cantonese word.",
+    "meaning_id": "aksara Kanton sik6",
+    "meaning_en": "Cantonese sik6"
   },
   {
     "char": "飲",
@@ -97,7 +105,9 @@
       "brief": "Show a cup on a table, then show a sip. Contrast the action with eating and use Cantonese audio.",
       "brief_tts": "Show a cup on a table, then show a sip. Contrast the action with eating and use Cantonese audio."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_飲.png (1080x1920) on solid cream (#F9F5EC), preserving 飲 in its exact shape and position, illustrating cleanly behind it: Show a cup on a table, then show a sip. Contrast the action with eating and use Cantonese audio."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_飲.png (1080x1920) on solid cream (#F9F5EC), preserving 飲 in its exact shape and position, illustrating cleanly behind it: Show a cup on a table, then show a sip. Contrast the action with eating and use Cantonese audio.",
+    "meaning_id": "aksara Kanton jam2",
+    "meaning_en": "Cantonese jam2"
   },
   {
     "char": "佢",
@@ -117,7 +127,9 @@
       "brief": "Show a speaker and another person, then highlight the person referred to.",
       "brief_tts": "Show a speaker and another person, then highlight the person referred to."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_佢.png (1080x1920) on solid cream (#F9F5EC), preserving 佢 in its exact shape and position, illustrating cleanly behind it: Show a speaker and another person, then highlight the person referred to."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_佢.png (1080x1920) on solid cream (#F9F5EC), preserving 佢 in its exact shape and position, illustrating cleanly behind it: Show a speaker and another person, then highlight the person referred to.",
+    "meaning_id": "aksara Kanton keoi5",
+    "meaning_en": "Cantonese keoi5"
   },
   {
     "char": "係",
@@ -137,7 +149,9 @@
       "brief": "Uncover an object and identify what it is.",
       "brief_tts": "Uncover an object and identify what it is."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_係.png (1080x1920) on solid cream (#F9F5EC), preserving 係 in its exact shape and position, illustrating cleanly behind it: Uncover an object and identify what it is."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_係.png (1080x1920) on solid cream (#F9F5EC), preserving 係 in its exact shape and position, illustrating cleanly behind it: Uncover an object and identify what it is.",
+    "meaning_id": "aksara Kanton hai6",
+    "meaning_en": "Cantonese hai6"
   },
   {
     "char": "喺",
@@ -157,7 +171,9 @@
       "brief": "An empty shelf, then a cup on it. Use location to distinguish it from 係.",
       "brief_tts": "An empty shelf, then a cup on it. Use location to distinguish it from ."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_喺.png (1080x1920) on solid cream (#F9F5EC), preserving 喺 in its exact shape and position, illustrating cleanly behind it: An empty shelf, then a cup on it. Use location to distinguish it from 係."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_喺.png (1080x1920) on solid cream (#F9F5EC), preserving 喺 in its exact shape and position, illustrating cleanly behind it: An empty shelf, then a cup on it. Use location to distinguish it from 係.",
+    "meaning_id": "aksara Kanton hai2",
+    "meaning_en": "Cantonese hai2"
   },
   {
     "char": "唔",
@@ -177,7 +193,9 @@
       "brief": "Someone is about to do something, then declines and leaves it undone.",
       "brief_tts": "Someone is about to do something, then declines and leaves it undone."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_唔.png (1080x1920) on solid cream (#F9F5EC), preserving 唔 in its exact shape and position, illustrating cleanly behind it: Someone is about to do something, then declines and leaves it undone."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_唔.png (1080x1920) on solid cream (#F9F5EC), preserving 唔 in its exact shape and position, illustrating cleanly behind it: Someone is about to do something, then declines and leaves it undone.",
+    "meaning_id": "aksara Kanton m4",
+    "meaning_en": "Cantonese m4"
   },
   {
     "char": "冇",
@@ -197,7 +215,9 @@
       "brief": "Point to a closed container, then open it and show that it is empty.",
       "brief_tts": "Point to a closed container, then open it and show that it is empty."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_冇.png (1080x1920) on solid cream (#F9F5EC), preserving 冇 in its exact shape and position, illustrating cleanly behind it: Point to a closed container, then open it and show that it is empty."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_冇.png (1080x1920) on solid cream (#F9F5EC), preserving 冇 in its exact shape and position, illustrating cleanly behind it: Point to a closed container, then open it and show that it is empty.",
+    "meaning_id": "aksara Kanton mou5",
+    "meaning_en": "Cantonese mou5"
   },
   {
     "char": "嘅",
@@ -217,7 +237,9 @@
       "brief": "Two people and a book, then its owner picks it up. Teach the possessive use before sentence-final uses.",
       "brief_tts": "Two people and a book, then its owner picks it up. Teach the possessive use before sentence final uses."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_嘅.png (1080x1920) on solid cream (#F9F5EC), preserving 嘅 in its exact shape and position, illustrating cleanly behind it: Two people and a book, then its owner picks it up. Teach the possessive use before sentence-final uses."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_嘅.png (1080x1920) on solid cream (#F9F5EC), preserving 嘅 in its exact shape and position, illustrating cleanly behind it: Two people and a book, then its owner picks it up. Teach the possessive use before sentence-final uses.",
+    "meaning_id": "aksara Kanton ge3",
+    "meaning_en": "Cantonese ge3"
   },
   {
     "char": "咗",
@@ -237,7 +259,9 @@
       "brief": "A purchase is pending, then the buyer receives the item.",
       "brief_tts": "A purchase is pending, then the buyer receives the item."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_咗.png (1080x1920) on solid cream (#F9F5EC), preserving 咗 in its exact shape and position, illustrating cleanly behind it: A purchase is pending, then the buyer receives the item."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_咗.png (1080x1920) on solid cream (#F9F5EC), preserving 咗 in its exact shape and position, illustrating cleanly behind it: A purchase is pending, then the buyer receives the item.",
+    "meaning_id": "aksara Kanton zo2",
+    "meaning_en": "Cantonese zo2"
   },
   {
     "char": "緊",
@@ -257,7 +281,9 @@
       "brief": "A person begins reading and is still doing so when someone arrives.",
       "brief_tts": "A person begins reading and is still doing so when someone arrives."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_緊.png (1080x1920) on solid cream (#F9F5EC), preserving 緊 in its exact shape and position, illustrating cleanly behind it: A person begins reading and is still doing so when someone arrives."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_緊.png (1080x1920) on solid cream (#F9F5EC), preserving 緊 in its exact shape and position, illustrating cleanly behind it: A person begins reading and is still doing so when someone arrives.",
+    "meaning_id": "aksara Kanton gan2",
+    "meaning_en": "Cantonese gan2"
   },
   {
     "char": "未",
@@ -277,7 +303,9 @@
       "brief": "Set out a chair for someone, then show that they have not arrived yet.",
       "brief_tts": "Set out a chair for someone, then show that they have not arrived yet."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_未.png (1080x1920) on solid cream (#F9F5EC), preserving 未 in its exact shape and position, illustrating cleanly behind it: Set out a chair for someone, then show that they have not arrived yet."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_未.png (1080x1920) on solid cream (#F9F5EC), preserving 未 in its exact shape and position, illustrating cleanly behind it: Set out a chair for someone, then show that they have not arrived yet.",
+    "meaning_id": "aksara Kanton mei6",
+    "meaning_en": "Cantonese mei6"
   },
   {
     "char": "呀",
@@ -297,6 +325,8 @@
       "brief": "Play an utterance, then a natural question and highlight the particle.",
       "brief_tts": "Play an utterance, then a natural question and highlight the particle."
     },
-    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_呀.png (1080x1920) on solid cream (#F9F5EC), preserving 呀 in its exact shape and position, illustrating cleanly behind it: Play an utterance, then a natural question and highlight the particle."
+    "image_prompt": "Edit /Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad/hk_呀.png (1080x1920) on solid cream (#F9F5EC), preserving 呀 in its exact shape and position, illustrating cleanly behind it: Play an utterance, then a natural question and highlight the particle.",
+    "meaning_id": "aksara Kanton aa3",
+    "meaning_en": "Cantonese aa3"
   }
 ]

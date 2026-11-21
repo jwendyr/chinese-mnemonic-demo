@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "odia_01",
+    "glyph": "ଅ",
+    "reading": "a",
+    "meaning_id": "vokal pendek a",
+    "meaning_en": "short a",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, vokal pendek a.",
+      "s2": "Bayangkan tiga lengkung spiral di bawah kubah bundar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, short a.",
+      "s2": "Picture spiral curves under a round dome.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଅ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiral curves under a round dome in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_02",
+    "glyph": "ଆ",
+    "reading": "aa",
+    "meaning_id": "vokal panjang aa",
+    "meaning_en": "long aa",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/02_aa.png",
+    "tts_id": {
+      "s1": "Huruf aa, vokal panjang aa.",
+      "s2": "Bayangkan vokal a dengan tiang tegak di sisi kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aa."
+    },
+    "tts_en": {
+      "s1": "Character aa, long aa.",
+      "s2": "Picture a shape with a right pillar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, aa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଆ (aa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape with a right pillar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_03",
+    "glyph": "ଇ",
+    "reading": "i",
+    "meaning_id": "vokal pendek i",
+    "meaning_en": "short i",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/03_i.png",
+    "tts_id": {
+      "s1": "Huruf i, vokal pendek i.",
+      "s2": "Bayangkan kubah membulat melingkari dua lekuk dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Character i, short i.",
+      "s2": "Picture round dome embracing twin inner curls.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଇ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round dome embracing twin inner curls in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_04",
+    "glyph": "ঈ",
+    "reading": "ii",
+    "meaning_id": "vokal panjang ii",
+    "meaning_en": "long ee",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/04_ii.png",
+    "tts_id": {
+      "s1": "Huruf ii, vokal panjang ii.",
+      "s2": "Bayangkan kubah i dengan sayap naik tinggi di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ii."
+    },
+    "tts_en": {
+      "s1": "Character ii, long ee.",
+      "s2": "Picture i dome lifting into a right crest.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ঈ (ii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating i dome lifting into a right crest in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_05",
+    "glyph": "ଉ",
+    "reading": "u",
+    "meaning_id": "vokal pendek u",
+    "meaning_en": "short u",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/05_u.png",
+    "tts_id": {
+      "s1": "Huruf u, vokal pendek u.",
+      "s2": "Bayangkan kubah bundar dengan sayap ekor kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Character u, short u.",
+      "s2": "Picture round dome curving up left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଉ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round dome curving up left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_06",
+    "glyph": "ঊ",
+    "reading": "uu",
+    "meaning_id": "vokal panjang uu",
+    "meaning_en": "long oo",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/06_uu.png",
+    "tts_id": {
+      "s1": "Huruf uu, vokal panjang uu.",
+      "s2": "Bayangkan vokal u dengan kuncir ganda di atasnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, uu."
+    },
+    "tts_en": {
+      "s1": "Character uu, long oo.",
+      "s2": "Picture u dome with double top plume.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, uu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ঊ (uu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating u dome with double top plume in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_07",
+    "glyph": "ଋ",
+    "reading": "ru",
+    "meaning_id": "bunyi ru",
+    "meaning_en": "vocalic ru",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/07_ru.png",
+    "tts_id": {
+      "s1": "Huruf ru, bunyi ru.",
+      "s2": "Bayangkan lingkaran kiri menyambung lengkung kubah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ru."
+    },
+    "tts_en": {
+      "s1": "Character ru, vocalic ru.",
+      "s2": "Picture left loop joined to a round dome.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ru."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଋ (ru) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left loop joined to a round dome in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_08",
+    "glyph": "ଏ",
+    "reading": "e",
+    "meaning_id": "e",
+    "meaning_en": "e",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/08_e.png",
+    "tts_id": {
+      "s1": "Huruf e, e.",
+      "s2": "Bayangkan gelombang kiri turun lalu naik melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Character e, e.",
+      "s2": "Picture left wave dipping then rising.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଏ (e) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left wave dipping then rising in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_09",
+    "glyph": "ଐ",
+    "reading": "ai",
+    "meaning_id": "ai",
+    "meaning_en": "ai",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/09_ai.png",
+    "tts_id": {
+      "s1": "Huruf ai, ai.",
+      "s2": "Bayangkan huruf e bertopi panji melengkung tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ai."
+    },
+    "tts_en": {
+      "s1": "Character ai, ai.",
+      "s2": "Picture e shape crowned with a high plume.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଐ (ai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating e shape crowned with a high plume in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_10",
+    "glyph": "ଓ",
+    "reading": "o",
+    "meaning_id": "o",
+    "meaning_en": "o",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/10_o.png",
+    "tts_id": {
+      "s1": "Huruf o, o.",
+      "s2": "Bayangkan lengkung tiga membulat dengan ekor terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Character o, o.",
+      "s2": "Picture open rounded three scroll.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଓ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open rounded three scroll in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_11",
+    "glyph": "ଔ",
+    "reading": "au",
+    "meaning_id": "au",
+    "meaning_en": "au",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/11_au.png",
+    "tts_id": {
+      "s1": "Huruf au, au.",
+      "s2": "Bayangkan huruf o bulat bertopi gelombang tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, au."
+    },
+    "tts_en": {
+      "s1": "Character au, au.",
+      "s2": "Picture o scroll crowned by a wave plume.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, au."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଔ (au) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o scroll crowned by a wave plume in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_12",
+    "glyph": "କ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/12_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan simpul silang di dalam payung lengkung bulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture crossed knot under a round umbrella.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character କ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossed knot under a round umbrella in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_13",
+    "glyph": "ଖ",
+    "reading": "kha",
+    "meaning_id": "kha",
+    "meaning_en": "kha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/13_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, kha.",
+      "s2": "Bayangkan kubah bundar dengan simpul kiri kecil.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Character kha, kha.",
+      "s2": "Picture round arch with small left knot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଖ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round arch with small left knot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_14",
+    "glyph": "ଗ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/14_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan lengkung dua kali tertekuk di dalam kubah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture double bend inside a dome.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଗ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double bend inside a dome in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_15",
+    "glyph": "ଘ",
+    "reading": "gha",
+    "meaning_id": "gha",
+    "meaning_en": "gha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/15_gha.png",
+    "tts_id": {
+      "s1": "Huruf gha, gha.",
+      "s2": "Bayangkan dua mangkuk bertemu kaki kanan tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gha."
+    },
+    "tts_en": {
+      "s1": "Character gha, gha.",
+      "s2": "Picture two bowls meeting upright right leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, gha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଘ (gha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two bowls meeting upright right leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_16",
+    "glyph": "ଙ",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/16_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan angka tiga membulat berujung ekor kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture round three scroll ending right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଙ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round three scroll ending right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_17",
+    "glyph": "ଚ",
+    "reading": "cha",
+    "meaning_id": "ca",
+    "meaning_en": "cha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/17_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, ca.",
+      "s2": "Bayangkan tetesan air terkurung di dalam lengkung kubah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Character cha, cha.",
+      "s2": "Picture droplet enclosed by an arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଚ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating droplet enclosed by an arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_18",
+    "glyph": "ଛ",
+    "reading": "chha",
+    "meaning_id": "cha berhembus",
+    "meaning_en": "aspirated chha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/18_chha.png",
+    "tts_id": {
+      "s1": "Huruf chha, cha berhembus.",
+      "s2": "Bayangkan lengkung penuh dengan dua telinga bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chha."
+    },
+    "tts_en": {
+      "s1": "Character chha, aspirated chha.",
+      "s2": "Picture full dome with twin lower ears.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, chha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଛ (chha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating full dome with twin lower ears in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_19",
+    "glyph": "ଜ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/19_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan huruf S lebar membulat dengan ekor kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture wide S scroll with left curve.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଜ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide S scroll with left curve in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_20",
+    "glyph": "ଝ",
+    "reading": "jha",
+    "meaning_id": "jha",
+    "meaning_en": "jha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/20_jha.png",
+    "tts_id": {
+      "s1": "Huruf jha, jha.",
+      "s2": "Bayangkan ombak memanjang berekor melingkar di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jha."
+    },
+    "tts_en": {
+      "s1": "Character jha, jha.",
+      "s2": "Picture wide scroll curling right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, jha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଝ (jha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide scroll curling right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_21",
+    "glyph": "ଞ",
+    "reading": "nya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/21_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, nya.",
+      "s2": "Bayangkan lengkung ganda terbuka ke kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture double scroll open up left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଞ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double scroll open up left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_22",
+    "glyph": "ଟ",
+    "reading": "tta",
+    "meaning_id": "ta retrofleks",
+    "meaning_en": "retroflex ta",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/22_tta.png",
+    "tts_id": {
+      "s1": "Huruf tta, ta retrofleks.",
+      "s2": "Bayangkan cangkir terbuka kanan di bawah payung bulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tta."
+    },
+    "tts_en": {
+      "s1": "Character tta, retroflex ta.",
+      "s2": "Picture cup under a rounded umbrella.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଟ (tta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating cup under a rounded umbrella in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_23",
+    "glyph": "ଠ",
+    "reading": "ttha",
+    "meaning_id": "tha retrofleks",
+    "meaning_en": "aspirated retroflex tha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/23_ttha.png",
+    "tts_id": {
+      "s1": "Huruf ttha, tha retrofleks.",
+      "s2": "Bayangkan lingkaran penuh bersih seperti roda.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ttha."
+    },
+    "tts_en": {
+      "s1": "Character ttha, aspirated retroflex tha.",
+      "s2": "Picture clean round wheel circle.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ttha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଠ (ttha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean round wheel circle in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_24",
+    "glyph": "ଡ",
+    "reading": "dda",
+    "meaning_id": "da retrofleks",
+    "meaning_en": "retroflex da",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/24_dda.png",
+    "tts_id": {
+      "s1": "Huruf dda, da retrofleks.",
+      "s2": "Bayangkan tiga lengkung bertingkat membuka ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dda."
+    },
+    "tts_en": {
+      "s1": "Character dda, retroflex da.",
+      "s2": "Picture three tiered curve opening left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଡ (dda) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three tiered curve opening left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_25",
+    "glyph": "ଢ",
+    "reading": "ddha",
+    "meaning_id": "dha retrofleks",
+    "meaning_en": "aspirated retroflex dha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/25_ddha.png",
+    "tts_id": {
+      "s1": "Huruf ddha, dha retrofleks.",
+      "s2": "Bayangkan lingkaran penuh dengan tangkai melingkar atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ddha."
+    },
+    "tts_en": {
+      "s1": "Character ddha, aspirated retroflex dha.",
+      "s2": "Picture wheel circle with top curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ddha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଢ (ddha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wheel circle with top curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_26",
+    "glyph": "ଣ",
+    "reading": "nna",
+    "meaning_id": "na retrofleks",
+    "meaning_en": "retroflex na",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/26_nna.png",
+    "tts_id": {
+      "s1": "Huruf nna, na retrofleks.",
+      "s2": "Bayangkan dua bukit lembut menutup ke kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nna."
+    },
+    "tts_en": {
+      "s1": "Character nna, retroflex na.",
+      "s2": "Picture twin arches curving down right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nna."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଣ (nna) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arches curving down right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_27",
+    "glyph": "ତ",
+    "reading": "ta",
+    "meaning_id": "ta gigi",
+    "meaning_en": "dental ta",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/27_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta gigi.",
+      "s2": "Bayangkan lingkaran ganda melengkung mulus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, dental ta.",
+      "s2": "Picture smooth looping twin arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ତ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth looping twin arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_28",
+    "glyph": "ଥ",
+    "reading": "tha",
+    "meaning_id": "tha gigi",
+    "meaning_en": "aspirated dental tha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/28_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, tha gigi.",
+      "s2": "Bayangkan mangkuk bulat tertutup puncak kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Character tha, aspirated dental tha.",
+      "s2": "Picture closed round dome on right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଥ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating closed round dome on right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_29",
+    "glyph": "ଦ",
+    "reading": "da",
+    "meaning_id": "da gigi",
+    "meaning_en": "dental da",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/29_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da gigi.",
+      "s2": "Bayangkan setengah bulan melengkung dengan ekor turun.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, dental da.",
+      "s2": "Picture crescent arch descending down.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଦ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crescent arch descending down in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_30",
+    "glyph": "ଧ",
+    "reading": "dha",
+    "meaning_id": "dha gigi",
+    "meaning_en": "aspirated dental dha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/30_dha.png",
+    "tts_id": {
+      "s1": "Huruf dha, dha gigi.",
+      "s2": "Bayangkan kubah lebar berlekuk manis di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha."
+    },
+    "tts_en": {
+      "s1": "Character dha, aspirated dental dha.",
+      "s2": "Picture wide dome curling underneath.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଧ (dha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide dome curling underneath in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_31",
+    "glyph": "ନ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/31_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan kubah kecil mulus terbuka di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture clean single arch open below.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ନ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean single arch open below in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_32",
+    "glyph": "ପ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/32_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan perahu bundar terbuka ke atas kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture round boat open up right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ପ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round boat open up right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_33",
+    "glyph": "ଫ",
+    "reading": "pha",
+    "meaning_id": "pha",
+    "meaning_en": "pha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/33_pha.png",
+    "tts_id": {
+      "s1": "Huruf pha, pha.",
+      "s2": "Bayangkan perahu pa dengan lingkaran kecil di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pha."
+    },
+    "tts_en": {
+      "s1": "Character pha, pha.",
+      "s2": "Picture pa boat with right ring.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଫ (pha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa boat with right ring in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_34",
+    "glyph": "ବ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/34_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan lingkaran oval memeluk lengkung kubah atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture oval belly inside a round dome.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ବ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating oval belly inside a round dome in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_35",
+    "glyph": "ଭ",
+    "reading": "bha",
+    "meaning_id": "bha",
+    "meaning_en": "bha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/35_bha.png",
+    "tts_id": {
+      "s1": "Huruf bha, bha.",
+      "s2": "Bayangkan simpul angka tiga berbelok ke puncak kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bha."
+    },
+    "tts_en": {
+      "s1": "Character bha, bha.",
+      "s2": "Picture curled arch rising to right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, bha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଭ (bha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curled arch rising to right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_36",
+    "glyph": "ମ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/36_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan mangkuk bulat bersambung simpul kaki kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture round bowl with right knot.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ମ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl with right knot in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_37",
+    "glyph": "ଯ",
+    "reading": "ja",
+    "meaning_id": "ja atau ya",
+    "meaning_en": "ja or ya",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/37_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja atau ya.",
+      "s2": "Bayangkan ombak ganda lembut tanpa titik bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja or ya.",
+      "s2": "Picture soft double arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଯ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft double arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_38",
+    "glyph": "ୟ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/38_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan huruf ya bertitik satu di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture arch with a single dot below.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ୟ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating arch with a single dot below in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_39",
+    "glyph": "ର",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/39_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan lingkaran penuh bertopi payung melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture circle beneath a round umbrella.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ର (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle beneath a round umbrella in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_40",
+    "glyph": "ଲ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/40_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan dua bukit lembut tersambung tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture twin arches joined to right stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଲ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arches joined to right stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_41",
+    "glyph": "ଳ",
+    "reading": "lla",
+    "meaning_id": "l retrofleks",
+    "meaning_en": "retroflex l",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/41_lla.png",
+    "tts_id": {
+      "s1": "Huruf lla, l retrofleks.",
+      "s2": "Bayangkan simpul tiga lekuk membulat indah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lla."
+    },
+    "tts_en": {
+      "s1": "Character lla, retroflex l.",
+      "s2": "Picture three rounded loops linked smoothly.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, lla."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଳ (lla) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three rounded loops linked smoothly in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_42",
+    "glyph": "ଵ",
+    "reading": "va",
+    "meaning_id": "va",
+    "meaning_en": "va",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/42_va.png",
+    "tts_id": {
+      "s1": "Huruf va, va.",
+      "s2": "Bayangkan bentuk va bertitik di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, va."
+    },
+    "tts_en": {
+      "s1": "Character va, va.",
+      "s2": "Picture round bowl with inner slant.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, va."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଵ (va) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl with inner slant in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_43",
+    "glyph": "ଶ",
+    "reading": "sha",
+    "meaning_id": "sy lembut",
+    "meaning_en": "palatal sha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/43_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, sy lembut.",
+      "s2": "Bayangkan dua telinga atas bergabung menjadi kubah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Character sha, palatal sha.",
+      "s2": "Picture twin upper ears forming a dome.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଶ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin upper ears forming a dome in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_44",
+    "glyph": "ଷ",
+    "reading": "ssha",
+    "meaning_id": "sy retrofleks",
+    "meaning_en": "retroflex sha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/44_ssha.png",
+    "tts_id": {
+      "s1": "Huruf ssha, sy retrofleks.",
+      "s2": "Bayangkan perahu dengan garis miring pembelah dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ssha."
+    },
+    "tts_en": {
+      "s1": "Character ssha, retroflex sha.",
+      "s2": "Picture boat crossed diagonally.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ssha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ଷ (ssha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating boat crossed diagonally in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_45",
+    "glyph": "ସ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/45_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan dua lengkung berombak bertemu tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture twin waves meeting right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ସ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin waves meeting right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_46",
+    "glyph": "ହ",
+    "reading": "ha",
+    "meaning_id": "ha",
+    "meaning_en": "ha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/46_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha.",
+      "s2": "Bayangkan simpul spiral melengkung turun membulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha.",
+      "s2": "Picture spiral curve dipping down.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character ହ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiral curve dipping down in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "odia_47",
+    "glyph": "କ୍ଷ",
+    "reading": "ksha",
+    "meaning_id": "gabungan ksha",
+    "meaning_en": "compound ksha",
+    "voice_target": "hi-IN-SwaraNeural",
+    "template_path": "templates_odia/47_ksha.png",
+    "tts_id": {
+      "s1": "Huruf ksha, gabungan ksha.",
+      "s2": "Bayangkan konsonan ka bersambung kaki sha bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ksha."
+    },
+    "tts_en": {
+      "s1": "Character ksha, compound ksha.",
+      "s2": "Picture ka joined with sha below.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ksha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of odia character କ୍ଷ (ksha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ka joined with sha below in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "slug": "batak",
+  "omniglot_url": "https://omniglot.com/writing/batak.htm",
+  "title": "Batak script",
+  "at_a_glance": [],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: Abugida / Syllabic Alphabet - each consonant or radical (ina ni surat - \"mother of the script\") has an inherent vowel (a). Other vowels or the absence of vowels can be indicated using diacritics (anak ni surat - \"children of the script\") which appear above, below or after the consonant letter.",
+    "Script family: Proto-Sinaitic, Phoenician, Aramaic, Brāhmī, Tamil-Brahmi, Pallava, Kawi (?), Batak",
+    "Writing direction: traditionally written from bottom to top in vertical columns running from left to right on strips of bamboo held together with string.",
+    "Used to write: Batak Angkola, Batak Dairi, Batak Karo, Batak Mandailing, Batak Simalungun, Batak Toba",
+    "There are some variations in the letters and vowel diacritics used to write each Batak language."
+  ],
+  "sample_text": [
+    "Source: https://r12a.github.io/scripts/batk/btk.html"
+  ]
+}

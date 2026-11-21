@@ -1,0 +1,552 @@
+[
+  {
+    "id": "javanese_01",
+    "glyph": "ꦲ",
+    "reading": "ha",
+    "meaning_id": "ha atau a",
+    "meaning_en": "ha or a",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/01_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha atau a.",
+      "s2": "Bayangkan tiga tiang melengkung berjembatan mulus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha or a.",
+      "s2": "Picture three curved pillars bridged smoothly.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦲ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three curved pillars bridged smoothly in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_02",
+    "glyph": "ꦤ",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/02_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan dua tiang berpadu garis menyudut ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture twin legs angled into a right bridge.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦤ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin legs angled into a right bridge in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_03",
+    "glyph": "ꦕ",
+    "reading": "ca",
+    "meaning_id": "ca",
+    "meaning_en": "cha",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/03_ca.png",
+    "tts_id": {
+      "s1": "Huruf ca, ca.",
+      "s2": "Bayangkan tiang kiri dengan ekor melingkar kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ca."
+    },
+    "tts_en": {
+      "s1": "Character ca, cha.",
+      "s2": "Picture left post curling into a right tail.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ca."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦕ (ca) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left post curling into a right tail in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_04",
+    "glyph": "ꦫ",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/04_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan dua kaki sederhana seperti huruf n terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture two simple arches like an open n.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦫ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two simple arches like an open n in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_05",
+    "glyph": "ꦏ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/05_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan dua kaki bergerbang dengan satu kaki tambahan kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture twin arch plus a third right leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦏ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arch plus a third right leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_06",
+    "glyph": "ꦢ",
+    "reading": "da",
+    "meaning_id": "da gigi",
+    "meaning_en": "dental da",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/06_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da gigi.",
+      "s2": "Bayangkan lengkung atas turun berbelok menyilang kaki kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, dental da.",
+      "s2": "Picture upper sweep wrapping past the left leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦢ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upper sweep wrapping past the left leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_07",
+    "glyph": "ꦠ",
+    "reading": "ta",
+    "meaning_id": "ta gigi",
+    "meaning_en": "dental ta",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/07_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta gigi.",
+      "s2": "Bayangkan tiga tiang dengan lengkung masuk di tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, dental ta.",
+      "s2": "Picture three posts with an inward middle fold.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦠ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three posts with an inward middle fold in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_08",
+    "glyph": "ꦱ",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/08_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan lengkung bersih berujung dua kaki seimbang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture clean arch splitting into two even legs.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦱ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean arch splitting into two even legs in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_09",
+    "glyph": "ꦮ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/09_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan lengkung terbuka dengan dua tanduk bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture open arch ending in two prongs.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦮ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open arch ending in two prongs in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_10",
+    "glyph": "ꦭ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/10_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan satu tiang utama berlipat ke kaki kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture tall main stem folding to the right leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦭ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall main stem folding to the right leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_11",
+    "glyph": "ꦥ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/11_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan dua lengkung kembar bersih terbuka bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture clean twin arches open downward.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦥ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean twin arches open downward in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_12",
+    "glyph": "ꦝ",
+    "reading": "dha",
+    "meaning_id": "dha lidah atas",
+    "meaning_en": "retroflex dha",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/12_dha.png",
+    "tts_id": {
+      "s1": "Huruf dha, dha lidah atas.",
+      "s2": "Bayangkan perahu bertingkat dengan puncak runcing tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha."
+    },
+    "tts_en": {
+      "s1": "Character dha, retroflex dha.",
+      "s2": "Picture stepped arch with sharp center peak.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦝ (dha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stepped arch with sharp center peak in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_13",
+    "glyph": "ꦗ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/13_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan dua lengkung berpadu kaki naik melingkar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture paired curves looping up right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦗ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired curves looping up right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_14",
+    "glyph": "ꦪ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/14_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan tiga lengkung membulat menyerupai gelombang ha.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture triple rounded wave arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦪ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple rounded wave arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_15",
+    "glyph": "ꦚ",
+    "reading": "nya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/15_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, nya.",
+      "s2": "Bayangkan tiga tiang dengan simpul melingkar di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture three legs ending in a right curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦚ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three legs ending in a right curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_16",
+    "glyph": "ꦩ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/16_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan tiga lengkung turun dengan puncak tengah kecil.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture three arches with a central dip.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦩ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three arches with a central dip in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_17",
+    "glyph": "ꦒ",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/17_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan kubah ganda terbuka di tengah dan bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture clean wide double dome.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦒ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean wide double dome in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_18",
+    "glyph": "ꦧ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/18_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan gerbang dua kaki dengan simpul kanan tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture twin gate with tall curved right stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦧ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin gate with tall curved right stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_19",
+    "glyph": "ꦛ",
+    "reading": "tha",
+    "meaning_id": "tha lidah atas",
+    "meaning_en": "retroflex tha",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/19_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, tha lidah atas.",
+      "s2": "Bayangkan tiga lengkung dengan ekor masuk di kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Character tha, retroflex tha.",
+      "s2": "Picture triple curve tucking in lower right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦛ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple curve tucking in lower right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_20",
+    "glyph": "ꦔ",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/20_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan kubah terbuka ke kiri dengan satu kaki kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture open dome facing left with right leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦔ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open dome facing left with right leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_21",
+    "glyph": "ꦄ",
+    "reading": "A swara",
+    "meaning_id": "vokal mandiri a",
+    "meaning_en": "independent a",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/21_a_swara.png",
+    "tts_id": {
+      "s1": "Huruf A swara, vokal mandiri a.",
+      "s2": "Bayangkan tiang tegak bersayap simpul atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, A swara."
+    },
+    "tts_en": {
+      "s1": "Character A swara, independent a.",
+      "s2": "Picture tall pillar with curled upper wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, A swara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦄ (A swara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall pillar with curled upper wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_22",
+    "glyph": "ꦆ",
+    "reading": "I swara",
+    "meaning_id": "vokal mandiri i",
+    "meaning_en": "independent i",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/22_i_swara.png",
+    "tts_id": {
+      "s1": "Huruf I swara, vokal mandiri i.",
+      "s2": "Bayangkan dua simpul atas terbuka menjulang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, I swara."
+    },
+    "tts_en": {
+      "s1": "Character I swara, independent i.",
+      "s2": "Picture twin upper scrolls.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, I swara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦆ (I swara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin upper scrolls in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_23",
+    "glyph": "ꦈ",
+    "reading": "U swara",
+    "meaning_id": "vokal mandiri u",
+    "meaning_en": "independent u",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/23_u_swara.png",
+    "tts_id": {
+      "s1": "Huruf U swara, vokal mandiri u.",
+      "s2": "Bayangkan kaki kembar melingkar menyerupai pa bertopi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, U swara."
+    },
+    "tts_en": {
+      "s1": "Character U swara, independent u.",
+      "s2": "Picture twin legs crowned with a curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, U swara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦈ (U swara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin legs crowned with a curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_24",
+    "glyph": "ꦌ",
+    "reading": "E swara",
+    "meaning_id": "vokal mandiri e",
+    "meaning_en": "independent e",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/24_e_swara.png",
+    "tts_id": {
+      "s1": "Huruf E swara, vokal mandiri e.",
+      "s2": "Bayangkan lengkung naik berjambul tipis di puncak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, E swara."
+    },
+    "tts_en": {
+      "s1": "Character E swara, independent e.",
+      "s2": "Picture rising arch with slender crest.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, E swara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦌ (E swara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rising arch with slender crest in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "javanese_25",
+    "glyph": "ꦎ",
+    "reading": "O swara",
+    "meaning_id": "vokal mandiri o",
+    "meaning_en": "independent o",
+    "voice_target": "jv-ID-SitiNeural",
+    "template_path": "templates_javanese/25_o_swara.png",
+    "tts_id": {
+      "s1": "Huruf O swara, vokal mandiri o.",
+      "s2": "Bayangkan lengkung tiga dengan ekor gulung di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, O swara."
+    },
+    "tts_en": {
+      "s1": "Character O swara, independent o.",
+      "s2": "Picture three curve ending in a right scroll.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, O swara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of javanese character ꦎ (O swara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three curve ending in a right scroll in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

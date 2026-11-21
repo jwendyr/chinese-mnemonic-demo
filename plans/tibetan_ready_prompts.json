@@ -1,0 +1,750 @@
+[
+  {
+    "id": "tibetan_01",
+    "glyph": "ཀ",
+    "reading": "ka",
+    "meaning_id": "ka",
+    "meaning_en": "ka",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/01_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, ka.",
+      "s2": "Bayangkan tiang tiga kaki menggantung di bawah palang datar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Character ka, ka.",
+      "s2": "Picture three downward legs under a flat bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཀ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three downward legs under a flat bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_02",
+    "glyph": "ཁ",
+    "reading": "kha",
+    "meaning_id": "kha berhembus",
+    "meaning_en": "aspirated kha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/02_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, kha berhembus.",
+      "s2": "Bayangkan jembatan datar dengan siku masuk dan tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Character kha, aspirated kha.",
+      "s2": "Picture flat bar wrapping into right leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཁ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat bar wrapping into right leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_03",
+    "glyph": "ག",
+    "reading": "ga",
+    "meaning_id": "ga",
+    "meaning_en": "ga",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/03_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, ga.",
+      "s2": "Bayangkan atap datar membuka mangkuk lebar dan tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Character ga, ga.",
+      "s2": "Picture flat bar over wide bowl and leg.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ག (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat bar over wide bowl and leg in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_04",
+    "glyph": "ང",
+    "reading": "nga",
+    "meaning_id": "nga",
+    "meaning_en": "nga",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/04_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, nga.",
+      "s2": "Bayangkan garis atap pendek melengkung turun seperti kail.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Character nga, nga.",
+      "s2": "Picture short roof curving into a hook.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ང (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating short roof curving into a hook in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_05",
+    "glyph": "ཅ",
+    "reading": "cha",
+    "meaning_id": "ca",
+    "meaning_en": "cha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/05_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, ca.",
+      "s2": "Bayangkan tiang kiri dengan lingkaran perut bulat di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Character cha, cha.",
+      "s2": "Picture left post with round right loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཅ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left post with round right loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_06",
+    "glyph": "ཆ",
+    "reading": "chha",
+    "meaning_id": "ca berhembus",
+    "meaning_en": "aspirated chha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/06_chha.png",
+    "tts_id": {
+      "s1": "Huruf chha, ca berhembus.",
+      "s2": "Bayangkan dua lingkaran berdampingan seperti kacamata.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chha."
+    },
+    "tts_en": {
+      "s1": "Character chha, aspirated chha.",
+      "s2": "Picture twin glasses loops side by side.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, chha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཆ (chha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin glasses loops side by side in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_07",
+    "glyph": "ཇ",
+    "reading": "ja",
+    "meaning_id": "ja",
+    "meaning_en": "ja",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/07_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, ja.",
+      "s2": "Bayangkan atap datar dengan siku ganda berombak turun.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Character ja, ja.",
+      "s2": "Picture flat bar over stepped descending curves.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཇ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat bar over stepped descending curves in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_08",
+    "glyph": "ཉ",
+    "reading": "nya",
+    "meaning_id": "nya",
+    "meaning_en": "nya",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/08_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, nya.",
+      "s2": "Bayangkan lengkung atas dengan dua kaki terbuka bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Character nya, nya.",
+      "s2": "Picture upper curl opening into two legs.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཉ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upper curl opening into two legs in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_09",
+    "glyph": "ཏ",
+    "reading": "ta",
+    "meaning_id": "ta",
+    "meaning_en": "ta",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/09_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, ta.",
+      "s2": "Bayangkan huruf ka pendek dengan dua kaki seimbang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Character ta, ta.",
+      "s2": "Picture balanced arched leg under flat top.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཏ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating balanced arched leg under flat top in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_10",
+    "glyph": "ཐ",
+    "reading": "tha",
+    "meaning_id": "tha berhembus",
+    "meaning_en": "aspirated tha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/10_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, tha berhembus.",
+      "s2": "Bayangkan lingkaran penuh tergantung di bawah garis atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Character tha, aspirated tha.",
+      "s2": "Picture full loop hanging below flat roof.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཐ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating full loop hanging below flat roof in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_11",
+    "glyph": "ད",
+    "reading": "da",
+    "meaning_id": "da",
+    "meaning_en": "da",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/11_da.png",
+    "tts_id": {
+      "s1": "Huruf da, da.",
+      "s2": "Bayangkan kail sederhana melengkung turun dari atap datar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Character da, da.",
+      "s2": "Picture clean sweeping hook under flat bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ད (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean sweeping hook under flat bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_12",
+    "glyph": "ན",
+    "reading": "na",
+    "meaning_id": "na",
+    "meaning_en": "na",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/12_na.png",
+    "tts_id": {
+      "s1": "Huruf na, na.",
+      "s2": "Bayangkan kotak kecil di sisi kiri tiang tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Character na, na.",
+      "s2": "Picture small corner box left of stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ན (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small corner box left of stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_13",
+    "glyph": "པ",
+    "reading": "pa",
+    "meaning_id": "pa",
+    "meaning_en": "pa",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/13_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, pa.",
+      "s2": "Bayangkan mangkuk U bersih dengan garis atap datar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Character pa, pa.",
+      "s2": "Picture clean U bowl under flat roof.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character པ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean U bowl under flat roof in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_14",
+    "glyph": "ཕ",
+    "reading": "pha",
+    "meaning_id": "pha berhembus",
+    "meaning_en": "aspirated pha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/14_pha.png",
+    "tts_id": {
+      "s1": "Huruf pha, pha berhembus.",
+      "s2": "Bayangkan mangkuk pa dengan gulungan kecil ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pha."
+    },
+    "tts_en": {
+      "s1": "Character pha, aspirated pha.",
+      "s2": "Picture pa bowl with inward curl.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, pha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཕ (pha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa bowl with inward curl in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_15",
+    "glyph": "བ",
+    "reading": "ba",
+    "meaning_id": "ba",
+    "meaning_en": "ba",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/15_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, ba.",
+      "s2": "Bayangkan lengkung penuh dengan atap atas terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Character ba, ba.",
+      "s2": "Picture round dome under flat top bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character བ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round dome under flat top bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_16",
+    "glyph": "མ",
+    "reading": "ma",
+    "meaning_id": "ma",
+    "meaning_en": "ma",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/16_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, ma.",
+      "s2": "Bayangkan perahu bertingkat dengan tiang kanan pendek.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Character ma, ma.",
+      "s2": "Picture stepped boat with right stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character མ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stepped boat with right stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_17",
+    "glyph": "ཙ",
+    "reading": "tsa",
+    "meaning_id": "tsa",
+    "meaning_en": "tsa",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/17_tsa.png",
+    "tts_id": {
+      "s1": "Huruf tsa, tsa.",
+      "s2": "Bayangkan huruf cha dengan mahkota topi kecil di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tsa."
+    },
+    "tts_en": {
+      "s1": "Character tsa, tsa.",
+      "s2": "Picture cha wearing a small crown flag.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tsa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཙ (tsa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating cha wearing a small crown flag in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_18",
+    "glyph": "ཚ",
+    "reading": "tsha",
+    "meaning_id": "tsha berhembus",
+    "meaning_en": "aspirated tsha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/18_tsha.png",
+    "tts_id": {
+      "s1": "Huruf tsha, tsha berhembus.",
+      "s2": "Bayangkan huruf chha dengan mahkota topi kecil.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tsha."
+    },
+    "tts_en": {
+      "s1": "Character tsha, aspirated tsha.",
+      "s2": "Picture chha wearing a small crown.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, tsha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཚ (tsha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating chha wearing a small crown in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_19",
+    "glyph": "ཛ",
+    "reading": "dza",
+    "meaning_id": "dza",
+    "meaning_en": "dza",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/19_dza.png",
+    "tts_id": {
+      "s1": "Huruf dza, dza.",
+      "s2": "Bayangkan huruf ja dengan mahkota topi kecil di puncak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dza."
+    },
+    "tts_en": {
+      "s1": "Character dza, dza.",
+      "s2": "Picture ja wearing a small crown flag.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, dza."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཛ (dza) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ja wearing a small crown flag in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_20",
+    "glyph": "ཝ",
+    "reading": "wa",
+    "meaning_id": "wa",
+    "meaning_en": "wa",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/20_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, wa.",
+      "s2": "Bayangkan tiang tunggal dengan segitiga penuh di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Character wa, wa.",
+      "s2": "Picture post holding a lower triangle loop.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཝ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating post holding a lower triangle loop in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_21",
+    "glyph": "ཞ",
+    "reading": "zha",
+    "meaning_id": "zha",
+    "meaning_en": "zha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/21_zha.png",
+    "tts_id": {
+      "s1": "Huruf zha, zha.",
+      "s2": "Bayangkan lengkung S melingkar menggantung dari palang atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, zha."
+    },
+    "tts_en": {
+      "s1": "Character zha, zha.",
+      "s2": "Picture S coil hanging from flat roof.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, zha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཞ (zha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating S coil hanging from flat roof in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_22",
+    "glyph": "ཟ",
+    "reading": "za",
+    "meaning_id": "za",
+    "meaning_en": "za",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/22_za.png",
+    "tts_id": {
+      "s1": "Huruf za, za.",
+      "s2": "Bayangkan dua lengkung berombak dengan kaki kanan turun.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, za."
+    },
+    "tts_en": {
+      "s1": "Character za, za.",
+      "s2": "Picture double wave descending on right.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, za."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཟ (za) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double wave descending on right in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_23",
+    "glyph": "འ",
+    "reading": "achung",
+    "meaning_id": "vokal halus",
+    "meaning_en": "voiced glottal",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/23_achung.png",
+    "tts_id": {
+      "s1": "Huruf achung, vokal halus.",
+      "s2": "Bayangkan atap datar dengan kail bulat menghadap kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, achung."
+    },
+    "tts_en": {
+      "s1": "Character achung, voiced glottal.",
+      "s2": "Picture flat top with hook facing left.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, achung."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character འ (achung) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat top with hook facing left in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_24",
+    "glyph": "ཡ",
+    "reading": "ya",
+    "meaning_id": "ya",
+    "meaning_en": "ya",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/24_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, ya.",
+      "s2": "Bayangkan huruf W lebar terbuka ke atas dengan palang kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Character ya, ya.",
+      "s2": "Picture wide open W with left wing.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཡ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide open W with left wing in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_25",
+    "glyph": "ར",
+    "reading": "ra",
+    "meaning_id": "ra",
+    "meaning_en": "ra",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/25_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, ra.",
+      "s2": "Bayangkan tiang lengkung sederhana seperti huruf T miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Character ra, ra.",
+      "s2": "Picture slender curved T stroke.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ར (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slender curved T stroke in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_26",
+    "glyph": "ལ",
+    "reading": "la",
+    "meaning_id": "la",
+    "meaning_en": "la",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/26_la.png",
+    "tts_id": {
+      "s1": "Huruf la, la.",
+      "s2": "Bayangkan kubah ganda terbuka di sisi atas dan kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Character la, la.",
+      "s2": "Picture double arch under right stem.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ལ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch under right stem in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_27",
+    "glyph": "ཤ",
+    "reading": "sha",
+    "meaning_id": "sha",
+    "meaning_en": "sha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/27_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, sha.",
+      "s2": "Bayangkan tiga gerigi miring menuju tiang kanan lurus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Character sha, sha.",
+      "s2": "Picture three slanted teeth into right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཤ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three slanted teeth into right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_28",
+    "glyph": "ས",
+    "reading": "sa",
+    "meaning_id": "sa",
+    "meaning_en": "sa",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/28_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, sa.",
+      "s2": "Bayangkan dua lengkung berpadu dengan tiang miring kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Character sa, sa.",
+      "s2": "Picture paired arches meeting right post.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ས (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating paired arches meeting right post in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_29",
+    "glyph": "ཧ",
+    "reading": "ha",
+    "meaning_id": "ha",
+    "meaning_en": "ha",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/29_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, ha.",
+      "s2": "Bayangkan atap datar berujung dua lengkung berhadap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Character ha, ha.",
+      "s2": "Picture flat bar ending in facing arch.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཧ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flat bar ending in facing arch in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_30",
+    "glyph": "ཨ",
+    "reading": "a",
+    "meaning_id": "vokal a inti",
+    "meaning_en": "base vowel a",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/30_a.png",
+    "tts_id": {
+      "s1": "Huruf a, vokal a inti.",
+      "s2": "Bayangkan dua lengkung berpelukan di bawah mahkota atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Character a, base vowel a.",
+      "s2": "Picture embracing arches under a crown bar.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཨ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating embracing arches under a crown bar in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_31",
+    "glyph": "ཨི",
+    "reading": "i gigu",
+    "meaning_id": "vokal i bertanda gigu",
+    "meaning_en": "vowel i with gigu",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/31_i_gigu.png",
+    "tts_id": {
+      "s1": "Huruf i gigu, vokal i bertanda gigu.",
+      "s2": "Bayangkan huruf a bertopi ombak gigu di puncak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i gigu."
+    },
+    "tts_en": {
+      "s1": "Character i gigu, vowel i with gigu.",
+      "s2": "Picture vowel a wearing top wave gigu.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, i gigu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཨི (i gigu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating vowel a wearing top wave gigu in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_32",
+    "glyph": "ཨུ",
+    "reading": "u zhabkyu",
+    "meaning_id": "vokal u bertanda zhabkyu",
+    "meaning_en": "vowel u with zhabkyu",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/32_u_zhabkyu.png",
+    "tts_id": {
+      "s1": "Huruf u zhabkyu, vokal u bertanda zhabkyu.",
+      "s2": "Bayangkan huruf a dengan kait kecil di bawah kaki.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u zhabkyu."
+    },
+    "tts_en": {
+      "s1": "Character u zhabkyu, vowel u with zhabkyu.",
+      "s2": "Picture vowel a with bottom hook zhabkyu.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, u zhabkyu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཨུ (u zhabkyu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating vowel a with bottom hook zhabkyu in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_33",
+    "glyph": "ཨེ",
+    "reading": "e drengbu",
+    "meaning_id": "vokal e bertanda drengbu",
+    "meaning_en": "vowel e with drengbu",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/33_e_drengbu.png",
+    "tts_id": {
+      "s1": "Huruf e drengbu, vokal e bertanda drengbu.",
+      "s2": "Bayangkan huruf a dengan tanduk miring ke kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e drengbu."
+    },
+    "tts_en": {
+      "s1": "Character e drengbu, vowel e with drengbu.",
+      "s2": "Picture vowel a wearing slant horn drengbu.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, e drengbu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཨེ (e drengbu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating vowel a wearing slant horn drengbu in warm navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "tibetan_34",
+    "glyph": "ཨོ",
+    "reading": "o naro",
+    "meaning_id": "vokal o bertanda naro",
+    "meaning_en": "vowel o with naro",
+    "voice_target": "zh-CN-XiaoxiaoNeural",
+    "template_path": "templates_tibetan/34_o_naro.png",
+    "tts_id": {
+      "s1": "Huruf o naro, vokal o bertanda naro.",
+      "s2": "Bayangkan huruf a bertopi sayap camar naro.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o naro."
+    },
+    "tts_en": {
+      "s1": "Character o naro, vowel o with naro.",
+      "s2": "Picture vowel a wearing bird wing naro.",
+      "s3": "Notice its distinctive strokes and silhouette.",
+      "s4": "Try saying it aloud, o naro."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of tibetan character ཨོ (o naro) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating vowel a wearing bird wing naro in warm navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]
