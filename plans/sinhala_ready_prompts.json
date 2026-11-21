@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "sinhala_01",
+    "glyph": "අ",
+    "reading": "a",
+    "meaning_id": "vokal pendek a",
+    "meaning_en": "short a",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, bunyinya vokal pendek a.",
+      "s2": "Bayangkan simpul bulat memeluk dua lengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a, sounding like short a.",
+      "s2": "Picture round knot cradling twin arches.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character අ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round knot cradling twin arches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_02",
+    "glyph": "ආ",
+    "reading": "aa",
+    "meaning_id": "vokal panjang aa",
+    "meaning_en": "long aa",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/02_aa.png",
+    "tts_id": {
+      "s1": "Huruf aa, bunyinya vokal panjang aa.",
+      "s2": "Bayangkan huruf a dengan tongkat kanan melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aa."
+    },
+    "tts_en": {
+      "s1": "Letter aa, sounding like long aa.",
+      "s2": "Picture a with right curved cane.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, aa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ආ (aa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a with right curved cane in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_03",
+    "glyph": "ඇ",
+    "reading": "ae",
+    "meaning_id": "ae seperti cat",
+    "meaning_en": "ae as in cat",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/03_ae.png",
+    "tts_id": {
+      "s1": "Huruf ae, bunyinya ae seperti cat.",
+      "s2": "Bayangkan huruf a dengan sayap ganda di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ae."
+    },
+    "tts_en": {
+      "s1": "Letter ae, sounding like ae as in cat.",
+      "s2": "Picture a with twin right wings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ae."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඇ (ae) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a with twin right wings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_04",
+    "glyph": "ඈ",
+    "reading": "aee",
+    "meaning_id": "ae panjang",
+    "meaning_en": "long ae",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/04_aee.png",
+    "tts_id": {
+      "s1": "Huruf aee, bunyinya ae panjang.",
+      "s2": "Bayangkan huruf ae dengan lengkung pemanjang bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aee."
+    },
+    "tts_en": {
+      "s1": "Letter aee, sounding like long ae.",
+      "s2": "Picture ae with elongated curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, aee."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඈ (aee) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ae with elongated curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_05",
+    "glyph": "ඉ",
+    "reading": "i",
+    "meaning_id": "vokal pendek i",
+    "meaning_en": "short i",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/05_i.png",
+    "tts_id": {
+      "s1": "Huruf i, bunyinya vokal pendek i.",
+      "s2": "Bayangkan dua simpul bertumpuk berombak halus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Letter i, sounding like short i.",
+      "s2": "Picture two stacked wavy loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඉ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two stacked wavy loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_06",
+    "glyph": "ඊ",
+    "reading": "ii",
+    "meaning_id": "vokal panjang ii",
+    "meaning_en": "long ee",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/06_ii.png",
+    "tts_id": {
+      "s1": "Huruf ii, bunyinya vokal panjang ii.",
+      "s2": "Bayangkan tetesan ganda dengan ekor melingkar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ii."
+    },
+    "tts_en": {
+      "s1": "Letter ii, sounding like long ee.",
+      "s2": "Picture twin droplets with curled tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඊ (ii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin droplets with curled tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_07",
+    "glyph": "උ",
+    "reading": "u",
+    "meaning_id": "vokal pendek u",
+    "meaning_en": "short u",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/07_u.png",
+    "tts_id": {
+      "s1": "Huruf u, bunyinya vokal pendek u.",
+      "s2": "Bayangkan lengkung angka dua bulat terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Letter u, sounding like short u.",
+      "s2": "Picture rounded number two sweep.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character උ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating rounded number two sweep in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_08",
+    "glyph": "ඌ",
+    "reading": "uu",
+    "meaning_id": "vokal panjang uu",
+    "meaning_en": "long oo",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/08_uu.png",
+    "tts_id": {
+      "s1": "Huruf uu, bunyinya vokal panjang uu.",
+      "s2": "Bayangkan vokal u disertai gulungan ke atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, uu."
+    },
+    "tts_en": {
+      "s1": "Letter uu, sounding like long oo.",
+      "s2": "Picture u shape with rising right scroll.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, uu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඌ (uu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating u shape with rising right scroll in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_09",
+    "glyph": "ඍ",
+    "reading": "ri",
+    "meaning_id": "bunyi ri",
+    "meaning_en": "vocalic ri",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/09_ri.png",
+    "tts_id": {
+      "s1": "Huruf ri, bunyinya bunyi ri.",
+      "s2": "Bayangkan kail melingkar dengan garis kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ri."
+    },
+    "tts_en": {
+      "s1": "Letter ri, sounding like vocalic ri.",
+      "s2": "Picture curled hook with right wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ri."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඍ (ri) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curled hook with right wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_10",
+    "glyph": "ඎ",
+    "reading": "rii",
+    "meaning_id": "bunyi ri panjang",
+    "meaning_en": "long vocalic ri",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/10_rii.png",
+    "tts_id": {
+      "s1": "Huruf rii, bunyinya bunyi ri panjang.",
+      "s2": "Bayangkan kail ganda bersayap panjang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rii."
+    },
+    "tts_en": {
+      "s1": "Letter rii, sounding like long vocalic ri.",
+      "s2": "Picture double hook with extended wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, rii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඎ (rii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double hook with extended wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_11",
+    "glyph": "ඏ",
+    "reading": "li",
+    "meaning_id": "bunyi li klasik",
+    "meaning_en": "vocalic li",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/11_li.png",
+    "tts_id": {
+      "s1": "Huruf li, bunyinya bunyi li klasik.",
+      "s2": "Bayangkan simpul bulat dengan sayap melambai.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, li."
+    },
+    "tts_en": {
+      "s1": "Letter li, sounding like vocalic li.",
+      "s2": "Picture round loop with waving wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, li."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඏ (li) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round loop with waving wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_12",
+    "glyph": "ඐ",
+    "reading": "lii",
+    "meaning_id": "bunyi li panjang",
+    "meaning_en": "long vocalic li",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/12_lii.png",
+    "tts_id": {
+      "s1": "Huruf lii, bunyinya bunyi li panjang.",
+      "s2": "Bayangkan simpul bulat bersayap ganda.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lii."
+    },
+    "tts_en": {
+      "s1": "Letter lii, sounding like long vocalic li.",
+      "s2": "Picture round loop with twin wings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, lii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඐ (lii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round loop with twin wings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_13",
+    "glyph": "එ",
+    "reading": "e",
+    "meaning_id": "e pendek",
+    "meaning_en": "short e",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/13_e.png",
+    "tts_id": {
+      "s1": "Huruf e, bunyinya e pendek.",
+      "s2": "Bayangkan ekor spiral menjulang ke kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Letter e, sounding like short e.",
+      "s2": "Picture spiral tail rising up left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character එ (e) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiral tail rising up left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_14",
+    "glyph": "ඒ",
+    "reading": "ee",
+    "meaning_id": "ee panjang",
+    "meaning_en": "long e",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/14_ee.png",
+    "tts_id": {
+      "s1": "Huruf ee, bunyinya ee panjang.",
+      "s2": "Bayangkan huruf e bertopi panji melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ee."
+    },
+    "tts_en": {
+      "s1": "Letter ee, sounding like long e.",
+      "s2": "Picture e topped with a curved flag.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ee."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඒ (ee) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating e topped with a curved flag in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_15",
+    "glyph": "ඔ",
+    "reading": "o",
+    "meaning_id": "o pendek",
+    "meaning_en": "short o",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/15_o.png",
+    "tts_id": {
+      "s1": "Huruf o, bunyinya o pendek.",
+      "s2": "Bayangkan lingkaran bulat berbelok ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Letter o, sounding like short o.",
+      "s2": "Picture full circle dipping down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඔ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating full circle dipping down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_16",
+    "glyph": "ඕ",
+    "reading": "oo",
+    "meaning_id": "oo panjang",
+    "meaning_en": "long o",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/16_oo.png",
+    "tts_id": {
+      "s1": "Huruf oo, bunyinya oo panjang.",
+      "s2": "Bayangkan huruf o dengan kait panjang ke dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, oo."
+    },
+    "tts_en": {
+      "s1": "Letter oo, sounding like long o.",
+      "s2": "Picture o with a long inward curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, oo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඕ (oo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o with a long inward curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_17",
+    "glyph": "ඖ",
+    "reading": "au",
+    "meaning_id": "au",
+    "meaning_en": "au diphthong",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/17_au.png",
+    "tts_id": {
+      "s1": "Huruf au, bunyinya au.",
+      "s2": "Bayangkan huruf o bersayap tambahan di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, au."
+    },
+    "tts_en": {
+      "s1": "Letter au, sounding like au diphthong.",
+      "s2": "Picture o with an outer right wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, au."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඖ (au) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o with an outer right wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_18",
+    "glyph": "අං",
+    "reading": "am",
+    "meaning_id": "vokal a dengan anusvara",
+    "meaning_en": "nasalized am",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/18_am.png",
+    "tts_id": {
+      "s1": "Huruf am, bunyinya vokal a dengan anusvara.",
+      "s2": "Bayangkan huruf a diikuti lingkaran kecil.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, am."
+    },
+    "tts_en": {
+      "s1": "Letter am, sounding like nasalized am.",
+      "s2": "Picture a followed by a clean circle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, am."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character අං (am) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a followed by a clean circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_19",
+    "glyph": "ක",
+    "reading": "ka",
+    "meaning_id": "konsonan ka",
+    "meaning_en": "clean ka",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/19_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, bunyinya konsonan ka.",
+      "s2": "Bayangkan lengkung delapan berdiri gagah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Letter ka, sounding like clean ka.",
+      "s2": "Picture upright figure eight loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ක (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright figure eight loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_20",
+    "glyph": "ඛ",
+    "reading": "kha",
+    "meaning_id": "ka berhembus kha",
+    "meaning_en": "aspirated kha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/20_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, bunyinya ka berhembus kha.",
+      "s2": "Bayangkan lengkung terbuka dengan titik awal bulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Letter kha, sounding like aspirated kha.",
+      "s2": "Picture open curve starting from a dot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඛ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open curve starting from a dot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_21",
+    "glyph": "ග",
+    "reading": "ga",
+    "meaning_id": "konsonan ga",
+    "meaning_en": "voiced ga",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/21_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, bunyinya konsonan ga.",
+      "s2": "Bayangkan dua lengkung bulat berdempet bersih.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Letter ga, sounding like voiced ga.",
+      "s2": "Picture twin round arches side by side.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ග (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin round arches side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_22",
+    "glyph": "ඝ",
+    "reading": "gha",
+    "meaning_id": "ga berhembus gha",
+    "meaning_en": "aspirated gha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/22_gha.png",
+    "tts_id": {
+      "s1": "Huruf gha, bunyinya ga berhembus gha.",
+      "s2": "Bayangkan tiga lengkung melambai ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gha."
+    },
+    "tts_en": {
+      "s1": "Letter gha, sounding like aspirated gha.",
+      "s2": "Picture three waving arches right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, gha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඝ (gha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three waving arches right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_23",
+    "glyph": "ඞ",
+    "reading": "nga",
+    "meaning_id": "sengau nga",
+    "meaning_en": "velar nasal nga",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/23_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, bunyinya sengau nga.",
+      "s2": "Bayangkan lengkung bergulung ke dalam atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Letter nga, sounding like velar nasal nga.",
+      "s2": "Picture curve coiling inward above.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඞ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curve coiling inward above in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_24",
+    "glyph": "ච",
+    "reading": "ca",
+    "meaning_id": "ca",
+    "meaning_en": "ch as in chair",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/24_ca.png",
+    "tts_id": {
+      "s1": "Huruf ca, bunyinya ca.",
+      "s2": "Bayangkan tetesan air dengan lengkung kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ca."
+    },
+    "tts_en": {
+      "s1": "Letter ca, sounding like ch as in chair.",
+      "s2": "Picture droplet curving right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ca."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ච (ca) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating droplet curving right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_25",
+    "glyph": "ඡ",
+    "reading": "cha",
+    "meaning_id": "ca berhembus cha",
+    "meaning_en": "aspirated cha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/25_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya ca berhembus cha.",
+      "s2": "Bayangkan tetesan ganda bertumpuk rapi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like aspirated cha.",
+      "s2": "Picture twin stacked droplets.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඡ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin stacked droplets in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_26",
+    "glyph": "ජ",
+    "reading": "ja",
+    "meaning_id": "konsonan ja",
+    "meaning_en": "j as in jam",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/26_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, bunyinya konsonan ja.",
+      "s2": "Bayangkan gelombang dua berujung sayap kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Letter ja, sounding like j as in jam.",
+      "s2": "Picture double wave sweeping right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ජ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double wave sweeping right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_27",
+    "glyph": "ඣ",
+    "reading": "jha",
+    "meaning_id": "ja berhembus jha",
+    "meaning_en": "aspirated jha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/27_jha.png",
+    "tts_id": {
+      "s1": "Huruf jha, bunyinya ja berhembus jha.",
+      "s2": "Bayangkan lengkung dengan dua simpul kembar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jha."
+    },
+    "tts_en": {
+      "s1": "Letter jha, sounding like aspirated jha.",
+      "s2": "Picture curve with twin inner knots.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, jha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඣ (jha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curve with twin inner knots in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_28",
+    "glyph": "ඤ",
+    "reading": "nya",
+    "meaning_id": "sengau nya",
+    "meaning_en": "palatal nya",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/28_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, bunyinya sengau nya.",
+      "s2": "Bayangkan simpul bulat memeluk tiga bukit.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Letter nya, sounding like palatal nya.",
+      "s2": "Picture round loop framing three waves.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඤ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round loop framing three waves in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_29",
+    "glyph": "ට",
+    "reading": "tta",
+    "meaning_id": "ta retrofleks",
+    "meaning_en": "retroflex ta",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/29_tta.png",
+    "tts_id": {
+      "s1": "Huruf tta, bunyinya ta retrofleks.",
+      "s2": "Bayangkan lingkaran dengan topi terbuka ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tta."
+    },
+    "tts_en": {
+      "s1": "Letter tta, sounding like retroflex ta.",
+      "s2": "Picture circle under a left opening crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ට (tta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle under a left opening crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_30",
+    "glyph": "ඨ",
+    "reading": "ttha",
+    "meaning_id": "ta retrofleks berhembus",
+    "meaning_en": "aspirated retroflex tha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/30_ttha.png",
+    "tts_id": {
+      "s1": "Huruf ttha, bunyinya ta retrofleks berhembus.",
+      "s2": "Bayangkan lingkaran penuh bersih seperti roda.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ttha."
+    },
+    "tts_en": {
+      "s1": "Letter ttha, sounding like aspirated retroflex tha.",
+      "s2": "Picture clean wheel circle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ttha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඨ (ttha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean wheel circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_31",
+    "glyph": "ඩ",
+    "reading": "dda",
+    "meaning_id": "da retrofleks",
+    "meaning_en": "retroflex da",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/31_dda.png",
+    "tts_id": {
+      "s1": "Huruf dda, bunyinya da retrofleks.",
+      "s2": "Bayangkan dua lingkaran bertemu garis ombak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dda."
+    },
+    "tts_en": {
+      "s1": "Letter dda, sounding like retroflex da.",
+      "s2": "Picture twin rings linked by a wave.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඩ (dda) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin rings linked by a wave in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_32",
+    "glyph": "ඪ",
+    "reading": "ddha",
+    "meaning_id": "da retrofleks berhembus",
+    "meaning_en": "aspirated retroflex dha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/32_ddha.png",
+    "tts_id": {
+      "s1": "Huruf ddha, bunyinya da retrofleks berhembus.",
+      "s2": "Bayangkan lingkaran terbuka berakhir kait dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ddha."
+    },
+    "tts_en": {
+      "s1": "Letter ddha, sounding like aspirated retroflex dha.",
+      "s2": "Picture open ring curling inward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ddha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඪ (ddha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open ring curling inward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_33",
+    "glyph": "ණ",
+    "reading": "nna",
+    "meaning_id": "na retrofleks",
+    "meaning_en": "retroflex na",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/33_nna.png",
+    "tts_id": {
+      "s1": "Huruf nna, bunyinya na retrofleks.",
+      "s2": "Bayangkan lengkung ganda membentuk sayap lebah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nna."
+    },
+    "tts_en": {
+      "s1": "Letter nna, sounding like retroflex na.",
+      "s2": "Picture double rounded wing arches.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nna."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ණ (nna) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double rounded wing arches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_34",
+    "glyph": "ත",
+    "reading": "tha",
+    "meaning_id": "ta lembut gigi",
+    "meaning_en": "soft dental ta",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/34_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, bunyinya ta lembut gigi.",
+      "s2": "Bayangkan tiga lengkung membulat dengan ekor turun.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Letter tha, sounding like soft dental ta.",
+      "s2": "Picture three round curls dipping down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ත (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three round curls dipping down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_35",
+    "glyph": "ථ",
+    "reading": "thha",
+    "meaning_id": "ta gigi berhembus",
+    "meaning_en": "aspirated dental tha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/35_thha.png",
+    "tts_id": {
+      "s1": "Huruf thha, bunyinya ta gigi berhembus.",
+      "s2": "Bayangkan dua lengkung terbuka dengan simpul kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, thha."
+    },
+    "tts_en": {
+      "s1": "Letter thha, sounding like aspirated dental tha.",
+      "s2": "Picture twin curves with left loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, thha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ථ (thha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin curves with left loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_36",
+    "glyph": "ද",
+    "reading": "da",
+    "meaning_id": "da lembut gigi",
+    "meaning_en": "soft dental da",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/36_da.png",
+    "tts_id": {
+      "s1": "Huruf da, bunyinya da lembut gigi.",
+      "s2": "Bayangkan dua bukit bulat berbelok ke kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Letter da, sounding like soft dental da.",
+      "s2": "Picture two round arches turning left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ද (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two round arches turning left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_37",
+    "glyph": "ධ",
+    "reading": "dha",
+    "meaning_id": "da gigi berhembus",
+    "meaning_en": "aspirated dental dha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/37_dha.png",
+    "tts_id": {
+      "s1": "Huruf dha, bunyinya da gigi berhembus.",
+      "s2": "Bayangkan lengkung terbuka berakhir simpul bundar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha."
+    },
+    "tts_en": {
+      "s1": "Letter dha, sounding like aspirated dental dha.",
+      "s2": "Picture open curve ending in a ring.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ධ (dha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open curve ending in a ring in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_38",
+    "glyph": "න",
+    "reading": "na",
+    "meaning_id": "na bersih",
+    "meaning_en": "clean na",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/38_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya na bersih.",
+      "s2": "Bayangkan satu kubah dengan ekor kanan melingkar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like clean na.",
+      "s2": "Picture single dome curling down right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character න (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single dome curling down right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_39",
+    "glyph": "ප",
+    "reading": "pa",
+    "meaning_id": "konsonan pa",
+    "meaning_en": "clean pa",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/39_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, bunyinya konsonan pa.",
+      "s2": "Bayangkan gelombang mangkuk bersih terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Letter pa, sounding like clean pa.",
+      "s2": "Picture clean wave bowl open upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ප (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean wave bowl open upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_40",
+    "glyph": "ඵ",
+    "reading": "pha",
+    "meaning_id": "pa berhembus pha",
+    "meaning_en": "aspirated pha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/40_pha.png",
+    "tts_id": {
+      "s1": "Huruf pha, bunyinya pa berhembus pha.",
+      "s2": "Bayangkan mangkuk pa dengan gulungan dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pha."
+    },
+    "tts_en": {
+      "s1": "Letter pha, sounding like aspirated pha.",
+      "s2": "Picture pa bowl with inward spiral.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඵ (pha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa bowl with inward spiral in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_41",
+    "glyph": "බ",
+    "reading": "ba",
+    "meaning_id": "konsonan ba",
+    "meaning_en": "voiced ba",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/41_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, bunyinya konsonan ba.",
+      "s2": "Bayangkan simpul angka dua melingkar rapi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Letter ba, sounding like voiced ba.",
+      "s2": "Picture neatly curled number two.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character බ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating neatly curled number two in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_42",
+    "glyph": "භ",
+    "reading": "bha",
+    "meaning_id": "ba berhembus bha",
+    "meaning_en": "aspirated bha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/42_bha.png",
+    "tts_id": {
+      "s1": "Huruf bha, bunyinya ba berhembus bha.",
+      "s2": "Bayangkan dua lingkaran bersambung ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bha."
+    },
+    "tts_en": {
+      "s1": "Letter bha, sounding like aspirated bha.",
+      "s2": "Picture two loops linked right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, bha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character භ (bha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two loops linked right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_43",
+    "glyph": "ම",
+    "reading": "ma",
+    "meaning_id": "ma seperti mama",
+    "meaning_en": "m as in mother",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/43_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, bunyinya ma seperti mama.",
+      "s2": "Bayangkan simpul kiri berbelok membentuk perut kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Letter ma, sounding like m as in mother.",
+      "s2": "Picture left knot curving into right belly.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ම (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left knot curving into right belly in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_44",
+    "glyph": "ය",
+    "reading": "ya",
+    "meaning_id": "ya seperti ya",
+    "meaning_en": "y as in yes",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/44_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, bunyinya ya seperti ya.",
+      "s2": "Bayangkan mangkuk ganda halus terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Letter ya, sounding like y as in yes.",
+      "s2": "Picture smooth double bowl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ය (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating smooth double bowl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_45",
+    "glyph": "ර",
+    "reading": "ra",
+    "meaning_id": "ra bergetar",
+    "meaning_en": "rolled ra",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/45_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, bunyinya ra bergetar.",
+      "s2": "Bayangkan tetesan air ramping dengan titik puncak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Letter ra, sounding like rolled ra.",
+      "s2": "Picture slender teardrop loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ර (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slender teardrop loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_46",
+    "glyph": "ල",
+    "reading": "la",
+    "meaning_id": "la bersih",
+    "meaning_en": "clear la",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/46_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya la bersih.",
+      "s2": "Bayangkan dua lengkung berombak lembut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like clear la.",
+      "s2": "Picture two gentle wavy loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ල (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two gentle wavy loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_47",
+    "glyph": "ව",
+    "reading": "va",
+    "meaning_id": "va atau wa",
+    "meaning_en": "soft va or wa",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/47_va.png",
+    "tts_id": {
+      "s1": "Huruf va, bunyinya va atau wa.",
+      "s2": "Bayangkan mangkuk bulat dengan ekor kanan naik.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, va."
+    },
+    "tts_en": {
+      "s1": "Letter va, sounding like soft va or wa.",
+      "s2": "Picture round bowl rising right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, va."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ව (va) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl rising right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_48",
+    "glyph": "ශ",
+    "reading": "sha",
+    "meaning_id": "sy lembut",
+    "meaning_en": "palatal sha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/48_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, bunyinya sy lembut.",
+      "s2": "Bayangkan lengkung tinggi membungkuk kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Letter sha, sounding like palatal sha.",
+      "s2": "Picture tall arch bending right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ශ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall arch bending right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_49",
+    "glyph": "ෂ",
+    "reading": "ssha",
+    "meaning_id": "sy retrofleks",
+    "meaning_en": "retroflex sha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/49_ssha.png",
+    "tts_id": {
+      "s1": "Huruf ssha, bunyinya sy retrofleks.",
+      "s2": "Bayangkan dua mangkuk bergabung sayap kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ssha."
+    },
+    "tts_en": {
+      "s1": "Letter ssha, sounding like retroflex sha.",
+      "s2": "Picture twin bowls with right curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ssha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ෂ (ssha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin bowls with right curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_50",
+    "glyph": "ස",
+    "reading": "sa",
+    "meaning_id": "sa bersih",
+    "meaning_en": "clean sa",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/50_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, bunyinya sa bersih.",
+      "s2": "Bayangkan kubah melingkar dengan simpul kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Letter sa, sounding like clean sa.",
+      "s2": "Picture round dome with right knot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ස (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round dome with right knot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_51",
+    "glyph": "හ",
+    "reading": "ha",
+    "meaning_id": "ha berhembus",
+    "meaning_en": "breathy ha",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/51_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, bunyinya ha berhembus.",
+      "s2": "Bayangkan dua bukit naik ke kanan dengan ekor.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Letter ha, sounding like breathy ha.",
+      "s2": "Picture two hills rising right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character හ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two hills rising right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_52",
+    "glyph": "ළ",
+    "reading": "lla",
+    "meaning_id": "la retrofleks",
+    "meaning_en": "retroflex lla",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/52_lla.png",
+    "tts_id": {
+      "s1": "Huruf lla, bunyinya la retrofleks.",
+      "s2": "Bayangkan simpul berputar seperti siput laut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lla."
+    },
+    "tts_en": {
+      "s1": "Letter lla, sounding like retroflex lla.",
+      "s2": "Picture spiraling sea shell curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, lla."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ළ (lla) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiraling sea shell curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_53",
+    "glyph": "ෆ",
+    "reading": "fa",
+    "meaning_id": "konsonan fa serapan",
+    "meaning_en": "borrowed fa",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/53_fa.png",
+    "tts_id": {
+      "s1": "Huruf fa, bunyinya konsonan fa serapan.",
+      "s2": "Bayangkan huruf pa bertopi tanda seru melintang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, fa."
+    },
+    "tts_en": {
+      "s1": "Letter fa, sounding like borrowed fa.",
+      "s2": "Picture pa shape with center bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, fa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ෆ (fa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa shape with center bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "sinhala_54",
+    "glyph": "ඬ",
+    "reading": "nda",
+    "meaning_id": "konsonan pranasalisasi nda",
+    "meaning_en": "prenasalized nda",
+    "voice_target": "si-LK-ThiliniNeural",
+    "template_path": "templates_sinhala/54_nda.png",
+    "tts_id": {
+      "s1": "Huruf nda, bunyinya konsonan pranasalisasi nda.",
+      "s2": "Bayangkan simpul n memeluk huruf da.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nda."
+    },
+    "tts_en": {
+      "s1": "Letter nda, sounding like prenasalized nda.",
+      "s2": "Picture n curl hugging da.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of sinhala character ඬ (nda) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating n curl hugging da in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

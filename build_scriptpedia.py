@@ -17,7 +17,9 @@ import argparse
 import html
 import json
 import re
+import subprocess
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
@@ -26,6 +28,8 @@ ROOT = Path(__file__).resolve().parent
 PLANS_DIR = ROOT / "plans"
 OMNIGLOT_CACHE = PLANS_DIR / "omniglot_sources"
 DOCS_DIR = ROOT / "docs"
+AUDIO_DIR = DOCS_DIR / "assets" / "audio"
+EDGE_TTS = "/Volumes/App/Caches-And-Env/bin/edge-tts"
 
 
 class OmniglotHTMLParser(HTMLParser):
@@ -463,8 +467,8 @@ SCRIPTS: list[dict[str, Any]] = [
     },
     {
         "slug": "hangul",
-        "name_id": "Hangul Korea (Jamo Dasar)",
-        "name_en": "Korean Hangul (Basic Jamo)",
+        "name_id": "Hangul Korea (Jamo Lengkap)",
+        "name_en": "Korean Hangul (Full Jamo)",
         "native_name": "한글 · 자모",
         "type_key": "featural",
         "type_id": "Alfabet Fitur (Featural Alphabet)",
@@ -474,12 +478,12 @@ SCRIPTS: list[dict[str, Any]] = [
         "lineage": "Diciptakan Raja Sejong Agung (1443, Hunminjeongeum)",
         "languages": "Korea, Jeju, Cia-Cia",
         "speech_lang": "ko-KR",
-        "tts_voice": "ko-KR-SunHiNeural",
+        "tts_voice": "ko-KR-HyunsuMultilingualNeural / ko-KR-SunHiNeural",
         "omniglot_url": "https://omniglot.com/writing/korean.htm",
         "prompt_file": "plans/hangul_ready_prompts.json",
         "related": ["bopomofo", "hiragana", "katakana"],
-        "summary_id": "24 huruf dasar Hangul (14 konsonan meniru bentuk organ bicara + 10 vokal berdasar prinsip Langit, Bumi, Manusia).",
-        "summary_en": "24 basic Hangul Jamo (14 consonants modeling vocal organs + 10 vowels built from Heaven, Earth, and Human strokes).",
+        "summary_id": "40 Jamo Hangul (14 konsonan dasar + 5 konsonan ganda + 10 vokal dasar + 11 vokal gabungan) beserta prinsip Langit, Bumi, Manusia.",
+        "summary_en": "40 Hangul Jamo (14 basic consonants + 5 double consonants + 10 basic vowels + 11 compound vowels) built on vocal-organ geometry.",
         "features_id": [
             "Bentuk konsonan dasar meniru posisi lidah, bibir, gigi, dan tenggorokan saat diucapkan.",
             "Vokal dibentuk dari tiga unsur filosofis: titik/garis pendek (Langit), garis datar (Bumi), garis tegak (Manusia).",
@@ -807,6 +811,244 @@ SCRIPTS: list[dict[str, Any]] = [
             "en": "All human beings are born free and equal in dignity and rights.",
         },
     },
+    {
+        "slug": "bengali",
+        "name_id": "Aksara Bengali / Bangla",
+        "name_en": "Bengali (Bangla) Script",
+        "native_name": "বাংলা লিপি",
+        "type_key": "abugida",
+        "type_id": "Abugida (Brahmi Timur)",
+        "type_en": "Abugida (Eastern Brahmic)",
+        "unicode": "U+0980–U+09FF (Bengali)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Siddham → Gaudi → Aksara Bengali-Assam",
+        "languages": "Bengali (Bangla), Assam, Bishnupriya",
+        "speech_lang": "bn-BD",
+        "tts_voice": "bn-BD-NabanitaNeural",
+        "omniglot_url": "https://omniglot.com/writing/bengali.htm",
+        "prompt_file": "plans/bengali_ready_prompts.json",
+        "related": ["devanagari", "gujarati", "tamil"],
+        "summary_id": "50 aksara inti Bengali (11 vokal Swarabarna + 39 konsonan Byanjanbarna) dengan garis atap matra khas.",
+        "summary_en": "50 core Bengali letters (11 Swarabarna vowels + 39 Byanjanbarna consonants) linked by a signature top matra bar.",
+        "features_id": [
+            "Garis horizontal matra di atas menyatukan banyak huruf, serupa shirorekha di Devanagari namun dengan sudut lebih mengalir.",
+            "Vokal bawaan pada konsonan sering condong ke bunyi 'o' terbuka alih-alih 'a'.",
+        ],
+        "features_en": [
+            "Many characters hang from a horizontal top matra bar while retaining flowing rounded triangles.",
+            "The inherent consonant vowel typically rounds toward an open 'o' quality.",
+        ],
+        "sample": {
+            "native": "সমস্ত মানুষ স্বাধীনভাবে সমান মর্যাদা এবং অধিকার নিয়ে জন্মগ্রহণ করে।",
+            "translit": "Somosto manush shadhinbhabe soman morjada ebong odhikar niye jonmogrohon kore.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "gujarati",
+        "name_id": "Aksara Gujarati",
+        "name_en": "Gujarati Script",
+        "native_name": "ગુજરાતી લિપિ",
+        "type_key": "abugida",
+        "type_id": "Abugida (Tanpa Garis Atap)",
+        "type_en": "Abugida (Brahmic without Top Bar)",
+        "unicode": "U+0A80–U+0AFF (Gujarati)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Nagari → Devanagari → Aksara Gujarati (tanpa shirorekha)",
+        "languages": "Gujarati, Kutchi, Avesta (liturgi Parsi)",
+        "speech_lang": "gu-IN",
+        "tts_voice": "gu-IN-DhwaniNeural",
+        "omniglot_url": "https://omniglot.com/writing/gujarati.htm",
+        "prompt_file": "plans/gujarati_ready_prompts.json",
+        "related": ["devanagari", "bengali"],
+        "summary_id": "47 aksara inti Gujarati (13 vokal + 34 konsonan) yang berkerabat dekat dengan Devanagari tanpa garis atap horizontal.",
+        "summary_en": "47 core Gujarati letters (13 vowels + 34 consonants), closely related to Devanagari without the top horizontal bar.",
+        "features_id": [
+            "Berevolusi agar dapat ditulis cepat di atas kertas pembukuan tanpa perlu menarik garis atap shirorekha.",
+            "Susunan vokal dan konsonannya tetap mengikuti urutan fonetik Sanskerta klasik.",
+        ],
+        "features_en": [
+            "Dropped the Devanagari top shirorekha line to speed up cursive bookkeeping.",
+            "Preserves the traditional Sanskrit phonetic grid across velar, palatal, retroflex, dental, and labial rows.",
+        ],
+        "sample": {
+            "native": "પ્રત્યેક વ્યક્તિ જન્મથી જ સ્વતંત્ર છે અને સમાન ગૌરવ તથા અધિકારો ધરાવે છે.",
+            "translit": "Pratyek vyakti janmathi j svatantra chhe ane saman gaurav tatha adhikaro dharave chhe.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "telugu",
+        "name_id": "Aksara Telugu",
+        "name_en": "Telugu Script",
+        "native_name": "తెలుగు లిపి",
+        "type_key": "abugida",
+        "type_id": "Abugida (Dravida Selatan)",
+        "type_en": "Abugida (Rounded South Brahmic)",
+        "unicode": "U+0C00–U+0C7F (Telugu)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Bhattiprolu → Telugu-Kannada → Aksara Telugu Modern",
+        "languages": "Telugu, Gondi, Savara",
+        "speech_lang": "te-IN",
+        "tts_voice": "te-IN-ShrutiNeural",
+        "omniglot_url": "https://omniglot.com/writing/telugu.htm",
+        "prompt_file": "plans/telugu_ready_prompts.json",
+        "related": ["kannada", "tamil", "malayalam"],
+        "summary_id": "52 aksara inti Telugu (16 vokal Achulu + 36 konsonan Hallulu) bertanda centang atas talakattu yang khas.",
+        "summary_en": "52 core Telugu letters (16 Achulu vowels + 36 Hallulu consonants) marked by the signature top talakattu tick.",
+        "features_id": [
+            "Bentuk huruf sangat membulat dan berkerabat amat dekat dengan aksara Kannada.",
+            "Sebagian besar konsonan memakai tanda centang talakattu (✓) di puncak sebagai penanda vokal bawaan 'a'.",
+        ],
+        "features_en": [
+            "Rounded script closely paired with Kannada, evolved to glide across palm leaves without splitting.",
+            "Most consonants carry a top talakattu tick denoting the inherent 'a' vowel.",
+        ],
+        "sample": {
+            "native": "ప్రతిపత్తి, హక్కుల విషయంలో మానవులందరూ జన్మతః స్వతంత్రులు మరియు సమానులు.",
+            "translit": "Pratipatti, hakkula vishayamlo manavulandaru janmatah svatantrulu mariyu samanulu.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "kannada",
+        "name_id": "Aksara Kannada",
+        "name_en": "Kannada Script",
+        "native_name": "ಕನ್ನಡ ಲಿಪಿ",
+        "type_key": "abugida",
+        "type_id": "Abugida (Dravida Selatan)",
+        "type_en": "Abugida (Rounded South Brahmic)",
+        "unicode": "U+0C80–U+0CFF (Kannada)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Kadamba → Old Kannada → Aksara Kannada Modern",
+        "languages": "Kannada, Tulu, Konkani, Kodava",
+        "speech_lang": "kn-IN",
+        "tts_voice": "kn-IN-SapnaNeural",
+        "omniglot_url": "https://omniglot.com/writing/kannada.htm",
+        "prompt_file": "plans/kannada_ready_prompts.json",
+        "related": ["telugu", "tamil", "malayalam"],
+        "summary_id": "49 aksara inti Kannada (15 vokal Svaragalu + 34 konsonan Vyanjanagalu) dengan lengkungan lembut dan jambul talakattu.",
+        "summary_en": "49 core Kannada letters (15 Svaragalu vowels + 34 Vyanjanagalu consonants) with flowing loops and top crests.",
+        "features_id": [
+            "Berbagi leluhur langsung dengan aksara Telugu sehingga banyak hurufnya tampak kembar dengan gaya lengkung berbeda.",
+            "Konsonan bersusun (ottakshara) diletakkan di bawah konsonan utama.",
+        ],
+        "features_en": [
+            "Shares a direct ancestor with Telugu, yielding mutually recognizable rounded shapes.",
+            "Stacked consonant clusters place secondary subscripts underneath the base glyph.",
+        ],
+        "sample": {
+            "native": "ಎಲ್ಲಾ ಮಾನವರೂ ಸ್ವತಂತ್ರರಾಗಿಯೇ ಜನಿಸಿದ್ದಾರೆ ಮತ್ತು ಘನತೆ ಹಾಗೂ ಹಕ್ಕುಗಳಲ್ಲಿ ಸಮಾನರಾಗಿದ್ದಾರೆ.",
+            "translit": "Ella manavaru svatantraragiye janisiddare mattu ghanate hagu hakkugalalli samanaragiddare.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "malayalam",
+        "name_id": "Aksara Malayalam",
+        "name_en": "Malayalam Script",
+        "native_name": "മലയാളം ലിപി",
+        "type_key": "abugida",
+        "type_id": "Abugida (Dravida Grantha)",
+        "type_en": "Abugida (Grantha-derived)",
+        "unicode": "U+0D00–U+0D7F (Malayalam)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Vatteluttu & Grantha → Aksara Malayalam Modern",
+        "languages": "Malayalam, Paniya, Betta Kurumba",
+        "speech_lang": "ml-IN",
+        "tts_voice": "ml-IN-SobhanaNeural",
+        "omniglot_url": "https://omniglot.com/writing/malayalam.htm",
+        "prompt_file": "plans/malayalam_ready_prompts.json",
+        "related": ["tamil", "kannada", "telugu"],
+        "summary_id": "51 aksara inti Malayalam (15 vokal + 36 konsonan) berlekuk lembut khas Kerala, termasuk bunyi retrofleks ഴ (zha).",
+        "summary_en": "51 core Malayalam letters (15 vowels + 36 consonants) famed for lush rounded curves and the retroflex ഴ (zha).",
+        "features_id": [
+            "Menggabungkan warisan Vatteluttu dengan Grantha sehingga dapat menuliskan baik kosakata Dravida maupun Sanskerta.",
+            "Tanda vokal dapat muncul sebelum, sesudah, atau mengapit huruf konsonan di kedua sisi.",
+        ],
+        "features_en": [
+            "Blends Grantha and Vatteluttu heritage to write both Dravidian and Sanskrit-origin vocabulary.",
+            "Surrounding vowel signs can appear to the left, right, or split across both sides of a consonant.",
+        ],
+        "sample": {
+            "native": "മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും സ്വാതന്ത്ര്യത്തോടുംകൂടി ജനിച്ചവരാണ്.",
+            "translit": "Manushyarellavarum tulyavakasangalodum antassodum svatantryattodumkudi janiccavaranu.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "sinhala",
+        "name_id": "Aksara Sinhala",
+        "name_en": "Sinhala Script",
+        "native_name": "සිංහල අක්ෂර මාලාව",
+        "type_key": "abugida",
+        "type_id": "Abugida (Sri Lanka)",
+        "type_en": "Abugida (Circular Insular Brahmic)",
+        "unicode": "U+0D80–U+0DFF (Sinhala)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Brahmi → Grantha / Kadamba → Aksara Sinhala",
+        "languages": "Sinhala, Pali, Sanskerta (di Sri Lanka)",
+        "speech_lang": "si-LK",
+        "tts_voice": "si-LK-ThiliniNeural",
+        "omniglot_url": "https://omniglot.com/writing/sinhala.htm",
+        "prompt_file": "plans/sinhala_ready_prompts.json",
+        "related": ["tamil", "malayalam", "myanmar"],
+        "summary_id": "54 aksara inti Sinhala (18 vokal + 36 konsonan termasuk konsonan pranasalisasi nda) bergaya membulat khas naskah lontar Sri Lanka.",
+        "summary_en": "54 core Sinhala letters (18 vowels + 36 consonants including prenasalized stops) shaped like smooth waves.",
+        "features_id": [
+            "Menyertakan vokal pendek/panjang unik (ä / ǟ) dan konsonan pranasalisasi khas (mis. ඬ = nda).",
+            "Berbentuk amat membulat dan simetris karena penulisan tradisional di daun tal/lontar.",
+        ],
+        "features_en": [
+            "Includes distinct ä / ǟ vowels and dedicated prenasalized stop letters like ඬ (nda).",
+            "Curvilinear forms avoid straight horizontal cuts on Sri Lankan palm-leaf manuscripts.",
+        ],
+        "sample": {
+            "native": "සියලු මනුෂ්‍යයෝ නිදහස්ව උපත ලබා ඇත. ගරුත්වයෙන් හා අයිතිවාසිකම්වලින් සමාන වෙති.",
+            "translit": "Siyalu manushyayo nidahasva upata laba ata. Garutvayen ha ayitivasikamvalin samana veti.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
+    {
+        "slug": "amharic",
+        "name_id": "Aksara Amharik / Ge'ez (Fidel)",
+        "name_en": "Amharic / Ge'ez Script (Fidel)",
+        "native_name": "ፊደል · ግዕዝ",
+        "type_key": "abugida",
+        "type_id": "Abugida (Fidel Ethiopia)",
+        "type_en": "Abugida (Ethiopic Fidel)",
+        "unicode": "U+1200–U+137F (Ethiopic)",
+        "direction": "Kiri ke kanan",
+        "lineage": "Proto-Sinaitik → Arab Selatan Kuno → Abugida Ge'ez (~Abad ke-4 M) → Amharik",
+        "languages": "Amharik, Tigrinya, Ge'ez (liturgi), Harari",
+        "speech_lang": "am-ET",
+        "tts_voice": "am-ET-MekdesNeural",
+        "omniglot_url": "https://omniglot.com/writing/amharic.htm",
+        "prompt_file": "plans/amharik_ready_prompts.json",
+        "related": ["arabic", "hebrew"],
+        "summary_id": "33 bentuk konsonan dasar ordo pertama Fidel Ge'ez yang menjadi fondasi 7 variasi vokal sistematis dalam bahasa Amharik.",
+        "summary_en": "33 base first-order Ge'ez Fidel consonants anchoring Amharic's 7-vowel abugida matrix.",
+        "features_id": [
+            "Setiap dari 33 huruf dasar berubah menjadi 7 bentuk teratur untuk vokal: ä, u, i, a, e, ə, o.",
+            "Meskipun berakar dari abjad Semitik (kerabat Arab & Ibrani), arah tulisnya kiri ke kanan.",
+        ],
+        "features_en": [
+            "Each of the 33 base consonants systematically morphs across 7 vowel orders (ä, u, i, a, e, ə, o).",
+            "Unlike Arabic and Hebrew despite Semitic roots, Ethiopic Fidel runs strictly left-to-right.",
+        ],
+        "sample": {
+            "native": "የሰው ልጆች ሁሉ ሲወለዱ ነጻና በክብርና በመብትም እኩልነት ያላቸው ናቸው።",
+            "translit": "Yäsäw ləjoch hullu siwälädu nätsana bäkəbərna bämäbtəm əkkulənnät yallachäw nachäw.",
+            "id": "Semua manusia dilahirkan merdeka dan mempunyai martabat serta hak yang sama.",
+            "en": "All human beings are born free and equal in dignity and rights.",
+        },
+    },
 ]
 
 GREEK_VOWELS = {"Α", "Ε", "Η", "Ι", "Ο", "Υ", "Ω"}
@@ -851,6 +1093,20 @@ def classify_group(slug: str, row: dict[str, Any], idx: int) -> str:
         return "22 Huruf Inti / Core Letters (22)" if idx < 22 else "Bentuk Akhir / Final Sofit (5)"
     if slug == "tamil":
         return "12 Vokal / Uyir (12)" if idx < 12 else "18 Konsonan / Mei (18)"
+    if slug == "bengali":
+        return "11 Vokal / Swarabarna (11)" if idx < 11 else "39 Konsonan / Byanjanbarna (39)"
+    if slug == "gujarati":
+        return "13 Vokal / Svara (13)" if idx < 13 else "34 Konsonan / Vyanjana (34)"
+    if slug == "telugu":
+        return "16 Vokal / Achulu (16)" if idx < 16 else "36 Konsonan / Hallulu (36)"
+    if slug == "kannada":
+        return "15 Vokal / Svaragalu (15)" if idx < 15 else "34 Konsonan / Vyanjanagalu (34)"
+    if slug == "malayalam":
+        return "15 Vokal / Swarangal (15)" if idx < 15 else "36 Konsonan / Vyanjanangal (36)"
+    if slug == "sinhala":
+        return "18 Vokal / Svara (18)" if idx < 18 else "36 Konsonan / Vyanjana (36)"
+    if slug == "amharic":
+        return "33 Huruf Dasar / Base Fidel Orders (33)"
     if slug in ("georgian", "myanmar", "khmer", "lao"):
         return f"Huruf Inti / Core Letters ({33 if slug != 'lao' else 27})"
     if slug == "devanagari":
@@ -1285,11 +1541,40 @@ JS_TEXT = """
 """
 
 
+def synth_sample_audio(spec: dict[str, Any]) -> bool:
+    """Synthesize native neural audio sample MP3 for each script using edge-tts."""
+    AUDIO_DIR.mkdir(parents=True, exist_ok=True)
+    slug = spec["slug"]
+    out_mp3 = AUDIO_DIR / f"{slug}.mp3"
+    if out_mp3.exists() and out_mp3.stat().st_size > 2048:
+        return True
+    voice = spec["tts_voice"].split("/")[0].strip()
+    text = spec["sample"]["native"]
+    if slug == "bopomofo":
+        text = "台灣，注音符號。"
+    elif slug == "particles":
+        text = "这是我的书。"
+    try:
+        subprocess.run(
+            [EDGE_TTS, "--voice", voice, "--text", text, "--write-media", str(out_mp3)],
+            check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=30,
+        )
+        return out_mp3.exists() and out_mp3.stat().st_size > 2048
+    except Exception as exc:
+        print(f"[WARN] edge-tts sample audio failed for {slug} ({voice}): {exc}")
+        return False
+
+
 def build_site(refresh_omniglot: bool = False) -> None:
     (DOCS_DIR / "assets").mkdir(parents=True, exist_ok=True)
     (DOCS_DIR / "scripts").mkdir(parents=True, exist_ok=True)
     (DOCS_DIR / "assets" / "style.css").write_text(CSS_TEXT.strip() + "\n", encoding="utf-8")
     (DOCS_DIR / "assets" / "app.js").write_text(JS_TEXT.strip() + "\n", encoding="utf-8")
+
+    with ThreadPoolExecutor(max_workers=2) as ex:
+        audio_ok_list = list(ex.map(synth_sample_audio, SCRIPTS))
+    audio_map = {s["slug"]: ok for s, ok in zip(SCRIPTS, audio_ok_list)}
+    audio_count = sum(1 for ok in audio_ok_list if ok)
 
     total_entries = 0
     total_videos = 0
@@ -1349,8 +1634,10 @@ def build_site(refresh_omniglot: bool = False) -> None:
                 f'<section class="{grid_cls}">{"".join(cards_html)}</section></div>'
             )
 
-        feat_id_lis = "".join(f"<li>{html.escape(f)}</li>" for f in spec["features_id"])
-        feat_en_lis = "".join(f"<li>{html.escape(f)}</li>" for f in spec["features_en"])
+        feat_lis = "".join(
+            f'<li data-id="{html.escape(fid)}" data-en="{html.escape(fen)}">{html.escape(fid)}</li>'
+            for fid, fen in zip(spec["features_id"], spec["features_en"])
+        )
         rel_links = "".join(
             f'<a class="related-pill" href="{html.escape(r)}.html">{html.escape(slug_to_name.get(r, r))}</a>'
             for r in spec.get("related", [])
@@ -1358,6 +1645,10 @@ def build_site(refresh_omniglot: bool = False) -> None:
         samp = spec["sample"]
         omni_history = " ".join(omni.get("history", [])[:2])
         omni_hist_html = f'<p style="font-size:0.86rem;color:var(--muted);">{html.escape(omni_history)}</p>' if omni_history else ""
+        audio_tag = (
+            f'<audio controls preload="none" src="../assets/audio/{html.escape(spec["slug"])}.mp3" style="width:100%;margin:0.55rem 0;"></audio>'
+            if audio_map.get(spec["slug"]) else ""
+        )
 
         page_html = f"""<!doctype html>
 <html lang="id">
@@ -1396,7 +1687,7 @@ def build_site(refresh_omniglot: bool = False) -> None:
     <div class="two-col">
       <section class="panel">
         <h2 data-id="Ciri Khas Ortografi & Linguistik" data-en="Notable Orthographic Features">Ciri Khas Ortografi & Linguistik</h2>
-        <ul data-lang-list="id">{feat_id_lis}</ul>
+        <ul>{feat_lis}</ul>
         {omni_hist_html}
         <p style="margin:0;"><a href="{html.escape(spec['omniglot_url'])}" target="_blank" rel="noopener">Omniglot Source ↗</a></p>
       </section>
@@ -1406,6 +1697,7 @@ def build_site(refresh_omniglot: bool = False) -> None:
           <button type="button" class="btn-action" onclick="speakScript({html.escape(json.dumps(samp['native']))}, '{html.escape(spec['speech_lang'])}')">🔊 Listen</button>
         </div>
         <div class="sample-native">{html.escape(samp['native'])}</div>
+        {audio_tag}
         <div style="font-size:0.86rem;color:var(--accent);margin-bottom:0.4rem;"><code>{html.escape(samp['translit'])}</code></div>
         <div style="font-size:0.88rem;color:var(--muted);" data-id="{html.escape(samp['id'])}" data-en="{html.escape(samp['en'])}">{html.escape(samp['id'])}</div>
       </section>
@@ -1490,6 +1782,7 @@ def build_site(refresh_omniglot: bool = False) -> None:
         <span class="stat-pill">{len(SCRIPTS)} Sistem Tulisan</span>
         <span class="stat-pill">{total_entries} Huruf & Pelajaran</span>
         <span class="stat-pill">{total_strokes} Animator Guratan SVG</span>
+        <span class="stat-pill">{audio_count} Native Neural Audio</span>
         <span class="stat-pill">{total_videos} Link Video MP4</span>
       </div>
     </section>
@@ -1517,7 +1810,7 @@ def build_site(refresh_omniglot: bool = False) -> None:
 </html>
 """
     (DOCS_DIR / "index.html").write_text(index_html, encoding="utf-8")
-    print(f"Built ScriptPedia v2: {len(SCRIPTS)} scripts, {total_entries} entries, {total_strokes} stroke animators, {total_videos} video links.")
+    print(f"Built ScriptPedia v2: {len(SCRIPTS)} scripts, {total_entries} entries, {total_strokes} stroke animators, {audio_count} neural audio MP3s, {total_videos} video links.")
 
 
 def main() -> None:

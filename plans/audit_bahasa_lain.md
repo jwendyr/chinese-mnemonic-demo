@@ -48,3 +48,13 @@ Tanggal audit: 19 November 2026
 - **HSK 3.0 Level 1 Penuh (`277` karakter):** [hsk1_full_ready_prompts.json](file:///Volumes/App/Workspace/chinese-mnemonic-demo/plans/hsk1_full_ready_prompts.json) (`277` entri, `0` error `validate_tts_segment`) + seluruh template di [templates/](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates).
 - **TBCL Level 1 Taiwan Penuh (`246` aksara):** [tbcl1_full_ready_prompts.json](file:///Volumes/App/Workspace/chinese-mnemonic-demo/plans/tbcl1_full_ready_prompts.json) (`246` entri, `0` error `validate_tts_segment`) + template `tbcl1_*.png` di [templates_trad/](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad).
 - **Kanton Pemula Penuh (`184` kosakata/aksara):** [kanton_full_ready_prompts.json](file:///Volumes/App/Workspace/chinese-mnemonic-demo/plans/kanton_full_ready_prompts.json) (`184` entri, `0` error `validate_tts_segment`) + template `hk_full_*.png` di [templates_trad/](file:///Volumes/App/Workspace/chinese-mnemonic-demo/templates_trad).
+
+## 8. Ekspansi Aksara Dunia Lengkap & Upgrade Neural TTS (`ScriptPedia v2`)
+- **Upgrade Suara Neural TTS (`edge-tts`):**
+  - Narasi Bahasa Inggris (`VOICE_EN`) di-upgrade ke **`en-US-AvaMultilingualNeural`** (render ulang `11` exemplar video `char_videos_en/*.mp4`).
+  - Sampel Hangul memakai **`ko-KR-HyunsuMultilingualNeural`**.
+- **Kelengkapan Varian Jalur Sebelumnya (`0` error `validate_tts_segment`):**
+  - Hangul (`40` Jamo: `24` dasar + `5` ganda + `11` vokal gabungan), Arab (`36`: `28` huruf + `8` harakat/tanwin), Thai (`64`: `44` konsonan + `16` vokal *sara* + `4` tanda nada), Hiragana & Katakana (`142`: `92` Gojūon + `50` *dakuten/handakuten*).
+- **Aksara Baru Lengkap (Template `9:16` + Kurikulum ID/EN + Prompt JSON, `0` error `validate_tts_segment`):**
+  - Sirilik Rusia (`33`), Ibrani (`27`), Georgia Mkhedruli (`33`), Myanmar (`33`), Khmer (`33`), Lao (`27`), Tamil (`30`), Bengali (`50`), Gujarati (`47`), Telugu (`52`), Kannada (`49`), Malayalam (`51`), Sinhala (`54`), Amharik Ge'ez (`33`).
+- **ScriptPedia Portal & Embedded Neural Audio:** `26` sistem tulisan terintegrasi di [docs/index.html](file:///Volumes/App/Workspace/chinese-mnemonic-demo/docs/index.html) lengkap dengan pemutar `<audio>` Native Neural MP3 ([docs/assets/audio/](file:///Volumes/App/Workspace/chinese-mnemonic-demo/docs/assets/audio)).

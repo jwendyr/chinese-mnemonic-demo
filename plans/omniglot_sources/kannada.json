@@ -1,0 +1,15 @@
+{
+  "slug": "kannada",
+  "omniglot_url": "https://omniglot.com/writing/kannada.htm",
+  "title": "Kannada language and alphabet",
+  "at_a_glance": [],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: Abugida / Syllabic Alphabet, in which all consonants have an inherent vowel. Other vowels are indicated with diacritics, which can appear above, below, before or after the consonants.",
+    "When they appear the beginning of a syllable, vowels are written as independent letters.",
+    "When consonants appear together without intervening vowels, the second consonant is written as a special conjunt symbol, usually below the first.",
+    "Writing direction: left to right in horizontal lines",
+    "Used to write: Kannada, Kodava, Konkani, Lambadi, Sankethi, Tulu"
+  ],
+  "sample_text": []
+}

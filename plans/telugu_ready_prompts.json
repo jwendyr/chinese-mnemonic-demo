@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "telugu_01",
+    "glyph": "అ",
+    "reading": "a",
+    "meaning_id": "vokal pendek a",
+    "meaning_en": "short a",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, bunyinya vokal pendek a.",
+      "s2": "Bayangkan lingkaran kecil memulai lengkung terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a, sounding like short a.",
+      "s2": "Picture small loop launching a round curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character అ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small loop launching a round curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_02",
+    "glyph": "ఆ",
+    "reading": "aa",
+    "meaning_id": "vokal panjang aa",
+    "meaning_en": "long aa",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/02_aa.png",
+    "tts_id": {
+      "s1": "Huruf aa, bunyinya vokal panjang aa.",
+      "s2": "Bayangkan bentuk a terbuka meluncur ke atas kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aa."
+    },
+    "tts_en": {
+      "s1": "Letter aa, sounding like long aa.",
+      "s2": "Picture open a curve lifting up right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, aa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఆ (aa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open a curve lifting up right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_03",
+    "glyph": "ఇ",
+    "reading": "i",
+    "meaning_id": "vokal pendek i",
+    "meaning_en": "short i",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/03_i.png",
+    "tts_id": {
+      "s1": "Huruf i, bunyinya vokal pendek i.",
+      "s2": "Bayangkan lingkaran bawah berpayung lengkung atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Letter i, sounding like short i.",
+      "s2": "Picture lower ring under a curved umbrella.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఇ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating lower ring under a curved umbrella in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_04",
+    "glyph": "ఈ",
+    "reading": "ii",
+    "meaning_id": "vokal panjang ii",
+    "meaning_en": "long ee",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/04_ii.png",
+    "tts_id": {
+      "s1": "Huruf ii, bunyinya vokal panjang ii.",
+      "s2": "Bayangkan lengkung ganda berujung tanduk atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ii."
+    },
+    "tts_en": {
+      "s1": "Letter ii, sounding like long ee.",
+      "s2": "Picture double curl with an upper crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఈ (ii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double curl with an upper crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_05",
+    "glyph": "ఉ",
+    "reading": "u",
+    "meaning_id": "vokal pendek u",
+    "meaning_en": "short u",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/05_u.png",
+    "tts_id": {
+      "s1": "Huruf u, bunyinya vokal pendek u.",
+      "s2": "Bayangkan tiga lengkung bertingkat bersayap kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Letter u, sounding like short u.",
+      "s2": "Picture triple arch with right sweep.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఉ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating triple arch with right sweep in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_06",
+    "glyph": "ఊ",
+    "reading": "uu",
+    "meaning_id": "vokal panjang uu",
+    "meaning_en": "long oo",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/06_uu.png",
+    "tts_id": {
+      "s1": "Huruf uu, bunyinya vokal panjang uu.",
+      "s2": "Bayangkan vokal u dengan puncak ganda melambai.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, uu."
+    },
+    "tts_en": {
+      "s1": "Letter uu, sounding like long oo.",
+      "s2": "Picture u shape with waving double crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, uu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఊ (uu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating u shape with waving double crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_07",
+    "glyph": "ఋ",
+    "reading": "ru",
+    "meaning_id": "bunyi ru",
+    "meaning_en": "vocalic ru",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/07_ru.png",
+    "tts_id": {
+      "s1": "Huruf ru, bunyinya bunyi ru.",
+      "s2": "Bayangkan mangkuk membulat dengan dua sayap atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ru."
+    },
+    "tts_en": {
+      "s1": "Letter ru, sounding like vocalic ru.",
+      "s2": "Picture round bowl with twin top wings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ru."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఋ (ru) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl with twin top wings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_08",
+    "glyph": "ౠ",
+    "reading": "ruu",
+    "meaning_id": "bunyi ru panjang",
+    "meaning_en": "long vocalic ru",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/08_ruu.png",
+    "tts_id": {
+      "s1": "Huruf ruu, bunyinya bunyi ru panjang.",
+      "s2": "Bayangkan mangkuk ganda bersayap tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ruu."
+    },
+    "tts_en": {
+      "s1": "Letter ruu, sounding like long vocalic ru.",
+      "s2": "Picture double bowl with tall upper wings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ruu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ౠ (ruu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double bowl with tall upper wings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_09",
+    "glyph": "ఎ",
+    "reading": "e",
+    "meaning_id": "e pendek",
+    "meaning_en": "short e",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/09_e.png",
+    "tts_id": {
+      "s1": "Huruf e, bunyinya e pendek.",
+      "s2": "Bayangkan lingkaran mengayun menjadi atap datar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Letter e, sounding like short e.",
+      "s2": "Picture small ring sweeping under a flat cap.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఎ (e) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small ring sweeping under a flat cap in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_10",
+    "glyph": "ఏ",
+    "reading": "ee",
+    "meaning_id": "ee panjang",
+    "meaning_en": "long e",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/10_ee.png",
+    "tts_id": {
+      "s1": "Huruf ee, bunyinya ee panjang.",
+      "s2": "Bayangkan vokal e dengan tanda puncak miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ee."
+    },
+    "tts_en": {
+      "s1": "Letter ee, sounding like long e.",
+      "s2": "Picture e shape crowned with a slant.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ee."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఏ (ee) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating e shape crowned with a slant in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_11",
+    "glyph": "ఐ",
+    "reading": "ai",
+    "meaning_id": "ai",
+    "meaning_en": "ai diphthong",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/11_ai.png",
+    "tts_id": {
+      "s1": "Huruf ai, bunyinya ai.",
+      "s2": "Bayangkan vokal e disertai gelombang kaki bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ai."
+    },
+    "tts_en": {
+      "s1": "Letter ai, sounding like ai diphthong.",
+      "s2": "Picture e shape with a lower wave curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఐ (ai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating e shape with a lower wave curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_12",
+    "glyph": "ఒ",
+    "reading": "o",
+    "meaning_id": "o pendek",
+    "meaning_en": "short o",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/12_o.png",
+    "tts_id": {
+      "s1": "Huruf o, bunyinya o pendek.",
+      "s2": "Bayangkan simpul angka dua bergulung lembut.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Letter o, sounding like short o.",
+      "s2": "Picture number two curl rolling smoothly.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఒ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating number two curl rolling smoothly in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_13",
+    "glyph": "ఓ",
+    "reading": "oo",
+    "meaning_id": "oo panjang",
+    "meaning_en": "long o",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/13_oo.png",
+    "tts_id": {
+      "s1": "Huruf oo, bunyinya oo panjang.",
+      "s2": "Bayangkan simpul o dengan ekor lengkung tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, oo."
+    },
+    "tts_en": {
+      "s1": "Letter oo, sounding like long o.",
+      "s2": "Picture o curl lifting into a tall arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, oo."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఓ (oo) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o curl lifting into a tall arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_14",
+    "glyph": "ఔ",
+    "reading": "au",
+    "meaning_id": "au",
+    "meaning_en": "au diphthong",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/14_au.png",
+    "tts_id": {
+      "s1": "Huruf au, bunyinya au.",
+      "s2": "Bayangkan simpul o bertopi gelombang ganda.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, au."
+    },
+    "tts_en": {
+      "s1": "Letter au, sounding like au diphthong.",
+      "s2": "Picture o curl crowned with a twin wave.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, au."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఔ (au) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o curl crowned with a twin wave in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_15",
+    "glyph": "అం",
+    "reading": "am",
+    "meaning_id": "vokal a dengan lingkaran anusvara",
+    "meaning_en": "nasalized am",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/15_am.png",
+    "tts_id": {
+      "s1": "Huruf am, bunyinya vokal a dengan lingkaran anusvara.",
+      "s2": "Bayangkan vokal a diikuti lingkaran kecil.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, am."
+    },
+    "tts_en": {
+      "s1": "Letter am, sounding like nasalized am.",
+      "s2": "Picture a shape followed by a full ring.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, am."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character అం (am) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape followed by a full ring in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_16",
+    "glyph": "అః",
+    "reading": "ah",
+    "meaning_id": "vokal a dengan visarga",
+    "meaning_en": "breathy ah",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/16_ah.png",
+    "tts_id": {
+      "s1": "Huruf ah, bunyinya vokal a dengan visarga.",
+      "s2": "Bayangkan vokal a diikuti dua lingkaran vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ah."
+    },
+    "tts_en": {
+      "s1": "Letter ah, sounding like breathy ah.",
+      "s2": "Picture a shape followed by twin rings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character అః (ah) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape followed by twin rings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_17",
+    "glyph": "క",
+    "reading": "ka",
+    "meaning_id": "konsonan ka",
+    "meaning_en": "clean ka",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/17_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, bunyinya konsonan ka.",
+      "s2": "Bayangkan lengkung delapan dengan tanda centang atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Letter ka, sounding like clean ka.",
+      "s2": "Picture figure eight with top tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character క (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating figure eight with top tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_18",
+    "glyph": "ఖ",
+    "reading": "kha",
+    "meaning_id": "ka berhembus kha",
+    "meaning_en": "aspirated kha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/18_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, bunyinya ka berhembus kha.",
+      "s2": "Bayangkan lengkung terbuka dengan simpul kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Letter kha, sounding like aspirated kha.",
+      "s2": "Picture open sweep with a left loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఖ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open sweep with a left loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_19",
+    "glyph": "గ",
+    "reading": "ga",
+    "meaning_id": "konsonan ga",
+    "meaning_en": "voiced ga",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/19_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, bunyinya konsonan ga.",
+      "s2": "Bayangkan kubah melengkung bercentang di puncak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Letter ga, sounding like voiced ga.",
+      "s2": "Picture clean dome with a top tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character గ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean dome with a top tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_20",
+    "glyph": "ఘ",
+    "reading": "gha",
+    "meaning_id": "ga berhembus gha",
+    "meaning_en": "aspirated gha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/20_gha.png",
+    "tts_id": {
+      "s1": "Huruf gha, bunyinya ga berhembus gha.",
+      "s2": "Bayangkan tiga lekukan bersambung bertiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gha."
+    },
+    "tts_en": {
+      "s1": "Letter gha, sounding like aspirated gha.",
+      "s2": "Picture three connected dips under a tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, gha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఘ (gha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three connected dips under a tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_21",
+    "glyph": "ఙ",
+    "reading": "nga",
+    "meaning_id": "bunyi sengau nga",
+    "meaning_en": "velar nasal nga",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/21_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, bunyinya bunyi sengau nga.",
+      "s2": "Bayangkan simpul melengkung tanpa tanda centang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Letter nga, sounding like velar nasal nga.",
+      "s2": "Picture curling loop without top tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఙ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curling loop without top tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_22",
+    "glyph": "చ",
+    "reading": "cha",
+    "meaning_id": "ca",
+    "meaning_en": "ch as in chair",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/22_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya ca.",
+      "s2": "Bayangkan perahu bulat dengan centang kiri atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like ch as in chair.",
+      "s2": "Picture round boat with top left tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character చ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round boat with top left tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_23",
+    "glyph": "ఛ",
+    "reading": "chha",
+    "meaning_id": "ca berhembus chha",
+    "meaning_en": "aspirated chha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/23_chha.png",
+    "tts_id": {
+      "s1": "Huruf chha, bunyinya ca berhembus chha.",
+      "s2": "Bayangkan perahu bertitik bawah dengan ekor.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chha."
+    },
+    "tts_en": {
+      "s1": "Letter chha, sounding like aspirated chha.",
+      "s2": "Picture dotted boat with a lower mark.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఛ (chha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating dotted boat with a lower mark in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_24",
+    "glyph": "జ",
+    "reading": "ja",
+    "meaning_id": "konsonan ja",
+    "meaning_en": "j as in jam",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/24_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, bunyinya konsonan ja.",
+      "s2": "Bayangkan gelombang angka tiga terbuka kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Letter ja, sounding like j as in jam.",
+      "s2": "Picture three curve wave open right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character జ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three curve wave open right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_25",
+    "glyph": "ఝ",
+    "reading": "jha",
+    "meaning_id": "ja berhembus jha",
+    "meaning_en": "aspirated jha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/25_jha.png",
+    "tts_id": {
+      "s1": "Huruf jha, bunyinya ja berhembus jha.",
+      "s2": "Bayangkan lengkung ganda bersayap garis bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jha."
+    },
+    "tts_en": {
+      "s1": "Letter jha, sounding like aspirated jha.",
+      "s2": "Picture double curl with lower wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, jha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఝ (jha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double curl with lower wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_26",
+    "glyph": "ఞ",
+    "reading": "nya",
+    "meaning_id": "bunyi sengau nya",
+    "meaning_en": "palatal nya",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/26_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, bunyinya bunyi sengau nya.",
+      "s2": "Bayangkan lengkung bulat menyimpul ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Letter nya, sounding like palatal nya.",
+      "s2": "Picture round arch curling downward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఞ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round arch curling downward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_27",
+    "glyph": "ట",
+    "reading": "tta",
+    "meaning_id": "ta retrofleks",
+    "meaning_en": "retroflex ta",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/27_tta.png",
+    "tts_id": {
+      "s1": "Huruf tta, bunyinya ta retrofleks.",
+      "s2": "Bayangkan kubah dengan dua lekuk tajam atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tta."
+    },
+    "tts_en": {
+      "s1": "Letter tta, sounding like retroflex ta.",
+      "s2": "Picture notched dome crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ట (tta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating notched dome crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_28",
+    "glyph": "ఠ",
+    "reading": "ttha",
+    "meaning_id": "ta retrofleks berhembus",
+    "meaning_en": "aspirated retroflex tha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/28_ttha.png",
+    "tts_id": {
+      "s1": "Huruf ttha, bunyinya ta retrofleks berhembus.",
+      "s2": "Bayangkan lingkaran bertitik tengah dan bertopi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ttha."
+    },
+    "tts_en": {
+      "s1": "Letter ttha, sounding like aspirated retroflex tha.",
+      "s2": "Picture dotted ring wearing a top tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ttha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఠ (ttha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating dotted ring wearing a top tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_29",
+    "glyph": "డ",
+    "reading": "dda",
+    "meaning_id": "da retrofleks",
+    "meaning_en": "retroflex da",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/29_dda.png",
+    "tts_id": {
+      "s1": "Huruf dda, bunyinya da retrofleks.",
+      "s2": "Bayangkan lengkung delapan memanjang bertopi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dda."
+    },
+    "tts_en": {
+      "s1": "Letter dda, sounding like retroflex da.",
+      "s2": "Picture elongated figure eight with tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character డ (dda) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating elongated figure eight with tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_30",
+    "glyph": "ఢ",
+    "reading": "ddha",
+    "meaning_id": "da retrofleks berhembus",
+    "meaning_en": "aspirated retroflex dha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/30_ddha.png",
+    "tts_id": {
+      "s1": "Huruf ddha, bunyinya da retrofleks berhembus.",
+      "s2": "Bayangkan huruf dda bertitik bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ddha."
+    },
+    "tts_en": {
+      "s1": "Letter ddha, sounding like aspirated retroflex dha.",
+      "s2": "Picture dda curve with a lower bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ddha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఢ (ddha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating dda curve with a lower bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_31",
+    "glyph": "ణ",
+    "reading": "nna",
+    "meaning_id": "na retrofleks",
+    "meaning_en": "retroflex na",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/31_nna.png",
+    "tts_id": {
+      "s1": "Huruf nna, bunyinya na retrofleks.",
+      "s2": "Bayangkan tiga mangkuk berombak merangkai.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nna."
+    },
+    "tts_en": {
+      "s1": "Letter nna, sounding like retroflex na.",
+      "s2": "Picture three wavy bowls linked together.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nna."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ణ (nna) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three wavy bowls linked together in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_32",
+    "glyph": "త",
+    "reading": "ta",
+    "meaning_id": "ta lembut gigi",
+    "meaning_en": "soft dental ta",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/32_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, bunyinya ta lembut gigi.",
+      "s2": "Bayangkan lingkaran dengan lengkung melambai atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Letter ta, sounding like soft dental ta.",
+      "s2": "Picture ring with a waving upper crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character త (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ring with a waving upper crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_33",
+    "glyph": "థ",
+    "reading": "tha",
+    "meaning_id": "ta gigi berhembus",
+    "meaning_en": "aspirated dental tha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/33_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, bunyinya ta gigi berhembus.",
+      "s2": "Bayangkan perut huruf da bertitik tengah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Letter tha, sounding like aspirated dental tha.",
+      "s2": "Picture da bowl with a center dot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character థ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating da bowl with a center dot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_34",
+    "glyph": "ద",
+    "reading": "da",
+    "meaning_id": "da lembut gigi",
+    "meaning_en": "soft dental da",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/34_da.png",
+    "tts_id": {
+      "s1": "Huruf da, bunyinya da lembut gigi.",
+      "s2": "Bayangkan perut setengah lingkaran dengan topi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Letter da, sounding like soft dental da.",
+      "s2": "Picture half moon belly with top tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ద (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating half moon belly with top tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_35",
+    "glyph": "ధ",
+    "reading": "dha",
+    "meaning_id": "da gigi berhembus",
+    "meaning_en": "aspirated dental dha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/35_dha.png",
+    "tts_id": {
+      "s1": "Huruf dha, bunyinya da gigi berhembus.",
+      "s2": "Bayangkan da dengan tanda garis kecil di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha."
+    },
+    "tts_en": {
+      "s1": "Letter dha, sounding like aspirated dental dha.",
+      "s2": "Picture da bowl with a small bottom tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ధ (dha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating da bowl with a small bottom tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_36",
+    "glyph": "న",
+    "reading": "na",
+    "meaning_id": "na bersih",
+    "meaning_en": "clean na",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/36_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya na bersih.",
+      "s2": "Bayangkan lengkung daun kecil dengan ekor tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like clean na.",
+      "s2": "Picture small leaf curl with tall tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character న (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small leaf curl with tall tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_37",
+    "glyph": "ప",
+    "reading": "pa",
+    "meaning_id": "konsonan pa",
+    "meaning_en": "clean pa",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/37_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, bunyinya konsonan pa.",
+      "s2": "Bayangkan perahu ganda dengan topi kiri tinggi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Letter pa, sounding like clean pa.",
+      "s2": "Picture twin boat with tall left crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ప (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin boat with tall left crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_38",
+    "glyph": "ఫ",
+    "reading": "pha",
+    "meaning_id": "pa berhembus pha",
+    "meaning_en": "aspirated pha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/38_pha.png",
+    "tts_id": {
+      "s1": "Huruf pha, bunyinya pa berhembus pha.",
+      "s2": "Bayangkan perahu ganda dengan garis kecil bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pha."
+    },
+    "tts_en": {
+      "s1": "Letter pha, sounding like aspirated pha.",
+      "s2": "Picture twin boat with small lower tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఫ (pha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin boat with small lower tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_39",
+    "glyph": "బ",
+    "reading": "ba",
+    "meaning_id": "konsonan ba",
+    "meaning_en": "voiced ba",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/39_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, bunyinya konsonan ba.",
+      "s2": "Bayangkan simpul terbuka di kiri bergelombang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Letter ba, sounding like voiced ba.",
+      "s2": "Picture left open loop with a wave.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character బ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left open loop with a wave in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_40",
+    "glyph": "భ",
+    "reading": "bha",
+    "meaning_id": "ba berhembus bha",
+    "meaning_en": "aspirated bha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/40_bha.png",
+    "tts_id": {
+      "s1": "Huruf bha, bunyinya ba berhembus bha.",
+      "s2": "Bayangkan simpul kiri berjembatan garis bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bha."
+    },
+    "tts_en": {
+      "s1": "Letter bha, sounding like aspirated bha.",
+      "s2": "Picture left loop with lower underline.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, bha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character భ (bha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left loop with lower underline in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_41",
+    "glyph": "మ",
+    "reading": "ma",
+    "meaning_id": "ma seperti mama",
+    "meaning_en": "m as in mother",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/41_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, bunyinya ma seperti mama.",
+      "s2": "Bayangkan lingkaran kecil disusul sayap lengkung kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Letter ma, sounding like m as in mother.",
+      "s2": "Picture small ring with wide right wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character మ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small ring with wide right wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_42",
+    "glyph": "య",
+    "reading": "ya",
+    "meaning_id": "ya seperti ya",
+    "meaning_en": "y as in yes",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/42_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, bunyinya ya seperti ya.",
+      "s2": "Bayangkan lingkaran besar dengan ekor melambai.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Letter ya, sounding like y as in yes.",
+      "s2": "Picture large ring with a waving tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character య (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating large ring with a waving tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_43",
+    "glyph": "ర",
+    "reading": "ra",
+    "meaning_id": "ra bergetar",
+    "meaning_en": "rolled ra",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/43_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, bunyinya ra bergetar.",
+      "s2": "Bayangkan lingkaran bersih bertopi centang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Letter ra, sounding like rolled ra.",
+      "s2": "Picture clean circle crowned by a tick.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ర (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean circle crowned by a tick in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_44",
+    "glyph": "ల",
+    "reading": "la",
+    "meaning_id": "la bersih",
+    "meaning_en": "clear la",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/44_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya la bersih.",
+      "s2": "Bayangkan simpul melingkar memeluk lengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like clear la.",
+      "s2": "Picture coiled loop hugging an arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ల (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating coiled loop hugging an arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_45",
+    "glyph": "వ",
+    "reading": "va",
+    "meaning_id": "va atau wa",
+    "meaning_en": "soft va or wa",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/45_va.png",
+    "tts_id": {
+      "s1": "Huruf va, bunyinya va atau wa.",
+      "s2": "Bayangkan perahu kecil bertopi gelombang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, va."
+    },
+    "tts_en": {
+      "s1": "Letter va, sounding like soft va or wa.",
+      "s2": "Picture small boat under a waving crest.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, va."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character వ (va) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small boat under a waving crest in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_46",
+    "glyph": "శ",
+    "reading": "sha",
+    "meaning_id": "sy lembut",
+    "meaning_en": "palatal sha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/46_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, bunyinya sy lembut.",
+      "s2": "Bayangkan lengkung bulat berganda ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Letter sha, sounding like palatal sha.",
+      "s2": "Picture double round arch dipping down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character శ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double round arch dipping down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_47",
+    "glyph": "ష",
+    "reading": "ssha",
+    "meaning_id": "sy retrofleks",
+    "meaning_en": "retroflex sha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/47_ssha.png",
+    "tts_id": {
+      "s1": "Huruf ssha, bunyinya sy retrofleks.",
+      "s2": "Bayangkan perahu ganda dengan sayap terangkat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ssha."
+    },
+    "tts_en": {
+      "s1": "Letter ssha, sounding like retroflex sha.",
+      "s2": "Picture twin boat with lifted right wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ssha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ష (ssha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin boat with lifted right wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_48",
+    "glyph": "స",
+    "reading": "sa",
+    "meaning_id": "sa bersih",
+    "meaning_en": "clean sa",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/48_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, bunyinya sa bersih.",
+      "s2": "Bayangkan kail ganda bersambung gelombang atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Letter sa, sounding like clean sa.",
+      "s2": "Picture double hook linked upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character స (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double hook linked upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_49",
+    "glyph": "హ",
+    "reading": "ha",
+    "meaning_id": "ha berhembus",
+    "meaning_en": "breathy ha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/49_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, bunyinya ha berhembus.",
+      "s2": "Bayangkan lingkaran melambai dengan sayap belakang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Letter ha, sounding like breathy ha.",
+      "s2": "Picture waving loop with back wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character హ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating waving loop with back wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_50",
+    "glyph": "ళ",
+    "reading": "lla",
+    "meaning_id": "la retrofleks",
+    "meaning_en": "retroflex lla",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/50_lla.png",
+    "tts_id": {
+      "s1": "Huruf lla, bunyinya la retrofleks.",
+      "s2": "Bayangkan simpul terhubung topi kembar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lla."
+    },
+    "tts_en": {
+      "s1": "Letter lla, sounding like retroflex lla.",
+      "s2": "Picture loop connected to twin arches.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, lla."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ళ (lla) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating loop connected to twin arches in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_51",
+    "glyph": "క్ష",
+    "reading": "ksha",
+    "meaning_id": "gabungan ksha",
+    "meaning_en": "compound ksha",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/51_ksha.png",
+    "tts_id": {
+      "s1": "Huruf ksha, bunyinya gabungan ksha.",
+      "s2": "Bayangkan konsonan ka disambung ekor sha bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ksha."
+    },
+    "tts_en": {
+      "s1": "Letter ksha, sounding like compound ksha.",
+      "s2": "Picture ka joined with sha below.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ksha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character క్ష (ksha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ka joined with sha below in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "telugu_52",
+    "glyph": "ఱ",
+    "reading": "rra",
+    "meaning_id": "r keras klasik",
+    "meaning_en": "hard trilled r",
+    "voice_target": "te-IN-ShrutiNeural",
+    "template_path": "templates_telugu/52_rra.png",
+    "tts_id": {
+      "s1": "Huruf rra, bunyinya r keras klasik.",
+      "s2": "Bayangkan dua lingkaran berdampingan bersih.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rra."
+    },
+    "tts_en": {
+      "s1": "Letter rra, sounding like hard trilled r.",
+      "s2": "Picture twin clean loops side by side.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, rra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of telugu character ఱ (rra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin clean loops side by side in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "gujarati_01",
+    "glyph": "અ",
+    "reading": "a",
+    "meaning_id": "vokal pendek a",
+    "meaning_en": "short a",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/01_a.png",
+    "tts_id": {
+      "s1": "Huruf a, bunyinya vokal pendek a.",
+      "s2": "Bayangkan lengkung tiga bertumpu tanpa garis atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a, sounding like short a.",
+      "s2": "Picture double curve without a top bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character અ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double curve without a top bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_02",
+    "glyph": "આ",
+    "reading": "aa",
+    "meaning_id": "vokal panjang aa",
+    "meaning_en": "long aa",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/02_aa.png",
+    "tts_id": {
+      "s1": "Huruf aa, bunyinya vokal panjang aa.",
+      "s2": "Bayangkan vokal a dengan tiang panjang di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aa."
+    },
+    "tts_en": {
+      "s1": "Letter aa, sounding like long aa.",
+      "s2": "Picture a shape with a tall right pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, aa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character આ (aa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape with a tall right pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_03",
+    "glyph": "ઇ",
+    "reading": "i",
+    "meaning_id": "vokal pendek i",
+    "meaning_en": "short i",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/03_i.png",
+    "tts_id": {
+      "s1": "Huruf i, bunyinya vokal pendek i.",
+      "s2": "Bayangkan lengkung S lembut berujung ekor turun.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Letter i, sounding like short i.",
+      "s2": "Picture soft S sweep ending in a tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઇ (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft S sweep ending in a tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_04",
+    "glyph": "ઈ",
+    "reading": "ii",
+    "meaning_id": "vokal panjang ii",
+    "meaning_en": "long ee",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/04_ii.png",
+    "tts_id": {
+      "s1": "Huruf ii, bunyinya vokal panjang ii.",
+      "s2": "Bayangkan bentuk i dengan topi lengkung di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ii."
+    },
+    "tts_en": {
+      "s1": "Letter ii, sounding like long ee.",
+      "s2": "Picture i shape crowned with an upper curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઈ (ii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating i shape crowned with an upper curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_05",
+    "glyph": "ઉ",
+    "reading": "u",
+    "meaning_id": "vokal pendek u",
+    "meaning_en": "short u",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/05_u.png",
+    "tts_id": {
+      "s1": "Huruf u, bunyinya vokal pendek u.",
+      "s2": "Bayangkan dua lengkungan seperti angka tiga bersih.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Letter u, sounding like short u.",
+      "s2": "Picture clean double curve like three.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઉ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean double curve like three in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_06",
+    "glyph": "ઊ",
+    "reading": "uu",
+    "meaning_id": "vokal panjang uu",
+    "meaning_en": "long oo",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/06_uu.png",
+    "tts_id": {
+      "s1": "Huruf uu, bunyinya vokal panjang uu.",
+      "s2": "Bayangkan vokal u dengan ekor mengayun kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, uu."
+    },
+    "tts_en": {
+      "s1": "Letter uu, sounding like long oo.",
+      "s2": "Picture u shape with an outward right tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, uu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઊ (uu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating u shape with an outward right tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_07",
+    "glyph": "ઋ",
+    "reading": "ri",
+    "meaning_id": "bunyi ri klasik",
+    "meaning_en": "classic ri sound",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/07_ri.png",
+    "tts_id": {
+      "s1": "Huruf ri, bunyinya bunyi ri klasik.",
+      "s2": "Bayangkan simpul menyilang di samping tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ri."
+    },
+    "tts_en": {
+      "s1": "Letter ri, sounding like classic ri sound.",
+      "s2": "Picture crossed knot beside a vertical post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ri."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઋ (ri) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossed knot beside a vertical post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_08",
+    "glyph": "એ",
+    "reading": "e",
+    "meaning_id": "e seperti enak",
+    "meaning_en": "e as in hey",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/08_e.png",
+    "tts_id": {
+      "s1": "Huruf e, bunyinya e seperti enak.",
+      "s2": "Bayangkan kaki vokal a bertopi satu tanduk atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Letter e, sounding like e as in hey.",
+      "s2": "Picture a shape with one upward horn.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character એ (e) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape with one upward horn in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_09",
+    "glyph": "ઐ",
+    "reading": "ai",
+    "meaning_id": "ai seperti pandai",
+    "meaning_en": "ai as in aisle",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/09_ai.png",
+    "tts_id": {
+      "s1": "Huruf ai, bunyinya ai seperti pandai.",
+      "s2": "Bayangkan vokal a bertopi dua tanduk atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ai."
+    },
+    "tts_en": {
+      "s1": "Letter ai, sounding like ai as in aisle.",
+      "s2": "Picture a shape with twin upward horns.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ai."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઐ (ai) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape with twin upward horns in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_10",
+    "glyph": "ઓ",
+    "reading": "o",
+    "meaning_id": "o seperti toko",
+    "meaning_en": "o as in go",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/10_o.png",
+    "tts_id": {
+      "s1": "Huruf o, bunyinya o seperti toko.",
+      "s2": "Bayangkan vokal aa bertopi satu tanduk ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Letter o, sounding like o as in go.",
+      "s2": "Picture aa shape wearing one upward horn.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઓ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating aa shape wearing one upward horn in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_11",
+    "glyph": "ઔ",
+    "reading": "au",
+    "meaning_id": "au seperti pulau",
+    "meaning_en": "au as in out",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/11_au.png",
+    "tts_id": {
+      "s1": "Huruf au, bunyinya au seperti pulau.",
+      "s2": "Bayangkan vokal aa bertopi dua tanduk ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, au."
+    },
+    "tts_en": {
+      "s1": "Letter au, sounding like au as in out.",
+      "s2": "Picture aa shape wearing twin upward horns.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, au."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઔ (au) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating aa shape wearing twin upward horns in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_12",
+    "glyph": "અં",
+    "reading": "am",
+    "meaning_id": "vokal a dengan dengung anusvara",
+    "meaning_en": "nasalized am",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/12_am.png",
+    "tts_id": {
+      "s1": "Huruf am, bunyinya vokal a dengan dengung anusvara.",
+      "s2": "Bayangkan vokal a dengan titik di atasnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, am."
+    },
+    "tts_en": {
+      "s1": "Letter am, sounding like nasalized am.",
+      "s2": "Picture a shape topped with a single dot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, am."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character અં (am) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape topped with a single dot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_13",
+    "glyph": "અઃ",
+    "reading": "ah",
+    "meaning_id": "vokal a dengan hembusan visarga",
+    "meaning_en": "breathy ah",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/13_ah.png",
+    "tts_id": {
+      "s1": "Huruf ah, bunyinya vokal a dengan hembusan visarga.",
+      "s2": "Bayangkan vokal a dengan dua titik vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ah."
+    },
+    "tts_en": {
+      "s1": "Letter ah, sounding like breathy ah.",
+      "s2": "Picture a shape followed by twin dots.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ah."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character અઃ (ah) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating a shape followed by twin dots in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_14",
+    "glyph": "ક",
+    "reading": "ka",
+    "meaning_id": "konsonan ka bersih",
+    "meaning_en": "clean ka",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/14_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, bunyinya konsonan ka bersih.",
+      "s2": "Bayangkan lengkung delapan menyilang di kiri tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Letter ka, sounding like clean ka.",
+      "s2": "Picture figure eight sweep across a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ક (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating figure eight sweep across a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_15",
+    "glyph": "ખ",
+    "reading": "kha",
+    "meaning_id": "ka berhembus kha",
+    "meaning_en": "aspirated kha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/15_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, bunyinya ka berhembus kha.",
+      "s2": "Bayangkan dua lekuk terbuka menuju tiang lurus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Letter kha, sounding like aspirated kha.",
+      "s2": "Picture open twin curve joining a pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ખ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open twin curve joining a pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_16",
+    "glyph": "ગ",
+    "reading": "ga",
+    "meaning_id": "konsonan ga",
+    "meaning_en": "voiced ga",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/16_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, bunyinya konsonan ga.",
+      "s2": "Bayangkan kail bulat di sisi kiri tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Letter ga, sounding like voiced ga.",
+      "s2": "Picture round hook beside a tall pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ગ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round hook beside a tall pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_17",
+    "glyph": "ઘ",
+    "reading": "gha",
+    "meaning_id": "ga berhembus gha",
+    "meaning_en": "aspirated gha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/17_gha.png",
+    "tts_id": {
+      "s1": "Huruf gha, bunyinya ga berhembus gha.",
+      "s2": "Bayangkan dua bukit menghadap atas menuju tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gha."
+    },
+    "tts_en": {
+      "s1": "Letter gha, sounding like aspirated gha.",
+      "s2": "Picture two terraced valleys meeting a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, gha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઘ (gha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two terraced valleys meeting a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_18",
+    "glyph": "ઙ",
+    "reading": "nga",
+    "meaning_id": "bunyi sengau nga",
+    "meaning_en": "velar nasal nga",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/18_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, bunyinya bunyi sengau nga.",
+      "s2": "Bayangkan lengkung S bertitik kecil di samping.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Letter nga, sounding like velar nasal nga.",
+      "s2": "Picture S curve paired with a side dot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઙ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating S curve paired with a side dot in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_19",
+    "glyph": "ચ",
+    "reading": "cha",
+    "meaning_id": "ca seperti cari",
+    "meaning_en": "ch as in chair",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/19_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya ca seperti cari.",
+      "s2": "Bayangkan sendok bulat menyambung tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like ch as in chair.",
+      "s2": "Picture round spoon joining a right pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ચ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round spoon joining a right pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_20",
+    "glyph": "છ",
+    "reading": "chha",
+    "meaning_id": "ca berhembus chha",
+    "meaning_en": "aspirated chha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/20_chha.png",
+    "tts_id": {
+      "s1": "Huruf chha, bunyinya ca berhembus chha.",
+      "s2": "Bayangkan lengkung ganda bertangkai simpul atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chha."
+    },
+    "tts_en": {
+      "s1": "Letter chha, sounding like aspirated chha.",
+      "s2": "Picture double arch with a top curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character છ (chha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double arch with a top curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_21",
+    "glyph": "જ",
+    "reading": "ja",
+    "meaning_id": "konsonan ja",
+    "meaning_en": "j as in jam",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/21_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, bunyinya konsonan ja.",
+      "s2": "Bayangkan gelombang melingkar menyeberang ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Letter ja, sounding like j as in jam.",
+      "s2": "Picture looping curve extending right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character જ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating looping curve extending right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_22",
+    "glyph": "ઝ",
+    "reading": "jha",
+    "meaning_id": "ja berhembus jha",
+    "meaning_en": "aspirated jha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/22_jha.png",
+    "tts_id": {
+      "s1": "Huruf jha, bunyinya ja berhembus jha.",
+      "s2": "Bayangkan simpul S berjembatan ke tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jha."
+    },
+    "tts_en": {
+      "s1": "Letter jha, sounding like aspirated jha.",
+      "s2": "Picture S loop bridged to a tall post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, jha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઝ (jha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating S loop bridged to a tall post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_23",
+    "glyph": "ઞ",
+    "reading": "nya",
+    "meaning_id": "bunyi sengau nya",
+    "meaning_en": "palatal nya",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/23_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, bunyinya bunyi sengau nya.",
+      "s2": "Bayangkan lengkung terbuka menghadap tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Letter nya, sounding like palatal nya.",
+      "s2": "Picture open sweep facing a right post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઞ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open sweep facing a right post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_24",
+    "glyph": "ટ",
+    "reading": "tta",
+    "meaning_id": "ta retrofleks",
+    "meaning_en": "retroflex ta",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/24_tta.png",
+    "tts_id": {
+      "s1": "Huruf tta, bunyinya ta retrofleks.",
+      "s2": "Bayangkan lengkung C terbuka menggantung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tta."
+    },
+    "tts_en": {
+      "s1": "Letter tta, sounding like retroflex ta.",
+      "s2": "Picture clean open C curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ટ (tta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean open C curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_25",
+    "glyph": "ઠ",
+    "reading": "ttha",
+    "meaning_id": "ta retrofleks berhembus",
+    "meaning_en": "aspirated retroflex tha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/25_ttha.png",
+    "tts_id": {
+      "s1": "Huruf ttha, bunyinya ta retrofleks berhembus.",
+      "s2": "Bayangkan lingkaran penuh bersih tanpa atap.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ttha."
+    },
+    "tts_en": {
+      "s1": "Letter ttha, sounding like aspirated retroflex tha.",
+      "s2": "Picture full clean circle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ttha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઠ (ttha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating full clean circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_26",
+    "glyph": "ડ",
+    "reading": "dda",
+    "meaning_id": "da retrofleks",
+    "meaning_en": "retroflex da",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/26_dda.png",
+    "tts_id": {
+      "s1": "Huruf dda, bunyinya da retrofleks.",
+      "s2": "Bayangkan lengkung S mengalir tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dda."
+    },
+    "tts_en": {
+      "s1": "Letter dda, sounding like retroflex da.",
+      "s2": "Picture flowing upright S curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ડ (dda) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating flowing upright S curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_27",
+    "glyph": "ઢ",
+    "reading": "ddha",
+    "meaning_id": "da retrofleks berhembus",
+    "meaning_en": "aspirated retroflex dha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/27_ddha.png",
+    "tts_id": {
+      "s1": "Huruf ddha, bunyinya da retrofleks berhembus.",
+      "s2": "Bayangkan kail C berakhir gulungan bulat bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ddha."
+    },
+    "tts_en": {
+      "s1": "Letter ddha, sounding like aspirated retroflex dha.",
+      "s2": "Picture C sweep ending in a lower curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ddha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ઢ (ddha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating C sweep ending in a lower curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_28",
+    "glyph": "ણ",
+    "reading": "nna",
+    "meaning_id": "na retrofleks",
+    "meaning_en": "retroflex na",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/28_nna.png",
+    "tts_id": {
+      "s1": "Huruf nna, bunyinya na retrofleks.",
+      "s2": "Bayangkan lengkung U bertemu tiang lurus kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nna."
+    },
+    "tts_en": {
+      "s1": "Letter nna, sounding like retroflex na.",
+      "s2": "Picture U bowl beside a straight pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nna."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ણ (nna) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating U bowl beside a straight pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_29",
+    "glyph": "ત",
+    "reading": "ta",
+    "meaning_id": "ta lembut gigi",
+    "meaning_en": "soft dental ta",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/29_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, bunyinya ta lembut gigi.",
+      "s2": "Bayangkan kaki melengkung di kiri tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Letter ta, sounding like soft dental ta.",
+      "s2": "Picture curved leg left of a pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ત (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved leg left of a pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_30",
+    "glyph": "થ",
+    "reading": "tha",
+    "meaning_id": "ta gigi berhembus",
+    "meaning_en": "aspirated dental tha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/30_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, bunyinya ta gigi berhembus.",
+      "s2": "Bayangkan simpul bulat kecil terhubung tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Letter tha, sounding like aspirated dental tha.",
+      "s2": "Picture small round loop joining a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character થ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small round loop joining a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_31",
+    "glyph": "દ",
+    "reading": "da",
+    "meaning_id": "da lembut gigi",
+    "meaning_en": "soft dental da",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/31_da.png",
+    "tts_id": {
+      "s1": "Huruf da, bunyinya da lembut gigi.",
+      "s2": "Bayangkan kail bulat dengan ekor pendek ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Letter da, sounding like soft dental da.",
+      "s2": "Picture round hook with a short tail.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character દ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round hook with a short tail in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_32",
+    "glyph": "ધ",
+    "reading": "dha",
+    "meaning_id": "da gigi berhembus",
+    "meaning_en": "aspirated dental dha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/32_dha.png",
+    "tts_id": {
+      "s1": "Huruf dha, bunyinya da gigi berhembus.",
+      "s2": "Bayangkan dua bukit lengkung menuju tiang lurus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha."
+    },
+    "tts_en": {
+      "s1": "Letter dha, sounding like aspirated dental dha.",
+      "s2": "Picture twin smooth curves into a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ધ (dha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin smooth curves into a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_33",
+    "glyph": "ન",
+    "reading": "na",
+    "meaning_id": "na bersih",
+    "meaning_en": "clean na",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/33_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya na bersih.",
+      "s2": "Bayangkan lengkung telinga kecil sebelum tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like clean na.",
+      "s2": "Picture small loop before a straight post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ન (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small loop before a straight post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_34",
+    "glyph": "પ",
+    "reading": "pa",
+    "meaning_id": "konsonan pa",
+    "meaning_en": "clean pa",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/34_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, bunyinya konsonan pa.",
+      "s2": "Bayangkan mangkuk U bersandar pada tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Letter pa, sounding like clean pa.",
+      "s2": "Picture U bowl leaning on a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character પ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating U bowl leaning on a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_35",
+    "glyph": "ફ",
+    "reading": "pha",
+    "meaning_id": "pa berhembus pha",
+    "meaning_en": "aspirated pha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/35_pha.png",
+    "tts_id": {
+      "s1": "Huruf pha, bunyinya pa berhembus pha.",
+      "s2": "Bayangkan mangkuk dengan simpul kanan melingkar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pha."
+    },
+    "tts_en": {
+      "s1": "Letter pha, sounding like aspirated pha.",
+      "s2": "Picture bowl with an outward curling right loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ફ (pha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bowl with an outward curling right loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_36",
+    "glyph": "બ",
+    "reading": "ba",
+    "meaning_id": "konsonan ba",
+    "meaning_en": "voiced ba",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/36_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, bunyinya konsonan ba.",
+      "s2": "Bayangkan lingkaran terbelah miring di kiri tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Letter ba, sounding like voiced ba.",
+      "s2": "Picture slashed loop beside a pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character બ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating slashed loop beside a pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_37",
+    "glyph": "ભ",
+    "reading": "bha",
+    "meaning_id": "ba berhembus bha",
+    "meaning_en": "aspirated bha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/37_bha.png",
+    "tts_id": {
+      "s1": "Huruf bha, bunyinya ba berhembus bha.",
+      "s2": "Bayangkan simpul spiral kiri bertemu tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bha."
+    },
+    "tts_en": {
+      "s1": "Letter bha, sounding like aspirated bha.",
+      "s2": "Picture left spiral joining a tall post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, bha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ભ (bha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left spiral joining a tall post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_38",
+    "glyph": "મ",
+    "reading": "ma",
+    "meaning_id": "ma seperti mama",
+    "meaning_en": "m as in mother",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/38_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, bunyinya ma seperti mama.",
+      "s2": "Bayangkan simpul kecil berbelok ke tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Letter ma, sounding like m as in mother.",
+      "s2": "Picture drop knot curving into a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character મ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating drop knot curving into a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_39",
+    "glyph": "ય",
+    "reading": "ya",
+    "meaning_id": "ya seperti ya",
+    "meaning_en": "y as in yes",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/39_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, bunyinya ya seperti ya.",
+      "s2": "Bayangkan lengkung ombak bersandar pada tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Letter ya, sounding like y as in yes.",
+      "s2": "Picture wavy bowl leaning on a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ય (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wavy bowl leaning on a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_40",
+    "glyph": "ર",
+    "reading": "ra",
+    "meaning_id": "ra bergetar",
+    "meaning_en": "rolled ra",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/40_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, bunyinya ra bergetar.",
+      "s2": "Bayangkan lengkung dua dengan ekor meluncur turun.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Letter ra, sounding like rolled ra.",
+      "s2": "Picture curved sweep sliding down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ર (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved sweep sliding down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_41",
+    "glyph": "લ",
+    "reading": "la",
+    "meaning_id": "la bersih",
+    "meaning_en": "clear la",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/41_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya la bersih.",
+      "s2": "Bayangkan dua lengkung menari bertemu tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like clear la.",
+      "s2": "Picture two arches dancing into a pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character લ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two arches dancing into a pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_42",
+    "glyph": "વ",
+    "reading": "va",
+    "meaning_id": "va atau wa",
+    "meaning_en": "soft va or wa",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/42_va.png",
+    "tts_id": {
+      "s1": "Huruf va, bunyinya va atau wa.",
+      "s2": "Bayangkan lingkaran penuh menempel pada tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, va."
+    },
+    "tts_en": {
+      "s1": "Letter va, sounding like soft va or wa.",
+      "s2": "Picture full circle attached to a pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, va."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character વ (va) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating full circle attached to a pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_43",
+    "glyph": "શ",
+    "reading": "sha",
+    "meaning_id": "sy lembut",
+    "meaning_en": "palatal sha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/43_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, bunyinya sy lembut.",
+      "s2": "Bayangkan simpul angka dua menyertai tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Letter sha, sounding like palatal sha.",
+      "s2": "Picture looped arch beside a straight pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character શ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating looped arch beside a straight pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_44",
+    "glyph": "ષ",
+    "reading": "ssha",
+    "meaning_id": "sy retrofleks",
+    "meaning_en": "retroflex sha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/44_ssha.png",
+    "tts_id": {
+      "s1": "Huruf ssha, bunyinya sy retrofleks.",
+      "s2": "Bayangkan mangkuk pa dibelah garis miring.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ssha."
+    },
+    "tts_en": {
+      "s1": "Letter ssha, sounding like retroflex sha.",
+      "s2": "Picture pa bowl crossed diagonally.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ssha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ષ (ssha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa bowl crossed diagonally in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_45",
+    "glyph": "સ",
+    "reading": "sa",
+    "meaning_id": "sa bersih",
+    "meaning_en": "clean sa",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/45_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, bunyinya sa bersih.",
+      "s2": "Bayangkan lengkung ra berjembatan menuju tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Letter sa, sounding like clean sa.",
+      "s2": "Picture ra curve bridged to a pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character સ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ra curve bridged to a pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_46",
+    "glyph": "હ",
+    "reading": "ha",
+    "meaning_id": "ha berhembus",
+    "meaning_en": "breathy ha",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/46_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, bunyinya ha berhembus.",
+      "s2": "Bayangkan dua lengkung bertumpuk halus.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Letter ha, sounding like breathy ha.",
+      "s2": "Picture stacked double curve.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character હ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stacked double curve in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "gujarati_47",
+    "glyph": "ળ",
+    "reading": "lla",
+    "meaning_id": "la retrofleks",
+    "meaning_en": "retroflex lla",
+    "voice_target": "gu-IN-DhwaniNeural",
+    "template_path": "templates_gujarati/47_lla.png",
+    "tts_id": {
+      "s1": "Huruf lla, bunyinya la retrofleks.",
+      "s2": "Bayangkan simpul angka delapan melengkung kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, lla."
+    },
+    "tts_en": {
+      "s1": "Letter lla, sounding like retroflex lla.",
+      "s2": "Picture figure eight arching to the right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, lla."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of gujarati character ળ (lla) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating figure eight arching to the right in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

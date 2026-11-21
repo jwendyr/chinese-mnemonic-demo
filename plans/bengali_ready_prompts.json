@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "bengali_01",
+    "glyph": "অ",
+    "reading": "o",
+    "meaning_id": "vokal o pendek",
+    "meaning_en": "short o as in aw",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/01_o.png",
+    "tts_id": {
+      "s1": "Huruf o, bunyinya vokal o pendek.",
+      "s2": "Bayangkan garis atap matra dengan angka tiga melingkar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Letter o, sounding like short o as in aw.",
+      "s2": "Picture matra top bar with a looping three.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character অ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating matra top bar with a looping three in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_02",
+    "glyph": "আ",
+    "reading": "aa",
+    "meaning_id": "vokal panjang aa",
+    "meaning_en": "long aa",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/02_aa.png",
+    "tts_id": {
+      "s1": "Huruf aa, bunyinya vokal panjang aa.",
+      "s2": "Bayangkan vokal o ditambah tiang panjang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, aa."
+    },
+    "tts_en": {
+      "s1": "Letter aa, sounding like long aa.",
+      "s2": "Picture o shape joined to a tall right post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, aa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character আ (aa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o shape joined to a tall right post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_03",
+    "glyph": "ই",
+    "reading": "i",
+    "meaning_id": "vokal pendek i",
+    "meaning_en": "short i",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/03_i.png",
+    "tts_id": {
+      "s1": "Huruf i, bunyinya vokal pendek i.",
+      "s2": "Bayangkan lengkung siput bertopi ombak di atas matra.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, i."
+    },
+    "tts_en": {
+      "s1": "Letter i, sounding like short i.",
+      "s2": "Picture spiral curve crowned by a top wave.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, i."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ই (i) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating spiral curve crowned by a top wave in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_04",
+    "glyph": "ঈ",
+    "reading": "ii",
+    "meaning_id": "vokal panjang ii",
+    "meaning_en": "long ee",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/04_ii.png",
+    "tts_id": {
+      "s1": "Huruf ii, bunyinya vokal panjang ii.",
+      "s2": "Bayangkan lengkung i dengan ekor panjang melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ii."
+    },
+    "tts_en": {
+      "s1": "Letter ii, sounding like long ee.",
+      "s2": "Picture i curve with a sweeping top plume.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ii."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঈ (ii) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating i curve with a sweeping top plume in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_05",
+    "glyph": "উ",
+    "reading": "u",
+    "meaning_id": "vokal pendek u",
+    "meaning_en": "short u",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/05_u.png",
+    "tts_id": {
+      "s1": "Huruf u, bunyinya vokal pendek u.",
+      "s2": "Bayangkan angka tiga bertumpuk dengan topi ombak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, u."
+    },
+    "tts_en": {
+      "s1": "Letter u, sounding like short u.",
+      "s2": "Picture stacked three topped by a wave.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, u."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character উ (u) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stacked three topped by a wave in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_06",
+    "glyph": "ঊ",
+    "reading": "uu",
+    "meaning_id": "vokal panjang uu",
+    "meaning_en": "long oo",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/06_uu.png",
+    "tts_id": {
+      "s1": "Huruf uu, bunyinya vokal panjang uu.",
+      "s2": "Bayangkan vokal u dengan sayap kanan melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, uu."
+    },
+    "tts_en": {
+      "s1": "Letter uu, sounding like long oo.",
+      "s2": "Picture u shape with a sweeping right wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, uu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঊ (uu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating u shape with a sweeping right wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_07",
+    "glyph": "ঋ",
+    "reading": "ri",
+    "meaning_id": "bunyi ri klasik",
+    "meaning_en": "classic ri sound",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/07_ri.png",
+    "tts_id": {
+      "s1": "Huruf ri, bunyinya bunyi ri klasik.",
+      "s2": "Bayangkan segitiga runcing berpasangan tiang melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ri."
+    },
+    "tts_en": {
+      "s1": "Letter ri, sounding like classic ri sound.",
+      "s2": "Picture pointed triangle meeting a curved post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ri."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঋ (ri) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pointed triangle meeting a curved post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_08",
+    "glyph": "এ",
+    "reading": "e",
+    "meaning_id": "e seperti enak",
+    "meaning_en": "e as in hey",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/08_e.png",
+    "tts_id": {
+      "s1": "Huruf e, bunyinya e seperti enak.",
+      "s2": "Bayangkan kail melingkar tanpa garis matra atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, e."
+    },
+    "tts_en": {
+      "s1": "Letter e, sounding like e as in hey.",
+      "s2": "Picture curling hook without a top matra bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, e."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character এ (e) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curling hook without a top matra bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_09",
+    "glyph": "ঐ",
+    "reading": "oi",
+    "meaning_id": "oi seperti boi",
+    "meaning_en": "oi as in boy",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/09_oi.png",
+    "tts_id": {
+      "s1": "Huruf oi, bunyinya oi seperti boi.",
+      "s2": "Bayangkan huruf e bertopi ombak di atasnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, oi."
+    },
+    "tts_en": {
+      "s1": "Letter oi, sounding like oi as in boy.",
+      "s2": "Picture e shape wearing a high wave plume.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, oi."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঐ (oi) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating e shape wearing a high wave plume in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_10",
+    "glyph": "ओ",
+    "reading": "o",
+    "meaning_id": "o bulat seperti toko",
+    "meaning_en": "o as in go",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/10_o_round.png",
+    "tts_id": {
+      "s1": "Huruf o, bunyinya o bulat seperti toko.",
+      "s2": "Bayangkan lengkung angka tiga terbalik terbuka atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, o."
+    },
+    "tts_en": {
+      "s1": "Letter o, sounding like o as in go.",
+      "s2": "Picture mirrored three open upward without matra.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, o."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ओ (o) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating mirrored three open upward without matra in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_11",
+    "glyph": "ঔ",
+    "reading": "ou",
+    "meaning_id": "ou seperti pulau",
+    "meaning_en": "ou as in out",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/11_ou.png",
+    "tts_id": {
+      "s1": "Huruf ou, bunyinya ou seperti pulau.",
+      "s2": "Bayangkan vokal o bulat bertopi ombak di kanan atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ou."
+    },
+    "tts_en": {
+      "s1": "Letter ou, sounding like ou as in out.",
+      "s2": "Picture o shape wearing a top right wave plume.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ou."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঔ (ou) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating o shape wearing a top right wave plume in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_12",
+    "glyph": "ক",
+    "reading": "ka",
+    "meaning_id": "konsonan ka bersih",
+    "meaning_en": "clean ka",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/12_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, bunyinya konsonan ka bersih.",
+      "s2": "Bayangkan segitiga menggantung di kiri tiang dengan simpul kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Letter ka, sounding like clean ka.",
+      "s2": "Picture hanging triangle with a right loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ক (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating hanging triangle with a right loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_13",
+    "glyph": "খ",
+    "reading": "kha",
+    "meaning_id": "ka berhembus kha",
+    "meaning_en": "aspirated kha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/13_kha.png",
+    "tts_id": {
+      "s1": "Huruf kha, bunyinya ka berhembus kha.",
+      "s2": "Bayangkan lekuk C kecil naik menuju tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, kha."
+    },
+    "tts_en": {
+      "s1": "Letter kha, sounding like aspirated kha.",
+      "s2": "Picture small C sweep rising to the right post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, kha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character খ (kha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small C sweep rising to the right post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_14",
+    "glyph": "গ",
+    "reading": "ga",
+    "meaning_id": "konsonan ga",
+    "meaning_en": "voiced ga",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/14_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, bunyinya konsonan ga.",
+      "s2": "Bayangkan kail lembut berdiri di samping tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Letter ga, sounding like voiced ga.",
+      "s2": "Picture soft hook beside an upright pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character গ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft hook beside an upright pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_15",
+    "glyph": "ঘ",
+    "reading": "gha",
+    "meaning_id": "ga berhembus gha",
+    "meaning_en": "aspirated gha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/15_gha.png",
+    "tts_id": {
+      "s1": "Huruf gha, bunyinya ga berhembus gha.",
+      "s2": "Bayangkan gelombang bertingkat menyambung ke tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, gha."
+    },
+    "tts_en": {
+      "s1": "Letter gha, sounding like aspirated gha.",
+      "s2": "Picture terraced wave meeting a straight post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, gha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঘ (gha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating terraced wave meeting a straight post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_16",
+    "glyph": "ঙ",
+    "reading": "nga",
+    "meaning_id": "bunyi sengau nga",
+    "meaning_en": "velar nasal nga",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/16_nga.png",
+    "tts_id": {
+      "s1": "Huruf nga, bunyinya bunyi sengau nga.",
+      "s2": "Bayangkan lengkung angka tiga bertopi tanpa ekor.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nga."
+    },
+    "tts_en": {
+      "s1": "Letter nga, sounding like velar nasal nga.",
+      "s2": "Picture curled three open at top.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঙ (nga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curled three open at top in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_17",
+    "glyph": "চ",
+    "reading": "cha",
+    "meaning_id": "ca lembut",
+    "meaning_en": "ch as in chair",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/17_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya ca lembut.",
+      "s2": "Bayangkan tiang tegak dengan perut bulat di kanan bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like ch as in chair.",
+      "s2": "Picture upright stem with lower right loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character চ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upright stem with lower right loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_18",
+    "glyph": "ছ",
+    "reading": "chha",
+    "meaning_id": "ca berhembus chha",
+    "meaning_en": "aspirated chha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/18_chha.png",
+    "tts_id": {
+      "s1": "Huruf chha, bunyinya ca berhembus chha.",
+      "s2": "Bayangkan perut ganda bersambung ke tiang atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chha."
+    },
+    "tts_en": {
+      "s1": "Letter chha, sounding like aspirated chha.",
+      "s2": "Picture double lower loop linked upward.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ছ (chha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double lower loop linked upward in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_19",
+    "glyph": "জ",
+    "reading": "ja",
+    "meaning_id": "ja bersih",
+    "meaning_en": "j as in jam",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/19_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, bunyinya ja bersih.",
+      "s2": "Bayangkan gelombang turun berbelok ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Letter ja, sounding like j as in jam.",
+      "s2": "Picture sweeping loop extending right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character জ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sweeping loop extending right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_20",
+    "glyph": "ঝ",
+    "reading": "jha",
+    "meaning_id": "ja berhembus jha",
+    "meaning_en": "aspirated jha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/20_jha.png",
+    "tts_id": {
+      "s1": "Huruf jha, bunyinya ja berhembus jha.",
+      "s2": "Bayangkan segitiga bersayap berlanjut ke tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, jha."
+    },
+    "tts_en": {
+      "s1": "Letter jha, sounding like aspirated jha.",
+      "s2": "Picture winged triangle linked to a right post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, jha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঝ (jha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating winged triangle linked to a right post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_21",
+    "glyph": "ঞ",
+    "reading": "nya",
+    "meaning_id": "sengau nya",
+    "meaning_en": "palatal nya",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/21_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, bunyinya sengau nya.",
+      "s2": "Bayangkan lengkung S dengan ekor kecil di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Letter nya, sounding like palatal nya.",
+      "s2": "Picture S loop with a right wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঞ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating S loop with a right wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_22",
+    "glyph": "ট",
+    "reading": "tta",
+    "meaning_id": "ta lidah ke atas",
+    "meaning_en": "retroflex ta",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/22_tta.png",
+    "tts_id": {
+      "s1": "Huruf tta, bunyinya ta lidah ke atas.",
+      "s2": "Bayangkan kail bulat menggantung di bawah matra bertopi.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tta."
+    },
+    "tts_en": {
+      "s1": "Letter tta, sounding like retroflex ta.",
+      "s2": "Picture round bowl hanging under a wave plume.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ট (tta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round bowl hanging under a wave plume in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_23",
+    "glyph": "ঠ",
+    "reading": "ttha",
+    "meaning_id": "ta retrofleks berhembus",
+    "meaning_en": "aspirated retroflex tha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/23_ttha.png",
+    "tts_id": {
+      "s1": "Huruf ttha, bunyinya ta retrofleks berhembus.",
+      "s2": "Bayangkan lingkaran menggantung di bawah matra dan ombak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ttha."
+    },
+    "tts_en": {
+      "s1": "Letter ttha, sounding like aspirated retroflex tha.",
+      "s2": "Picture round loop suspended under a wave.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ttha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঠ (ttha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round loop suspended under a wave in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_24",
+    "glyph": "ড",
+    "reading": "dda",
+    "meaning_id": "da lidah ke atas",
+    "meaning_en": "retroflex da",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/24_dda.png",
+    "tts_id": {
+      "s1": "Huruf dda, bunyinya da lidah ke atas.",
+      "s2": "Bayangkan lengkung S lembut tergantung di matra.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dda."
+    },
+    "tts_en": {
+      "s1": "Letter dda, sounding like retroflex da.",
+      "s2": "Picture soft S curve hanging from the bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dda."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ড (dda) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating soft S curve hanging from the bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_25",
+    "glyph": "ঢ",
+    "reading": "ddha",
+    "meaning_id": "da retrofleks berhembus",
+    "meaning_en": "aspirated retroflex dha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/25_ddha.png",
+    "tts_id": {
+      "s1": "Huruf ddha, bunyinya da retrofleks berhembus.",
+      "s2": "Bayangkan kail tunggal berlekuk di bawah matra.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ddha."
+    },
+    "tts_en": {
+      "s1": "Letter ddha, sounding like aspirated retroflex dha.",
+      "s2": "Picture single curved hook under the bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ddha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঢ (ddha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating single curved hook under the bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_26",
+    "glyph": "ণ",
+    "reading": "nna",
+    "meaning_id": "na retrofleks",
+    "meaning_en": "retroflex na",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/26_nna.png",
+    "tts_id": {
+      "s1": "Huruf nna, bunyinya na retrofleks.",
+      "s2": "Bayangkan dua lengkung berombak sebelum tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nna."
+    },
+    "tts_en": {
+      "s1": "Letter nna, sounding like retroflex na.",
+      "s2": "Picture twin curling waves before a pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nna."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ণ (nna) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin curling waves before a pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_27",
+    "glyph": "ত",
+    "reading": "ta",
+    "meaning_id": "ta lembut gigi",
+    "meaning_en": "soft dental ta",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/27_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, bunyinya ta lembut gigi.",
+      "s2": "Bayangkan lengkung bundar berpusat di bawah matra.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Letter ta, sounding like soft dental ta.",
+      "s2": "Picture round curl resting under the matra.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ত (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating round curl resting under the matra in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_28",
+    "glyph": "থ",
+    "reading": "tha",
+    "meaning_id": "ta gigi berhembus",
+    "meaning_en": "aspirated dental tha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/28_tha.png",
+    "tts_id": {
+      "s1": "Huruf tha, bunyinya ta gigi berhembus.",
+      "s2": "Bayangkan simpul bulat terbuka menuju tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tha."
+    },
+    "tts_en": {
+      "s1": "Letter tha, sounding like aspirated dental tha.",
+      "s2": "Picture open round knot joining a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character থ (tha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating open round knot joining a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_29",
+    "glyph": "দ",
+    "reading": "da",
+    "meaning_id": "da lembut gigi",
+    "meaning_en": "soft dental da",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/29_da.png",
+    "tts_id": {
+      "s1": "Huruf da, bunyinya da lembut gigi.",
+      "s2": "Bayangkan tiang pendek berbelok ke bawah kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Letter da, sounding like soft dental da.",
+      "s2": "Picture short stem stepping down right.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character দ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating short stem stepping down right in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_30",
+    "glyph": "ধ",
+    "reading": "dha",
+    "meaning_id": "da gigi berhembus",
+    "meaning_en": "aspirated dental dha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/30_dha.png",
+    "tts_id": {
+      "s1": "Huruf dha, bunyinya da gigi berhembus.",
+      "s2": "Bayangkan lengkung setengah atap bertemu tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, dha."
+    },
+    "tts_en": {
+      "s1": "Letter dha, sounding like aspirated dental dha.",
+      "s2": "Picture half covered sweep meeting a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, dha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ধ (dha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating half covered sweep meeting a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_31",
+    "glyph": "ন",
+    "reading": "na",
+    "meaning_id": "na bersih",
+    "meaning_en": "clean na",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/31_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya na bersih.",
+      "s2": "Bayangkan simpul kecil menempel di kiri tiang tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like clean na.",
+      "s2": "Picture small knot touching a straight pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ন (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small knot touching a straight pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_32",
+    "glyph": "প",
+    "reading": "pa",
+    "meaning_id": "konsonan pa",
+    "meaning_en": "clean pa",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/32_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, bunyinya konsonan pa.",
+      "s2": "Bayangkan gelombang kiri naik menuju tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Letter pa, sounding like clean pa.",
+      "s2": "Picture left wave rising into a right pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character প (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating left wave rising into a right pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_33",
+    "glyph": "ফ",
+    "reading": "pha",
+    "meaning_id": "pa berhembus pha",
+    "meaning_en": "aspirated pha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/33_pha.png",
+    "tts_id": {
+      "s1": "Huruf pha, bunyinya pa berhembus pha.",
+      "s2": "Bayangkan mangkuk segitiga dengan lingkaran kecil di kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pha."
+    },
+    "tts_en": {
+      "s1": "Letter pha, sounding like aspirated pha.",
+      "s2": "Picture pointed bowl with a small right loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ফ (pha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pointed bowl with a small right loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_34",
+    "glyph": "ব",
+    "reading": "ba",
+    "meaning_id": "ba atau va",
+    "meaning_en": "voiced ba",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/34_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, bunyinya ba atau va.",
+      "s2": "Bayangkan segitiga bersih menggantung di kiri tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Letter ba, sounding like voiced ba.",
+      "s2": "Picture clean triangle left of a straight post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ব (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean triangle left of a straight post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_35",
+    "glyph": "ভ",
+    "reading": "bha",
+    "meaning_id": "ba berhembus bha",
+    "meaning_en": "aspirated bha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/35_bha.png",
+    "tts_id": {
+      "s1": "Huruf bha, bunyinya ba berhembus bha.",
+      "s2": "Bayangkan lengkung spiral tertutup di bawah matra.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, bha."
+    },
+    "tts_en": {
+      "s1": "Letter bha, sounding like aspirated bha.",
+      "s2": "Picture closed spiral loop under the bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, bha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ভ (bha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating closed spiral loop under the bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_36",
+    "glyph": "ম",
+    "reading": "ma",
+    "meaning_id": "ma bersih",
+    "meaning_en": "m as in mother",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/36_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, bunyinya ma bersih.",
+      "s2": "Bayangkan simpul kecil turun membelok ke tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Letter ma, sounding like m as in mother.",
+      "s2": "Picture small drop loop curving into a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ম (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small drop loop curving into a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_37",
+    "glyph": "য",
+    "reading": "ja",
+    "meaning_id": "bunyi ja atau ya",
+    "meaning_en": "ja or ya",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/37_ja2.png",
+    "tts_id": {
+      "s1": "Huruf ja, bunyinya bunyi ja atau ya.",
+      "s2": "Bayangkan gelombang mangkuk rata di kiri tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Letter ja, sounding like ja or ya.",
+      "s2": "Picture bowl wave left of a tall post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character য (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bowl wave left of a tall post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_38",
+    "glyph": "র",
+    "reading": "ra",
+    "meaning_id": "ra bergetar",
+    "meaning_en": "rolled ra",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/38_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, bunyinya ra bergetar.",
+      "s2": "Bayangkan segitiga ba bertitik satu di bawahnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Letter ra, sounding like rolled ra.",
+      "s2": "Picture ba triangle with one dot underneath.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character র (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ba triangle with one dot underneath in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_39",
+    "glyph": "ল",
+    "reading": "la",
+    "meaning_id": "la bersih",
+    "meaning_en": "clear la",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/39_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya la bersih.",
+      "s2": "Bayangkan dua bukit lembut tersambung ke tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like clear la.",
+      "s2": "Picture twin gentle hills joined to a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ল (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin gentle hills joined to a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_40",
+    "glyph": "শ",
+    "reading": "sha",
+    "meaning_id": "sy lembut",
+    "meaning_en": "soft sh",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/40_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, bunyinya sy lembut.",
+      "s2": "Bayangkan dua simpul atas bertemu tiang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Letter sha, sounding like soft sh.",
+      "s2": "Picture two upper loops meeting a right post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character শ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating two upper loops meeting a right post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_41",
+    "glyph": "ষ",
+    "reading": "ssha",
+    "meaning_id": "sy retrofleks",
+    "meaning_en": "retroflex sh",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/41_ssha.png",
+    "tts_id": {
+      "s1": "Huruf ssha, bunyinya sy retrofleks.",
+      "s2": "Bayangkan mangkuk pa dibelah garis miring dalam.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ssha."
+    },
+    "tts_en": {
+      "s1": "Letter ssha, sounding like retroflex sh.",
+      "s2": "Picture pa wave crossed diagonally.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ssha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ষ (ssha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating pa wave crossed diagonally in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_42",
+    "glyph": "স",
+    "reading": "sa",
+    "meaning_id": "sa bersih",
+    "meaning_en": "s or sh",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/42_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, bunyinya sa bersih.",
+      "s2": "Bayangkan simpul tangga turun menyambung ke tiang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Letter sa, sounding like s or sh.",
+      "s2": "Picture stepped drop bridging to a post.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character স (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating stepped drop bridging to a post in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_43",
+    "glyph": "হ",
+    "reading": "ha",
+    "meaning_id": "ha berhembus",
+    "meaning_en": "breathy ha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/43_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, bunyinya ha berhembus.",
+      "s2": "Bayangkan simpul angka tiga berbalik ke bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Letter ha, sounding like breathy ha.",
+      "s2": "Picture top knot swooping down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character হ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating top knot swooping down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_44",
+    "glyph": "ড়",
+    "reading": "rra",
+    "meaning_id": "r sentak lidah atas",
+    "meaning_en": "retroflex flap rra",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/44_rra.png",
+    "tts_id": {
+      "s1": "Huruf rra, bunyinya r sentak lidah atas.",
+      "s2": "Bayangkan huruf dda dengan titik di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rra."
+    },
+    "tts_en": {
+      "s1": "Letter rra, sounding like retroflex flap rra.",
+      "s2": "Picture dda curve with a dot underneath.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, rra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ড় (rra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating dda curve with a dot underneath in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_45",
+    "glyph": "ঢ়",
+    "reading": "rrha",
+    "meaning_id": "r sentak berhembus",
+    "meaning_en": "aspirated flap rrha",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/45_rrha.png",
+    "tts_id": {
+      "s1": "Huruf rrha, bunyinya r sentak berhembus.",
+      "s2": "Bayangkan huruf ddha dengan titik di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, rrha."
+    },
+    "tts_en": {
+      "s1": "Letter rrha, sounding like aspirated flap rrha.",
+      "s2": "Picture ddha hook with a dot underneath.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, rrha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঢ় (rrha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ddha hook with a dot underneath in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_46",
+    "glyph": "য়",
+    "reading": "yya",
+    "meaning_id": "y lembut pengisi vokal",
+    "meaning_en": "gliding ya",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/46_yya.png",
+    "tts_id": {
+      "s1": "Huruf yya, bunyinya y lembut pengisi vokal.",
+      "s2": "Bayangkan huruf ja dengan titik di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, yya."
+    },
+    "tts_en": {
+      "s1": "Letter yya, sounding like gliding ya.",
+      "s2": "Picture ja curve with a dot underneath.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, yya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character য় (yya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ja curve with a dot underneath in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_47",
+    "glyph": "ৎ",
+    "reading": "khanda ta",
+    "meaning_id": "konsonan t mati",
+    "meaning_en": "vowelless final t",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/47_khanda_ta.png",
+    "tts_id": {
+      "s1": "Huruf khanda ta, bunyinya konsonan t mati.",
+      "s2": "Bayangkan lengkung telinga kecil mandiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, khanda ta."
+    },
+    "tts_en": {
+      "s1": "Letter khanda ta, sounding like vowelless final t.",
+      "s2": "Picture standalone curled ear mark.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, khanda ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ৎ (khanda ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating standalone curled ear mark in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_48",
+    "glyph": "ং",
+    "reading": "anusvara",
+    "meaning_id": "dengung ng akhir",
+    "meaning_en": "final ng nasal",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/48_anusvara.png",
+    "tts_id": {
+      "s1": "Huruf anusvara, bunyinya dengung ng akhir.",
+      "s2": "Bayangkan lingkaran kecil di atas tanda garis.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, anusvara."
+    },
+    "tts_en": {
+      "s1": "Letter anusvara, sounding like final ng nasal.",
+      "s2": "Picture small ring perched above a stem.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, anusvara."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ং (anusvara) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating small ring perched above a stem in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_49",
+    "glyph": "ঃ",
+    "reading": "visarga",
+    "meaning_id": "hembusan h pendek",
+    "meaning_en": "short breathy h",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/49_visarga.png",
+    "tts_id": {
+      "s1": "Huruf visarga, bunyinya hembusan h pendek.",
+      "s2": "Bayangkan dua lingkaran kecil bertumpuk vertikal.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, visarga."
+    },
+    "tts_en": {
+      "s1": "Letter visarga, sounding like short breathy h.",
+      "s2": "Picture twin vertically stacked tiny rings.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, visarga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঃ (visarga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin vertically stacked tiny rings in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "bengali_50",
+    "glyph": "ঁ",
+    "reading": "chandrabindu",
+    "meaning_id": "vokal sengau",
+    "meaning_en": "nasalized vowel mark",
+    "voice_target": "bn-BD-NabanitaNeural",
+    "template_path": "templates_bengali/50_chandrabindu.png",
+    "tts_id": {
+      "s1": "Huruf chandrabindu, bunyinya vokal sengau.",
+      "s2": "Bayangkan bulan sabit dengan titik di dalamnya.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, chandrabindu."
+    },
+    "tts_en": {
+      "s1": "Letter chandrabindu, sounding like nasalized vowel mark.",
+      "s2": "Picture crescent holding a single dot.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, chandrabindu."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of bengali character ঁ (chandrabindu) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crescent holding a single dot in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

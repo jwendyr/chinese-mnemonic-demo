@@ -1,0 +1,728 @@
+[
+  {
+    "id": "amharic_01",
+    "glyph": "ሀ",
+    "reading": "ha",
+    "meaning_id": "konsonan ha pertama",
+    "meaning_en": "first ha",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/01_ha.png",
+    "tts_id": {
+      "s1": "Huruf ha, bunyinya konsonan ha pertama.",
+      "s2": "Bayangkan bentuk mangkuk terbalik sederhana.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ha."
+    },
+    "tts_en": {
+      "s1": "Letter ha, sounding like first ha.",
+      "s2": "Picture simple inverted U arch.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ሀ (ha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple inverted U arch in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_02",
+    "glyph": "ለ",
+    "reading": "la",
+    "meaning_id": "konsonan la",
+    "meaning_en": "la",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/02_la.png",
+    "tts_id": {
+      "s1": "Huruf la, bunyinya konsonan la.",
+      "s2": "Bayangkan kaki kembar melengkung seperti lambda.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, la."
+    },
+    "tts_en": {
+      "s1": "Letter la, sounding like la.",
+      "s2": "Picture twin arched legs.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, la."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ለ (la) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin arched legs in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_03",
+    "glyph": "ሐ",
+    "reading": "hha",
+    "meaning_id": "ha tenggorokan",
+    "meaning_en": "pharyngeal ha",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/03_hha.png",
+    "tts_id": {
+      "s1": "Huruf hha, bunyinya ha tenggorokan.",
+      "s2": "Bayangkan garpu tiga cabang menghadap bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, hha."
+    },
+    "tts_en": {
+      "s1": "Letter hha, sounding like pharyngeal ha.",
+      "s2": "Picture three pronged fork facing down.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, hha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ሐ (hha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three pronged fork facing down in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_04",
+    "glyph": "መ",
+    "reading": "ma",
+    "meaning_id": "konsonan ma",
+    "meaning_en": "ma",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/04_ma.png",
+    "tts_id": {
+      "s1": "Huruf ma, bunyinya konsonan ma.",
+      "s2": "Bayangkan huruf H dengan palang bundar.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ma."
+    },
+    "tts_en": {
+      "s1": "Letter ma, sounding like ma.",
+      "s2": "Picture H frame with curved loops.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ma."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character መ (ma) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating H frame with curved loops in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_05",
+    "glyph": "ሠ",
+    "reading": "sza",
+    "meaning_id": "sa klasik",
+    "meaning_en": "classical sza",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/05_sza.png",
+    "tts_id": {
+      "s1": "Huruf sza, bunyinya sa klasik.",
+      "s2": "Bayangkan kaki tiga seperti kipas terbuka.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sza."
+    },
+    "tts_en": {
+      "s1": "Letter sza, sounding like classical sza.",
+      "s2": "Picture three legged fan.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sza."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ሠ (sza) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three legged fan in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_06",
+    "glyph": "ረ",
+    "reading": "ra",
+    "meaning_id": "konsonan ra",
+    "meaning_en": "ra",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/06_ra.png",
+    "tts_id": {
+      "s1": "Huruf ra, bunyinya konsonan ra.",
+      "s2": "Bayangkan huruf L melengkung ke kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ra."
+    },
+    "tts_en": {
+      "s1": "Letter ra, sounding like ra.",
+      "s2": "Picture curved L sweep.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ra."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ረ (ra) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved L sweep in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_07",
+    "glyph": "ሰ",
+    "reading": "sa",
+    "meaning_id": "konsonan sa",
+    "meaning_en": "sa",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/07_sa.png",
+    "tts_id": {
+      "s1": "Huruf sa, bunyinya konsonan sa.",
+      "s2": "Bayangkan dua tiang beratap gelombang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sa."
+    },
+    "tts_en": {
+      "s1": "Letter sa, sounding like sa.",
+      "s2": "Picture twin pillars under a curved bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ሰ (sa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin pillars under a curved bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_08",
+    "glyph": "ሸ",
+    "reading": "sha",
+    "meaning_id": "konsonan sya",
+    "meaning_en": "sha",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/08_sha.png",
+    "tts_id": {
+      "s1": "Huruf sha, bunyinya konsonan sya.",
+      "s2": "Bayangkan huruf sa bertopi garis datar di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, sha."
+    },
+    "tts_en": {
+      "s1": "Letter sha, sounding like sha.",
+      "s2": "Picture sa topped by a flat crown.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, sha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ሸ (sha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating sa topped by a flat crown in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_09",
+    "glyph": "ቀ",
+    "reading": "qa",
+    "meaning_id": "konsonan qa dalam",
+    "meaning_en": "ejective qa",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/09_qa.png",
+    "tts_id": {
+      "s1": "Huruf qa, bunyinya konsonan qa dalam.",
+      "s2": "Bayangkan lingkaran bertangkai palang di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, qa."
+    },
+    "tts_en": {
+      "s1": "Letter qa, sounding like ejective qa.",
+      "s2": "Picture looped circle on a crossbar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, qa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ቀ (qa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating looped circle on a crossbar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_10",
+    "glyph": "በ",
+    "reading": "ba",
+    "meaning_id": "konsonan ba",
+    "meaning_en": "ba",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/10_ba.png",
+    "tts_id": {
+      "s1": "Huruf ba, bunyinya konsonan ba.",
+      "s2": "Bayangkan kaki kembar terbuka lebar di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ba."
+    },
+    "tts_en": {
+      "s1": "Letter ba, sounding like ba.",
+      "s2": "Picture wide open twin legs.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ba."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character በ (ba) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating wide open twin legs in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_11",
+    "glyph": "ተ",
+    "reading": "ta",
+    "meaning_id": "konsonan ta",
+    "meaning_en": "ta",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/11_ta.png",
+    "tts_id": {
+      "s1": "Huruf ta, bunyinya konsonan ta.",
+      "s2": "Bayangkan tiga garis bertemu membentuk palang silang.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ta."
+    },
+    "tts_en": {
+      "s1": "Letter ta, sounding like ta.",
+      "s2": "Picture balanced cross shape.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ተ (ta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating balanced cross shape in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_12",
+    "glyph": "ቸ",
+    "reading": "cha",
+    "meaning_id": "konsonan ca",
+    "meaning_en": "cha",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/12_cha.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya konsonan ca.",
+      "s2": "Bayangkan huruf ta bertopi garis kecil di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like cha.",
+      "s2": "Picture ta wearing a top hat bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ቸ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ta wearing a top hat bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_13",
+    "glyph": "ኀ",
+    "reading": "xa",
+    "meaning_id": "kha tenggorokan",
+    "meaning_en": "velar xa",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/13_xa.png",
+    "tts_id": {
+      "s1": "Huruf xa, bunyinya kha tenggorokan.",
+      "s2": "Bayangkan mangkuk berpalang kecil di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, xa."
+    },
+    "tts_en": {
+      "s1": "Letter xa, sounding like velar xa.",
+      "s2": "Picture arch under a top bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, xa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ኀ (xa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating arch under a top bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_14",
+    "glyph": "ነ",
+    "reading": "na",
+    "meaning_id": "konsonan na",
+    "meaning_en": "na",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/14_na.png",
+    "tts_id": {
+      "s1": "Huruf na, bunyinya konsonan na.",
+      "s2": "Bayangkan kail sederhana terbuka ke kiri bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, na."
+    },
+    "tts_en": {
+      "s1": "Letter na, sounding like na.",
+      "s2": "Picture simple hook open down left.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, na."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ነ (na) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating simple hook open down left in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_15",
+    "glyph": "ኘ",
+    "reading": "nya",
+    "meaning_id": "sengau nya",
+    "meaning_en": "nya",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/15_nya.png",
+    "tts_id": {
+      "s1": "Huruf nya, bunyinya sengau nya.",
+      "s2": "Bayangkan huruf na bertopi garis pendek di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, nya."
+    },
+    "tts_en": {
+      "s1": "Letter nya, sounding like nya.",
+      "s2": "Picture na crowned with a top bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, nya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ኘ (nya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating na crowned with a top bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_16",
+    "glyph": "አ",
+    "reading": "a",
+    "meaning_id": "pembawa vokal glotal a",
+    "meaning_en": "glottal a",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/16_a.png",
+    "tts_id": {
+      "s1": "Huruf a, bunyinya pembawa vokal glotal a.",
+      "s2": "Bayangkan huruf U terbalik dengan kaki melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, a."
+    },
+    "tts_en": {
+      "s1": "Letter a, sounding like glottal a.",
+      "s2": "Picture curved arch with sweeping base.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, a."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character አ (a) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating curved arch with sweeping base in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_17",
+    "glyph": "ከ",
+    "reading": "ka",
+    "meaning_id": "konsonan ka",
+    "meaning_en": "ka",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/17_ka.png",
+    "tts_id": {
+      "s1": "Huruf ka, bunyinya konsonan ka.",
+      "s2": "Bayangkan huruf ba dengan lingkaran di kaki kiri.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ka."
+    },
+    "tts_en": {
+      "s1": "Letter ka, sounding like ka.",
+      "s2": "Picture twin legs with a left loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ka."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ከ (ka) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin legs with a left loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_18",
+    "glyph": "ኸ",
+    "reading": "xa",
+    "meaning_id": "konsonan kha ringan",
+    "meaning_en": "soft kha",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/18_xa2.png",
+    "tts_id": {
+      "s1": "Huruf xa, bunyinya konsonan kha ringan.",
+      "s2": "Bayangkan huruf ka bertopi palang atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, xa."
+    },
+    "tts_en": {
+      "s1": "Letter xa, sounding like soft kha.",
+      "s2": "Picture ka wearing a flat crown bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, xa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ኸ (xa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating ka wearing a flat crown bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_19",
+    "glyph": "ወ",
+    "reading": "wa",
+    "meaning_id": "konsonan wa",
+    "meaning_en": "wa",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/19_wa.png",
+    "tts_id": {
+      "s1": "Huruf wa, bunyinya konsonan wa.",
+      "s2": "Bayangkan dua lingkaran berdampingan seperti kacamata.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, wa."
+    },
+    "tts_en": {
+      "s1": "Letter wa, sounding like wa.",
+      "s2": "Picture twin circles like eyeglasses.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, wa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ወ (wa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating twin circles like eyeglasses in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_20",
+    "glyph": "ዐ",
+    "reading": "ayin",
+    "meaning_id": "ain faringal",
+    "meaning_en": "pharyngeal ayin",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/20_ayin.png",
+    "tts_id": {
+      "s1": "Huruf ayin, bunyinya ain faringal.",
+      "s2": "Bayangkan lingkaran oval penuh bersih.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ayin."
+    },
+    "tts_en": {
+      "s1": "Letter ayin, sounding like pharyngeal ayin.",
+      "s2": "Picture clean full oval circle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ayin."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ዐ (ayin) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating clean full oval circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_21",
+    "glyph": "ዘ",
+    "reading": "za",
+    "meaning_id": "konsonan za",
+    "meaning_en": "za",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/21_za.png",
+    "tts_id": {
+      "s1": "Huruf za, bunyinya konsonan za.",
+      "s2": "Bayangkan tiang bersayap seperti kupu kupu.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, za."
+    },
+    "tts_en": {
+      "s1": "Letter za, sounding like za.",
+      "s2": "Picture winged butterfly pillar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, za."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ዘ (za) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating winged butterfly pillar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_22",
+    "glyph": "ዠ",
+    "reading": "zha",
+    "meaning_id": "konsonan zha",
+    "meaning_en": "zha",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/22_zha.png",
+    "tts_id": {
+      "s1": "Huruf zha, bunyinya konsonan zha.",
+      "s2": "Bayangkan huruf za bertopi garis atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, zha."
+    },
+    "tts_en": {
+      "s1": "Letter zha, sounding like zha.",
+      "s2": "Picture za crowned by a top bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, zha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ዠ (zha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating za crowned by a top bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_23",
+    "glyph": "የ",
+    "reading": "ya",
+    "meaning_id": "konsonan ya",
+    "meaning_en": "ya",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/23_ya.png",
+    "tts_id": {
+      "s1": "Huruf ya, bunyinya konsonan ya.",
+      "s2": "Bayangkan lingkaran bertumpu pada satu kaki tegak.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ya."
+    },
+    "tts_en": {
+      "s1": "Letter ya, sounding like ya.",
+      "s2": "Picture circle standing on one leg.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ya."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character የ (ya) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating circle standing on one leg in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_24",
+    "glyph": "ደ",
+    "reading": "da",
+    "meaning_id": "konsonan da",
+    "meaning_en": "da",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/24_da.png",
+    "tts_id": {
+      "s1": "Huruf da, bunyinya konsonan da.",
+      "s2": "Bayangkan kubah dengan perut kanan di bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, da."
+    },
+    "tts_en": {
+      "s1": "Letter da, sounding like da.",
+      "s2": "Picture dome with a right lower loop.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, da."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ደ (da) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating dome with a right lower loop in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_25",
+    "glyph": "ጀ",
+    "reading": "ja",
+    "meaning_id": "konsonan ja",
+    "meaning_en": "ja",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/25_ja.png",
+    "tts_id": {
+      "s1": "Huruf ja, bunyinya konsonan ja.",
+      "s2": "Bayangkan huruf da bertopi palang datar di atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ja."
+    },
+    "tts_en": {
+      "s1": "Letter ja, sounding like ja.",
+      "s2": "Picture da crowned by a flat bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ja."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ጀ (ja) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating da crowned by a flat bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_26",
+    "glyph": "ገ",
+    "reading": "ga",
+    "meaning_id": "konsonan ga",
+    "meaning_en": "ga",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/26_ga.png",
+    "tts_id": {
+      "s1": "Huruf ga, bunyinya konsonan ga.",
+      "s2": "Bayangkan tiang tegak dengan sayap kiri melengkung.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ga."
+    },
+    "tts_en": {
+      "s1": "Letter ga, sounding like ga.",
+      "s2": "Picture tall post with left wing.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ga."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ገ (ga) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall post with left wing in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_27",
+    "glyph": "ጠ",
+    "reading": "tta",
+    "meaning_id": "ta ejektif",
+    "meaning_en": "ejective ta",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/27_tta.png",
+    "tts_id": {
+      "s1": "Huruf tta, bunyinya ta ejektif.",
+      "s2": "Bayangkan tiga tiang melengkung berdiri bersama.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tta."
+    },
+    "tts_en": {
+      "s1": "Letter tta, sounding like ejective ta.",
+      "s2": "Picture three curved arches standing together.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tta."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ጠ (tta) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three curved arches standing together in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_28",
+    "glyph": "ጨ",
+    "reading": "cha",
+    "meaning_id": "ca ejektif",
+    "meaning_en": "ejective cha",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/28_cha_ej.png",
+    "tts_id": {
+      "s1": "Huruf cha, bunyinya ca ejektif.",
+      "s2": "Bayangkan tiga kaki bertopi garis atas.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, cha."
+    },
+    "tts_en": {
+      "s1": "Letter cha, sounding like ejective cha.",
+      "s2": "Picture three arches with top bar.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, cha."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ጨ (cha) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating three arches with top bar in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_29",
+    "glyph": "ጰ",
+    "reading": "ppa",
+    "meaning_id": "pa ejektif",
+    "meaning_en": "ejective pa",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/29_ppa.png",
+    "tts_id": {
+      "s1": "Huruf ppa, bunyinya pa ejektif.",
+      "s2": "Bayangkan palang silang bertitik kaki kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, ppa."
+    },
+    "tts_en": {
+      "s1": "Letter ppa, sounding like ejective pa.",
+      "s2": "Picture crossed post with right curl.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, ppa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ጰ (ppa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating crossed post with right curl in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_30",
+    "glyph": "ጸ",
+    "reading": "tsa",
+    "meaning_id": "ts ejektif",
+    "meaning_en": "ejective ts",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/30_tsa.png",
+    "tts_id": {
+      "s1": "Huruf tsa, bunyinya ts ejektif.",
+      "s2": "Bayangkan dua tiang tegak berjembatan atas bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tsa."
+    },
+    "tts_en": {
+      "s1": "Letter tsa, sounding like ejective ts.",
+      "s2": "Picture bridged twin pillars.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tsa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ጸ (tsa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating bridged twin pillars in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_31",
+    "glyph": "ፀ",
+    "reading": "tza",
+    "meaning_id": "ts klasik",
+    "meaning_en": "classical tz",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/31_tza.png",
+    "tts_id": {
+      "s1": "Huruf tza, bunyinya ts klasik.",
+      "s2": "Bayangkan lingkaran bertangkai ganda atas bawah.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, tza."
+    },
+    "tts_en": {
+      "s1": "Letter tza, sounding like classical tz.",
+      "s2": "Picture double stemmed circle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, tza."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ፀ (tza) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating double stemmed circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_32",
+    "glyph": "ፈ",
+    "reading": "fa",
+    "meaning_id": "konsonan fa",
+    "meaning_en": "fa",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/32_fa.png",
+    "tts_id": {
+      "s1": "Huruf fa, bunyinya konsonan fa.",
+      "s2": "Bayangkan lengkung atas bertumpu kaki kanan bulat.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, fa."
+    },
+    "tts_en": {
+      "s1": "Letter fa, sounding like fa.",
+      "s2": "Picture upper arch with right lower circle.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, fa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ፈ (fa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating upper arch with right lower circle in navy and terracotta brush ink. No extra text, no watermarks."
+  },
+  {
+    "id": "amharic_33",
+    "glyph": "ፐ",
+    "reading": "pa",
+    "meaning_id": "konsonan pa",
+    "meaning_en": "pa",
+    "voice_target": "am-ET-MekdesNeural",
+    "template_path": "templates_amharic/33_pa.png",
+    "tts_id": {
+      "s1": "Huruf pa, bunyinya konsonan pa.",
+      "s2": "Bayangkan huruf T tinggi dengan cabang kanan.",
+      "s3": "Perhatikan bentuk garis dan lengkung ciri khasnya.",
+      "s4": "Coba ucapkan bersama, pa."
+    },
+    "tts_en": {
+      "s1": "Letter pa, sounding like pa.",
+      "s2": "Picture tall T with right side stem.",
+      "s3": "Notice its signature strokes and curves.",
+      "s4": "Try saying it aloud, pa."
+    },
+    "image_prompt": "Edit this vertical 9:16 editorial template of amharic character ፐ (pa) on warm cream rice paper (#F9F5EC). Keep the exact letterform sharp and legible while gently illustrating tall T with right side stem in navy and terracotta brush ink. No extra text, no watermarks."
+  }
+]

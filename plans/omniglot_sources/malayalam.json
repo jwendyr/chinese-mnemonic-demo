@@ -1,0 +1,21 @@
+{
+  "slug": "malayalam",
+  "omniglot_url": "https://omniglot.com/writing/malayalam.htm",
+  "title": "Malayalam language and alphabet",
+  "at_a_glance": [
+    "Native name: മലയാളം (malayāḷam) [mʌlʌjaːɭʌm])",
+    "Language family: Dravidian, Southern Dravidian, Tamil-Kannada, Tamil-Kodagu, Tamil-Malayalam",
+    "Number of speakers: c. 38 million",
+    "Spoken in: India,",
+    "First written: 4th century AD"
+  ],
+  "history": [],
+  "notable_features": [
+    "Type of writing system: Abugida / Syllabic Alphabet in which all consonants have an inherent vowel. Diacritics, which can appear above, below, before or after a consonant, are used to change the inherent vowel.",
+    "When they appear at the beginning of a syllable, vowels are written as independent letters.",
+    "When certain consonants occur together, special conjunct symbols are used which combine the essential parts of each letter.",
+    "Writing direction: left to right in horizontal lines.",
+    "Used to write: Kodava, Konkani, Malayalam, Ravula"
+  ],
+  "sample_text": []
+}
